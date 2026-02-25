@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bolivia Synthetic CPI Tracker</title>
+    
+    <!-- Google Fonts: Inter for clean UI -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <!-- Moment.js adapter for Chart.js (optional, but good for dates) -->
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+
+    <!-- Custom Styles -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="background-globes">
+        <div class="globe globe-1"></div>
+        <div class="globe globe-2"></div>
+    </div>
+
+    <div class="dashboard-container">
+        <!-- Header -->
+        <header class="glass-panel">
+            <div class="header-content">
+                <h1>Bolivia Synthetic CPI</h1>
+                <p class="subtitle">Real-time inflation tracking based on Ketal supermarket data</p>
+            </div>
+            <div class="last-updated" id="last-updated">
+                Loading...
+            </div>
+        </header>
+
+        <!-- Key Metrics Cards -->
+        <section class="metrics-grid">
+            <div class="metric-card glass-panel">
+                <h3>Current CPI</h3>
+                <div class="metric-value" id="current-cpi">---</div>
+                <div class="metric-change" id="cpi-change">---</div>
+            </div>
+            <div class="metric-card glass-panel">
+                <h3>MoM Inflation</h3>
+                <div class="metric-value" id="mom-inflation">---</div>
+                <div class="metric-change" id="mom-change">---</div> <!-- e.g. "vs last month" -->
+            </div>
+            <div class="metric-card glass-panel">
+                <h3>YoY Inflation</h3>
+                <div class="metric-value" id="yoy-inflation">---</div>
+                <div class="metric-change">Estimated</div>
+            </div>
+            <div class="metric-card glass-panel">
+                <h3>Days Tracked</h3>
+                <div class="metric-value" id="days-tracked">---</div>
+                <div class="metric-change">Data points</div>
+            </div>
+        </section>
+
+        <!-- Main Chart -->
+        <section class="chart-section glass-panel">
+            <div class="chart-header">
+                <h2>Price Index Evolution</h2>
+                <div class="chart-controls">
+                    <button class="time-btn active" data-range="all">All</button>
+                    <button class="time-btn" data-range="1y">1Y</button>
+                    <button class="time-btn" data-range="6m">6M</button>
+                    <button class="time-btn" data-range="3m">3M</button>
+                </div>
+            </div>
+            <div class="chart-container">
+                <canvas id="mainChart"></canvas>
+            </div>
+        </section>
+
+        <!-- Category Breakdown -->
+        <section class="category-section glass-panel">
+            <h2>Category Breakdown</h2>
+            <div class="category-grid" id="category-grid">
+                <!-- Categories will be injected here via JS -->
+                 <div class="loading-spinner">Loading breakdown...</div>
+            </div>
+        </section>
+        
+        <footer class="glass-panel footer">
+            <p>Data Source: public GitHub repository (mauforonda/precios). Methodology: Geometric Mean of Relative Prices (Jevons Index).</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+name: Daily CPI Tracker Update
+
+on:
+  schedule:
+    # Run every day at 12:00 UTC (8:00 AM local time in Bolivia)
+    - cron: '0 12 * * *'
+  # Allow manual trigger from the GitHub Actions tab
+  workflow_dispatch:
+
+jobs:
+  update-cpi:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Ketal Tracker
+        run: python daily_tracker.py
+
+      - name: Run Fidalga Tracker
+        run: python daily_tracker_fidalga.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add tracker_results.csv tracker_results.json fidalga_tracker_results.csv fidalga_tracker_results.json
+          # Only commit if there are changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated daily CPI update" && git push)
