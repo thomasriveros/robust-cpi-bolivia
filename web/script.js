@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     // Fetch Data
     try {
-        const response = await fetch('/tracker_results.json');
+        const response = await fetch('/fidalga_tracker_results.json');
         if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
         const data = await response.json();
 

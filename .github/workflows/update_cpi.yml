@@ -26,9 +26,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run Ketal Tracker
-        run: python daily_tracker.py
-
       - name: Run Fidalga Tracker
         run: python daily_tracker_fidalga.py
 
@@ -36,6 +33,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add tracker_results.csv tracker_results.json fidalga_tracker_results.csv fidalga_tracker_results.json
+          git add fidalga_tracker_results.csv fidalga_tracker_results.json
           # Only commit if there are changes
           git diff --quiet && git diff --staged --quiet || (git commit -m "Automated daily CPI update" && git push)
