@@ -46,6 +46,13 @@ def calculate_daily_change(current_df, previous_df, id_col='id', price_col='pric
     # Filter out extreme price swings (drops > 50% or increases > 50%)
     merged = merged[(merged['relative'] >= 0.5) & (merged['relative'] <= 1.5)]
     
+    # Apply Robust Category Filter (N >= 10)
+    # Only calculate Jevons index for categories that have at least 10 matched products today.
+    # Categories with < 10 will effectively be 'carried forward' with 0% inflation today.
+    category_counts = merged.groupby(category_col).size()
+    valid_categories = category_counts[category_counts >= 10].index
+    merged = merged[merged[category_col].isin(valid_categories)]
+
     # Calculate geometric mean of relatives per category (Jevons Index)
     # Function for geometric mean: exp(mean(log(x)))
     def geometric_mean(x):
