@@ -122,13 +122,10 @@ def calculate_index(current_sub_indices, category_changes, weights_df, present_c
 
     # Handle NEW categories that appeared today but might not have a change (e.g. if no match yet? 
     # But if they are new, they certainly won't have a match).
-    # If a category is in `present_categories` but NOT in `updated_sub_indices`, it's a NEW category.
-    # We initialize it at 100.0. It will contribute to CPI from today onwards.
-    if present_categories is not None:
-        for cat in present_categories:
-            if cat not in updated_sub_indices:
-                updated_sub_indices[cat] = 100.0
-            
+    # We purposefully do not initialize categories into the index until they generate a valid 
+    # daily matched calculation (change). This prevents sparse categories (like those with only 
+    # 1 product present) from being injected at 100.0 and dragging down the total CPI.
+    
     # For categories NOT in category_changes (no matched products today),
     # we implicitly carry forward the previous index value (multiply by 1.0).
     # So `updated_sub_indices` already has the correct values for them.
