@@ -42,6 +42,10 @@ def calculate_daily_change(current_df, previous_df, id_col='id', price_col='pric
     
     merged['relative'] = merged['price_cur'] / merged['price_prev']
     
+    # Apply Outlier Cap
+    # Filter out extreme price swings (drops > 50% or increases > 50%)
+    merged = merged[(merged['relative'] >= 0.5) & (merged['relative'] <= 1.5)]
+    
     # Calculate geometric mean of relatives per category (Jevons Index)
     # Function for geometric mean: exp(mean(log(x)))
     def geometric_mean(x):
