@@ -8031,7 +8031,7 @@
         },
         {
             "date": "2026-02-27",
-            "data_source": "Forward Fill",
+            "data_source": "2026_02.csv",
             "cpi": 108.53306211025244,
             "sub_indices": {
                 "Alimentos y Bebidas No Alcoh\u00f3licas": 115.83516254287014,
