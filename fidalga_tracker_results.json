@@ -9454,6 +9454,37 @@
                 "Educaci\u00f3n",
                 "Bienes y Servicios Diversos"
             ]
+        },
+        {
+            "date": "2026-04-14",
+            "data_source": "2026_04.csv",
+            "cpi": 107.59028559618655,
+            "sub_indices": {
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 115.07801508978928,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 113.23898885465655,
+                "Prendas de Vestir y Calzado": 100.0,
+                "Vivienda y Servicios B\u00e1sicos": 100.0,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 115.41738505910502,
+                "Salud": 100.0,
+                "Transporte": 100.0,
+                "Comunicaciones": 100.0,
+                "Recreaci\u00f3n y Cultura": 100.0,
+                "Educaci\u00f3n": 100.0,
+                "Bienes y Servicios Diversos": 104.65421771165792
+            },
+            "active_categories": [
+                "Alimentos y Bebidas No Alcoh\u00f3licas",
+                "Bebidas Alcoh\u00f3licas y Tabaco",
+                "Prendas de Vestir y Calzado",
+                "Vivienda y Servicios B\u00e1sicos",
+                "Muebles, Bienes y Servicios Dom\u00e9sticos",
+                "Salud",
+                "Transporte",
+                "Comunicaciones",
+                "Recreaci\u00f3n y Cultura",
+                "Educaci\u00f3n",
+                "Bienes y Servicios Diversos"
+            ]
         }
     ]
 }
