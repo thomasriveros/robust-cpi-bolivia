@@ -43,14 +43,15 @@ def calculate_daily_change(current_df, previous_df, id_col='id', price_col='pric
     merged['relative'] = merged['price_cur'] / merged['price_prev']
     
     # Apply Outlier Cap
-    # Filter out extreme price swings (drops > 50% or increases > 50%)
-    merged = merged[(merged['relative'] >= 0.5) & (merged['relative'] <= 1.5)]
+    # Filter out extreme price swings (drops > 50%)
+    # Upper bound set to 2.2x to safely permit 50% off sales reverting back to normal pricing
+    merged = merged[(merged['relative'] >= 0.5) & (merged['relative'] <= 2.2)]
     
-    # Apply Robust Category Filter (N >= 10)
-    # Only calculate Jevons index for categories that have at least 10 matched products today.
-    # Categories with < 10 will effectively be 'carried forward' with 0% inflation today.
+    # Apply Robust Category Filter (N >= 30)
+    # Only calculate Jevons index for categories that have at least 30 matched products today.
+    # Categories with < 30 will effectively be 'carried forward' with 0% inflation today.
     category_counts = merged.groupby(category_col).size()
-    valid_categories = category_counts[category_counts >= 10].index
+    valid_categories = category_counts[category_counts >= 30].index
     merged = merged[merged[category_col].isin(valid_categories)]
 
     # Calculate geometric mean of relatives per category (Jevons Index)

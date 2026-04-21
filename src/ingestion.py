@@ -10,6 +10,9 @@ KETAL_RAW_DATA_DIR = "data/raw"
 FIDALGA_GITHUB_API_URL = "https://api.github.com/repos/mauforonda/precios/contents/data/fidalga/precios"
 FIDALGA_RAW_DATA_DIR = "data/fidalga"
 
+HIPERMAXI_GITHUB_API_URL = "https://api.github.com/repos/mauforonda/precios/contents/data/hipermaxi/la_paz"
+HIPERMAXI_RAW_DATA_DIR = "data/hipermaxi"
+
 def fetch_latest_file(repo_url=KETAL_GITHUB_API_URL, output_dir=KETAL_RAW_DATA_DIR):
     """
     Fetches the list of files from the GitHub repository, identifies the latest CSV,
