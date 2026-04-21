@@ -1,3 +1,6 @@
 pandas
 requests
 numpy
+google-generativeai
+python-dotenv
+pydantic

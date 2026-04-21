@@ -6,6 +6,14 @@ import os
 DEFAULT_MAPPING_FILE = "Joined_Ketal_Data.csv"
 WEIGHTS_FILE = "govt weights and cats.csv"
 
+CORE_CATEGORIES = [
+    "Alimentos y Bebidas No Alcohólicas",
+    "Bienes y Servicios Diversos",
+    "Muebles, Bienes y Servicios Domésticos",
+    "Bebidas Alcohólicas y Tabaco",
+    "Prendas de Vestir y Calzado"
+]
+
 def normalize_id(val):
     """
     Normalizes a product ID to a string.
@@ -124,6 +132,9 @@ def load_weights(weights_file=WEIGHTS_FILE):
     if df['Weight'].sum() > 1.5:
         df['Weight'] = df['Weight'] / 100.0
 
+    # Apply Core Basket Filter
+    df = df[df['Category'].isin(CORE_CATEGORIES)].copy()
+
     return df
 
 def normalize_category(cat):
@@ -216,4 +227,46 @@ def map_products(daily_df, mapping_dict):
     
     mapped_df = daily_df.dropna(subset=['Category']).copy()
     
+    # Filter to only keep core categories
+    mapped_df = mapped_df[mapped_df['Category'].isin(CORE_CATEGORIES)].copy()
+    
     return mapped_df
+
+def append_new_mappings(new_mappings_list, mapping_file=DEFAULT_MAPPING_FILE):
+    """
+    Appends AI-generated mappings to the main mapping CSV so they are cached for future runs.
+    new_mappings_list is a list of dicts: [{"id": "123", "name": "...", "category": "...", "confidence": "high"}]
+    """
+    if not new_mappings_list:
+        return
+        
+    df_new = pd.DataFrame(new_mappings_list)
+    
+    # Ketal file uses 'id', 'Product Name' (not present but maybe we can just append Name), 'Official' or 'Category'
+    # Fidalga uses 'Product ID', 'Category'
+    # Hipermaxi might use 'id_producto', but the main CSV uses Product ID / Category based on the head command we ran.
+    # The header of Final_Complete_Categories.csv is: Product ID,Product Name,Category,Confidence,Flag
+    
+    # So we format our new df to match the header 'Product ID,Product Name,Category,Confidence,Flag'
+    df_new = df_new.rename(columns={
+        "id": "Product ID",
+        "name": "Product Name",
+        "category": "Category",
+        "confidence": "Confidence"
+    })
+    
+    if "Flag" not in df_new.columns:
+        df_new["Flag"] = "AI_Auto"
+        
+    # Ensure it only has these columns
+    columns_order = ["Product ID", "Product Name", "Category", "Confidence", "Flag"]
+    for col in columns_order:
+        if col not in df_new.columns:
+            df_new[col] = ""
+            
+    df_new = df_new[columns_order]
+    
+    # Append to the file
+    df_new.to_csv(mapping_file, mode='a', header=False, index=False)
+    print(f"Appended {len(df_new)} new products to {mapping_file}")
+

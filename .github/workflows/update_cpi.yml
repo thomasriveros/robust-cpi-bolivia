@@ -28,11 +28,18 @@ jobs:
 
       - name: Run Fidalga Tracker
         run: python daily_tracker_fidalga.py
+        
+      - name: Run Hipermaxi Tracker
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python daily_tracker_hipermaxi.py
 
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add fidalga_tracker_results.csv fidalga_tracker_results.json
+          git add Hipermaxi/hipermaxi_tracker_results.csv Hipermaxi/hipermaxi_tracker_results.json
+          git add Final_Complete_Categories.csv
           # Only commit if there are changes
           git diff --quiet && git diff --staged --quiet || (git commit -m "Automated daily CPI update" && git push)
