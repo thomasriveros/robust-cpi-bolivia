@@ -15,7 +15,7 @@ def get_product_name(pid):
     global _PRODUCT_NAMES_DF
     if _PRODUCT_NAMES_DF is None:
         try:
-            url = "https://raw.githubusercontent.com/mauforonda/precios/master/data/hipermaxi/la_paz/productos.csv"
+            url = "https://raw.githubusercontent.com/mauforonda/precios/refs/heads/master/data/hipermaxi/productos.csv"
             res = requests.get(url, timeout=10)
             if res.status_code == 200:
                 _PRODUCT_NAMES_DF = pd.read_csv(StringIO(res.text))
