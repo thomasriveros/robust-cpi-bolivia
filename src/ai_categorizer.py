@@ -80,7 +80,7 @@ def categorize_new_products(products_list):
     
     # We use Gemini 1.5 Flash as it's extremely fast and cheap for this kind of text classification
     model = genai.GenerativeModel(
-        model_name="gemini-1.5-flash",
+        model_name="gemini-1.5-flash-latest",
         system_instruction="You are an expert Bolivian statistician responsible for creating the Consumer Price Index (CPI). Your task is to accurately categorize a list of supermarket products into their official INE (Instituto Nacional de Estadística) categories based on the provided methodology and CCIF (Classification of Individual Consumption According to Purpose) documents.",
         generation_config={"response_mime_type": "application/json"}
     )
