@@ -10561,11 +10561,11 @@
         {
             "date": "2026-02-04",
             "data_source": "2026_02.csv",
-            "cpi": 132.54277914533333,
+            "cpi": 132.54275380809167,
             "sub_indices": {
                 "Alimentos y Bebidas No Alcoh\u00f3licas": 131.2276010899875,
                 "Bebidas Alcoh\u00f3licas y Tabaco": 131.37021993466405,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 128.14742258097257,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 128.14715970709076,
                 "Bienes y Servicios Diversos": 139.47443184480122,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
@@ -10580,11 +10580,11 @@
         {
             "date": "2026-02-05",
             "data_source": "2026_02.csv",
-            "cpi": 132.5415063000886,
+            "cpi": 132.54022090684515,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 131.2256432485333,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 131.22370507899922,
                 "Bebidas Alcoh\u00f3licas y Tabaco": 131.37021993466405,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 128.14742258097257,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 128.14715970709076,
                 "Bienes y Servicios Diversos": 139.47443184480122,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
@@ -10599,12 +10599,12 @@
         {
             "date": "2026-02-06",
             "data_source": "2026_02.csv",
-            "cpi": 132.18680593631427,
+            "cpi": 132.1857319573116,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.74025969395362,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.73847952712595,
                 "Bebidas Alcoh\u00f3licas y Tabaco": 130.66739697674737,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 127.85513591079402,
-                "Bienes y Servicios Diversos": 139.46471896852037,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 127.85598232161996,
+                "Bienes y Servicios Diversos": 139.46473378551286,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
             "active_categories": [
@@ -10618,12 +10618,12 @@
         {
             "date": "2026-02-07",
             "data_source": "2026_02.csv",
-            "cpi": 131.94431519657542,
+            "cpi": 131.94435799611588,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.7707126443789,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.76890435036444,
                 "Bebidas Alcoh\u00f3licas y Tabaco": 130.66739697674737,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 126.62740406106059,
-                "Bienes y Servicios Diversos": 138.2619929137803,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 126.63280715743427,
+                "Bienes y Servicios Diversos": 138.26782166962064,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
             "active_categories": [
@@ -10637,12 +10637,12 @@
         {
             "date": "2026-02-08",
             "data_source": "2026_02.csv",
-            "cpi": 131.93656525880755,
+            "cpi": 131.9366255579354,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.7703263928816,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.68743636808986,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 126.6025446565289,
-                "Bienes y Servicios Diversos": 138.21702398857215,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.7685185669856,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.68735968088822,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 126.60805558218827,
+                "Bienes y Servicios Diversos": 138.22291851383167,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
             "active_categories": [
@@ -10656,12 +10656,12 @@
         {
             "date": "2026-02-09",
             "data_source": "2026_02.csv",
-            "cpi": 131.93445896850372,
+            "cpi": 131.93452463296413,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.76708657838842,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.68743636808986,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 126.6025446565289,
-                "Bienes y Servicios Diversos": 138.21702398857215,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.76528700523994,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.68735968088822,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 126.60805558218827,
+                "Bienes y Servicios Diversos": 138.22291851383167,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
             "active_categories": [
@@ -10675,12 +10675,12 @@
         {
             "date": "2026-02-10",
             "data_source": "2026_02.csv",
-            "cpi": 131.91136311040307,
+            "cpi": 131.93166077297897,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.77222151969855,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.68743636808986,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 126.37906721846043,
-                "Bienes y Servicios Diversos": 138.17613288278935,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.77040803706433,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.68735968088822,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 126.59439073818724,
+                "Bienes y Servicios Diversos": 138.1821789705926,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
             "active_categories": [
@@ -10694,12 +10694,12 @@
         {
             "date": "2026-02-11",
             "data_source": "2026_02.csv",
-            "cpi": 131.85178890985802,
+            "cpi": 131.87365457591392,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.68078066523677,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.67840099433312,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 126.37906721846043,
-                "Bienes y Servicios Diversos": 138.17613288278935,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.6813780383087,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.67837029237083,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 126.59439073818724,
+                "Bienes y Servicios Diversos": 138.1821789705926,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
             "active_categories": [
@@ -10713,12 +10713,12 @@
         {
             "date": "2026-02-12",
             "data_source": "2026_02.csv",
-            "cpi": 131.73019447187838,
+            "cpi": 131.7524492448748,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.65099438786837,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.67840099433312,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 125.89969029142519,
-                "Bienes y Servicios Diversos": 137.7080494130539,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.65169039274178,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.67837029237083,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 126.11601482267506,
+                "Bienes y Servicios Diversos": 137.71600461682667,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
             "active_categories": [
@@ -10732,12 +10732,12 @@
         {
             "date": "2026-02-13",
             "data_source": "2026_02.csv",
-            "cpi": 131.7258323116473,
+            "cpi": 131.7481064364118,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.65099438786837,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.67840099433312,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 125.89969029142519,
-                "Bienes y Servicios Diversos": 137.67160370876587,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.65169039274178,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.67837029237083,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 126.11601482267506,
+                "Bienes y Servicios Diversos": 137.67972059591986,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
             "active_categories": [
@@ -10751,12 +10751,12 @@
         {
             "date": "2026-02-14",
             "data_source": "2026_02.csv",
-            "cpi": 131.58506810634069,
+            "cpi": 131.6078791139032,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.45367122575232,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.54785543821671,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 125.78911412317171,
-                "Bienes y Servicios Diversos": 137.67160370876587,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.4551322536201,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.54865269021872,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 126.00572884758176,
+                "Bienes y Servicios Diversos": 137.67972059591986,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
             "active_categories": [
@@ -10770,12 +10770,12 @@
         {
             "date": "2026-02-15",
             "data_source": "2026_02.csv",
-            "cpi": 131.58399623266925,
+            "cpi": 131.6068127778963,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.45202251101946,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.54785543821671,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 125.78911412317171,
-                "Bienes y Servicios Diversos": 137.67160370876587,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.45349205670917,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.54865269021872,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 126.00572884758176,
+                "Bienes y Servicios Diversos": 137.67972059591986,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
             "active_categories": [
@@ -10789,12 +10789,12 @@
         {
             "date": "2026-02-16",
             "data_source": "2026_02.csv",
-            "cpi": 131.58399623266925,
+            "cpi": 131.6068127778963,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.45202251101946,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.54785543821671,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 125.78911412317171,
-                "Bienes y Servicios Diversos": 137.67160370876587,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.45349205670917,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.54865269021872,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 126.00572884758176,
+                "Bienes y Servicios Diversos": 137.67972059591986,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
             "active_categories": [
@@ -10808,12 +10808,12 @@
         {
             "date": "2026-02-17",
             "data_source": "2026_02.csv",
-            "cpi": 131.58399623266925,
+            "cpi": 131.6068127778963,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.45202251101946,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.54785543821671,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 125.78911412317171,
-                "Bienes y Servicios Diversos": 137.67160370876587,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.45349205670917,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.54865269021872,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 126.00572884758176,
+                "Bienes y Servicios Diversos": 137.67972059591986,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
             "active_categories": [
@@ -10827,12 +10827,12 @@
         {
             "date": "2026-02-18",
             "data_source": "2026_02.csv",
-            "cpi": 131.5861002774962,
+            "cpi": 131.60890153369292,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.45525887160673,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.54785543821671,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 125.78911412317171,
-                "Bienes y Servicios Diversos": 137.67160370876587,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.4567049002998,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.54865269021872,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 126.00572884758176,
+                "Bienes y Servicios Diversos": 137.67972059591986,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
             "active_categories": [
@@ -10846,12 +10846,12 @@
         {
             "date": "2026-02-19",
             "data_source": "2026_02.csv",
-            "cpi": 131.42387765223475,
+            "cpi": 131.44822859937835,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.2892820984921,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.5564760350555,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 125.34471183476529,
-                "Bienes y Servicios Diversos": 137.57466119912766,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.29196618703745,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.5571845785071,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 125.56657025122378,
+                "Bienes y Servicios Diversos": 137.58478842883207,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
             "active_categories": [
@@ -10865,12 +10865,12 @@
         {
             "date": "2026-02-20",
             "data_source": "2026_02.csv",
-            "cpi": 131.40212100163686,
+            "cpi": 131.4267981388554,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.27637916076714,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.5564760350555,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 125.32183748467271,
-                "Bienes y Servicios Diversos": 137.4813917958097,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.27916775624627,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.5571845785071,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 125.54396695960969,
+                "Bienes y Servicios Diversos": 137.49345839041789,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
             "active_categories": [
@@ -10884,12 +10884,12 @@
         {
             "date": "2026-02-21",
             "data_source": "2026_02.csv",
-            "cpi": 131.3316397936167,
+            "cpi": 131.35721148473252,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.28637443937146,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.5564760350555,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.57685127192336,
-                "Bienes y Servicios Diversos": 137.43816731846417,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.28907454116163,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.5571845785071,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.80774685385703,
+                "Bienes y Servicios Diversos": 137.45112923167946,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
             "active_categories": [
@@ -10903,12 +10903,12 @@
         {
             "date": "2026-02-22",
             "data_source": "2026_02.csv",
-            "cpi": 131.2737176919916,
+            "cpi": 131.29697918821046,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.20544263948184,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.5564760350555,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.48127994306581,
-                "Bienes y Servicios Diversos": 137.47079786447944,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.20454731988423,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.5571845785071,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.71329818504671,
+                "Bienes y Servicios Diversos": 137.48308366695653,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
             "active_categories": [
@@ -10922,12 +10922,12 @@
         {
             "date": "2026-02-23",
             "data_source": "2026_02.csv",
-            "cpi": 131.2737176919916,
+            "cpi": 131.29697918821046,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.20544263948184,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.5564760350555,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.48127994306581,
-                "Bienes y Servicios Diversos": 137.47079786447944,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.20454731988423,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.5571845785071,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.71329818504671,
+                "Bienes y Servicios Diversos": 137.48308366695653,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
             "active_categories": [
@@ -10941,12 +10941,12 @@
         {
             "date": "2026-02-24",
             "data_source": "2026_02.csv",
-            "cpi": 131.26612432682094,
+            "cpi": 131.28947654546283,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.20253174085065,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.5564760350555,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.42213298219426,
-                "Bienes y Servicios Diversos": 137.47079786447944,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.2016636980053,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.5571845785071,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.65490848582543,
+                "Bienes y Servicios Diversos": 137.48308366695653,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
             "active_categories": [
@@ -10960,12 +10960,12 @@
         {
             "date": "2026-02-25",
             "data_source": "2026_02.csv",
-            "cpi": 131.25478273820613,
+            "cpi": 131.27830086859274,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.20280888324683,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.5564760350555,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.3254994134028,
-                "Bienes y Servicios Diversos": 137.4523527093484,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.2019381884696,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.5571845785071,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.55951732548131,
+                "Bienes y Servicios Diversos": 137.46503859463672,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
             "active_categories": [
@@ -10979,12 +10979,12 @@
         {
             "date": "2026-02-26",
             "data_source": "2026_02.csv",
-            "cpi": 131.24707196655797,
+            "cpi": 131.27070018120088,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.1949730562546,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.5564760350555,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.3254994134028,
-                "Bienes y Servicios Diversos": 137.4304920192009,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.19417849845615,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.5571845785071,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.55951732548131,
+                "Bienes y Servicios Diversos": 137.4436840948716,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
             "active_categories": [
@@ -10998,12 +10998,12 @@
         {
             "date": "2026-02-27",
             "data_source": "2026_02.csv",
-            "cpi": 131.231743963231,
+            "cpi": 131.25552758511725,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.17139611282948,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.5564760350555,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.3254994134028,
-                "Bienes y Servicios Diversos": 137.4304920192009,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.1708405964577,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.5571845785071,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.55951732548131,
+                "Bienes y Servicios Diversos": 137.4436840948716,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
             "active_categories": [
@@ -11017,12 +11017,12 @@
         {
             "date": "2026-02-28",
             "data_source": "2026_02.csv",
-            "cpi": 131.1840903479135,
+            "cpi": 131.20847402322244,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.14499374270255,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.5564760350555,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.00917887798774,
-                "Bienes y Servicios Diversos": 137.4304920192009,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.14470688874394,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.5571845785071,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.24761019867505,
+                "Bienes y Servicios Diversos": 137.4436840948716,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
             "active_categories": [
@@ -11036,12 +11036,12 @@
         {
             "date": "2026-03-01",
             "data_source": "2026_03.csv",
-            "cpi": 131.1840903479135,
+            "cpi": 131.20847402322244,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.14499374270255,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.5564760350555,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.00917887798774,
-                "Bienes y Servicios Diversos": 137.4304920192009,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.14470688874394,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.5571845785071,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.24761019867505,
+                "Bienes y Servicios Diversos": 137.4436840948716,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
             "active_categories": [
@@ -11055,12 +11055,12 @@
         {
             "date": "2026-03-02",
             "data_source": "2026_03.csv",
-            "cpi": 131.3776255806681,
+            "cpi": 131.40394196231625,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.0984589882914,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.5564760350555,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 125.27992588010906,
-                "Bienes y Servicios Diversos": 138.27690936856047,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.09871752173936,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.5571845785071,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 125.56263687151034,
+                "Bienes y Servicios Diversos": 138.2676283820315,
                 "Prendas de Vestir y Calzado": 136.42599266192744
             },
             "active_categories": [
@@ -11074,12 +11074,12 @@
         {
             "date": "2026-03-03",
             "data_source": "2026_03.csv",
-            "cpi": 131.4685923568881,
+            "cpi": 131.4968087288512,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.62029548990512,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.9970776060471,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 125.27991592007874,
-                "Bienes y Servicios Diversos": 138.21271195550312,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.61667114986065,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 131.00678784327442,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 125.6108229582478,
+                "Bienes y Servicios Diversos": 138.20053488634096,
                 "Prendas de Vestir y Calzado": 134.36708934921248
             },
             "active_categories": [
@@ -11093,12 +11093,12 @@
         {
             "date": "2026-03-04",
             "data_source": "2026_03.csv",
-            "cpi": 131.37154510146314,
+            "cpi": 131.4008746744047,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.52995299471132,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.9970776060471,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 125.09817260681329,
-                "Bienes y Servicios Diversos": 138.15820071998877,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.52741635300814,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 131.00678784327442,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 125.43148820385461,
+                "Bienes y Servicios Diversos": 138.14747665358186,
                 "Prendas de Vestir y Calzado": 134.2480105170004
             },
             "active_categories": [
@@ -11112,12 +11112,12 @@
         {
             "date": "2026-03-05",
             "data_source": "2026_03.csv",
-            "cpi": 131.3463104178271,
+            "cpi": 131.37671053049132,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.48811802406462,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.9970776060471,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 125.11854239340198,
-                "Bienes y Servicios Diversos": 138.15820071998877,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.48726710899163,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 131.00678784327442,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 125.45159450304254,
+                "Bienes y Servicios Diversos": 138.14747665358186,
                 "Prendas de Vestir y Calzado": 134.2480105170004
             },
             "active_categories": [
@@ -11131,12 +11131,12 @@
         {
             "date": "2026-03-06",
             "data_source": "2026_03.csv",
-            "cpi": 130.696576931623,
+            "cpi": 130.73522885571666,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.03613443428475,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.2346251409859,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.80412656887148,
-                "Bienes y Servicios Diversos": 137.34641656347503,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 130.0408952961394,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.26328738841664,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.1541782179326,
+                "Bienes y Servicios Diversos": 137.35825545395664,
                 "Prendas de Vestir y Calzado": 133.2350787010212
             },
             "active_categories": [
@@ -11150,12 +11150,12 @@
         {
             "date": "2026-03-07",
             "data_source": "2026_03.csv",
-            "cpi": 130.58812349682145,
+            "cpi": 130.62816409233304,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.86931554456802,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.2346251409859,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.80412656887148,
-                "Bienes y Servicios Diversos": 137.34641656347503,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.87621240722848,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.26328738841664,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.1541782179326,
+                "Bienes y Servicios Diversos": 137.35825545395664,
                 "Prendas de Vestir y Calzado": 133.2350787010212
             },
             "active_categories": [
@@ -11169,12 +11169,12 @@
         {
             "date": "2026-03-08",
             "data_source": "2026_03.csv",
-            "cpi": 130.58526280848818,
+            "cpi": 130.6253556444961,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.8669394484954,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.140297277209,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.80412656887148,
-                "Bienes y Servicios Diversos": 137.34641656347503,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.87386657823652,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.17129370365015,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.1541782179326,
+                "Bienes y Servicios Diversos": 137.35825545395664,
                 "Prendas de Vestir y Calzado": 133.2350787010212
             },
             "active_categories": [
@@ -11188,12 +11188,12 @@
         {
             "date": "2026-03-09",
             "data_source": "2026_03.csv",
-            "cpi": 130.58062603182634,
+            "cpi": 130.62084355388544,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.86594857822715,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.140297277209,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.80412656887148,
-                "Bienes y Servicios Diversos": 137.31305864531237,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.87288900518072,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.17129370365015,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.1541782179326,
+                "Bienes y Servicios Diversos": 137.3258670559829,
                 "Prendas de Vestir y Calzado": 133.2350787010212
             },
             "active_categories": [
@@ -11207,12 +11207,12 @@
         {
             "date": "2026-03-10",
             "data_source": "2026_03.csv",
-            "cpi": 130.58653336593215,
+            "cpi": 130.6261166593922,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.90336559959843,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.140297277209,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.61303488942387,
-                "Bienes y Servicios Diversos": 137.31305864531237,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.90978007967658,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.17129370365015,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.96005396304625,
+                "Bienes y Servicios Diversos": 137.3258670559829,
                 "Prendas de Vestir y Calzado": 133.2350787010212
             },
             "active_categories": [
@@ -11226,12 +11226,12 @@
         {
             "date": "2026-03-11",
             "data_source": "2026_03.csv",
-            "cpi": 130.58810762150264,
+            "cpi": 130.62772082170235,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.9084631031129,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.44127492449115,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.5514222401886,
-                "Bienes y Servicios Diversos": 137.31305864531237,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.91480829831877,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.4711564530994,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.89938029404814,
+                "Bienes y Servicios Diversos": 137.3258670559829,
                 "Prendas de Vestir y Calzado": 133.2350787010212
             },
             "active_categories": [
@@ -11245,12 +11245,12 @@
         {
             "date": "2026-03-12",
             "data_source": "Forward Fill",
-            "cpi": 130.58810762150264,
+            "cpi": 130.62772082170235,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.9084631031129,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.44127492449115,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.5514222401886,
-                "Bienes y Servicios Diversos": 137.31305864531237,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.91480829831877,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.4711564530994,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.89938029404814,
+                "Bienes y Servicios Diversos": 137.3258670559829,
                 "Prendas de Vestir y Calzado": 133.2350787010212
             },
             "active_categories": [
@@ -11264,12 +11264,12 @@
         {
             "date": "2026-03-13",
             "data_source": "2026_03.csv",
-            "cpi": 130.5679482015392,
+            "cpi": 130.60766024485258,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.861542973868,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 130.44127492449115,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.52455810306697,
-                "Bienes y Servicios Diversos": 137.42112119401935,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.86856119734563,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 130.4711564530994,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.87292934212337,
+                "Bienes y Servicios Diversos": 137.4307669514703,
                 "Prendas de Vestir y Calzado": 133.2350787010212
             },
             "active_categories": [
@@ -11283,12 +11283,12 @@
         {
             "date": "2026-03-14",
             "data_source": "2026_03.csv",
-            "cpi": 130.461354267319,
+            "cpi": 130.50289268778377,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.7858932499933,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.56104367845913,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.0994371319332,
-                "Bienes y Servicios Diversos": 137.38639123461456,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.79399522130404,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.61794278506213,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.45423286616669,
+                "Bienes y Servicios Diversos": 137.3970869222322,
                 "Prendas de Vestir y Calzado": 133.2350787010212
             },
             "active_categories": [
@@ -11302,12 +11302,12 @@
         {
             "date": "2026-03-15",
             "data_source": "2026_03.csv",
-            "cpi": 130.4787278091015,
+            "cpi": 130.52000064305193,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.81261656176216,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.56104367845913,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.0994371319332,
-                "Bienes y Servicios Diversos": 137.38639123461456,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.82031001814178,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.61794278506213,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.45423286616669,
+                "Bienes y Servicios Diversos": 137.3970869222322,
                 "Prendas de Vestir y Calzado": 133.2350787010212
             },
             "active_categories": [
@@ -11321,12 +11321,12 @@
         {
             "date": "2026-03-16",
             "data_source": "2026_03.csv",
-            "cpi": 130.44465833975823,
+            "cpi": 130.48361887375222,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.7602122182807,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.56104367845913,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.0994371319332,
-                "Bienes y Servicios Diversos": 137.38639123461456,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.76434898406654,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.61794278506213,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.45423286616669,
+                "Bienes y Servicios Diversos": 137.3970869222322,
                 "Prendas de Vestir y Calzado": 133.2350787010212
             },
             "active_categories": [
@@ -11340,12 +11340,12 @@
         {
             "date": "2026-03-17",
             "data_source": "2026_03.csv",
-            "cpi": 130.13416946826845,
+            "cpi": 130.17808486387915,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.28241908334022,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.57088282656488,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.0994371319332,
-                "Bienes y Servicios Diversos": 137.38639123461456,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.29418391364953,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.6274702793908,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.45423286616669,
+                "Bienes y Servicios Diversos": 137.3970869222322,
                 "Prendas de Vestir y Calzado": 133.2350787010212
             },
             "active_categories": [
@@ -11359,12 +11359,12 @@
         {
             "date": "2026-03-18",
             "data_source": "2026_03.csv",
-            "cpi": 130.07607180901113,
+            "cpi": 130.10928955270717,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.23767509854275,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.57088282656488,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.20150842255971,
-                "Bienes y Servicios Diversos": 137.0618292509831,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.23143957787357,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.6274702793908,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.5544949917083,
+                "Bienes y Servicios Diversos": 137.0823774200005,
                 "Prendas de Vestir y Calzado": 133.2350787010212
             },
             "active_categories": [
@@ -11378,12 +11378,12 @@
         {
             "date": "2026-03-19",
             "data_source": "2026_03.csv",
-            "cpi": 130.00753769674327,
+            "cpi": 130.0419000160332,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.14117775390696,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.57088282656488,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.15634553944037,
-                "Bienes y Servicios Diversos": 137.04975171866855,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.13651578085316,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.6274702793908,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.51013881814599,
+                "Bienes y Servicios Diversos": 137.0706659600893,
                 "Prendas de Vestir y Calzado": 133.2350787010212
             },
             "active_categories": [
@@ -11397,12 +11397,12 @@
         {
             "date": "2026-03-20",
             "data_source": "2026_03.csv",
-            "cpi": 129.96792543875054,
+            "cpi": 130.00297652768256,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.09437323970837,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.57088282656488,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.06106789027955,
-                "Bienes y Servicios Diversos": 137.04975171866855,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.09051940129382,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.6274702793908,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.4165562327136,
+                "Bienes y Servicios Diversos": 137.0706659600893,
                 "Prendas de Vestir y Calzado": 133.2350787010212
             },
             "active_categories": [
@@ -11416,12 +11416,12 @@
         {
             "date": "2026-03-21",
             "data_source": "2026_03.csv",
-            "cpi": 129.9770410364237,
+            "cpi": 130.0119204247735,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.10327823013722,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.57088282656488,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.09557746984143,
-                "Bienes y Servicios Diversos": 137.04975171866855,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.0992513514958,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.6274702793908,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.45045158644947,
+                "Bienes y Servicios Diversos": 137.0706659600893,
                 "Prendas de Vestir y Calzado": 133.2350787010212
             },
             "active_categories": [
@@ -11435,12 +11435,12 @@
         {
             "date": "2026-03-22",
             "data_source": "2026_03.csv",
-            "cpi": 129.9770410364237,
+            "cpi": 130.0119204247735,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.10327823013722,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.57088282656488,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.09557746984143,
-                "Bienes y Servicios Diversos": 137.04975171866855,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.0992513514958,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.6274702793908,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.45045158644947,
+                "Bienes y Servicios Diversos": 137.0706659600893,
                 "Prendas de Vestir y Calzado": 133.2350787010212
             },
             "active_categories": [
@@ -11454,12 +11454,12 @@
         {
             "date": "2026-03-23",
             "data_source": "2026_03.csv",
-            "cpi": 129.9770410364237,
+            "cpi": 130.0119204247735,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.10327823013722,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.57088282656488,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.09557746984143,
-                "Bienes y Servicios Diversos": 137.04975171866855,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.0992513514958,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.6274702793908,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.45045158644947,
+                "Bienes y Servicios Diversos": 137.0706659600893,
                 "Prendas de Vestir y Calzado": 133.2350787010212
             },
             "active_categories": [
@@ -11473,12 +11473,12 @@
         {
             "date": "2026-03-24",
             "data_source": "2026_03.csv",
-            "cpi": 129.95712532394086,
+            "cpi": 129.99242403313914,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.0726446494638,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.57088282656488,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.09557746984143,
-                "Bienes y Servicios Diversos": 137.04975171866855,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.0692627539758,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.6274702793908,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.45045158644947,
+                "Bienes y Servicios Diversos": 137.0706659600893,
                 "Prendas de Vestir y Calzado": 133.2350787010212
             },
             "active_categories": [
@@ -11492,12 +11492,12 @@
         {
             "date": "2026-03-25",
             "data_source": "2026_03.csv",
-            "cpi": 129.93840782732488,
+            "cpi": 129.98265352612384,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.09189592369535,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.58789065678587,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.00984362616073,
-                "Bienes y Servicios Diversos": 136.85585773670974,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.10079915176735,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.6439398828629,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.36625672889059,
+                "Bienes y Servicios Diversos": 136.8836169835256,
                 "Prendas de Vestir y Calzado": 133.2350787010212
             },
             "active_categories": [
@@ -11511,12 +11511,12 @@
         {
             "date": "2026-03-26",
             "data_source": "2026_03.csv",
-            "cpi": 129.93632042201335,
+            "cpi": 129.98060970262952,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.08868515736881,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.58789065678587,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.00984362616073,
-                "Bienes y Servicios Diversos": 136.85585773670974,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.0976554213109,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.6439398828629,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.36625672889059,
+                "Bienes y Servicios Diversos": 136.8836169835256,
                 "Prendas de Vestir y Calzado": 133.2350787010212
             },
             "active_categories": [
@@ -11530,12 +11530,12 @@
         {
             "date": "2026-03-27",
             "data_source": "2026_03.csv",
-            "cpi": 129.92221266034414,
+            "cpi": 129.9669573096141,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.0825641194338,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.4074418189247,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.00984362616073,
-                "Bienes y Servicios Diversos": 136.7922684833243,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.09166114728504,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.4704087652037,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.36625672889059,
+                "Bienes y Servicios Diversos": 136.82233746166145,
                 "Prendas de Vestir y Calzado": 133.2350787010212
             },
             "active_categories": [
@@ -11549,12 +11549,12 @@
         {
             "date": "2026-03-28",
             "data_source": "2026_03.csv",
-            "cpi": 129.92221266034414,
+            "cpi": 129.9669573096141,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.0825641194338,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.4074418189247,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.00984362616073,
-                "Bienes y Servicios Diversos": 136.7922684833243,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.09166114728504,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.4704087652037,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.36625672889059,
+                "Bienes y Servicios Diversos": 136.82233746166145,
                 "Prendas de Vestir y Calzado": 133.2350787010212
             },
             "active_categories": [
@@ -11568,12 +11568,12 @@
         {
             "date": "2026-03-29",
             "data_source": "2026_03.csv",
-            "cpi": 129.42184564621215,
+            "cpi": 129.45700213251786,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 128.32314604468579,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.23664149785836,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.97763093854566,
-                "Bienes y Servicios Diversos": 136.78256535977556,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 128.31718076416095,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.30652432110537,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.33469956041489,
+                "Bienes y Servicios Diversos": 136.81300684389007,
                 "Prendas de Vestir y Calzado": 133.2350787010212
             },
             "active_categories": [
@@ -11587,12 +11587,12 @@
         {
             "date": "2026-03-30",
             "data_source": "2026_03.csv",
-            "cpi": 129.42421724270457,
+            "cpi": 129.45927492074742,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 128.32314604468579,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.40664184642995,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.97763093854566,
-                "Bienes y Servicios Diversos": 136.78256535977556,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 128.31718076416095,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.46944191374305,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.33469956041489,
+                "Bienes y Servicios Diversos": 136.81300684389007,
                 "Prendas de Vestir y Calzado": 133.2350787010212
             },
             "active_categories": [
@@ -11606,12 +11606,12 @@
         {
             "date": "2026-03-31",
             "data_source": "2026_03.csv",
-            "cpi": 129.39551149922522,
+            "cpi": 129.4312741326363,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 128.28227111312455,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 128.9265657351131,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.97763093854566,
-                "Bienes y Servicios Diversos": 136.8207096806507,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 128.27723072434026,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.0096888440605,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.33469956041489,
+                "Bienes y Servicios Diversos": 136.8496484492304,
                 "Prendas de Vestir y Calzado": 133.2350787010212
             },
             "active_categories": [
@@ -11625,12 +11625,12 @@
         {
             "date": "2026-04-01",
             "data_source": "2026_04.csv",
-            "cpi": 129.73613281342625,
+            "cpi": 129.76341054026932,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 128.32396810186555,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.03733163360553,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.8124547352259,
-                "Bienes y Servicios Diversos": 137.52650510710055,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 128.31798627667217,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.11575006161178,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.14250396489086,
+                "Bienes y Servicios Diversos": 137.5119734683499,
                 "Prendas de Vestir y Calzado": 134.46185659088192
             },
             "active_categories": [
@@ -11644,12 +11644,12 @@
         {
             "date": "2026-04-02",
             "data_source": "2026_04.csv",
-            "cpi": 129.731354339157,
+            "cpi": 129.76012167937415,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 128.3210062901175,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.09483849738433,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.79983578617342,
-                "Bienes y Servicios Diversos": 137.50612827438482,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 128.3171540224782,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.17081570947985,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.13019458703886,
+                "Bienes y Servicios Diversos": 137.49251024271345,
                 "Prendas de Vestir y Calzado": 134.46185659088192
             },
             "active_categories": [
@@ -11663,12 +11663,12 @@
         {
             "date": "2026-04-03",
             "data_source": "2026_04.csv",
-            "cpi": 129.731354339157,
+            "cpi": 129.76012167937415,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 128.3210062901175,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.09483849738433,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.79983578617342,
-                "Bienes y Servicios Diversos": 137.50612827438482,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 128.3171540224782,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.17081570947985,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.13019458703886,
+                "Bienes y Servicios Diversos": 137.49251024271345,
                 "Prendas de Vestir y Calzado": 134.46185659088192
             },
             "active_categories": [
@@ -11682,12 +11682,12 @@
         {
             "date": "2026-04-04",
             "data_source": "2026_04.csv",
-            "cpi": 129.72681733822117,
+            "cpi": 129.75569803278736,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 128.3230672773074,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.09483849738433,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.73886290727697,
-                "Bienes y Servicios Diversos": 137.50612827438482,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 128.31916767567975,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.17081570947985,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.0707170303791,
+                "Bienes y Servicios Diversos": 137.49251024271345,
                 "Prendas de Vestir y Calzado": 134.46185659088192
             },
             "active_categories": [
@@ -11701,12 +11701,12 @@
         {
             "date": "2026-04-05",
             "data_source": "2026_04.csv",
-            "cpi": 129.66527095653996,
+            "cpi": 129.6924627382872,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 128.22839900721596,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.09483849738433,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.73886290727697,
-                "Bienes y Servicios Diversos": 137.50612827438482,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 128.22190158504162,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.17081570947985,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.0707170303791,
+                "Bienes y Servicios Diversos": 137.49251024271345,
                 "Prendas de Vestir y Calzado": 134.46185659088192
             },
             "active_categories": [
@@ -11720,12 +11720,12 @@
         {
             "date": "2026-04-06",
             "data_source": "2026_04.csv",
-            "cpi": 129.93527889003957,
+            "cpi": 129.95606083003128,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 128.63071415533418,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.70069783923398,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.73886290727697,
-                "Bienes y Servicios Diversos": 137.50612827438482,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 128.61501657525963,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.7459542076345,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.0707170303791,
+                "Bienes y Servicios Diversos": 137.49251024271345,
                 "Prendas de Vestir y Calzado": 134.46185659088192
             },
             "active_categories": [
@@ -11739,12 +11739,12 @@
         {
             "date": "2026-04-07",
             "data_source": "2026_04.csv",
-            "cpi": 129.93527889003957,
+            "cpi": 129.95606083003128,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 128.63071415533418,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.70069783923398,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.73886290727697,
-                "Bienes y Servicios Diversos": 137.50612827438482,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 128.61501657525963,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.7459542076345,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 124.0707170303791,
+                "Bienes y Servicios Diversos": 137.49251024271345,
                 "Prendas de Vestir y Calzado": 134.46185659088192
             },
             "active_categories": [
@@ -11758,12 +11758,12 @@
         {
             "date": "2026-04-08",
             "data_source": "2026_04.csv",
-            "cpi": 129.7303970137511,
+            "cpi": 129.79191081425324,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 128.34696075434348,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.6929905762296,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.6611263150531,
-                "Bienes y Servicios Diversos": 137.3991347764397,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 128.33782048709168,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.73859799606436,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.99486217130524,
+                "Bienes y Servicios Diversos": 137.68865588375184,
                 "Prendas de Vestir y Calzado": 134.46185659088192
             },
             "active_categories": [
@@ -11777,12 +11777,12 @@
         {
             "date": "2026-04-09",
             "data_source": "2026_04.csv",
-            "cpi": 129.65734458444211,
+            "cpi": 129.72103546736798,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 128.2660505578114,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.6929905762296,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.6611263150531,
-                "Bienes y Servicios Diversos": 137.22827118954845,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 128.25886568673616,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.73859799606436,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 123.99486217130524,
+                "Bienes y Servicios Diversos": 137.5253604507792,
                 "Prendas de Vestir y Calzado": 134.46185659088192
             },
             "active_categories": [
@@ -11796,12 +11796,12 @@
         {
             "date": "2026-04-10",
             "data_source": "2026_04.csv",
-            "cpi": 129.14996507019424,
+            "cpi": 129.2234246744509,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.88545456665504,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.42824977721017,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.59406005104535,
-                "Bienes y Servicios Diversos": 135.94661246463085,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.88221984205902,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.42714434815593,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.9535319430413,
+                "Bienes y Servicios Diversos": 136.2885822085282,
                 "Prendas de Vestir y Calzado": 134.46185659088192
             },
             "active_categories": [
@@ -11815,12 +11815,12 @@
         {
             "date": "2026-04-11",
             "data_source": "2026_04.csv",
-            "cpi": 129.15350078767472,
+            "cpi": 129.226889832734,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.90090735642464,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.42824977721017,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.53547281638801,
-                "Bienes y Servicios Diversos": 135.93939717150954,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.897288623599,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.42714434815593,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.89640473403294,
+                "Bienes y Servicios Diversos": 136.28168749121883,
                 "Prendas de Vestir y Calzado": 134.46185659088192
             },
             "active_categories": [
@@ -11834,12 +11834,12 @@
         {
             "date": "2026-04-12",
             "data_source": "2026_04.csv",
-            "cpi": 129.16543778996447,
+            "cpi": 129.23852948261217,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.91926839286539,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.42824977721017,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.53547281638801,
-                "Bienes y Servicios Diversos": 135.93939717150954,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.91519228403094,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.42714434815593,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.89640473403294,
+                "Bienes y Servicios Diversos": 136.28168749121883,
                 "Prendas de Vestir y Calzado": 134.46185659088192
             },
             "active_categories": [
@@ -11853,12 +11853,12 @@
         {
             "date": "2026-04-13",
             "data_source": "2026_04.csv",
-            "cpi": 129.16410342524298,
+            "cpi": 129.23725538623063,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.91926839286539,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.42824977721017,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.53547281638801,
-                "Bienes y Servicios Diversos": 135.92824859844583,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.91519228403094,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.42714434815593,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.89640473403294,
+                "Bienes y Servicios Diversos": 136.27104245813987,
                 "Prendas de Vestir y Calzado": 134.46185659088192
             },
             "active_categories": [
@@ -11872,12 +11872,12 @@
         {
             "date": "2026-04-14",
             "data_source": "2026_04.csv",
-            "cpi": 129.0616460023766,
+            "cpi": 129.13768123724182,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.78816604836325,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.44503294309453,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.51351735589995,
-                "Bienes y Servicios Diversos": 135.80006488022212,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.78739483533691,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.4431883273796,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.87497048367973,
+                "Bienes y Servicios Diversos": 136.14866333140586,
                 "Prendas de Vestir y Calzado": 134.46185659088192
             },
             "active_categories": [
@@ -11891,12 +11891,12 @@
         {
             "date": "2026-04-15",
             "data_source": "2026_04.csv",
-            "cpi": 128.95162459036732,
+            "cpi": 129.03043697102078,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.6243432875371,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.44503294309453,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.47704050588918,
-                "Bienes y Servicios Diversos": 135.80006488022212,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.62771816802747,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.4431883273796,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.83934084768248,
+                "Bienes y Servicios Diversos": 136.14866333140586,
                 "Prendas de Vestir y Calzado": 134.46185659088192
             },
             "active_categories": [
@@ -11910,12 +11910,12 @@
         {
             "date": "2026-04-16",
             "data_source": "2026_04.csv",
-            "cpi": 128.94936369737366,
+            "cpi": 129.02827651421697,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.61420026204495,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.44503294309453,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.53604950243435,
-                "Bienes y Servicios Diversos": 135.78875013140097,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.61783773770257,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.4431883273796,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.89697530751148,
+                "Bienes y Servicios Diversos": 136.1378682740124,
                 "Prendas de Vestir y Calzado": 134.46185659088192
             },
             "active_categories": [
@@ -11929,12 +11929,12 @@
         {
             "date": "2026-04-17",
             "data_source": "2026_04.csv",
-            "cpi": 128.9472164442911,
+            "cpi": 129.02680903983514,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.61212843309065,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.44503294309453,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.53604950243435,
-                "Bienes y Servicios Diversos": 135.78206363881353,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.61581908507011,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.4431883273796,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.89697530751148,
+                "Bienes y Servicios Diversos": 136.13657246744967,
                 "Prendas de Vestir y Calzado": 134.46185659088192
             },
             "active_categories": [
@@ -11948,12 +11948,12 @@
         {
             "date": "2026-04-18",
             "data_source": "2026_04.csv",
-            "cpi": 128.9473114403465,
+            "cpi": 129.0268707528229,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.61021951756368,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.44503294309453,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.53604950243435,
-                "Bienes y Servicios Diversos": 135.79322615231533,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.61396193612076,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.4431883273796,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.89697530751148,
+                "Bienes y Servicios Diversos": 136.14717571694388,
                 "Prendas de Vestir y Calzado": 134.46185659088192
             },
             "active_categories": [
@@ -11967,12 +11967,12 @@
         {
             "date": "2026-04-19",
             "data_source": "2026_04.csv",
-            "cpi": 128.94364712385254,
+            "cpi": 129.02334379293197,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.6051086100706,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.44503294309453,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.54698886286128,
-                "Bienes y Servicios Diversos": 135.7815628305213,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.60899391067551,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.4431883273796,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.90764081627921,
+                "Bienes y Servicios Diversos": 136.13610443221276,
                 "Prendas de Vestir y Calzado": 134.46185659088192
             },
             "active_categories": [
@@ -11986,12 +11986,12 @@
         {
             "date": "2026-04-20",
             "data_source": "2026_04.csv",
-            "cpi": 128.94364712385254,
+            "cpi": 129.02334379293197,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.6051086100706,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.44503294309453,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.54698886286128,
-                "Bienes y Servicios Diversos": 135.7815628305213,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.60899391067551,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.4431883273796,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.90764081627921,
+                "Bienes y Servicios Diversos": 136.13610443221276,
                 "Prendas de Vestir y Calzado": 134.46185659088192
             },
             "active_categories": [
@@ -12005,12 +12005,12 @@
         {
             "date": "2026-04-21",
             "data_source": "2026_04.csv",
-            "cpi": 128.9217687945605,
+            "cpi": 129.00208884870364,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.59143709489963,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.37392600585275,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.42250825927448,
-                "Bienes y Servicios Diversos": 135.7815628305213,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.5957238375709,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.37544796914707,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.78643281156562,
+                "Bienes y Servicios Diversos": 136.13610443221276,
                 "Prendas de Vestir y Calzado": 134.46185659088192
             },
             "active_categories": [
@@ -12024,12 +12024,12 @@
         {
             "date": "2026-04-22",
             "data_source": "2026_04.csv",
-            "cpi": 128.86834719139577,
+            "cpi": 128.95021746696895,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.50926604570111,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.37392600585275,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.42250825927448,
-                "Bienes y Servicios Diversos": 135.7815628305213,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.5159372791748,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.37544796914707,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.78643281156562,
+                "Bienes y Servicios Diversos": 136.13610443221276,
                 "Prendas de Vestir y Calzado": 134.46185659088192
             },
             "active_categories": [
@@ -12043,12 +12043,12 @@
         {
             "date": "2026-04-23",
             "data_source": "2026_04.csv",
-            "cpi": 128.83340324808992,
+            "cpi": 128.91627730874387,
             "sub_indices": {
-                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.45551662010412,
-                "Bebidas Alcoh\u00f3licas y Tabaco": 129.37392600585275,
-                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.42250825927448,
-                "Bienes y Servicios Diversos": 135.7815628305213,
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 127.46373183706712,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 129.37544796914707,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 122.78643281156562,
+                "Bienes y Servicios Diversos": 136.13610443221276,
                 "Prendas de Vestir y Calzado": 134.46185659088192
             },
             "active_categories": [
