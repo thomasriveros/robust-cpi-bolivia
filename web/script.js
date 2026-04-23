@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     // Fetch Data
     try {
         // Fetching directly from the live GitHub repository so the webpage works anywhere!
-        const response = await fetch('https://raw.githubusercontent.com/thomasriveros/robust-cpi-bolivia/main/fidalga_tracker_results.json');
+        const response = await fetch('https://raw.githubusercontent.com/thomasriveros/robust-cpi-bolivia/main/results/supermarket_2/supermarket_2_tracker_results.json');
         if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
         const data = await response.json();
 

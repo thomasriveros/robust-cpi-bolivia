@@ -38,8 +38,8 @@ def _upload_pdfs_if_needed():
         _CLIENT = genai.Client(api_key=GEMINI_API_KEY)
     
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    meth_path = os.path.join(base_dir, "DOCUMENTO-METODOLOGICO-IPC-2016.pdf")
-    ccif_path = os.path.join(base_dir, "Clasificacion del Consumo Individual por Finalidades CCIF.pdf")
+    meth_path = os.path.join(base_dir, "docs", "DOCUMENTO-METODOLOGICO-IPC-2016.pdf")
+    ccif_path = os.path.join(base_dir, "docs", "Clasificacion del Consumo Individual por Finalidades CCIF.pdf")
     
     if _METHODOLOGY_FILE is None:
         print(f"Uploading {os.path.basename(meth_path)} to Gemini Context...")

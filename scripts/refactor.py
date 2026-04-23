@@ -1,18 +1,15 @@
-import json
+import os
+
+code = '''import json
 import os
 import pandas as pd
 from datetime import datetime, timedelta
 import requests
 from io import StringIO
 from src.ingestion import fetch_all_files
-from src.mapping import load_product_mapping, load_weights, map_products, append_new_mappings, normalize_id, CORE_CATEGORIES
-try:
-    from src.ai_categorizer import categorize_new_products
-except ImportError:
-    categorize_new_products = None
+from src.mapping import load_product_mapping, load_weights, map_products, append_new_mappings, normalize_id
+from src.ai_categorizer import categorize_new_products
 from src.index import calculate_daily_change, calculate_index
-
-ENABLE_AI_CATEGORIZATION = bool(os.getenv("GEMINI_API_KEY"))
 
 _PRODUCT_NAMES_DF = None
 
@@ -64,10 +61,9 @@ def run_historical_tracker():
     print("Starting Hipermaxi National CPI Rebuild...")
     weights_df = load_weights()
     all_city_histories = {}
-    all_city_counts = {}
     
     for city in CITIES:
-        print(f"\n--- Processing City: {city.upper()} ---")
+        print(f"\\n--- Processing City: {city.upper()} ---")
         output_dir = f"Hipermaxi/{city}"
         raw_data_dir = f"data/hipermaxi/{city}"
         repo_url = f"https://api.github.com/repos/mauforonda/precios/contents/data/hipermaxi/{city}"
@@ -104,10 +100,8 @@ def run_historical_tracker():
         loaded_file_path = None
         loaded_df = None       
         last_valid_mapped_df = None 
-        last_valid_counts = {}
-        city_counts_history = {}
         
-        current_indices = {}
+        current_indices = {cat: 100.0 for cat in weights_df['Category'].unique()}
         active_cats = list(current_indices.keys())
         
         while current_date <= end_date:
@@ -140,34 +134,25 @@ def run_historical_tracker():
                 daily_df['norm_id'] = daily_df['id'].apply(normalize_id)
                 unmapped = daily_df[~daily_df['norm_id'].isin(mapping_dict.keys())]
                 
-                if ENABLE_AI_CATEGORIZATION and not unmapped.empty:
+                if not unmapped.empty:
                     unique_unmapped = unmapped.drop_duplicates(subset=['norm_id'])
-                    new_products_list = []
+                    new_products_batch = []
                     for _, row in unique_unmapped.iterrows():
                         pid = row['norm_id']
                         if pd.notna(pid):
                             pname = get_product_name(row['id'])
-                            new_products_list.append({"id": pid, "name": str(pname)})
+                            new_products_batch.append({"id": pid, "name": str(pname)})
                     
-                    if new_products_list:
-                        batch_size = 50
-                        for i in range(0, len(new_products_list), batch_size):
-                            batch = new_products_list[i:i + batch_size]
-                            ai_results = categorize_new_products(batch)
-                            if ai_results:
-                                valid_results = [item for item in ai_results if item.get("confidence") != "failed"]
-                                if valid_results:
-                                    append_new_mappings(valid_results, mapping_file=MAPPING_FILE)
-                                for item in ai_results:
-                                    mapping_dict[item["id"]] = item.get("category", "Unmapped")
+                    if new_products_batch:
+                        ai_results = categorize_new_products(new_products_batch)
+                        if ai_results:
+                            append_new_mappings(ai_results, mapping_file=MAPPING_FILE)
+                            for item in ai_results:
+                                mapping_dict[item["id"]] = item.get("category", "Unmapped")
 
                 current_mapped = map_products(daily_df, mapping_dict)
                 if 'precio' in current_mapped.columns:
                     current_mapped['price'] = current_mapped['precio']
-                
-                cat_counts = current_mapped['Category'].value_counts().to_dict()
-                cat_counts["Unmapped"] = len(unmapped)
-                last_valid_counts = cat_counts.copy()
                 
                 present_categories = current_mapped['Category'].unique().tolist()
                 
@@ -181,8 +166,6 @@ def run_historical_tracker():
                     )
                 
                 if last_valid_mapped_df is None:
-                    for cat in present_categories:
-                        current_indices[cat] = 100.0
                     from src.index import normalize_weights
                     norm_w = normalize_weights(weights_df, list(current_indices.keys()))
                     cpi = sum(current_indices[c] * w for c, w in norm_w.items())
@@ -197,7 +180,6 @@ def run_historical_tracker():
                     "active_categories": active_cats
                 })
             else:
-                cat_counts = last_valid_counts.copy()
                 from src.index import normalize_weights
                 norm_w = normalize_weights(weights_df, active_cats)
                 cpi = sum(current_indices[c] * w for c, w in norm_w.items())
@@ -209,21 +191,18 @@ def run_historical_tracker():
                     "active_categories": active_cats
                 })
             
-            city_counts_history[date_str] = cat_counts
             current_date += timedelta(days=1)
 
         state = {"history": history}
         save_tracker_state(state, output_dir)
         export_to_csv(history, output_dir)
         all_city_histories[city] = history
-        all_city_counts[city] = city_counts_history
         print(f"[{city.upper()}] Done! Saved {len(history)} days of history.")
         
     aggregate_national_cpi(all_city_histories)
-    aggregate_national_counts(all_city_counts)
 
 def aggregate_national_cpi(all_city_histories):
-    print("\n--- Aggregating National CPI ---")
+    print("\\n--- Aggregating National CPI ---")
     
     # Load Weights
     weights_path = "City Weights.csv"
@@ -285,38 +264,10 @@ def aggregate_national_cpi(all_city_histories):
     national_df.to_json(os.path.join(out_dir, "hipermaxi_tracker_results.json"), orient="records", indent=4)
     print(f"Successfully generated National CPI! Saved to {out_dir}")
 
-def aggregate_national_counts(all_city_counts):
-    print("\n--- Aggregating National N Counts ---")
-    all_dates = set()
-    for city, history in all_city_counts.items():
-        all_dates.update(history.keys())
-        
-    all_dates = sorted(list(all_dates))
-    
-    rows = []
-    for d in all_dates:
-        dt = datetime.strptime(d, "%Y-%m-%d")
-        date_str_formatted = f"{dt.month}/{dt.day}/{dt.strftime('%y')}"
-        
-        row = {"Date": date_str_formatted}
-        for cat in CORE_CATEGORIES + ["Unmapped"]:
-            row[cat] = 0
-            
-        for city in all_city_counts:
-            if d in all_city_counts[city]:
-                for cat, count in all_city_counts[city][d].items():
-                    row[cat] = row.get(cat, 0) + count
-                    
-        rows.append(row)
-        
-    df_counts = pd.DataFrame(rows)
-    cols = ["Date"] + CORE_CATEGORIES + ["Unmapped"]
-    df_counts = df_counts[[c for c in cols if c in df_counts.columns]]
-    
-    out_path = "Hipermaxi/hipermaxi_daily_n_counts.csv"
-    os.makedirs(os.path.dirname(out_path), exist_ok=True)
-    df_counts.to_csv(out_path, index=False)
-    print(f"Successfully updated counts file: {out_path}")
-
 if __name__ == "__main__":
     run_historical_tracker()
+'''
+
+with open("daily_tracker_hipermaxi.py", "w") as f:
+    f.write(code)
+

@@ -3,8 +3,8 @@ import os
 
 # Paths (adjust based on where the script is run from, typically root)
 # Default defaults for Ketal, but functions should accept overrides
-DEFAULT_MAPPING_FILE = "Joined_Ketal_Data.csv"
-WEIGHTS_FILE = "govt weights and cats.csv"
+DEFAULT_MAPPING_FILE = "mappings/Final_Complete_Categories.csv"
+WEIGHTS_FILE = "config/govt weights and cats.csv"
 
 CORE_CATEGORIES = [
     "Alimentos y Bebidas No Alcohólicas",

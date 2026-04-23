@@ -1,3 +1,6 @@
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import json
 import os
 import pandas as pd
@@ -7,8 +10,8 @@ from src.ingestion import fetch_all_files, FIDALGA_GITHUB_API_URL, FIDALGA_RAW_D
 from src.mapping import load_product_mapping, load_weights, map_products
 from src.index import calculate_daily_change, calculate_index
 
-TRACKER_FILE = "fidalga_tracker_results.json"
-CSV_FILE = "fidalga_tracker_results.csv"
+TRACKER_FILE = "results/supermarket_2/supermarket_2_tracker_results.json"
+CSV_FILE = "results/supermarket_2/supermarket_2_tracker_results.csv"
 MAPPING_FILE = "Fixed Map.csv"
 
 def save_tracker_state(state):
@@ -17,7 +20,7 @@ def save_tracker_state(state):
         json.dump(state, f, indent=4)
 
 def run_historical_tracker():
-    print("Starting Fidalga Historical CPI Rebuild...")
+    print("Starting Supermarket 2 Historical CPI Rebuild...")
     
     # 1. Fetch ALL Data
     all_files = fetch_all_files(repo_url=FIDALGA_GITHUB_API_URL, output_dir=FIDALGA_RAW_DATA_DIR)
