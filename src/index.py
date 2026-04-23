@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-def calculate_daily_change(current_df, previous_df, id_col='id', price_col='price', category_col='Category'):
+def calculate_daily_change(current_df, previous_df, id_col='id', price_col='price', category_col='Category', min_n=30):
     """
     Calculates the category-level price relative using the Matched Model approach.
     
@@ -11,6 +11,7 @@ def calculate_daily_change(current_df, previous_df, id_col='id', price_col='pric
         id_col: Column name for product ID.
         price_col: Column name for price.
         category_col: Column name for category.
+        min_n: Minimum number of matched products required for a category.
         
     Returns:
         pd.Series: A series indexed by 'Category' containing the daily geometric mean of price relatives.
@@ -43,15 +44,17 @@ def calculate_daily_change(current_df, previous_df, id_col='id', price_col='pric
     merged['relative'] = merged['price_cur'] / merged['price_prev']
     
     # Apply Outlier Cap
-    # Filter out extreme price swings (drops > 50%)
-    # Upper bound set to 2.2x to safely permit 50% off sales reverting back to normal pricing
-    merged = merged[(merged['relative'] >= 0.5) & (merged['relative'] <= 2.2)]
+    # IMPORTANT: Bounds must be perfectly symmetric reciprocals to prevent chain drift!
+    # If a price drop of X is excluded, the subsequent recovery of 1/X must also be excluded.
+    # Using 0.45 lower bound and 1/0.45 (2.222) upper bound.
+    lower_bound = 0.45
+    upper_bound = 1.0 / lower_bound
+    merged = merged[(merged['relative'] >= lower_bound) & (merged['relative'] <= upper_bound)]
     
-    # Apply Robust Category Filter (N >= 30)
-    # Only calculate Jevons index for categories that have at least 30 matched products today.
-    # Categories with < 30 will effectively be 'carried forward' with 0% inflation today.
+    # Apply Robust Category Filter
+    # Only calculate Jevons index for categories that have at least min_n matched products today.
     category_counts = merged.groupby(category_col).size()
-    valid_categories = category_counts[category_counts >= 30].index
+    valid_categories = category_counts[category_counts >= min_n].index
     merged = merged[merged[category_col].isin(valid_categories)]
 
     # Calculate geometric mean of relatives per category (Jevons Index)

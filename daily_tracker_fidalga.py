@@ -159,7 +159,8 @@ def run_historical_tracker():
                 category_changes = calculate_daily_change(
                     current_mapped, 
                     last_valid_mapped_df, 
-                    id_col='mapped_id', price_col='price', category_col='Category'
+                    id_col='mapped_id', price_col='price', category_col='Category',
+                    min_n=10
                 )
                 
                 # Update Indices
