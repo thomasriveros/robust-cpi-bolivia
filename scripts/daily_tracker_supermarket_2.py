@@ -12,7 +12,7 @@ from src.index import calculate_daily_change, calculate_index
 
 TRACKER_FILE = "results/supermarket_2/supermarket_2_tracker_results.json"
 CSV_FILE = "results/supermarket_2/supermarket_2_tracker_results.csv"
-MAPPING_FILE = "Fixed Map.csv"
+MAPPING_FILE = "mappings/Fixed Map.csv"
 
 def save_tracker_state(state):
     """Saves the tracker state to JSON."""
