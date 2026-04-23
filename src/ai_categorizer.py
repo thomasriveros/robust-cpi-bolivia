@@ -104,7 +104,7 @@ def categorize_new_products(products_list):
     # We use Gemini 1.5 Flash
     try:
         response = _CLIENT.models.generate_content(
-            model='gemini-1.5-flash',
+            model='gemini-2.5-flash',
             contents=[_METHODOLOGY_FILE, _CCIF_FILE, prompt],
             config=types.GenerateContentConfig(
                 system_instruction="You are an expert Bolivian statistician responsible for creating the Consumer Price Index (CPI). Your task is to accurately categorize a list of supermarket products into their official INE (Instituto Nacional de Estadística) categories based on the provided methodology and CCIF (Classification of Individual Consumption According to Purpose) documents.",
