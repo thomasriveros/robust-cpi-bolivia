@@ -6,8 +6,13 @@ import requests
 from io import StringIO
 from src.ingestion import fetch_all_files
 from src.mapping import load_product_mapping, load_weights, map_products, append_new_mappings, normalize_id
-from src.ai_categorizer import categorize_new_products
+try:
+    from src.ai_categorizer import categorize_new_products
+except ImportError:
+    categorize_new_products = None
 from src.index import calculate_daily_change, calculate_index
+
+ENABLE_AI_CATEGORIZATION = bool(os.getenv("GEMINI_API_KEY"))
 
 _PRODUCT_NAMES_DF = None
 
@@ -99,7 +104,7 @@ def run_historical_tracker():
         loaded_df = None       
         last_valid_mapped_df = None 
         
-        current_indices = {cat: 100.0 for cat in weights_df['Category'].unique()}
+        current_indices = {}
         active_cats = list(current_indices.keys())
         
         while current_date <= end_date:
@@ -132,21 +137,26 @@ def run_historical_tracker():
                 daily_df['norm_id'] = daily_df['id'].apply(normalize_id)
                 unmapped = daily_df[~daily_df['norm_id'].isin(mapping_dict.keys())]
                 
-                if not unmapped.empty:
+                if ENABLE_AI_CATEGORIZATION and not unmapped.empty:
                     unique_unmapped = unmapped.drop_duplicates(subset=['norm_id'])
-                    new_products_batch = []
+                    new_products_list = []
                     for _, row in unique_unmapped.iterrows():
                         pid = row['norm_id']
                         if pd.notna(pid):
                             pname = get_product_name(row['id'])
-                            new_products_batch.append({"id": pid, "name": str(pname)})
+                            new_products_list.append({"id": pid, "name": str(pname)})
                     
-                    if new_products_batch:
-                        ai_results = categorize_new_products(new_products_batch)
-                        if ai_results:
-                            append_new_mappings(ai_results, mapping_file=MAPPING_FILE)
-                            for item in ai_results:
-                                mapping_dict[item["id"]] = item.get("category", "Unmapped")
+                    if new_products_list:
+                        batch_size = 50
+                        for i in range(0, len(new_products_list), batch_size):
+                            batch = new_products_list[i:i + batch_size]
+                            ai_results = categorize_new_products(batch)
+                            if ai_results:
+                                valid_results = [item for item in ai_results if item.get("confidence") != "failed"]
+                                if valid_results:
+                                    append_new_mappings(valid_results, mapping_file=MAPPING_FILE)
+                                for item in ai_results:
+                                    mapping_dict[item["id"]] = item.get("category", "Unmapped")
 
                 current_mapped = map_products(daily_df, mapping_dict)
                 if 'precio' in current_mapped.columns:
@@ -164,6 +174,8 @@ def run_historical_tracker():
                     )
                 
                 if last_valid_mapped_df is None:
+                    for cat in present_categories:
+                        current_indices[cat] = 100.0
                     from src.index import normalize_weights
                     norm_w = normalize_weights(weights_df, list(current_indices.keys()))
                     cpi = sum(current_indices[c] * w for c, w in norm_w.items())

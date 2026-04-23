@@ -85,7 +85,7 @@ def run_historical_tracker():
     last_valid_mapped_df = None 
     
     # Current Indices state
-    current_indices = {cat: 100.0 for cat in weights_df['Category'].unique()}
+    current_indices = {}
     active_cats = list(current_indices.keys())
     
     while current_date <= end_date:
@@ -181,8 +181,8 @@ def run_historical_tracker():
             
             # If we didn't run calculate_index (first day), we calculate CPI manually
             if last_valid_mapped_df is None:
-                # Manual CPI calc
-                # normalize weights
+                for cat in present_categories:
+                    current_indices[cat] = 100.0
                 from src.index import normalize_weights
                 norm_w = normalize_weights(weights_df, list(current_indices.keys()))
                 cpi = sum(current_indices[c] * w for c, w in norm_w.items())
