@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 import requests
 from io import StringIO
 from src.ingestion import fetch_all_files
-from src.mapping import load_product_mapping, load_weights, map_products, append_new_mappings, normalize_id
+from src.mapping import load_product_mapping, load_weights, map_products, append_new_mappings, normalize_id, CORE_CATEGORIES
 try:
     from src.ai_categorizer import categorize_new_products
 except ImportError:
@@ -64,6 +64,7 @@ def run_historical_tracker():
     print("Starting Hipermaxi National CPI Rebuild...")
     weights_df = load_weights()
     all_city_histories = {}
+    all_city_counts = {}
     
     for city in CITIES:
         print(f"\n--- Processing City: {city.upper()} ---")
@@ -103,6 +104,8 @@ def run_historical_tracker():
         loaded_file_path = None
         loaded_df = None       
         last_valid_mapped_df = None 
+        last_valid_counts = {}
+        city_counts_history = {}
         
         current_indices = {}
         active_cats = list(current_indices.keys())
@@ -162,6 +165,10 @@ def run_historical_tracker():
                 if 'precio' in current_mapped.columns:
                     current_mapped['price'] = current_mapped['precio']
                 
+                cat_counts = current_mapped['Category'].value_counts().to_dict()
+                cat_counts["Unmapped"] = len(unmapped)
+                last_valid_counts = cat_counts.copy()
+                
                 present_categories = current_mapped['Category'].unique().tolist()
                 
                 if last_valid_mapped_df is not None:
@@ -190,6 +197,7 @@ def run_historical_tracker():
                     "active_categories": active_cats
                 })
             else:
+                cat_counts = last_valid_counts.copy()
                 from src.index import normalize_weights
                 norm_w = normalize_weights(weights_df, active_cats)
                 cpi = sum(current_indices[c] * w for c, w in norm_w.items())
@@ -201,15 +209,18 @@ def run_historical_tracker():
                     "active_categories": active_cats
                 })
             
+            city_counts_history[date_str] = cat_counts
             current_date += timedelta(days=1)
 
         state = {"history": history}
         save_tracker_state(state, output_dir)
         export_to_csv(history, output_dir)
         all_city_histories[city] = history
+        all_city_counts[city] = city_counts_history
         print(f"[{city.upper()}] Done! Saved {len(history)} days of history.")
         
     aggregate_national_cpi(all_city_histories)
+    aggregate_national_counts(all_city_counts)
 
 def aggregate_national_cpi(all_city_histories):
     print("\n--- Aggregating National CPI ---")
@@ -273,6 +284,39 @@ def aggregate_national_cpi(all_city_histories):
     national_df.to_csv(os.path.join(out_dir, "hipermaxi_tracker_results.csv"), index=False)
     national_df.to_json(os.path.join(out_dir, "hipermaxi_tracker_results.json"), orient="records", indent=4)
     print(f"Successfully generated National CPI! Saved to {out_dir}")
+
+def aggregate_national_counts(all_city_counts):
+    print("\n--- Aggregating National N Counts ---")
+    all_dates = set()
+    for city, history in all_city_counts.items():
+        all_dates.update(history.keys())
+        
+    all_dates = sorted(list(all_dates))
+    
+    rows = []
+    for d in all_dates:
+        dt = datetime.strptime(d, "%Y-%m-%d")
+        date_str_formatted = f"{dt.month}/{dt.day}/{dt.strftime('%y')}"
+        
+        row = {"Date": date_str_formatted}
+        for cat in CORE_CATEGORIES + ["Unmapped"]:
+            row[cat] = 0
+            
+        for city in all_city_counts:
+            if d in all_city_counts[city]:
+                for cat, count in all_city_counts[city][d].items():
+                    row[cat] = row.get(cat, 0) + count
+                    
+        rows.append(row)
+        
+    df_counts = pd.DataFrame(rows)
+    cols = ["Date"] + CORE_CATEGORIES + ["Unmapped"]
+    df_counts = df_counts[[c for c in cols if c in df_counts.columns]]
+    
+    out_path = "Hipermaxi/hipermaxi_daily_n_counts.csv"
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+    df_counts.to_csv(out_path, index=False)
+    print(f"Successfully updated counts file: {out_path}")
 
 if __name__ == "__main__":
     run_historical_tracker()
