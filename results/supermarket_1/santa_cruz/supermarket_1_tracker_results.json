@@ -12153,6 +12153,25 @@
                 "Bienes y Servicios Diversos",
                 "Prendas de Vestir y Calzado"
             ]
+        },
+        {
+            "date": "2026-04-29",
+            "data_source": "2026_04.csv",
+            "cpi": 124.68988521796835,
+            "sub_indices": {
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 129.03695159945727,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 127.3682921966414,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 118.42211364898745,
+                "Bienes y Servicios Diversos": 130.53536772673039,
+                "Prendas de Vestir y Calzado": 100.0
+            },
+            "active_categories": [
+                "Alimentos y Bebidas No Alcoh\u00f3licas",
+                "Bebidas Alcoh\u00f3licas y Tabaco",
+                "Muebles, Bienes y Servicios Dom\u00e9sticos",
+                "Bienes y Servicios Diversos",
+                "Prendas de Vestir y Calzado"
+            ]
         }
     ]
 }
