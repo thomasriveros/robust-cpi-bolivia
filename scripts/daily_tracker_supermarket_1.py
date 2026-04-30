@@ -122,6 +122,7 @@ def run_historical_tracker():
                 df['fecha'] = pd.to_datetime(df[time_col], errors='coerce', format='mixed').dt.date
                 df = df.dropna(subset=['fecha'])
                 df['city'] = city
+                df['data_source'] = os.path.basename(f)
                 raw_dfs.append(df)
                 
     if not raw_dfs:
@@ -234,11 +235,23 @@ def run_historical_tracker():
         c_final.index.name = 'date'
         c_final = c_final.reset_index()
         c_final['date'] = pd.to_datetime(c_final['date']).dt.strftime('%Y-%m-%d')
+        
+        city_sources = raw_prices[raw_prices['city'] == city][['fecha', 'data_source']].drop_duplicates(subset=['fecha'])
+        city_sources['date_str'] = pd.to_datetime(city_sources['fecha']).dt.strftime('%Y-%m-%d')
+        c_final = pd.merge(c_final, city_sources[['date_str', 'data_source']], left_on='date', right_on='date_str', how='left').drop(columns=['date_str'])
+        
         c_final = c_final.sort_values('date')
         
         c_final_dates = pd.date_range(start=c_final['date'].min(), end=c_final['date'].max()).strftime('%Y-%m-%d')
-        c_final = c_final.set_index('date').reindex(c_final_dates).ffill().bfill().reset_index().rename(columns={'index': 'date'})
+        c_final = c_final.set_index('date').reindex(c_final_dates)
+        c_final['data_source'] = c_final['data_source'].fillna('Forward Fill')
+        c_final = c_final.ffill().bfill().reset_index().rename(columns={'index': 'date'})
+        
+        cols = ['date', 'data_source', 'cpi'] + [c for c in c_final.columns if c not in ['date', 'data_source', 'cpi']]
+        c_final = c_final[cols]
+        
         c_final.to_csv(os.path.join(city_out_dir, "supermarket_1_tracker_results.csv"), index=False)
+        c_final.to_json(os.path.join(city_out_dir, "supermarket_1_tracker_results.json"), orient="records", indent=4)
 
     out_dir = "results/supermarket_1/national"
     os.makedirs(out_dir, exist_ok=True)
@@ -252,11 +265,21 @@ def run_historical_tracker():
     final_df = final_df.rename(columns={'national_index': 'cpi'})
     final_df = final_df.reset_index()
     final_df['date'] = pd.to_datetime(final_df['date']).dt.strftime('%Y-%m-%d')
+    
+    national_sources = raw_prices[['fecha', 'data_source']].drop_duplicates(subset=['fecha'])
+    national_sources['date_str'] = pd.to_datetime(national_sources['fecha']).dt.strftime('%Y-%m-%d')
+    final_df = pd.merge(final_df, national_sources[['date_str', 'data_source']], left_on='date', right_on='date_str', how='left').drop(columns=['date_str'])
+    
     final_df = final_df.sort_values('date')
     
     # Fill missing dates to forward fill CPI just like the old tracker format
     all_dates = pd.date_range(start=final_df['date'].min(), end=final_df['date'].max()).strftime('%Y-%m-%d')
-    final_df = final_df.set_index('date').reindex(all_dates).ffill().bfill().reset_index().rename(columns={'index': 'date'})
+    final_df = final_df.set_index('date').reindex(all_dates)
+    final_df['data_source'] = final_df['data_source'].fillna('Forward Fill')
+    final_df = final_df.ffill().bfill().reset_index().rename(columns={'index': 'date'})
+    
+    cols = ['date', 'data_source', 'cpi'] + [c for c in final_df.columns if c not in ['date', 'data_source', 'cpi']]
+    final_df = final_df[cols]
     
     csv_path = os.path.join(out_dir, "supermarket_1_tracker_results.csv")
     final_df.to_csv(csv_path, index=False)
