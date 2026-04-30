@@ -40,5 +40,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git add results/
                     git add mappings/
-          # Only commit if there are changes
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated daily CPI update" && git push)
+          # Only commit if there are staged changes
+          git diff --staged --quiet || (git commit -m "Automated daily CPI update" && git push)
