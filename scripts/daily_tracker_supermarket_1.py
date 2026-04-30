@@ -197,7 +197,7 @@ def run_historical_tracker():
     def weighted_avg(g):
         return np.sum(g['chained_index'] * g['Normalized_Weight']) / np.sum(g['Normalized_Weight'])
         
-    city_cpi = city_level.groupby(['city', 'fecha']).apply(weighted_avg).reset_index(name='city_index')
+    city_cpi = city_level.groupby(['city', 'fecha']).apply(weighted_avg, include_groups=False).reset_index(name='city_index')
 
     # 9. AGGREGATE TO NATIONAL LEVEL
     print("Aggregating National Level...")
@@ -207,7 +207,7 @@ def run_historical_tracker():
     def national_weighted_avg(g):
         return np.sum(g['city_index'] * g['Weight']) / np.sum(g['Weight'])
         
-    national_cpi = national_merged.groupby('fecha').apply(national_weighted_avg).reset_index(name='national_index')
+    national_cpi = national_merged.groupby('fecha').apply(national_weighted_avg, include_groups=False).reset_index(name='national_index')
 
     # 10. FORMAT EXPORT AND SAVE
     # Export individual city CSVs
