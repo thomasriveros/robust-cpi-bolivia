@@ -103,6 +103,13 @@ def fetch_all_files(repo_url=KETAL_GITHUB_API_URL, output_dir=KETAL_RAW_DATA_DIR
 
     except Exception as e:
         print(f"Error fetching all data: {e}")
+        # Fallback to local files if API fails
+        if os.path.exists(output_dir):
+            local_files = [f for f in os.listdir(output_dir) if f.endswith('.csv') and f[0].isdigit()]
+            local_files.sort()
+            if local_files:
+                print(f"Falling back to {len(local_files)} local files in {output_dir}")
+                return [os.path.join(output_dir, f) for f in local_files]
         return []
 
 if __name__ == "__main__":
