@@ -175,7 +175,15 @@ def run_historical_tracker():
         raw_prices['price'] = pd.to_numeric(raw_prices['precio'], errors='coerce')
         
     raw_prices['precio_prev'] = raw_prices.groupby(['city', 'norm_id'])['price'].shift(1)
+    raw_prices['fecha_prev'] = raw_prices.groupby(['city', 'norm_id'])['fecha'].shift(1)
+    
+    # Calculate gap in days and apply 40-day attrition rule
+    raw_prices['fecha_dt'] = pd.to_datetime(raw_prices['fecha'])
+    raw_prices['fecha_prev_dt'] = pd.to_datetime(raw_prices['fecha_prev'])
+    raw_prices['gap_days'] = (raw_prices['fecha_dt'] - raw_prices['fecha_prev_dt']).dt.days
+    
     raw_prices['relative_dod'] = raw_prices['price'] / raw_prices['precio_prev']
+    raw_prices.loc[raw_prices['gap_days'] > 40, 'relative_dod'] = np.nan
 
     # 6. FILTER CORE AND CLEAN
     clean_core = raw_prices[~raw_prices['norm_id'].isin(temporada_ids)]
