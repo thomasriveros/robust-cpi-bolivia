@@ -90,7 +90,7 @@ def run_historical_tracker():
             "Bienes y Servicios Diversos",
             "Muebles, Bienes y Servicios Domésticos",
             "Bebidas Alcohólicas y Tabaco",
-            "Prendas de Vestir y Calzados"
+            "Prendas de Vestir y Calzado"
         ],
         'Raw_Weight': [27.06, 7.55, 6.08, 0.88, 7.56]
     })
