@@ -89,9 +89,9 @@ def fetch_all_files(repo_url=KETAL_GITHUB_API_URL, output_dir=KETAL_RAW_DATA_DIR
             filename = file_info['name']
             local_path = os.path.join(output_dir, filename)
 
-            is_last_file = (i == len(csv_files) - 1)
+            is_recent_file = (i >= len(csv_files) - 2)
 
-            if is_last_file or not os.path.exists(local_path):
+            if is_recent_file or not os.path.exists(local_path):
                 print(f"Downloading {filename}...")
                 content = requests.get(download_url).content
                 with open(local_path, 'wb') as f:
