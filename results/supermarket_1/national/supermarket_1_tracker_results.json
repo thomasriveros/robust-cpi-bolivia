@@ -5366,5 +5366,13 @@
         "cochabamba_cpi":129.620219603,
         "la_paz_cpi":128.5564477275,
         "santa_cruz_cpi":128.3886393606
+    },
+    {
+        "date":"2026-05-31",
+        "data_source":"2026_05.csv",
+        "cpi":128.9677624176,
+        "cochabamba_cpi":130.0188202883,
+        "la_paz_cpi":128.9775573487,
+        "santa_cruz_cpi":128.4660637618
     }
 ]
