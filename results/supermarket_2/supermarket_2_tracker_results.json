@@ -6743,6 +6743,23 @@
                 "Muebles, Bienes y Servicios Dom\u00e9sticos",
                 "Bienes y Servicios Diversos"
             ]
+        },
+        {
+            "date": "2026-07-15",
+            "data_source": "2026_07.csv",
+            "cpi": 111.53267237354956,
+            "sub_indices": {
+                "Alimentos y Bebidas No Alcoh\u00f3licas": 113.90290554217495,
+                "Bebidas Alcoh\u00f3licas y Tabaco": 113.45100105299976,
+                "Muebles, Bienes y Servicios Dom\u00e9sticos": 107.52709667052478,
+                "Bienes y Servicios Diversos": 101.66015698164858
+            },
+            "active_categories": [
+                "Alimentos y Bebidas No Alcoh\u00f3licas",
+                "Bebidas Alcoh\u00f3licas y Tabaco",
+                "Muebles, Bienes y Servicios Dom\u00e9sticos",
+                "Bienes y Servicios Diversos"
+            ]
         }
     ]
 }
