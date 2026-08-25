@@ -92,7 +92,7 @@ def categorize_new_products(products_list):
     {json.dumps(CORE_CATEGORIES, ensure_ascii=False, indent=2)}
     
     Output format should be a JSON array of objects with keys: "id", "name", "category", and "confidence" (where confidence is "high", "medium", or "low").
-    If a product does to neatly fall into any core category or is an internal tracking SKU, label the category as "Unmapped".
+    If a product does not neatly fall into any core category or is an internal tracking SKU, label the category as "Unmapped".
     Ensure the "id" key in your output matches the exact "id" from the input.
 
     Products to map:
