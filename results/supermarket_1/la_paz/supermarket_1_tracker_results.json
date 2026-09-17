@@ -7798,5 +7798,15 @@
         "Bienes y Servicios Diversos":137.2048677216,
         "Muebles, Bienes y Servicios Dom\u00e9sticos":126.9380687073,
         "Prendas de Vestir y Calzado":123.5150465173
+    },
+    {
+        "date":"2026-09-17",
+        "data_source":"2026_09.csv",
+        "cpi":129.5784466981,
+        "Alimentos y Bebidas No Alcoh\u00f3licas":129.7783716951,
+        "Bebidas Alcoh\u00f3licas y Tabaco":128.3053738178,
+        "Bienes y Servicios Diversos":137.1828907443,
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":126.9692504045,
+        "Prendas de Vestir y Calzado":123.5150465173
     }
 ]
