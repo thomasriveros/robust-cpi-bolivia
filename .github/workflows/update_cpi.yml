@@ -31,11 +31,17 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/daily_tracker_supermarket_1.py
 
+      - name: Run paper analysis
+        # Failures here should not block the tracker results from being committed
+        continue-on-error: true
+        run: python analysis/paper_analysis.py
+
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add results/
-                    git add mappings/
+          git add mappings/
+          git add analysis/output/
           # Only commit if there are staged changes
           git diff --staged --quiet || (git commit -m "Automated daily CPI update" && git push)

@@ -4,3 +4,5 @@ numpy
 google-genai
 python-dotenv
 pydantic
+statsmodels
+matplotlib
