@@ -7,9 +7,6 @@ from datetime import datetime
 KETAL_GITHUB_API_URL = "https://api.github.com/repos/mauforonda/precios/contents/data/ketal"
 KETAL_RAW_DATA_DIR = "data/raw"
 
-FIDALGA_GITHUB_API_URL = "https://api.github.com/repos/mauforonda/precios/contents/data/fidalga/precios"
-FIDALGA_RAW_DATA_DIR = "data/fidalga"
-
 HIPERMAXI_GITHUB_API_URL = "https://api.github.com/repos/mauforonda/precios/contents/data/hipermaxi/la_paz"
 HIPERMAXI_RAW_DATA_DIR = "data/hipermaxi"
 

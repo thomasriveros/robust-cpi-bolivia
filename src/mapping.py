@@ -47,7 +47,7 @@ def load_product_mapping(mapping_file=DEFAULT_MAPPING_FILE):
     
     # Identify columns
     # Ketal: 'id', 'Official'
-    # Fidalga: 'Product ID', 'Category'
+    # Supermarket 1 (Final_Complete_Categories.csv): 'Product ID', 'Category'
     
     id_col = 'id'
     cat_col = 'Official'
@@ -208,7 +208,6 @@ def map_products(daily_df, mapping_dict):
         # Check for other likely candidates
         if 'cal_id' in daily_df.columns:
             id_col = 'cal_id'
-        # Fidalga might have 'product_id' or similar if we read it that way
         elif 'product_id' in daily_df.columns:
             id_col = 'product_id'
             
@@ -243,7 +242,7 @@ def append_new_mappings(new_mappings_list, mapping_file=DEFAULT_MAPPING_FILE):
     df_new = pd.DataFrame(new_mappings_list)
     
     # Ketal file uses 'id', 'Product Name' (not present but maybe we can just append Name), 'Official' or 'Category'
-    # Fidalga uses 'Product ID', 'Category'
+    # Supermarket 1 uses 'Product ID', 'Category'
     # Hipermaxi might use 'id_producto', but the main CSV uses Product ID / Category based on the head command we ran.
     # The header of Final_Complete_Categories.csv is: Product ID,Product Name,Category,Confidence,Flag
     

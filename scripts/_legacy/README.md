@@ -23,9 +23,7 @@ prices with no prior reference. This creates a permanent ratchet in the index le
 | File | Description |
 |---|---|
 | `daily_tracker_supermarket_1.py` | Hipermaxi (3-city + national aggregation) |
-| `daily_tracker_supermarket_2.py` | Fidalga (single city) |
 
 ## Output Location (unchanged)
 
 - `results/supermarket_1/` — Hipermaxi city and national results
-- `results/supermarket_2/` — Fidalga results
