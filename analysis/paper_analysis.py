@@ -56,6 +56,11 @@ CONVENTIONS = {"mid_month": 14, "start_of_month": 0}
 SYNTHETIC_MOM_DAYS = 30
 LAGS = [0, 15, 20]
 
+# Records which official month the charts were last drawn for
+CHARTS_MARKER = "charts_official_month.txt"
+CHART_FILES = ["comparison_graph.png", "correlation_matrix.png",
+               "scatter_core5_lag15.png", "scatter_overall_lag20.png"]
+
 
 # ---------------------------------------------------------------------------
 # Data loading
@@ -337,7 +342,16 @@ def write_summary(path, label, panel, mad, regs):
         f.write("\n".join(lines) + "\n")
 
 
-def run(convention, daily, monthly):
+def charts_are_current(out_dir, official_month):
+    """Charts are redrawn only when a new official month arrives, to keep repo growth small."""
+    marker = os.path.join(out_dir, CHARTS_MARKER)
+    if not os.path.exists(marker) or not all(os.path.exists(os.path.join(out_dir, f)) for f in CHART_FILES):
+        return False
+    with open(marker, encoding="utf-8") as f:
+        return f.read().strip() == official_month
+
+
+def run(convention, daily, monthly, force_charts=False):
     out_dir = os.path.join(OUTPUT_DIR, convention)
     os.makedirs(out_dir, exist_ok=True)
     label = convention.replace("_", "-") + " dating"
@@ -347,26 +361,33 @@ def run(convention, daily, monthly):
     mad = mad_table(panel)
     regs = lag_regressions(panel)
 
-    panel.to_csv(os.path.join(out_dir, "national_cpi_data.csv"), date_format="%Y-%m-%d")
-    corr.to_csv(os.path.join(out_dir, "correlation_matrix.csv"))
-    mad.to_csv(os.path.join(out_dir, "mad_table.csv"), index=False)
-    regs.to_csv(os.path.join(out_dir, "lag_regressions.csv"), index=False)
-
-    plot_comparison(panel, os.path.join(out_dir, "comparison_graph.png"), label)
-    plot_correlation_matrix(corr, os.path.join(out_dir, "correlation_matrix.png"))
-    plot_lag_scatter(panel, "Official_National_Inflation", 15,
-                     os.path.join(out_dir, "scatter_core5_lag15.png"), "Official core-5 inflation [%]")
-    plot_lag_scatter(panel, "Official_National_Overall_Inflation", 20,
-                     os.path.join(out_dir, "scatter_overall_lag20.png"), "Official overall inflation [%]")
+    # Rounded so float noise across library versions does not create daily diffs
+    panel.to_csv(os.path.join(out_dir, "national_cpi_data.csv"), date_format="%Y-%m-%d", float_format="%.6f")
+    corr.to_csv(os.path.join(out_dir, "correlation_matrix.csv"), float_format="%.6f")
+    mad.to_csv(os.path.join(out_dir, "mad_table.csv"), index=False, float_format="%.6f")
+    regs.to_csv(os.path.join(out_dir, "lag_regressions.csv"), index=False, float_format="%.6f")
     write_summary(os.path.join(out_dir, "summary.md"), label, panel, mad, regs)
+
+    official_month = f"{monthly.index.max():%Y-%m}"
+    if force_charts or not charts_are_current(out_dir, official_month):
+        plot_comparison(panel, os.path.join(out_dir, "comparison_graph.png"), label)
+        plot_correlation_matrix(corr, os.path.join(out_dir, "correlation_matrix.png"))
+        plot_lag_scatter(panel, "Official_National_Inflation", 15,
+                         os.path.join(out_dir, "scatter_core5_lag15.png"), "Official core-5 inflation [%]")
+        plot_lag_scatter(panel, "Official_National_Overall_Inflation", 20,
+                         os.path.join(out_dir, "scatter_overall_lag20.png"), "Official overall inflation [%]")
+        with open(os.path.join(out_dir, CHARTS_MARKER), "w", encoding="utf-8") as f:
+            f.write(official_month + "\n")
+        print(f"Redrew {convention} charts for official data through {official_month}")
     print(f"Wrote {convention} analysis to {out_dir}")
 
 
 def main():
+    force_charts = "--force-charts" in sys.argv
     daily = load_synthetic_daily()
     monthly = load_official_monthly()
     for convention in CONVENTIONS:
-        run(convention, daily, monthly)
+        run(convention, daily, monthly, force_charts)
 
 
 if __name__ == "__main__":

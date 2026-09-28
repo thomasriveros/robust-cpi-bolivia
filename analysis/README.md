@@ -15,6 +15,8 @@ python analysis/paper_analysis.py
 - **Figures**: the level and inflation comparison graph, plus scatterplots for the core-5 15-day lag and the overall 20-day lag.
 - **Summary** (`summary.md`): the headline tables and the dates the data runs through.
 
+The CSVs and summary are rewritten every day. The charts are redrawn only when a new month of official data arrives, which keeps the repo from growing by about 1.5 MB a day. `charts_official_month.txt` records the month they were last drawn for. To redraw them on demand, run `python analysis/paper_analysis.py --force-charts`.
+
 ## Official series
 
 Every official series is rebased to July 2024 = 100.
