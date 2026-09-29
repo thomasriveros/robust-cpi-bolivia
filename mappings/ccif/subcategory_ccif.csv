@@ -1,0 +1,190 @@
+categoria,subcategoria,ccif_class,ine_division,mixed,reference,notes,reviewed
+abarrotes,aderezos,01.1.9,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.9,,2026-09-28
+abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1,"Staples: rice, flour, sugar, oil, pasta.",2026-09-28
+abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.2.1,,2026-09-28
+abarrotes,chocol. y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.8,,2026-09-28
+abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.8,,2026-09-28
+abarrotes,comidas en conserva,01.1.9,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.2/01.1.3/01.1.9,,2026-09-28
+abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.9 / 01.1.7,,2026-09-28
+abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,yes,CCIF 01.1.9; 06.1.1,Collagen and dietary supplements -> 06.1.1 Salud.,2026-09-28
+abarrotes,frutas en conserva,01.1.6,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.6,,2026-09-28
+abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.1,,2026-09-28
+abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.8,,2026-09-28
+abarrotes,mascotas,09.3.4,Recreación y Cultura,no,INE 09340201; CCIF 09.3.4,CHANGE: 90 pet-food products currently in Diversos (core) -> Recreación (outside basket).,2026-09-28
+abarrotes,"mermel, mieles",01.1.8,Alimentos y Bebidas No Alcohólicas,yes,CCIF 01.1.8; 06.1.1,Medicinal syrups (e.g. propomiel) -> 06.1.1 Salud; throat candies stay 01.1.8.,2026-09-28
+abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.9 (alimentos para lactantes),,2026-09-28
+abarrotes,productos americanos,01.1,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1,Imported groceries (abarrotes).,2026-09-28
+abarrotes,productos importados,01.1,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1,,2026-09-28
+abarrotes,repostería,01.1.9,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.9,,2026-09-28
+abarrotes,salsas y extracto de tomate,01.1.9,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.9,,2026-09-28
+abarrotes,snack,01.1.9,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.9,,2026-09-28
+abarrotes,temporada,—,Excluido (temporada),no,Existing seasonal filter,Excluded from the index by the temporada filter.,2026-09-28
+abarrotes,verduras en conserva,01.1.7,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.7,,2026-09-28
+aseo del bebé,aseo del bebé,12.1.3,Bienes y Servicios Diversos,no,INE 12130409,,2026-09-28
+aseo del bebé,pañales,12.1.3,Bienes y Servicios Diversos,no,INE 12130407,,2026-09-28
+aseo del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",no,"INE 05610202/03/88, 05610488","Car sponges/cloths -> 07.2.1; nail brushes, bath sponges -> 12.1.3.",2026-09-28
+aseo del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",no,"INE 05610118/20, 05610112",Laundry bar soaps stay 05.6.1; stray shampoo packs -> 12.1.3.,2026-09-28
+aseo del hogar,limpieza de living y roperos,05.6.1,"Muebles, Bienes y Servicios Domésticos",no,INE 05610102,,2026-09-28
+aseo personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,yes,INE 12130303/05/10; 06.1.1,"Rubbing alcohol / chlorhexidine -> 06.1.1 Salud; laundry bar soap, bath brushes -> 05.6.1; insect repellent -> 05.6.1.",2026-09-28
+aseo personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,no,INE 12130201/04,,2026-09-28
+aseo personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,yes,INE 12130403/04/06; 05610303,"Toilet paper, tissues, sanitary pads -> 12.1.3; napkins and absorbent kitchen paper -> 05.6.1 Muebles (INE 05610303).",2026-09-28
+bazar,articulos de bebé,05.4.0,"Muebles, Bienes y Servicios Domésticos",yes,CCIF 05.4.0 (biberones); 12.3.2; 09.3.1,"Bottles, kids' tableware -> 05.4.0; pacifiers/teats -> 12.3.2 Diversos; rattles -> 09.3.1 Recreación; baby manicure -> 12.1.3.",2026-09-28
+bazar,articulos de cocina,05.4.0,"Muebles, Bienes y Servicios Domésticos",no,INE 05400xxx,Lighters -> 05.6.1 (utility) unless cigarette lighters.,2026-09-28
+bazar,automotriz,07.2.1,Transporte,no,CCIF 07.2.1 (productos para limpieza de vehículos),CHANGE: car air fresheners and car cleaners currently in Muebles -> Transporte. Phone holders -> 12.3.2.,2026-09-28
+bazar,baño general,05.4.0,"Muebles, Bienes y Servicios Domésticos",yes,CCIF 05.4.0; 12.1.3,"Bath mats, holders, organisers -> 05.x; bath sponges, shower caps, bath gloves -> 12.1.3 Diversos.",2026-09-28
+bazar,bijouteria/cuidado personal,12.1.3,Bienes y Servicios Diversos,yes,"CCIF 12.1.3 (horquillas, peines); 12.3.1 (bisutería); 12.3.2 (gafas de sol); 06.1.3","CHANGE: hair ties/clips/headbands currently in Prendas -> 12.1.3. Costume jewellery -> 12.3.1; sunglasses -> 12.3.2; reading glasses -> 06.1.3 Salud; pill boxes -> 06.1.2; sprayers/dispensers -> 05.4.0; pool floats, exercise bands -> 09.3.2.",2026-09-28
+bazar,bioseguridad,05.4.0,"Muebles, Bienes y Servicios Domésticos",yes,CCIF 05.4.0; 06.1.2,"Dispensers/sprayers -> 05.4.0; masks, face shields, protective suits -> 06.1.2 Salud.",2026-09-28
+bazar,bolsos/carteras/maletas,12.3.2,Bienes y Servicios Diversos,no,INE 12320107; CCIF 12.3.2,,2026-09-28
+bazar,camping general,05.4.0,"Muebles, Bienes y Servicios Domésticos",yes,"CCIF 05.4.0 (termos, heladeras portátiles); 09.3.2","Coolers, thermoses, heaters -> 05.x; sports bottles, camping gear -> 09.3.2 Recreación; rain ponchos -> 03.1.2.",2026-09-28
+bazar,churrasquería,05.4.0,"Muebles, Bienes y Servicios Domésticos",yes,CCIF 05.4.0; 04.5.4,Grill utensils -> 05.4.0; charcoal and firewood -> 04.5.4 Vivienda; utility lighters -> 05.6.1.,2026-09-28
+bazar,computadora/cámara/filmadora y accesorio,09.1.3,Recreación y Cultura,yes,CCIF 09.1.x,Same rules as the imported version.,2026-09-28
+bazar,cotillón,05.6.1,"Muebles, Bienes y Servicios Domésticos",yes,CCIF 05.6.1 (vajilla descartable); 09.3.1,"Disposable cups/plates/cutlery, candles -> 05.x; balloons, party decorations, cupcake liners -> 09.3.1 Recreación (cupcake moulds -> 05.4.0).",2026-09-28
+bazar,electrodoméstico cuidado personal,12.1.2,Bienes y Servicios Diversos,no,CCIF 12.1.2,,2026-09-28
+bazar,electrodoméstico reproductores sonido,09.1.1,Recreación y Cultura,no,CCIF 09.1.1,,2026-09-28
+bazar,electrodoméstico/línea blanca-hogar,05.3.2,"Muebles, Bienes y Servicios Domésticos",yes,CCIF 05.3.2; 09.1.1,Small appliances -> 05.3.2; televisions -> 09.1.1 Recreación.,2026-09-28
+bazar,ferretería,05.5.2,"Muebles, Bienes y Servicios Domésticos",yes,INE 05520305/06/88; 04.3.1,"Bulbs, batteries, tools, power strips -> 05.5.2 (CHANGE: LED bulbs currently in Vivienda). Paint/cement/repair materials, if any -> 04.3.1 Vivienda.",2026-09-28
+bazar,jardinería general,09.3.3,Recreación y Cultura,no,CCIF 09.3.3,,2026-09-28
+bazar,librería,09.5.4,Recreación y Cultura,no,INE 09540188/89,"INE puts notebooks and school supplies in 09.5.4 (Recreación), not Educación. Lunchboxes -> 05.4.0; glue -> 05.6.1.",2026-09-28
+bazar,living y dormitorio,05.1.1,"Muebles, Bienes y Servicios Domésticos",yes,CCIF 05.1.1 (incluye velas); 12.3.1,"Lamps, frames, candles, rugs -> 05.1/05.2; clocks -> 12.3.1 Diversos.",2026-09-28
+bazar,mascotas general,09.3.4,Recreación y Cultura,no,CCIF 09.3.4,"CHANGE: pet bowls, litter, pet shampoo currently in Diversos -> Recreación.",2026-09-28
+bazar,menaje metálico,05.4.0,"Muebles, Bienes y Servicios Domésticos",no,INE 05400301,,2026-09-28
+bazar,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",no,INE 05400xxx,,2026-09-28
+bazar,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",no,INE 05400105,,2026-09-28
+bazar,menaje vidrio/cristal,05.4.0,"Muebles, Bienes y Servicios Domésticos",no,INE 05400101/04,Ashtrays -> 12.3.2.,2026-09-28
+bazar,regalos/adornos,09.3.3,Recreación y Cultura,yes,CCIF 09.3.3 (flores artificiales); 05.1.1; 09.5.4; 12.3.2,"Artificial flowers/plants -> 09.3.3; ornaments, key hooks -> 05.1.1 Muebles; gift bags/boxes -> 09.5.4; keychains -> 12.3.2; board games -> 09.3.1.",2026-09-28
+bazar,telefonía y accesorios,05.5.2,"Muebles, Bienes y Servicios Domésticos",yes,"INE 05520320 (cargador), 05520323 (audífonos); 08.2.0","INE puts chargers, cables and phone headphones in 05.5.2. Phones themselves -> 08.2.0 Comunicaciones; phone cases -> 12.3.2.",2026-09-28
+bazar,temporada carnaval,—,Excluido (temporada),no,Existing seasonal filter,Excluded from the index by the temporada filter.,2026-09-28
+bazar,temporada halloween,—,Excluido (temporada),no,Existing seasonal filter,Excluded from the index by the temporada filter.,2026-09-28
+bazar,temporada navidad,—,Excluido (temporada),no,Existing seasonal filter,Excluded from the index by the temporada filter.,2026-09-28
+bazar,temporada verano,—,Excluido (temporada),no,Existing seasonal filter,Excluded from the index by the temporada filter.,2026-09-28
+bazar,temporadas restantes,—,Excluido (temporada),no,Existing seasonal filter,Excluded from the index by the temporada filter.,2026-09-28
+bazar importación,artículos para bebé,05.4.0,"Muebles, Bienes y Servicios Domésticos",yes,CCIF 05.4.0; 12.3.2; 09.3.1,Same rules as 'articulos de bebé'.,2026-09-28
+bazar importación,automotriz,07.2.1,Transporte,no,CCIF 07.2.1 (productos para limpieza de vehículos),CHANGE: car air fresheners and car cleaners currently in Muebles -> Transporte. Phone holders -> 12.3.2.,2026-09-28
+bazar importación,baño general,05.4.0,"Muebles, Bienes y Servicios Domésticos",yes,CCIF 05.4.0; 12.1.3,"Bath mats, holders, organisers -> 05.x; bath sponges, shower caps, bath gloves -> 12.1.3 Diversos.",2026-09-28
+bazar importación,bijouteria/cuidado personal,12.1.3,Bienes y Servicios Diversos,yes,"CCIF 12.1.3 (horquillas, peines); 12.3.1 (bisutería); 12.3.2 (gafas de sol); 06.1.3","CHANGE: hair ties/clips/headbands currently in Prendas -> 12.1.3. Costume jewellery -> 12.3.1; sunglasses -> 12.3.2; reading glasses -> 06.1.3 Salud; pill boxes -> 06.1.2; sprayers/dispensers -> 05.4.0; pool floats, exercise bands -> 09.3.2.",2026-09-28
+bazar importación,camping general,05.4.0,"Muebles, Bienes y Servicios Domésticos",yes,"CCIF 05.4.0 (termos, heladeras portátiles); 09.3.2","Coolers, thermoses, heaters -> 05.x; sports bottles, camping gear -> 09.3.2 Recreación; rain ponchos -> 03.1.2.",2026-09-28
+bazar importación,churrasquería,05.4.0,"Muebles, Bienes y Servicios Domésticos",yes,CCIF 05.4.0; 04.5.4,Grill utensils -> 05.4.0; charcoal and firewood -> 04.5.4 Vivienda; utility lighters -> 05.6.1.,2026-09-28
+bazar importación,cocina general,05.4.0,"Muebles, Bienes y Servicios Domésticos",no,INE 05400xxx,,2026-09-28
+bazar importación,computadoras/camaras/filma y  accesorio,09.1.3,Recreación y Cultura,yes,CCIF 09.1.1/09.1.3; INE 05520323,"Keyboards, USB adapters -> 09.1.3; wireless earbuds -> 09.1.1; phone holders -> 12.3.2; phone headphones -> 05.5.2 per INE.",2026-09-28
+bazar importación,cotillón,05.6.1,"Muebles, Bienes y Servicios Domésticos",yes,CCIF 05.6.1 (vajilla descartable); 09.3.1,"Disposable cups/plates/cutlery, candles -> 05.x; balloons, party decorations, cupcake liners -> 09.3.1 Recreación (cupcake moulds -> 05.4.0).",2026-09-28
+bazar importación,electrodomésticos cuidado personal,12.1.2,Bienes y Servicios Diversos,no,CCIF 12.1.2,,2026-09-28
+bazar importación,ferretería,05.5.2,"Muebles, Bienes y Servicios Domésticos",yes,INE 05520305/06/88; 04.3.1,"Bulbs, batteries, tools, power strips -> 05.5.2 (CHANGE: LED bulbs currently in Vivienda). Paint/cement/repair materials, if any -> 04.3.1 Vivienda.",2026-09-28
+bazar importación,jardineria general,09.3.3,Recreación y Cultura,no,CCIF 09.3.3,,2026-09-28
+bazar importación,librería,09.5.4,Recreación y Cultura,no,INE 09540188/89,"INE puts notebooks and school supplies in 09.5.4 (Recreación), not Educación. Lunchboxes -> 05.4.0; glue -> 05.6.1.",2026-09-28
+bazar importación,living y dormitorio,05.1.1,"Muebles, Bienes y Servicios Domésticos",yes,CCIF 05.1.1 (incluye velas); 12.3.1,"Lamps, frames, candles, rugs -> 05.1/05.2; clocks -> 12.3.1 Diversos.",2026-09-28
+bazar importación,mascotas general,09.3.4,Recreación y Cultura,no,CCIF 09.3.4,"CHANGE: pet bowls, litter, pet shampoo currently in Diversos -> Recreación.",2026-09-28
+bazar importación,menaje melamina,05.4.0,"Muebles, Bienes y Servicios Domésticos",no,INE 05400xxx,,2026-09-28
+bazar importación,menaje metálico,05.4.0,"Muebles, Bienes y Servicios Domésticos",no,INE 05400301,,2026-09-28
+bazar importación,menaje mimbre/madera/bambhu,05.4.0,"Muebles, Bienes y Servicios Domésticos",no,CCIF 05.4.0,,2026-09-28
+bazar importación,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",no,INE 05400xxx,,2026-09-28
+bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",no,INE 05400105,,2026-09-28
+bazar importación,menaje vidrio/cristal,05.4.0,"Muebles, Bienes y Servicios Domésticos",no,INE 05400101/04,Ashtrays -> 12.3.2.,2026-09-28
+bazar importación,mueblería general,05.1.1,"Muebles, Bienes y Servicios Domésticos",no,CCIF 05.1.1,,2026-09-28
+bazar importación,regalos/adornos,09.3.3,Recreación y Cultura,yes,CCIF 09.3.3 (flores artificiales); 05.1.1; 09.5.4; 12.3.2,"Artificial flowers/plants -> 09.3.3; ornaments, key hooks -> 05.1.1 Muebles; gift bags/boxes -> 09.5.4; keychains -> 12.3.2; board games -> 09.3.1.",2026-09-28
+bazar importación,ropa dama/junior,03.1.2,Prendas de Vestir y Calzado,no,INE 03120xxx,,2026-09-28
+bazar importación,telefonia y accesorios,05.5.2,"Muebles, Bienes y Servicios Domésticos",yes,INE 05520320/23; 08.2.0; 12.3.2,Same rules as 'telefonía y accesorios'.,2026-09-28
+bazar importación,temporada carnaval,—,Excluido (temporada),no,Existing seasonal filter,Excluded from the index by the temporada filter.,2026-09-28
+bazar importación,temporada halloween,—,Excluido (temporada),no,Existing seasonal filter,Excluded from the index by the temporada filter.,2026-09-28
+bazar importación,temporada navidad,—,Excluido (temporada),no,Existing seasonal filter,Excluded from the index by the temporada filter.,2026-09-28
+bazar importación,temporada verano,—,Excluido (temporada),no,Existing seasonal filter,Excluded from the index by the temporada filter.,2026-09-28
+bebidas,aguas,01.2.2,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.2.2,,2026-09-28
+bebidas,bebidas usa,01.2.2,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.2.2,,2026-09-28
+bebidas,bebidas varias,01.2.2,Alimentos y Bebidas No Alcohólicas,yes,CCIF 01.2.2; 02.1,"Alcoholic items (Mandala, bitter) -> 02.1 Bebidas Alcohólicas.",2026-09-28
+bebidas,cervezas,02.1.3,Bebidas Alcohólicas y Tabaco,no,CCIF 02.1.3 (incluye cerveza sin alcohol),CCIF keeps non-alcoholic beer in 02.1.3.,2026-09-28
+bebidas,cigarrillos,02.2.0,Bebidas Alcohólicas y Tabaco,yes,CCIF 02.2.0; 12.3.2,Cigarettes and vape pods -> 02.2.0; reusable vape devices -> 12.3.2 Diversos.,2026-09-28
+bebidas,energizantes,01.2.2,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.2.2,,2026-09-28
+bebidas,gaseosas,01.2.2,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.2.2,,2026-09-28
+bebidas,hielos,01.2.2,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.2.2,,2026-09-28
+bebidas,isotónicos,01.2.2,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.2.2,,2026-09-28
+bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.2.2,,2026-09-28
+bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,yes,CCIF 02.1.1; 01.2.2,"Non-alcoholic mixers/sodas (Colossus, Sparkly Ice, Flow) and cocktail spice kits -> 01 Alimentos.",2026-09-28
+bebidas,maltas,01.2.2,Alimentos y Bebidas No Alcohólicas,yes,CCIF 01.2.2; 02.1.3,Malt drinks are non-alcoholic; any alcoholic malt beer -> 02.1.3.,2026-09-28
+bebidas,refrescos en polvo,01.2.2,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.2.2,,2026-09-28
+bebidas,vinos y champagne,02.1.2,Bebidas Alcohólicas y Tabaco,no,CCIF 02.1.2,"Wine-based non-alcoholic items, if any, -> 01.2.2.",2026-09-28
+carnes,carne de pollo,01.1.2,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.2,,2026-09-28
+carnes,carne de res,01.1.2,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.2,,2026-09-28
+carnes,carnes al vacio externas,01.1.2,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.2,,2026-09-28
+carnes,carnes procesadas,01.1.2,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.2,,2026-09-28
+carnes,otras carnes,01.1.2,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.2,,2026-09-28
+congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.2,,2026-09-28
+congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.8,,2026-09-28
+congelados,masas y comidas congeladas,01.1.9,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.1/01.1.9,,2026-09-28
+congelados,pulpas y frutas congeladas,01.1.6,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.6,,2026-09-28
+cudados otc,oct salas,06.1.2,Salud,yes,CCIF 06.1.2 (preservativos); 06.1.1,CHANGE: condoms and lubricants (incl. 'Pantera' boxes) currently in Diversos -> Salud; OTC remedies -> 06.1.1.,2026-09-28
+cudados otc,otc,06.1.1,Salud,yes,CCIF 06.1.1/06.1.2; 12.1.3,Cotton wool and pads -> 12.1.3 Diversos (CCIF lists algodón there).,2026-09-28
+cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,no,INE 12130407/09,Nappy-rash ointment -> 06.1.1.,2026-09-28
+cuidado del bebé,kids,12.1.3,Bienes y Servicios Diversos,no,CCIF 12.1.3,Hand sanitiser -> 06.1.2 or 12.1.3 (keep 12.1.3).,2026-09-28
+cuidado del bebé,pañales,12.1.3,Bienes y Servicios Diversos,no,INE 12130407,,2026-09-28
+cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",no,"INE 05610202/03/88, 05610488","Car sponges/cloths -> 07.2.1; nail brushes, bath sponges -> 12.1.3.",2026-09-28
+cuidado del hogar,insecticidas,05.6.1,"Muebles, Bienes y Servicios Domésticos",no,INE 05610111,,2026-09-28
+cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",no,INE 05610109,,2026-09-28
+cuidado del hogar,limpieza de cocina,05.6.1,"Muebles, Bienes y Servicios Domésticos",no,INE 05610119/88,,2026-09-28
+cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",no,"INE 05610118/20, 05610112",Laundry bar soaps stay 05.6.1; stray shampoo packs -> 12.1.3.,2026-09-28
+cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",no,INE 05610102,Car wax -> 07.2.1.,2026-09-28
+cuidado del hogar,limpieza de zapatos,05.6.1,"Muebles, Bienes y Servicios Domésticos",no,CCIF 03.2.1 excluye betunes -> 05.6.1; INE 05610201,CHANGE: currently mostly mapped to Prendas de Vestir.,2026-09-28
+cuidado del hogar,productos americanos,05.6.1,"Muebles, Bienes y Servicios Domésticos",yes,CCIF 05.6.1; 12.1.3,"Imported cleaning goods. Personal care (Nivea, Gillette, colonia, jaboncillo, bath sponges) -> 12.1.3 Diversos; shoe brush -> 05.6.1.",2026-09-28
+cuidado personal,cuidado bucal,12.1.3,Bienes y Servicios Diversos,no,INE 12130110/07/09,,2026-09-28
+cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,yes,INE 12130303/05/10; 06.1.1,"Rubbing alcohol / chlorhexidine -> 06.1.1 Salud; laundry bar soap, bath brushes -> 05.6.1; insect repellent -> 05.6.1.",2026-09-28
+cuidado personal,cuidado del adulto,12.1.3,Bienes y Servicios Diversos,no,CCIF 12.1.3 (pañales),,2026-09-28
+cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,no,INE 12130201/04,,2026-09-28
+cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,yes,INE 12130403/04/06; 05610303,"Toilet paper, tissues, sanitary pads -> 12.1.3; napkins and absorbent kitchen paper -> 05.6.1 Muebles (INE 05610303).",2026-09-28
+farmacia otc,artículos bebé,05.4.0,"Muebles, Bienes y Servicios Domésticos",no,CCIF 05.4.0,Single pharmacy baby item.,2026-09-28
+farmacia otc,dermatológicos,12.1.3,Bienes y Servicios Diversos,yes,CCIF 12.1.3; 06.1.1,Moisturisers/body creams -> 12.1.3; medicated creams (antiescaldante) -> 06.1.1 Salud.,2026-09-28
+farmacia otc,sistema nervioso central,06.1.1,Salud,no,CCIF 06.1.1,,2026-09-28
+farmacia otc,sistema respiratorio,06.1.1,Salud,no,CCIF 06.1.1,,2026-09-28
+farmacia otc,tracto alimentario y metabolismo,06.1.1,Salud,no,CCIF 06.1.1,,2026-09-28
+farmacia otc,varios,06.1.2,Salud,yes,CCIF 06.1.2; 05.6.1,Condoms/lubricants -> 06.1.2 (CHANGE from Diversos); fruit/vegetable disinfectant -> 05.6.1.,2026-09-28
+farmacia éticos,dermatológicos,06.1.1,Salud,no,CCIF 06.1.1,,2026-09-28
+farmacia éticos,sistema respiratorio,06.1.1,Salud,no,CCIF 06.1.1,,2026-09-28
+farmacia éticos,tracto alimentario y metabolismo,06.1.1,Salud,no,CCIF 06.1.1,,2026-09-28
+fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.2,,2026-09-28
+fiambres,fiambres hipermaxi,01.1.2,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.2,,2026-09-28
+fiambres,temporada san juan externos,—,Excluido (temporada),no,Existing seasonal filter,Excluded from the index by the temporada filter.,2026-09-28
+frutas y verduras,frutas,01.1.6,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.6,,2026-09-28
+frutas y verduras,gourmet,01.1.7,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.7,,2026-09-28
+frutas y verduras,granos,01.1.7,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.7,,2026-09-28
+frutas y verduras,ofertas especiales,01.1.7,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.6/01.1.7,,2026-09-28
+frutas y verduras,temporada,—,Excluido (temporada),no,Existing seasonal filter,Excluded from the index by the temporada filter.,2026-09-28
+frutas y verduras,verduras,01.1.7,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.7,,2026-09-28
+granos y hortalizas,a granel e insuflados,01.1.1,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.1,,2026-09-28
+granos y hortalizas,derivados hipermaxi,01.1.9,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.9,,2026-09-28
+granos y hortalizas,fraccionados hipermaxi,01.1,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1,Bulk-packed grains and legumes.,2026-09-28
+granos y hortalizas,hortalizas delifresh,01.1.7,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.7,,2026-09-28
+granos y hortalizas,postres delifresh,01.1.8,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.8,,2026-09-28
+granos y hortalizas,sandwiches delifresh,01.1.9,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.9,Take-away food bought in a store stays in 01 (not 11).,2026-09-28
+importaciones textil,ropa caballero/junior,03.1.2,Prendas de Vestir y Calzado,no,INE 03120xxx,,2026-09-28
+importaciones textil,ropa dama/junior,03.1.2,Prendas de Vestir y Calzado,no,INE 03120xxx,,2026-09-28
+importaciones textil,ropa niño/adolescente,03.1.2,Prendas de Vestir y Calzado,no,INE 03120xxx,,2026-09-28
+importaciones textil,textiles genéricos/temporadas,—,Excluido (temporada),no,Existing seasonal filter,Excluded from the index by the temporada filter.,2026-09-28
+juguetería,juguetería didáctica/temporada,—,Excluido (temporada),no,Existing seasonal filter,Excluded from the index by the temporada filter.,2026-09-28
+juguetería,juguetería marcas,09.3.1,Recreación y Cultura,no,CCIF 09.3.1,,2026-09-28
+juguetería,juguetería niña/bebé,09.3.1,Recreación y Cultura,no,CCIF 09.3.1,,2026-09-28
+juguetería,juguetería niño/bebé,09.3.1,Recreación y Cultura,no,CCIF 09.3.1,,2026-09-28
+juguetería importación,jugueteria marcas,09.3.1,Recreación y Cultura,no,CCIF 09.3.1,,2026-09-28
+juguetería importación,juguetería didáctica/temporada,—,Excluido (temporada),no,Existing seasonal filter,Excluded from the index by the temporada filter.,2026-09-28
+juguetería importación,juguetería niña/bebé,09.3.1,Recreación y Cultura,no,CCIF 09.3.1,,2026-09-28
+juguetería importación,juguetería niño/bebé,09.3.1,Recreación y Cultura,no,CCIF 09.3.1,,2026-09-28
+lácteos y derivados,crema de leche,01.1.4,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.4,,2026-09-28
+lácteos y derivados,dulces de leche y manjares,01.1.8,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.8,,2026-09-28
+lácteos y derivados,huevos,01.1.4,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.4,,2026-09-28
+lácteos y derivados,leches,01.1.4,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.4,,2026-09-28
+lácteos y derivados,mantequillas y margarinas,01.1.5,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.5,,2026-09-28
+lácteos y derivados,postres,01.1.8,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.4/01.1.8,,2026-09-28
+lácteos y derivados,quesos,01.1.4,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.4,,2026-09-28
+lácteos y derivados,yogures,01.1.4,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.4,,2026-09-28
+no comestible diferenciales,articulos de cocina,05.4.0,"Muebles, Bienes y Servicios Domésticos",no,CCIF 05.4.0,,2026-09-28
+no comestible diferenciales,menaje metalico,05.4.0,"Muebles, Bienes y Servicios Domésticos",no,INE 05400301,,2026-09-28
+no comestible diferenciales,menaje vidrio/cristal,05.4.0,"Muebles, Bienes y Servicios Domésticos",no,CCIF 05.4.0,,2026-09-28
+panadería,panadería especialidades hipermaxi,01.1.1,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.1,,2026-09-28
+panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.1,,2026-09-28
+panadería,panadería hipermaxi,01.1.1,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.1,,2026-09-28
+pastelería y masas típicas,masas típicas externas,01.1.1,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.1,,2026-09-28
+pastelería y masas típicas,masas típicas hipermaxi,01.1.1,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.1,,2026-09-28
+pastelería y masas típicas,pastelería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.1,,2026-09-28
+pastelería y masas típicas,pastelería hipermaxi,01.1.1,Alimentos y Bebidas No Alcohólicas,no,CCIF 01.1.1,,2026-09-28
+textiles y zapatos,frazadas/sabanas/similares,05.2.0,"Muebles, Bienes y Servicios Domésticos",no,CCIF 05.2.0,,2026-09-28
+textiles y zapatos,ropa bebe 0 - 24,05.2.0,"Muebles, Bienes y Servicios Domésticos",no,CCIF 05.2.0,"Despite the name, these are baby blankets and flannels (colchas, franelas). Any actual baby clothes -> 03.1.2.",2026-09-28
+textiles y zapatos,ropa p/varones y niños,03.1.2,Prendas de Vestir y Calzado,no,INE 03120xxx,,2026-09-28
+textiles y zapatos,toallas,05.2.0,"Muebles, Bienes y Servicios Domésticos",no,CCIF 05.2.0,,2026-09-28
+textiles y zapatos,zapato p/varones y ninos,03.2.1,Prendas de Vestir y Calzado,no,INE 03210101/02,,2026-09-28
+textiles y zapatos,zapatos p/damas y ninas,03.2.1,Prendas de Vestir y Calzado,no,INE 03210101/02,,2026-09-28
