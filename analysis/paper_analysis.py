@@ -24,6 +24,7 @@ import statsmodels.api as sm
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUTPUT_DIR = os.path.join(REPO_ROOT, "analysis", "output")
@@ -318,6 +319,68 @@ def plot_lag_scatter(panel, target, lag, path, ylabel):
     plt.close(fig)
 
 
+def plot_index_comparison(path):
+    """Core-5 vs core-4 (top), then each index against its own official benchmark (mid-month dating)."""
+    ink, ink2, grid, surface = "#0b0b0b", "#52514e", "#e7e6e2", "#fcfcfb"
+    blue, orange, aqua = "#2a78d6", "#eb6834", "#1baf7a"
+    panels = {}
+    for key, color in [("core5", blue), ("core4", aqua)]:
+        out = os.path.join(INDEXES[key]["output_dir"], "mid_month")
+        panels[key] = (pd.read_csv(os.path.join(out, "national_cpi_data.csv"), parse_dates=["Date"]).set_index("Date"),
+                       pd.read_csv(os.path.join(out, "mad_table.csv")).set_index(["Region", "Metric"]), color)
+
+    def style(ax, title, months):
+        ax.set_title(title, loc="left", fontsize=10.5, color=ink, fontweight="bold", pad=8)
+        ax.grid(axis="y", color=grid, lw=0.8)
+        ax.spines[["top", "right", "left"]].set_visible(False)
+        ax.spines["bottom"].set_color(grid)
+        ax.tick_params(length=0, colors=ink2)
+        ax.xaxis.set_major_locator(mdates.MonthLocator(bymonth=months))
+        ax.xaxis.set_major_formatter(mdates.DateFormatter("%b %y"))
+
+    fig = plt.figure(figsize=(11, 11.5), facecolor=surface)
+    gs = fig.add_gridspec(3, 2, height_ratios=[1.1, 1, 1], hspace=0.42, wspace=0.12)
+
+    ax = fig.add_subplot(gs[0, :], facecolor=surface)
+    for key, dy in [("core5", -7), ("core4", 7)]:
+        panel, _, color = panels[key]
+        s = panel["Synthetic_National"].dropna()
+        ax.plot(s.index, s.values, color=color, lw=2, label=f"{INDEXES[key]['label']}")
+        ax.plot(s.index[-1], s.iloc[-1], "o", color=color, ms=4, mec=surface, mew=1)
+        ax.annotate(f"{INDEXES[key]['label']}  {s.iloc[-1]:.1f}", (s.index[-1], s.iloc[-1]), xytext=(6, dy),
+                    textcoords="offset points", color=ink, fontsize=8.5, va="center")
+    ax.set_xlim(right=s.index[-1] + pd.Timedelta(days=80))
+    style(ax, "Supermarket CPI: core-5 vs core-4 (national, Jul 2024 = 100)", [1, 4, 7, 10])
+    ax.legend(frameon=False, loc="upper left", fontsize=8.5)
+
+    for col, key in enumerate(["core5", "core4"]):
+        panel, mad, color = panels[key]
+        name = INDEXES[key]["label"]
+        for row, (syn, off, metric, what) in enumerate([
+                ("Synthetic_National", "Official_National", "Index", "level"),
+                ("Synthetic_National_Inflation", "Official_National_Inflation", "Inflation", "monthly inflation")]):
+            ax = fig.add_subplot(gs[row + 1, col], facecolor=surface)
+            ax.plot(panel.index, panel[syn], color=color, lw=1.6 if row else 2, label=f"Supermarket {name.lower()}")
+            o = panel[off].dropna()
+            ax.plot(o.index, o.values, color=orange, lw=1.6, ls="--", marker="o", ms=3.5, mec=surface, mew=0.8,
+                    label=f"Official INE {name.lower()}")
+            if row:
+                ax.axhline(0, color=ink2, lw=0.6)
+            style(ax, f"{name} vs official {name.lower()}: {what}", [1, 7])
+            r = mad.loc[("National", metric)]
+            ax.text(0.98, 0.05 if row == 0 else 0.92, f"r = {r.Correlation:.3f}   MAD = {r.Mean_Absolute_Difference:.2f}",
+                    transform=ax.transAxes, fontsize=8.5, color=ink2, ha="right")
+            if row == 0:
+                ax.legend(frameon=False, loc="upper left", fontsize=8)
+
+    last = panels["core4"][0]["Synthetic_National"].last_valid_index().date()
+    fig.text(0.125, 0.035, "Official monthly values plotted on the 15th of each month. Synthetic inflation is the 30-day "
+             "change. r = correlation, MAD = mean absolute difference on official dates.\nSource: supermarket prices via "
+             f"mauforonda/precios; INE via live-ine-inflation-update. Data through {last}.", fontsize=7.5, color=ink2)
+    fig.savefig(path, dpi=110, bbox_inches="tight", facecolor=surface)
+    plt.close(fig)
+
+
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
@@ -408,6 +471,16 @@ def main():
         monthly = load_official_monthly(index["weights"])
         for convention in CONVENTIONS:
             run(convention, daily, monthly, key, force_charts)
+
+    # Side-by-side chart of both indices, redrawn with the other charts when new official data arrives
+    comparison_dir = INDEXES["core4"]["output_dir"]
+    if os.path.exists(os.path.join(comparison_dir, "mid_month", "mad_table.csv")):
+        official_month = f"{monthly.index.max():%Y-%m}"
+        if force_charts or not charts_are_current(comparison_dir, official_month, ["core4_vs_core5.png"]):
+            plot_index_comparison(os.path.join(comparison_dir, "core4_vs_core5.png"))
+            with open(os.path.join(comparison_dir, CHARTS_MARKER), "w", encoding="utf-8") as f:
+                f.write(official_month + "\n")
+            print(f"Redrew core-4 vs core-5 comparison for official data through {official_month}")
 
 
 if __name__ == "__main__":

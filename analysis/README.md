@@ -19,6 +19,7 @@ python analysis/paper_analysis.py
 - **Lag regressions** (`lag_regressions.csv`): official MoM inflation regressed on synthetic inflation measured 0, 15 and 20 days earlier. Each is estimated three ways: OLS, OLS with HC1 standard errors, and Huber RLM (the equivalent of `MASS::rlm` in R).
 - **Figures**: the level and inflation comparison graph, plus scatterplots for the core-5 15-day lag and the overall 20-day lag.
 - **Summary** (`summary.md`): the headline tables and the dates the data runs through.
+- **Index comparison** (`output/core4/core4_vs_core5.png`): core-5 and core-4 side by side, each against its own official benchmark.
 
 The CSVs and summary are rewritten every day. The charts are redrawn only when a new month of official data arrives, which keeps the repo from growing by about 1.5 MB a day. `charts_official_month.txt` records the month they were last drawn for. To redraw them on demand, run `python analysis/paper_analysis.py --force-charts`.
 
