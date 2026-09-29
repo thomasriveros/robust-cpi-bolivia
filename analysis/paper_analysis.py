@@ -24,9 +24,9 @@ import statsmodels.api as sm
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-RESULTS_DIR = os.path.join(REPO_ROOT, "results", "supermarket_1")
 OUTPUT_DIR = os.path.join(REPO_ROOT, "analysis", "output")
 
 INE_DATA_URL = "https://raw.githubusercontent.com/thomasriveros/live-ine-inflation-update/refs/heads/main/data"
@@ -49,6 +49,17 @@ CORE5_WEIGHTS = {
     "Muebles, bienes y servicios domésticos": 6.08,
     "Bebidas alcohólicas y tabaco": 0.88,
 }
+CORE4_WEIGHTS = {k: v for k, v in CORE5_WEIGHTS.items() if k != "Prendas de vestir y calzado"}
+
+# Each published index is compared with the official series built from the same INE divisions
+INDEXES = {
+    "core5": {"label": "Core-5", "weights": CORE5_WEIGHTS,
+              "results_dir": os.path.join(REPO_ROOT, "results", "supermarket_1"),
+              "file_name": "supermarket_1_tracker_results.csv", "output_dir": OUTPUT_DIR},
+    "core4": {"label": "Core-4", "weights": CORE4_WEIGHTS,
+              "results_dir": os.path.join(REPO_ROOT, "results", "core4"),
+              "file_name": "core4_tracker_results.csv", "output_dir": os.path.join(OUTPUT_DIR, "core4")},
+}
 
 # Days added to the first of the month to get the date an official value is placed on
 CONVENTIONS = {"mid_month": 14, "start_of_month": 0}
@@ -58,8 +69,11 @@ LAGS = [0, 15, 20]
 
 # Records which official month the charts were last drawn for
 CHARTS_MARKER = "charts_official_month.txt"
-CHART_FILES = ["comparison_graph.png", "correlation_matrix.png",
-               "scatter_core5_lag15.png", "scatter_overall_lag20.png"]
+
+
+def chart_files(key):
+    return ["comparison_graph.png", "correlation_matrix.png",
+            f"scatter_{key}_lag15.png", "scatter_overall_lag20.png"]
 
 
 # ---------------------------------------------------------------------------
@@ -83,22 +97,22 @@ def rebase(series):
     return 100 * series / series.iloc[0]
 
 
-def core5_index(category_rows):
+def core_index(category_rows, weights):
     """
-    Official core-5 equivalent: each INE division rebased to BASE_MONTH = 100, then
-    combined with the normalized core-5 weights (the same structure as the tracker).
+    Official core-basket equivalent: each INE division rebased to BASE_MONTH = 100, then
+    combined with the normalized basket weights (the same structure as the tracker).
     """
     wide = category_rows.pivot(index="date", columns="category", values="CPI level")
-    missing = [c for c in CORE5_WEIGHTS if c not in wide.columns]
+    missing = [c for c in weights if c not in wide.columns]
     if missing:
         raise ValueError(f"INE category data is missing {missing}")
-    wide = wide[list(CORE5_WEIGHTS)].dropna()
+    wide = wide[list(weights)].dropna()
     rebased = wide.apply(rebase)
-    weights = pd.Series(CORE5_WEIGHTS) / sum(CORE5_WEIGHTS.values())
-    return (rebased * weights).sum(axis=1)
+    shares = pd.Series(weights) / sum(weights.values())
+    return (rebased * shares).sum(axis=1)
 
 
-def load_official_monthly():
+def load_official_monthly(weights=CORE5_WEIGHTS):
     """
     Monthly official indices (rebased to BASE_MONTH = 100) and their MoM inflation,
     indexed by the first day of the reference month.
@@ -108,14 +122,14 @@ def load_official_monthly():
     city_categories = fetch_ine_csv("city_level_CPI_by_category")
 
     series = {
-        "Official_National": core5_index(national_categories),
+        "Official_National": core_index(national_categories, weights),
         "Official_National_Overall": rebase(national_overall),
     }
     for suffix, ine_name in CITIES.values():
         rows = city_categories[city_categories["city"] == ine_name]
         if rows.empty:
             raise ValueError(f"INE city '{ine_name}' not found in city_level_CPI_by_category.csv")
-        series[f"Official_{suffix}"] = core5_index(rows)
+        series[f"Official_{suffix}"] = core_index(rows, weights)
 
     monthly = pd.DataFrame(series).sort_index()
 
@@ -124,15 +138,14 @@ def load_official_monthly():
     return monthly
 
 
-def load_synthetic_daily():
+def load_synthetic_daily(results_dir, file_name):
     """Daily synthetic indices (national and cities) and their 30-day inflation."""
-    national = pd.read_csv(os.path.join(RESULTS_DIR, "national", "supermarket_1_tracker_results.csv"),
-                           parse_dates=["date"])
+    national = pd.read_csv(os.path.join(results_dir, "national", file_name), parse_dates=["date"])
     daily = national.set_index("date")[["data_source", "cpi"]].rename(
         columns={"data_source": "DataSource", "cpi": "Synthetic_National"})
 
     for city, (suffix, _) in CITIES.items():
-        path = os.path.join(RESULTS_DIR, city, "supermarket_1_tracker_results.csv")
+        path = os.path.join(results_dir, city, file_name)
         city_df = pd.read_csv(path, parse_dates=["date"]).set_index("date")
         daily[f"Synthetic_{suffix}"] = city_df["cpi"]
 
@@ -232,12 +245,12 @@ def lag_regressions(panel):
 COLORS = {"synthetic": "#1f3b73", "core": "#0f8c79", "overall": "#d62728"}
 
 
-def plot_comparison(panel, path, label):
+def plot_comparison(panel, path, label, core_label="Core-5"):
     fig, (top, bottom) = plt.subplots(2, 1, figsize=(10, 8), sharex=True)
 
     top.plot(panel.index, panel["Synthetic_National"], color=COLORS["synthetic"], lw=1.6, label="Supermarket CPI")
     for col, color, name, style in [
-        ("Official_National", COLORS["core"], "Official core-5", "-"),
+        ("Official_National", COLORS["core"], f"Official {core_label.lower()}", "-"),
         ("Official_National_Overall", COLORS["overall"], "Official overall", "--"),
     ]:
         s = panel[col].dropna()
@@ -249,7 +262,7 @@ def plot_comparison(panel, path, label):
     bottom.plot(panel.index, panel["Synthetic_National_Inflation"], color=COLORS["synthetic"], lw=1.4,
                 label="Synthetic (30-day change)")
     for col, color, name, style in [
-        ("Official_National_Inflation", COLORS["core"], "Official core-5 (MoM)", "-"),
+        ("Official_National_Inflation", COLORS["core"], f"Official {core_label.lower()} (MoM)", "-"),
         ("Official_National_Overall_Inflation", COLORS["overall"], "Official overall (MoM)", "--"),
     ]:
         s = panel[col].dropna()
@@ -306,11 +319,73 @@ def plot_lag_scatter(panel, target, lag, path, ylabel):
     plt.close(fig)
 
 
+def plot_index_comparison(path):
+    """Core-5 vs core-4 (top), then each index against its own official benchmark (mid-month dating)."""
+    ink, ink2, grid, surface = "#0b0b0b", "#52514e", "#e7e6e2", "#fcfcfb"
+    blue, orange, aqua = "#2a78d6", "#eb6834", "#1baf7a"
+    panels = {}
+    for key, color in [("core5", blue), ("core4", aqua)]:
+        out = os.path.join(INDEXES[key]["output_dir"], "mid_month")
+        panels[key] = (pd.read_csv(os.path.join(out, "national_cpi_data.csv"), parse_dates=["Date"]).set_index("Date"),
+                       pd.read_csv(os.path.join(out, "mad_table.csv")).set_index(["Region", "Metric"]), color)
+
+    def style(ax, title, months):
+        ax.set_title(title, loc="left", fontsize=10.5, color=ink, fontweight="bold", pad=8)
+        ax.grid(axis="y", color=grid, lw=0.8)
+        ax.spines[["top", "right", "left"]].set_visible(False)
+        ax.spines["bottom"].set_color(grid)
+        ax.tick_params(length=0, colors=ink2)
+        ax.xaxis.set_major_locator(mdates.MonthLocator(bymonth=months))
+        ax.xaxis.set_major_formatter(mdates.DateFormatter("%b %y"))
+
+    fig = plt.figure(figsize=(11, 11.5), facecolor=surface)
+    gs = fig.add_gridspec(3, 2, height_ratios=[1.1, 1, 1], hspace=0.42, wspace=0.12)
+
+    ax = fig.add_subplot(gs[0, :], facecolor=surface)
+    for key, dy in [("core5", -7), ("core4", 7)]:
+        panel, _, color = panels[key]
+        s = panel["Synthetic_National"].dropna()
+        ax.plot(s.index, s.values, color=color, lw=2, label=f"{INDEXES[key]['label']}")
+        ax.plot(s.index[-1], s.iloc[-1], "o", color=color, ms=4, mec=surface, mew=1)
+        ax.annotate(f"{INDEXES[key]['label']}  {s.iloc[-1]:.1f}", (s.index[-1], s.iloc[-1]), xytext=(6, dy),
+                    textcoords="offset points", color=ink, fontsize=8.5, va="center")
+    ax.set_xlim(right=s.index[-1] + pd.Timedelta(days=80))
+    style(ax, "Supermarket CPI: core-5 vs core-4 (national, Jul 2024 = 100)", [1, 4, 7, 10])
+    ax.legend(frameon=False, loc="upper left", fontsize=8.5)
+
+    for col, key in enumerate(["core5", "core4"]):
+        panel, mad, color = panels[key]
+        name = INDEXES[key]["label"]
+        for row, (syn, off, metric, what) in enumerate([
+                ("Synthetic_National", "Official_National", "Index", "level"),
+                ("Synthetic_National_Inflation", "Official_National_Inflation", "Inflation", "monthly inflation")]):
+            ax = fig.add_subplot(gs[row + 1, col], facecolor=surface)
+            ax.plot(panel.index, panel[syn], color=color, lw=1.6 if row else 2, label=f"Supermarket {name.lower()}")
+            o = panel[off].dropna()
+            ax.plot(o.index, o.values, color=orange, lw=1.6, ls="--", marker="o", ms=3.5, mec=surface, mew=0.8,
+                    label=f"Official INE {name.lower()}")
+            if row:
+                ax.axhline(0, color=ink2, lw=0.6)
+            style(ax, f"{name} vs official {name.lower()}: {what}", [1, 7])
+            r = mad.loc[("National", metric)]
+            ax.text(0.98, 0.05 if row == 0 else 0.92, f"r = {r.Correlation:.3f}   MAD = {r.Mean_Absolute_Difference:.2f}",
+                    transform=ax.transAxes, fontsize=8.5, color=ink2, ha="right")
+            if row == 0:
+                ax.legend(frameon=False, loc="upper left", fontsize=8)
+
+    last = panels["core4"][0]["Synthetic_National"].last_valid_index().date()
+    fig.text(0.125, 0.035, "Official monthly values plotted on the 15th of each month. Synthetic inflation is the 30-day "
+             "change. r = correlation, MAD = mean absolute difference on official dates.\nSource: supermarket prices via "
+             f"mauforonda/precios; INE via live-ine-inflation-update. Data through {last}.", fontsize=7.5, color=ink2)
+    fig.savefig(path, dpi=110, bbox_inches="tight", facecolor=surface)
+    plt.close(fig)
+
+
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
-def write_summary(path, label, panel, mad, regs):
+def write_summary(path, label, panel, mad, regs, core_label="Core-5"):
     synth_last = panel["Synthetic_National"].last_valid_index().date()
     official_last = panel["Official_National"].last_valid_index().date()
     lines = [
@@ -335,26 +410,30 @@ def write_summary(path, label, panel, mad, regs):
         "|---|---|---|---|---|---|---|---|",
     ]
     for _, r in regs.iterrows():
-        dep = "Overall" if "Overall" in r.Dependent else "Core-5"
+        dep = "Overall" if "Overall" in r.Dependent else core_label
         lines.append(f"| {dep} | {r.Lag_Days} | {r.Method} | {r.N} | {r.Slope:.3f} | {r.Slope_SE:.3f} | "
                      f"{r.Slope_p:.4f} | {r.Intercept:.3f} |")
     with open(path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
 
 
-def charts_are_current(out_dir, official_month):
+def charts_are_current(out_dir, official_month, files):
     """Charts are redrawn only when a new official month arrives, to keep repo growth small."""
     marker = os.path.join(out_dir, CHARTS_MARKER)
-    if not os.path.exists(marker) or not all(os.path.exists(os.path.join(out_dir, f)) for f in CHART_FILES):
+    if not os.path.exists(marker) or not all(os.path.exists(os.path.join(out_dir, f)) for f in files):
         return False
     with open(marker, encoding="utf-8") as f:
         return f.read().strip() == official_month
 
 
-def run(convention, daily, monthly, force_charts=False):
-    out_dir = os.path.join(OUTPUT_DIR, convention)
+def run(convention, daily, monthly, key="core5", force_charts=False):
+    index = INDEXES[key]
+    core_label = index["label"]
+    out_dir = os.path.join(index["output_dir"], convention)
     os.makedirs(out_dir, exist_ok=True)
     label = convention.replace("_", "-") + " dating"
+    if key != "core5":
+        label = f"{core_label}, {label}"
 
     panel = build_panel(daily, monthly, CONVENTIONS[convention])
     corr = correlation_matrix(panel)
@@ -366,28 +445,42 @@ def run(convention, daily, monthly, force_charts=False):
     corr.to_csv(os.path.join(out_dir, "correlation_matrix.csv"), float_format="%.6f")
     mad.to_csv(os.path.join(out_dir, "mad_table.csv"), index=False, float_format="%.6f")
     regs.to_csv(os.path.join(out_dir, "lag_regressions.csv"), index=False, float_format="%.6f")
-    write_summary(os.path.join(out_dir, "summary.md"), label, panel, mad, regs)
+    write_summary(os.path.join(out_dir, "summary.md"), label, panel, mad, regs, core_label)
 
     official_month = f"{monthly.index.max():%Y-%m}"
-    if force_charts or not charts_are_current(out_dir, official_month):
-        plot_comparison(panel, os.path.join(out_dir, "comparison_graph.png"), label)
+    if force_charts or not charts_are_current(out_dir, official_month, chart_files(key)):
+        plot_comparison(panel, os.path.join(out_dir, "comparison_graph.png"), label, core_label)
         plot_correlation_matrix(corr, os.path.join(out_dir, "correlation_matrix.png"))
         plot_lag_scatter(panel, "Official_National_Inflation", 15,
-                         os.path.join(out_dir, "scatter_core5_lag15.png"), "Official core-5 inflation [%]")
+                         os.path.join(out_dir, f"scatter_{key}_lag15.png"), f"Official {core_label.lower()} inflation [%]")
         plot_lag_scatter(panel, "Official_National_Overall_Inflation", 20,
                          os.path.join(out_dir, "scatter_overall_lag20.png"), "Official overall inflation [%]")
         with open(os.path.join(out_dir, CHARTS_MARKER), "w", encoding="utf-8") as f:
             f.write(official_month + "\n")
-        print(f"Redrew {convention} charts for official data through {official_month}")
-    print(f"Wrote {convention} analysis to {out_dir}")
+        print(f"Redrew {key} {convention} charts for official data through {official_month}")
+    print(f"Wrote {key} {convention} analysis to {out_dir}")
 
 
 def main():
     force_charts = "--force-charts" in sys.argv
-    daily = load_synthetic_daily()
-    monthly = load_official_monthly()
-    for convention in CONVENTIONS:
-        run(convention, daily, monthly, force_charts)
+    for key, index in INDEXES.items():
+        if not os.path.exists(os.path.join(index["results_dir"], "national", index["file_name"])):
+            print(f"Skipping {key}: no tracker results yet")
+            continue
+        daily = load_synthetic_daily(index["results_dir"], index["file_name"])
+        monthly = load_official_monthly(index["weights"])
+        for convention in CONVENTIONS:
+            run(convention, daily, monthly, key, force_charts)
+
+    # Side-by-side chart of both indices, redrawn with the other charts when new official data arrives
+    comparison_dir = INDEXES["core4"]["output_dir"]
+    if os.path.exists(os.path.join(comparison_dir, "mid_month", "mad_table.csv")):
+        official_month = f"{monthly.index.max():%Y-%m}"
+        if force_charts or not charts_are_current(comparison_dir, official_month, ["core4_vs_core5.png"]):
+            plot_index_comparison(os.path.join(comparison_dir, "core4_vs_core5.png"))
+            with open(os.path.join(comparison_dir, CHARTS_MARKER), "w", encoding="utf-8") as f:
+                f.write(official_month + "\n")
+            print(f"Redrew core-4 vs core-5 comparison for official data through {official_month}")
 
 
 if __name__ == "__main__":

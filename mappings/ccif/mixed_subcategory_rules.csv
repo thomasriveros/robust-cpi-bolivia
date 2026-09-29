@@ -1,0 +1,53 @@
+categoria,subcategoria,pattern,ccif_class,ine_division,reason
+,dietéticos y saludables,colageno|suplemento,06.1.1,Salud,Dietary supplements are CCIF 06.1.1
+,"mermel, mieles",propomiel|antichaja,06.1.1,Salud,Medicinal syrups
+,bebidas varias,sixpack mandala|bitter amargo|\bron\b|vodka|whisky|con alcohol,02.1.1,Bebidas Alcohólicas y Tabaco,Alcoholic drinks shelved with soft drinks
+,maltas,con alcohol|bicervecina,02.1.3,Bebidas Alcohólicas y Tabaco,Alcoholic malt beer
+,licores,sparkly ice|granadina|saborizante|esencia apego,01.2.2,Alimentos y Bebidas No Alcohólicas,Non-alcoholic syrups and sodas shelved with liquor
+,licores,gin tonic carmencita,01.1.9,Alimentos y Bebidas No Alcohólicas,Cocktail spice kits
+,licores,san bitter,01.2.2,Alimentos y Bebidas No Alcohólicas,Non-alcoholic bitter soda
+,cigarrillos,dispositivo,12.3.2,Bienes y Servicios Diversos,Reusable vape devices are smokers' articles
+cuidado del hogar,productos americanos,\bnivea\b|antitrans|desodorante|\bdeo\b|labial|colonia|jaboncillo|jab[oó]n (barra )?(heno|vida|luxo)|espuma de afeitar|gillette|shampoo|talco|locion|gel fijador|pa[nñ]uelos|kleenex|tissues|esponja (de )?ba[nñ]o|cepillo dental|leite de rosas,12.1.3,Bienes y Servicios Diversos,Personal care products shelved with imported cleaning goods
+,living y dormitorio,reloj,12.3.1,Bienes y Servicios Diversos,Clocks are CCIF 12.3.1
+,ferretería,ducha|teflon|cemento|masilla,04.3.1,Vivienda y Servicios Básicos,Materials for dwelling repair
+,ferretería,inflador,09.3.2,Recreación y Cultura,Ball pumps are sports equipment
+,churrasquería,^carb[oó]n|^le[nñ]a,04.5.4,Vivienda y Servicios Básicos,Solid fuels
+,churrasquería,encendedor.*bolsillo,12.3.2,Bienes y Servicios Diversos,Pocket lighters are smokers' articles
+,electrodoméstico/línea blanca-hogar,televisor|\btv\b,09.1.1,Recreación y Cultura,Televisions
+,bioseguridad,barbijo|mascara|traje|gafas,06.1.2,Salud,Protective medical articles
+,baño general,esponja|guante.*ba[nñ]o|gorro|set de aseo personal,12.1.3,Bienes y Servicios Diversos,Bath sponges and shower caps are personal care
+,camping general,toma ?todo deportivo|carpa|bolsa de dormir,09.3.2,Recreación y Cultura,Sports and camping equipment
+,camping general,poncho,03.1.2,Prendas de Vestir y Calzado,Rain ponchos are clothing
+,cotillón,globo|inflador de globos|banderin|letrero|vela.*cumplea|vela bengala|adorno de torta|paliglogo|palito globos|pintura spray,09.3.1,Recreación y Cultura,Party decorations
+,articulos de bebé,chup[oó]n|tetina,12.3.2,Bienes y Servicios Diversos,Pacifiers and teats
+,articulos de bebé,sonajero,09.3.1,Recreación y Cultura,Rattles are toys
+,articulos de bebé,manicur|tijera|cepillo dental,12.1.3,Bienes y Servicios Diversos,Baby personal care
+,artículos para bebé,chup[oó]n|tetina,12.3.2,Bienes y Servicios Diversos,Pacifiers and teats
+,artículos para bebé,sonajero,09.3.1,Recreación y Cultura,Rattles are toys
+,artículos para bebé,manicur|tijera|cepillo dental,12.1.3,Bienes y Servicios Diversos,Baby personal care
+,telefonía y accesorios,^pack celular,08.2.0,Comunicaciones,Mobile phones
+,telefonía y accesorios,funda,12.3.2,Bienes y Servicios Diversos,Phone cases (INE 12320111)
+,telefonia y accesorios,^pack celular,08.2.0,Comunicaciones,Mobile phones
+,telefonia y accesorios,funda,12.3.2,Bienes y Servicios Diversos,Phone cases (INE 12320111)
+,otc,algod[oó]n|capullo,12.1.3,Bienes y Servicios Diversos,Cotton wool is CCIF 12.1.3
+,varios,desinfectante de fruta,05.6.1,"Muebles, Bienes y Servicios Domésticos",Household disinfectant
+farmacia otc,dermatológicos,antiescaldante|sinescal,06.1.1,Salud,Medicated cream
+,computadoras/camaras/filma y  accesorio,soporte,12.3.2,Bienes y Servicios Diversos,Phone holders (INE 12320111)
+,computadoras/camaras/filma y  accesorio,audifono.*celular|auriculares (audio|sport|pa048|hi|ev197),05.5.2,"Muebles, Bienes y Servicios Domésticos",Phone headphones (INE 05520323)
+,computadora/cámara/filmadora y accesorio,audifono,05.5.2,"Muebles, Bienes y Servicios Domésticos",Phone headphones (INE 05520323)
+,regalos/adornos,flor|planta artificial|plata artificial,09.3.3,Recreación y Cultura,Artificial flowers and plants
+,regalos/adornos,bolsa (de|para) (regalo|vino)|caja de regalo,09.5.4,Recreación y Cultura,Gift bags and boxes
+,regalos/adornos,llavero,12.3.2,Bienes y Servicios Diversos,Keychains
+,regalos/adornos,placa|colgador|magnetico|corcho|maceta|taza|botella|destapador,05.1.1,"Muebles, Bienes y Servicios Domésticos",Household ornaments and utensils
+,cuidado de la piel,desinfectante,05.6.1,"Muebles, Bienes y Servicios Domésticos",Household disinfectant (INE 05610109)
+,cuidado de la piel,^(pack \d+ )?repelente,05.6.1,"Muebles, Bienes y Servicios Domésticos",Insect repellent (INE 05610111)
+,cuidado de la piel,cepillo para ba[nñ]o|esponja (esfrebom|limppano salva),05.6.1,"Muebles, Bienes y Servicios Domésticos",Cleaning brushes and sponges
+,cuidado de la piel,alc?ohol|clorhexidina|cicatricure gel|cureband|vendita|pomada(?! club bar)|multifrost|placentex|retardador,06.1.1,Salud,Antiseptics and medicated products (INE 06110101/25)
+,cuidado familiar,servillet|serville|toalla de cocina|interfolado,05.6.1,"Muebles, Bienes y Servicios Domésticos",Napkins and kitchen paper (INE 05610303)
+,bijouteria/cuidado personal,lentes (de aumento|.*lectura),06.1.3,Salud,Reading glasses
+,bijouteria/cuidado personal,pastillero|porta pildoras|porta +agua +caliente,06.1.2,Salud,Pill boxes and hot-water bottles
+,bijouteria/cuidado personal,pulverizador|dispensador,05.4.0,"Muebles, Bienes y Servicios Domésticos",Household containers
+,bijouteria/cuidado personal,banda de ejercicio|bra[sz]os de pi[sc]cina,09.3.2,Recreación y Cultura,Sports equipment
+,bijouteria/cuidado personal,costurero|alfiler,05.6.1,"Muebles, Bienes y Servicios Domésticos",Sewing notions
+,bijouteria/cuidado personal,brocha de pintura,04.3.1,Vivienda y Servicios Básicos,Paint brushes are CCIF 04.3.1
+,bijouteria/cuidado personal,lentejuela,09.3.1,Recreación y Cultura,Craft supplies

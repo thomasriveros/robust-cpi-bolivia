@@ -1,0 +1,730 @@
+id,producto,categoria,subcategoria,legacy_division,new_division,ccif_class,source
+650287,api morado miura molino triunfo 145 gr.,abarrotes,básicos,Restaurantes y Hoteles,Alimentos y Bebidas No Alcohólicas,01.1,subcategory
+430285,sal lobos yodada 500 gr,abarrotes,básicos,Bienes y Servicios Diversos,Alimentos y Bebidas No Alcohólicas,01.1,subcategory
+655523,set d/paella+perol carmencita 4 porcione,abarrotes,básicos,"Muebles, Bienes y Servicios Domésticos",Alimentos y Bebidas No Alcohólicas,01.1,subcategory
+405444,pate de lingua oderich 100 gr,abarrotes,comidas en conserva,"Muebles, Bienes y Servicios Domésticos",Alimentos y Bebidas No Alcohólicas,01.1.9,subcategory
+553848,gin tonic fusion carmencita floral 7.5 g,abarrotes,condimentos y legumbres,Bebidas Alcohólicas y Tabaco,Alimentos y Bebidas No Alcohólicas,01.1.9,subcategory
+458981,suplemento forty shake chocolate 380 gr,abarrotes,dietéticos y saludables,Alimentos y Bebidas No Alcohólicas,Salud,06.1.1,rule
+458983,suplemento forty shake fresa 380 gr,abarrotes,dietéticos y saludables,Alimentos y Bebidas No Alcohólicas,Salud,06.1.1,rule
+458982,suplemento forty shake vainilla 380 gr,abarrotes,dietéticos y saludables,Alimentos y Bebidas No Alcohólicas,Salud,06.1.1,rule
+16700,suplemento nutricena chocolate 50 gr,abarrotes,dietéticos y saludables,Alimentos y Bebidas No Alcohólicas,Salud,06.1.1,rule
+463199,suplemento terbofit vainilla 400 gr,abarrotes,dietéticos y saludables,Alimentos y Bebidas No Alcohólicas,Salud,06.1.1,rule
+554003,carterita la francesa lui francaise 110,abarrotes,galletas,Bienes y Servicios Diversos,Alimentos y Bebidas No Alcohólicas,01.1.1,subcategory
+202155,galleta wafer marilan chocolate 115 gr,abarrotes,galletas,Bienes y Servicios Diversos,Alimentos y Bebidas No Alcohólicas,01.1.1,subcategory
+553071,pack suprema vuelta a clases,abarrotes,galletas,Educación,Alimentos y Bebidas No Alcohólicas,01.1.1,subcategory
+553769,packs estuche fini escolar und,abarrotes,golosinas - varias,Recreación y Cultura,Alimentos y Bebidas No Alcohólicas,01.1.8,subcategory
+809590,alimento dog chow adulto carne pollo mediano grande 3 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+421634,alimento dog chow cachorro carne pollo 3 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+421650,alimento dog chow mediano 21 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+14476,alimento dog chow mini pequeño carne pollo 1 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+14588,alimento dog chow mini pequeño carne pollo 1.5 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+421758,alimento dog chow mini pequeño carne pollo 3 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+550788,alimento dogui cachorro 3 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+550790,alimento dogui cachorro 8 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+553085,alimento faro pate gato adulto pescado,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+271815,alimento felix atun 85 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+550813,alimento felix classic carne 85 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+271819,alimento felix purina gatitos carne 85 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+271781,alimento felix salmon 85 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+418234,alimento gati carne pollo 1 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+30230,alimento gati pescado salmon 3 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+763855,alimento knino adulto mediana grande 10 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+35077,alimento knino adulto mediano grande 1.5 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+35070,alimento knino adulto pequeña 1.5 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+35072,alimento knino adulto pequeña 10 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+35071,alimento knino adulto pequeña 3 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+35073,alimento knino cachorro mediano grande 1.5 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+35075,alimento knino cachorro pequeña 1.5 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+35078,alimento knino cachorro pequeña 10 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+35076,alimento knino cachorro pequeña 3 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+31470,alimento ktito adulto salmon 1 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+660060,alimento ktito cachorro carne 1 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+303541,alimento pedigree adulto nutricion completa 1.5 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+630010,alimento pedigree cachorro 1.5 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+550003,alimento pedigree cachorro etapa 1 3.3 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+550004,alimento pedigree etapa 2 adulto 3.3 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+303523,alimento pedigree pequeño 1.5 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+550005,alimento pedigree pequeño 3.3 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+658978,alimento pedigree pequeño 8 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+17398,alimento primocao adulto carne vegetal 3 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+550630,alimento primocao adulto pequeño pollo vegetales 1 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+550629,alimento primocao adulto pequeño pollo vegetales 3 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+17397,alimento primocao cachorro carne leche 3 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+17400,alimento primocao carne pollo 1 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+17401,alimento primocao pequeño carne 1 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+17399,alimento primocao pequeño carne 3 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+550626,alimento primogato blend 3 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+17391,alimento primogato blend adulto 1 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+30958,alimento primogato blend adulto 500 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+550627,alimento primogato carne leche 3 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+550623,alimento primogato carne leche 500 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+550625,alimento primogato carne pollo 3 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+17392,alimento primogato castrado pollo 1 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+550628,alimento primogato castrado pollo 3 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+550624,alimento primogato castrado pollo pollo 500 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+17393,alimento primogato gatito pollo leche 1 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+100812,alimento primogato pate carne 150 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+100813,alimento primogato pate frutos de mar 150 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+100807,alimento primogato pate gatitos 150 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+15016,alimento raza adulto pescado arroz 1 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+552563,alimento raza gato guisado de carne 340 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+321342,alimento raza para gatos castrados 1 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+552564,alimento raza perro guisado de carne 340 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+658974,alimento ricocan adulto cordero arroz 280 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+659097,alimento ricocan adulto pollo verdura,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+658973,alimento ricocan cachorro cordero 100 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+659095,alimento ricocan cachorro cordero 280 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+658975,alimento ricocan pate adulto pollo,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+14642,alimento ricocat adulto higado pollo 330 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+658976,alimento ricocat pate pavo higado 330 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+117041,alimento ricocat pate sardina pollo 330 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+118400,alimento sabueso cachorro 3 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+30246,alimento snack alpha aleta de trucha 50 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+30247,alimento snack alpha bofe con banana 50 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+12430,alimento whiskas adulto carne pounch 85 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+658735,alimento whiskas adulto pescado pounch 85 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+12429,alimento whiskas adulto salmon pounch 85 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+658935,alimento whiskas adulto sardina pounch 85 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+12331,alimento whiskas carne 1 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+367315,alimento whiskas carne 500 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+12338,alimento whiskas gatitos carne leche 1 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+661453,alimento whiskas gatitos pounch carne 85 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+421123,alimento whiskas pescado 500 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+12332,alimento whiskas pollo leche 1 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+367316,alimento whiskas pollo leche 500 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+658734,alimento whiskas pounch adulto pollo 85 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+553211,galleta comipet molleja de pollo,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+552752,galleticones dani mascota 1 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+552753,galleticones dani mascota 125 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+553213,ispi deshidratado comipet 40 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+24025,pack 3 alimento primocao cachorro 1 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+24024,pack 3primogato blend 1 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+24026,pack 3primogato castrados pollo 1kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+24041,pack primocao original adultos raza medianos y grandes 1 kg,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+553210,pasta de pollo comipet,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+553212,pechuga comipet deshidratada 80 gr,abarrotes,mascotas,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+60002,snack liofiliz alpha bazo d res dp 100g,abarrotes,mascotas,Alimentos y Bebidas No Alcohólicas,Recreación y Cultura,09.3.4,subcategory
+60003,snack liofiliz alpha bazo d res dp 50g,abarrotes,mascotas,Alimentos y Bebidas No Alcohólicas,Recreación y Cultura,09.3.4,subcategory
+453435,caramelo garganta eucalipto miel 100 gr,abarrotes,"mermel, mieles",Salud,Alimentos y Bebidas No Alcohólicas,01.1.8,subcategory
+453436,caramelo garganta limon miel prop x 100 gr,abarrotes,"mermel, mieles",Salud,Alimentos y Bebidas No Alcohólicas,01.1.8,subcategory
+453433,caramelo garganta miel propoleo x 100 gr,abarrotes,"mermel, mieles",Salud,Alimentos y Bebidas No Alcohólicas,01.1.8,subcategory
+453434,caramelo gargatan wira miel 100 gr,abarrotes,"mermel, mieles",Salud,Alimentos y Bebidas No Alcohólicas,01.1.8,subcategory
+656782,propomiel apisbol vidrio 320 gr,abarrotes,"mermel, mieles",Alimentos y Bebidas No Alcohólicas,Salud,06.1.1,rule
+552414,sup alimenticio fibra forte cja 30 sob 6,abarrotes,nutrición infantil,Salud,Alimentos y Bebidas No Alcohólicas,01.1.9,subcategory
+552413,suplemento alimenticio foodness termogénico 260 gr,abarrotes,nutrición infantil,Salud,Alimentos y Bebidas No Alcohólicas,01.1.9,subcategory
+406150,farofa pinduca bacon 250 gr,abarrotes,productos americanos,Bienes y Servicios Diversos,Alimentos y Bebidas No Alcohólicas,01.1,subcategory
+158718,confeti mil cores corazones 150 gr,abarrotes,repostería,Recreación y Cultura,Alimentos y Bebidas No Alcohólicas,01.1.9,subcategory
+100072,confeti mil cores mariposa 150 gr,abarrotes,repostería,Recreación y Cultura,Alimentos y Bebidas No Alcohólicas,01.1.9,subcategory
+405612,gelatina ambrosoli frutilla 100 gr,abarrotes,repostería,Bebidas Alcohólicas y Tabaco,Alimentos y Bebidas No Alcohólicas,01.1.9,subcategory
+312121,pack multi ahorro nax und,abarrotes,snack,Unmapped,Alimentos y Bebidas No Alcohólicas,01.1.9,subcategory
+844810,biberon cubo agarradores 10oz carlitos,bazar,articulos de bebé,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+844813,biberon dos agarradores ancho 14 oz carli,bazar,articulos de bebé,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+842300,biberon duo pack 9 oz,bazar,articulos de bebé,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+986406,biberon nuby 120 ml,bazar,articulos de bebé,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+956514,biberon nuby 7 oz 2m con agarrador,bazar,articulos de bebé,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+826142,63800/602 pinza garra mediana,bazar,articulos de cocina,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+821014,encendedor bic,bazar,articulos de cocina,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+482022,encendedor bic grande,bazar,articulos de cocina,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+847934,zippero mascota avena procao 500 ml,bazar,articulos de cocina,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+819839,aflojatodo wd40,bazar,automotriz,"Muebles, Bienes y Servicios Domésticos",Transporte,07.2.1,subcategory
+70360,agua rosada 1 l,bazar,automotriz,"Muebles, Bienes y Servicios Domésticos",Transporte,07.2.1,subcategory
+70378,agua verde 1 l,bazar,automotriz,"Muebles, Bienes y Servicios Domésticos",Transporte,07.2.1,subcategory
+874592,algodon p/r pulimiento central sul 100g,bazar,automotriz,Bienes y Servicios Diversos,Transporte,07.2.1,subcategory
+849183,ambiemntador refresh line mini,bazar,automotriz,"Muebles, Bienes y Servicios Domésticos",Transporte,07.2.1,subcategory
+849251,ambientador america central sur,bazar,automotriz,"Muebles, Bienes y Servicios Domésticos",Transporte,07.2.1,subcategory
+872655,ambientador dual refresh breeze meadow,bazar,automotriz,"Muebles, Bienes y Servicios Domésticos",Transporte,07.2.1,subcategory
+859210,ambientador glade  gel auto 70gr lata,bazar,automotriz,"Muebles, Bienes y Servicios Domésticos",Transporte,07.2.1,subcategory
+120545,ambientador little trees arbolito surtido,bazar,automotriz,"Muebles, Bienes y Servicios Domésticos",Transporte,07.2.1,subcategory
+849171,ambientador refresh daisy pink petals,bazar,automotriz,"Muebles, Bienes y Servicios Domésticos",Transporte,07.2.1,subcategory
+849184,ambientador refresh wildflower  mini,bazar,automotriz,"Muebles, Bienes y Servicios Domésticos",Transporte,07.2.1,subcategory
+888270,ambientador woman madri,bazar,automotriz,"Muebles, Bienes y Servicios Domésticos",Transporte,07.2.1,subcategory
+856612,archer limpia tapiz 860 ml,bazar,automotriz,"Muebles, Bienes y Servicios Domésticos",Transporte,07.2.1,subcategory
+901971,bidon 10 l,bazar,automotriz,"Muebles, Bienes y Servicios Domésticos",Transporte,07.2.1,subcategory
+901973,bidon de 5 l,bazar,automotriz,"Muebles, Bienes y Servicios Domésticos",Transporte,07.2.1,subcategory
+897889,desod.ambient.fany surtido 200 ml.,bazar,automotriz,"Muebles, Bienes y Servicios Domésticos",Transporte,07.2.1,subcategory
+223878,febreze car hawaiian aloha 2pzas 4ml,bazar,automotriz,"Muebles, Bienes y Servicios Domésticos",Transporte,07.2.1,subcategory
+642906,limpiador en espuma tuff stuff multiuso,bazar,automotriz,"Muebles, Bienes y Servicios Domésticos",Transporte,07.2.1,subcategory
+884938,shampoo 1 visto shampoo 1recuentre3,bazar,automotriz,Bienes y Servicios Diversos,Transporte,07.2.1,subcategory
+831480,shampoo central sur 500 ml,bazar,automotriz,Bienes y Servicios Diversos,Transporte,07.2.1,subcategory
+919316,siliconao mascota avena procao 500 ml,bazar,automotriz,Bienes y Servicios Diversos,Transporte,07.2.1,subcategory
+919317,siliconao mascota avena procao 500 ml,bazar,automotriz,Bienes y Servicios Diversos,Transporte,07.2.1,subcategory
+371328,siliconao pote su g crecuentre  g,bazar,automotriz,"Muebles, Bienes y Servicios Domésticos",Transporte,07.2.1,subcategory
+846057,sprayo todo 5. afloja trecuentrea,bazar,automotriz,"Muebles, Bienes y Servicios Domésticos",Transporte,07.2.1,subcategory
+858659,veston crema para cuero mate 250ml,bazar,automotriz,Prendas de Vestir y Calzado,Transporte,07.2.1,subcategory
+863886,vestono lavanda aromatizante 1recuentrel,bazar,automotriz,"Muebles, Bienes y Servicios Domésticos",Transporte,07.2.1,subcategory
+995287,jabonera plasutil,bazar,baño general,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+993954,porta cepillo dental con tapa plastica,bazar,baño general,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+996304,porta cepillo dental plasultil,bazar,baño general,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+993955,porta jabon liquido plasutil,bazar,baño general,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+864337,almohada + calentador,bazar,bijouteria/cuidado personal,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+869321,ces vincha de dama 20,bazar,bijouteria/cuidado personal,Prendas de Vestir y Calzado,Bienes y Servicios Diversos,12.1.3,subcategory
+372237,fri brasos de picina  20,bazar,bijouteria/cuidado personal,Recreación y Cultura,Bienes y Servicios Diversos,12.1.3,subcategory
+558960,hebillas colores neutros,bazar,bijouteria/cuidado personal,Prendas de Vestir y Calzado,Bienes y Servicios Diversos,12.1.3,subcategory
+848747,lp.pirana grande 1186,bazar,bijouteria/cuidado personal,Prendas de Vestir y Calzado,Bienes y Servicios Diversos,12.1.3,subcategory
+848737,lp.set de ligas c/mono x2pzas,bazar,bijouteria/cuidado personal,Prendas de Vestir y Calzado,Bienes y Servicios Diversos,12.1.3,subcategory
+848740,lp.set de ligas tornasol x2pzas,bazar,bijouteria/cuidado personal,Prendas de Vestir y Calzado,Bienes y Servicios Diversos,12.1.3,subcategory
+848742,lp.set de ligas x4pzas 2571,bazar,bijouteria/cuidado personal,Prendas de Vestir y Calzado,Bienes y Servicios Diversos,12.1.3,subcategory
+848735,lp.set de vincha x5 174,bazar,bijouteria/cuidado personal,Prendas de Vestir y Calzado,Bienes y Servicios Diversos,12.1.3,subcategory
+848746,lp.traba con mono 2669,bazar,bijouteria/cuidado personal,Prendas de Vestir y Calzado,Bienes y Servicios Diversos,12.1.3,subcategory
+848745,lp.vincha de tela 2583,bazar,bijouteria/cuidado personal,Prendas de Vestir y Calzado,Bienes y Servicios Diversos,12.1.3,subcategory
+848741,lp.vincha para nina con corazones 1975,bazar,bijouteria/cuidado personal,Prendas de Vestir y Calzado,Bienes y Servicios Diversos,12.1.3,subcategory
+937852,pincel brocha de pintura condor,bazar,bijouteria/cuidado personal,"Muebles, Bienes y Servicios Domésticos",Vivienda y Servicios Básicos,04.3.1,rule
+848744,set de pirañitas x 6 piezas,bazar,bijouteria/cuidado personal,Prendas de Vestir y Calzado,Bienes y Servicios Diversos,12.1.3,subcategory
+861246,tijerao mascota avena procao 500 ml,bazar,bijouteria/cuidado personal,Recreación y Cultura,Bienes y Servicios Diversos,12.1.3,subcategory
+867213,toalla de cabello better coffe,bazar,bijouteria/cuidado personal,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+861055,toallao mascota avena procao 500 ml,bazar,bijouteria/cuidado personal,Recreación y Cultura,Bienes y Servicios Diversos,12.1.3,subcategory
+908855,gafas,bazar,bioseguridad,Bienes y Servicios Diversos,Salud,06.1.2,rule
+876174,mascara faciales,bazar,bioseguridad,Bienes y Servicios Diversos,Salud,06.1.2,rule
+802593,lp bolsa de mercado,bazar,camping general,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+877939,ponchillos impermeable,bazar,camping general,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+818468,encendedor grande - ronson,bazar,churrasquería,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+818669,encendedor ronson largo,bazar,churrasquería,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+847397,encendedor ronson largo,bazar,churrasquería,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+869154,encendedor ronson recargable,bazar,churrasquería,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+847399,encendedor tubo negro - ronson,bazar,churrasquería,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+861501,mondadientes parana bambu 100und,bazar,churrasquería,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+984931,tablao mascota avena procao 500 ml,bazar,churrasquería,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+984932,tablao mascota avena procao 500 ml,bazar,churrasquería,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+898737,audifono  gamer gh 100 huavi,bazar,computadora/cámara/filmadora y accesorio,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.5.2,rule
+898790,audifono huavi e03 stereo para celular,bazar,computadora/cámara/filmadora y accesorio,Comunicaciones,"Muebles, Bienes y Servicios Domésticos",05.5.2,rule
+898789,audifono metalico super bass huavi,bazar,computadora/cámara/filmadora y accesorio,Comunicaciones,"Muebles, Bienes y Servicios Domésticos",05.5.2,rule
+861486,audifonos stereo huavi e,bazar,computadora/cámara/filmadora y accesorio,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.5.2,rule
+340018,le falda para cup cakes x 24 pz olego,bazar,cotillón,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+340019,vaso de gelatina olego 25 un,bazar,cotillón,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+878070,vasoo mascota avena procao 500 ml,bazar,cotillón,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+915410,vasoso mascota avena procao 500 ml,bazar,cotillón,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+900808,vela catedral grande 8 un,bazar,cotillón,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+831542,vela cirio yander maciel gruesa 2 un,bazar,cotillón,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+980598,vela cumpleaños azul rosada,bazar,cotillón,"Muebles, Bienes y Servicios Domésticos",Recreación y Cultura,09.3.1,rule
+960839,velaso mascota avena procao 500 ml,bazar,cotillón,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+960840,velaso mascota avena procao 500 ml,bazar,cotillón,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+913368,xio mascota avena procao 500 ml,bazar,cotillón,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+936609,barra de silicona,bazar,ferretería,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+836460,ci ducha electrica tramontina temp variable,bazar,ferretería,"Muebles, Bienes y Servicios Domésticos",Vivienda y Servicios Básicos,04.3.1,rule
+932704,cinta doble contacto,bazar,ferretería,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+873540,cinta islante 2,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+932694,cinta masquin,bazar,ferretería,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+849266,foco attralux led luz fria 50w,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+847057,foco bulbo led 15w blanca,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+847058,foco bulbo led 19w luz blanca,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+847059,foco bulbo led 19w luz calida,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+879762,foco bulbo led tramontina 15w,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+864613,foco bulbo philips led 8w calida,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+864614,foco bulbo philips led 8w fria,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+849270,foco led 55w attralux luz calida,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+849271,foco led 55w attralux luz fria,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+849268,foco led attralux 75w luz fria,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+849269,foco led attralux luz calida 75 w,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+878668,foco led dega luz blanca 30watts,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+821451,foco led luminar luz blanca 11 w,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+821452,foco led luminar luz calida 11 w,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+873107,foco led luz amarilla 10w rayovac,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+848661,foco led rayovac 8w 750ml luz amarrilla,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+878630,foco lunimar led 8w luz blanca g45,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+878629,foco lunimar led 8wluz calida g45,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+853283,foco rayovac led 10w  amarilla,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+853286,foco rayovac led 10w blanca,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+853282,foco rayovac led 12w amarilla,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+853288,foco rayovac led 12w blanca,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+853289,foco rayovac led 14w amarilla,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+853284,foco rayovac led 14w blanca,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+853287,foco rayovac led 8w blanca,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+883699,foco tipo vela 6w luz blanca  lumimar,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+879640,interructor sencillo shneider,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+879642,interructor triple schneider,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+984367,soquete,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+984382,soquete en plato,bazar,ferretería,Vivienda y Servicios Básicos,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+864782,agenda mediana 2025 aaa,bazar,librería,Bienes y Servicios Diversos,Recreación y Cultura,09.5.4,subcategory
+922382,archivador condor oficio,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+924810,boligrafo bic azul,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+924811,boligrafo bic negro,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+924809,boligrafo bic rojo,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+823670,boligrafo faber castell azul 0.62,bazar,librería,Bienes y Servicios Diversos,Recreación y Cultura,09.5.4,subcategory
+823665,boligrafo faber castell negro 0.62,bazar,librería,Bienes y Servicios Diversos,Recreación y Cultura,09.5.4,subcategory
+901633,boligrafo faber castell negro 0.64,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+901630,boligrafo faber castell rojo 0.62,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+923364,boligrafo flair c/surtido und.,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+868630,cinta embalage zertex,bazar,librería,"Muebles, Bienes y Servicios Domésticos",Recreación y Cultura,09.5.4,subcategory
+869826,cinta embalaje izy trasparente,bazar,librería,"Muebles, Bienes y Servicios Domésticos",Recreación y Cultura,09.5.4,subcategory
+844638,colores faber castell ecolapices madera negra 12 colores,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+870381,combo lonchera mikey 76484,bazar,librería,Bienes y Servicios Diversos,Recreación y Cultura,09.5.4,subcategory
+923338,corrector acricolor en cinta,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+922367,cuad eng.lider c/c 50hj pleno 10533,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+922370,cuad.espiral 1/2 ofic pleno lider 50hj 2011,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+951546,cuaderno empastado top oficio pleno 100 hojas,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+472590,cuaderno lider espiral 1/2 oficio con diseño 100 hojas,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+951543,cuaderno top empastado carta 100 hojas,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+472573,cuaderno top espiral oficio 100 hojas,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+473766,cuaderno top espiral oficio 100 hojas,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+861935,esponjero de plastico,bazar,librería,"Muebles, Bienes y Servicios Domésticos",Recreación y Cultura,09.5.4,subcategory
+821077,estilete,bazar,librería,Bienes y Servicios Diversos,Recreación y Cultura,09.5.4,subcategory
+864774,estuchera escolar n45,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+900199,forro vinifan carta cristal 5 l,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+900198,forro vinifan carta cristalino dos 1/2,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+900200,forro vinifan oficio cristalino 5 l,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+377685,fre lonchera minnie plasutil,bazar,librería,"Muebles, Bienes y Servicios Domésticos",Recreación y Cultura,09.5.4,subcategory
+929423,"fre pck escolar sandw, botella 500ml",bazar,librería,Alimentos y Bebidas No Alcohólicas,Recreación y Cultura,09.5.4,subcategory
+924195,goma eva oficio,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+924196,goma eva pliego,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+923359,grampas kangaro,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+194778,hoja de carpeta mochilera color 500 hojas,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+922393,hoja papel bond report carta 500 hojas,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+861901,hojas de carpeta mochilera 500 hojas,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+816439,la gotita negra 2 ml,bazar,librería,"Muebles, Bienes y Servicios Domésticos",Recreación y Cultura,09.5.4,subcategory
+924808,lapicero bic round stic verde 8226,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+864874,lapices de colores artesco 12 colores,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+864875,lapices de colores artesco triangular 12 colores,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+951807,lapices de colores stabilo 24 colores,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+861744,lapices ecolapices faber castell madera negra soft 100 colores,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+883220,lapiz carpintero faber castell,bazar,librería,"Muebles, Bienes y Servicios Domésticos",Recreación y Cultura,09.5.4,subcategory
+862750,lapiz grafito triang keyroad pastel goma+regla +taja,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+377688,lochera sanwichera + botella,bazar,librería,"Muebles, Bienes y Servicios Domésticos",Recreación y Cultura,09.5.4,subcategory
+864862,lonchera kendy 3pz,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+870385,lonchera mediano frozen,bazar,librería,Bienes y Servicios Diversos,Recreación y Cultura,09.5.4,subcategory
+924198,marcador permanente azul,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+923342,marcador pizarra dong-a rojo und.,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+844635,marcadores faber castell fiesta 60 colores,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+951815,micropunta stabilo point 88 10 piezas,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+864781,mini agenda 2026,bazar,librería,Bienes y Servicios Diversos,Recreación y Cultura,09.5.4,subcategory
+864670,mochila de niño escolar,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+863021,mochila escolar diseño,bazar,librería,Bienes y Servicios Diversos,Recreación y Cultura,09.5.4,subcategory
+936484,mochila escolar juvenil,bazar,librería,Bienes y Servicios Diversos,Recreación y Cultura,09.5.4,subcategory
+937579,mochila escolar juvenil + estuche,bazar,librería,Bienes y Servicios Diversos,Recreación y Cultura,09.5.4,subcategory
+936485,mochila juvenil escolar,bazar,librería,Bienes y Servicios Diversos,Recreación y Cultura,09.5.4,subcategory
+924933,mochilas diseños surtidos,bazar,librería,Bienes y Servicios Diversos,Recreación y Cultura,09.5.4,subcategory
+862718,morral primaverera 16.5 mario bros 2 grande,bazar,librería,Bienes y Servicios Diversos,Recreación y Cultura,09.5.4,subcategory
+958076,papel crepe normal,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+924679,papel madera,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+923334,pegamento acricola 40 gr,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+923335,pegamento acricola 80 gr,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+923333,pegamento isocola 40 gr,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+862466,plastilina vinifan  cajita de 12und,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+862464,plastilina vinifan delgados 10und,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+789020,resaltador faber castell naranja,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+864778,set de marcador 12 und,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+864779,set de marcador 24 piezas,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+922390,sobre manila carta,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+922388,sobre manila oficio,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+862430,tijera con formas vinifan blister x 3,bazar,librería,Educación,Recreación y Cultura,09.5.4,subcategory
+827106,tijera vinifan oficina 17 cm,bazar,librería,Bienes y Servicios Diversos,Recreación y Cultura,09.5.4,subcategory
+849055,jan cojin navidad 15,bazar,living y dormitorio,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.1.1,subcategory
+831644,vela cirio yander maciel 12 cm,bazar,living y dormitorio,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.1.1,subcategory
+831544,vela vaso grande perfumada colores,bazar,living y dormitorio,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.1.1,subcategory
+873942,velaso mascota avena procao 500 ml,bazar,living y dormitorio,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.1.1,subcategory
+340751,acondicionador de mascota procao 200 ml,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+808486,arena para gato cat litter 5 kg,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+838300,arena para gato catsan 4 kg,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+910978,arena para gato tom cat 2 kg,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+641567,arena para gato tom cat 4 kg,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+947270,cama de mascota economica 4,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+947280,cama de mascota estandar 3,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+883920,collar para mascota 2,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+883924,collar para mascota 4,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+877730,collar para mascota de cuerina 2,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+886296,collar para mascota rectangular,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+340752,educador procao sanitario de mascotas 200 ml,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+340753,educador procao sanitario no ppude 180 ml,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+340750,elimina olor procao de mascotas 500 ml,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+340101,juguete de mascota 3,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+886201,juguete para mascota pelota de plastico,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+917686,mar solera e mascotas de bs 35,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+910980,mini hueso pushky super,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+877711,pat cepillo de mascotas  26,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+886292,pat jug pelotas mascotas goma 16,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+861405,plato + juguete mascota 10,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+340078,plato de mascota 2,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+839159,plato de mascota 3,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+837292,plato de mascota de metal,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+884524,plato metalico 42,bazar,mascotas general,"Muebles, Bienes y Servicios Domésticos",Recreación y Cultura,09.3.4,subcategory
+849971,ropa de mascota invierno n3-4,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+838596,shampoo black super 1 l,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+838299,shampoo mascota aloe vera stop 500 ml,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+838595,shampoo mascota lavado frecuentre 1 l,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+838298,shampoo mascota stop tutty frutty 500 ml,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+314625,shampooo neutro  neutro 1recuentre  s,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+795160,snack aritos vacuno friendly 100gr,bazar,mascotas general,Alimentos y Bebidas No Alcohólicas,Recreación y Cultura,09.3.4,subcategory
+917684,solera de mascota,bazar,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+821228,uvo nutrigu chicles xrecuentre  c,bazar,mascotas general,Alimentos y Bebidas No Alcohólicas,Recreación y Cultura,09.3.4,subcategory
+860797,baldecito mix de 500ml rey hallowen,bazar,menaje plástico,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+860795,caja barbie enganche,bazar,menaje plástico,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+863474,caja plastico diseno ninos,bazar,menaje plástico,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+864857,lonchera kendy plastica,bazar,menaje plástico,Educación,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+865645,neceser plastico nadine,bazar,menaje plástico,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+837894,tapero mascota avena procao 500 ml,bazar,menaje plástico,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+12191,vaso de cerveza bristol,bazar,menaje vidrio/cristal,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+906429,vaso lexington licor,bazar,menaje vidrio/cristal,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+906489,vaso prisma licor,bazar,menaje vidrio/cristal,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+821462,vaso rocks dubai 12 oz,bazar,menaje vidrio/cristal,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+908771,vaso tequilero crisa 2 oz,bazar,menaje vidrio/cristal,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+12173,vasoo jugo pr prensado 2recuentre  d,bazar,menaje vidrio/cristal,Alimentos y Bebidas No Alcohólicas,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+461238,vasoo mascota avena procao 500 ml,bazar,menaje vidrio/cristal,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+519707,vasoo mascota avena procao 500 ml,bazar,menaje vidrio/cristal,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+905457,vasoo mascota avena procao 500 ml,bazar,menaje vidrio/cristal,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+906436,vasoo mascota avena procao 500 ml,bazar,menaje vidrio/cristal,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+983267,vasoo mascota avena procao 500 ml,bazar,menaje vidrio/cristal,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+878740,bolsa de regalo 2,bazar,regalos/adornos,Bienes y Servicios Diversos,Recreación y Cultura,09.5.4,rule
+869313,bolsa de regalo carton,bazar,regalos/adornos,Bienes y Servicios Diversos,Recreación y Cultura,09.5.4,rule
+867543,bolsa de regalo san valentin,bazar,regalos/adornos,Bienes y Servicios Diversos,Recreación y Cultura,09.5.4,rule
+867544,bolsa de regalo san valentin,bazar,regalos/adornos,Bienes y Servicios Diversos,Recreación y Cultura,09.5.4,rule
+869605,caja de regalo madre,bazar,regalos/adornos,Bienes y Servicios Diversos,Recreación y Cultura,09.5.4,rule
+864346,airpods huavi fh28 pro,bazar,telefonía y accesorios,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+883726,audifono bluetooh huavi  fh13,bazar,telefonía y accesorios,Comunicaciones,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+883723,audifono huavi f2 para celular,bazar,telefonía y accesorios,Comunicaciones,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+870996,cable cargador huavi u05 iphone 2 m,bazar,telefonía y accesorios,Comunicaciones,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+883711,cable usb huavi h03 para celular 2 m,bazar,telefonía y accesorios,Comunicaciones,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+883719,cable usb huavi h15 3 en 1,bazar,telefonía y accesorios,Comunicaciones,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+898257,cable usb huavi u06 para celular,bazar,telefonía y accesorios,Comunicaciones,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+883708,cargador huavi h221 celular pared,bazar,telefonía y accesorios,Comunicaciones,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+883710,cargador huavi hc309 auto celular,bazar,telefonía y accesorios,Comunicaciones,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+809709,tr set x3 pzas para ninos kai,bazar importación,artículos para bebé,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+819763,pan 7155 soporte p  celular 16x10cm,bazar importación,automotriz,Bienes y Servicios Diversos,Transporte,07.2.1,subcategory
+817463,br porta cepillo dientes plastico sanremo,bazar importación,baño general,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+603233,pan espejo,bazar importación,bijouteria/cuidado personal,Alimentos y Bebidas No Alcohólicas,Bienes y Servicios Diversos,12.1.3,subcategory
+819650,pan 0396 parrilla p  bbq 49 5x31x1 5cm,bazar importación,churrasquería,Recreación y Cultura,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+609991,pan tapon para botella,bazar importación,cocina general,Alimentos y Bebidas No Alcohólicas,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+868460,ch 37 23 soporte anillo para celular 7x12cm color surtido,bazar importación,computadoras/camaras/filma y  accesorio,Comunicaciones,Bienes y Servicios Diversos,12.3.2,rule
+868455,soporte para celular ezra,bazar importación,computadoras/camaras/filma y  accesorio,Comunicaciones,Bienes y Servicios Diversos,12.3.2,rule
+868450,soporte para celular ezra liso metalicos,bazar importación,computadoras/camaras/filma y  accesorio,Comunicaciones,Bienes y Servicios Diversos,12.3.2,rule
+858567,soporte para celular holder,bazar importación,computadoras/camaras/filma y  accesorio,Comunicaciones,Bienes y Servicios Diversos,12.3.2,rule
+868451,soporte para celular universal magnetico 3x4 cm,bazar importación,computadoras/camaras/filma y  accesorio,Comunicaciones,Bienes y Servicios Diversos,12.3.2,rule
+868449,soporte para celulares ezra a rayas,bazar importación,computadoras/camaras/filma y  accesorio,Comunicaciones,Bienes y Servicios Diversos,12.3.2,rule
+858566,teclado para celular o tablet,bazar importación,computadoras/camaras/filma y  accesorio,Comunicaciones,Recreación y Cultura,09.1.3,subcategory
+843457,"pan.8612 inflador - pompa d/aire 11.1/2""",bazar importación,ferretería,"Muebles, Bienes y Servicios Domésticos",Recreación y Cultura,09.3.2,rule
+832476,navaja knife con repuesto,bazar importación,librería,"Muebles, Bienes y Servicios Domésticos",Recreación y Cultura,09.5.4,subcategory
+816814,ch 05 2 jarron en forma de reloj de arena 9x20cm,bazar importación,living y dormitorio,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.3.1,rule
+846640,portaretrato para 2 fotos con reloj,bazar importación,living y dormitorio,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.3.1,rule
+846641,portaretrato para 3 fotos con reloj,bazar importación,living y dormitorio,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.3.1,rule
+843514,reloj de pared,bazar importación,living y dormitorio,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.3.1,rule
+854864,reloj digital de mesa mediano 15x7 cm,bazar importación,living y dormitorio,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.3.1,rule
+807497,vela envase diseño religioso 7x9 cm,bazar importación,living y dormitorio,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.1.1,subcategory
+806247,bebedero para mascota portatil,bazar importación,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+947238,plato de mascota san remo,bazar importación,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+947239,tazon perro plastico sanremo 300ml remo,bazar importación,mascotas general,Bienes y Servicios Diversos,Recreación y Cultura,09.3.4,subcategory
+817642,ch 23 1 tomatodo tapa negra color surtido 800ml,bazar importación,menaje plástico,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+817632,ch 3 23 cenicero de vidrio 11x3 5cm,bazar importación,menaje vidrio/cristal,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.4.0,subcategory
+809915,ch 23 13 magnetico ojo turco 6 5x5cm,bazar importación,regalos/adornos,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.1.1,rule
+809581,ch 33 12 bolsa para vino 12x9x36 diseno botella con tapa,bazar importación,regalos/adornos,Bienes y Servicios Diversos,Recreación y Cultura,09.5.4,rule
+855032,flor artificial girasol ramo,bazar importación,regalos/adornos,"Muebles, Bienes y Servicios Domésticos",Recreación y Cultura,09.3.3,rule
+856657,flores artificiales crisantemo en rama 74 cm,bazar importación,regalos/adornos,"Muebles, Bienes y Servicios Domésticos",Recreación y Cultura,09.3.3,rule
+846689,flores artificiales decoracion con maceta gris,bazar importación,regalos/adornos,"Muebles, Bienes y Servicios Domésticos",Recreación y Cultura,09.3.3,rule
+868502,flores artificiales en rama hortencia 35 cm,bazar importación,regalos/adornos,"Muebles, Bienes y Servicios Domésticos",Recreación y Cultura,09.3.3,rule
+855027,flores artificiales lirio pequeño,bazar importación,regalos/adornos,"Muebles, Bienes y Servicios Domésticos",Recreación y Cultura,09.3.3,rule
+855019,flores artificiales malus spectabilis en rama,bazar importación,regalos/adornos,"Muebles, Bienes y Servicios Domésticos",Recreación y Cultura,09.3.3,rule
+855022,flores artificiales orquidea en rama 95 cm,bazar importación,regalos/adornos,"Muebles, Bienes y Servicios Domésticos",Recreación y Cultura,09.3.3,rule
+855021,flores artificiales orquidea en rama 95cm,bazar importación,regalos/adornos,"Muebles, Bienes y Servicios Domésticos",Recreación y Cultura,09.3.3,rule
+846650,planta artificial para decoracion 24 cm,bazar importación,regalos/adornos,"Muebles, Bienes y Servicios Domésticos",Recreación y Cultura,09.3.3,rule
+846645,plata artificial decoracion maceta blanca,bazar importación,regalos/adornos,"Muebles, Bienes y Servicios Domésticos",Recreación y Cultura,09.3.3,rule
+846643,plata artificial decoracion maceta café,bazar importación,regalos/adornos,"Muebles, Bienes y Servicios Domésticos",Recreación y Cultura,09.3.3,rule
+858458,adaptador usb carga rapida,bazar importación,telefonia y accesorios,Comunicaciones,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+858454,cable usb data carga rapida 1 m,bazar importación,telefonia y accesorios,Comunicaciones,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+858455,cable usb universal 3 en 1,bazar importación,telefonia y accesorios,Comunicaciones,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+868461,cargador inalambrico carga rapida 3 en 1,bazar importación,telefonia y accesorios,Comunicaciones,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+868459,cargador inalambrico plegable 3 en 1,bazar importación,telefonia y accesorios,Comunicaciones,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+868452,ch 37 10 funda de silicona para airpods 4 5x5 2cm,bazar importación,telefonia y accesorios,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.3.2,rule
+868454,kit cables adaptador 10x14x3 cm,bazar importación,telefonia y accesorios,Comunicaciones,"Muebles, Bienes y Servicios Domésticos",05.5.2,subcategory
+16088,cerveza fentimans ginger 200 gr,bebidas,cervezas,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.3,subcategory
+17953,cerveza paulaner weissbier sin alcohol 500 ml,bebidas,cervezas,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.3,subcategory
+25020,cerveza prost frei 0p 310 ml,bebidas,cervezas,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.3,subcategory
+658715,cerveza prost frei sin alcohol 355 ml,bebidas,cervezas,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.3,subcategory
+658716,cerveza prost sin alcohol frei 330 ml,bebidas,cervezas,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.3,subcategory
+60076,vape waka apex blueberry ice 30000p,bebidas,cigarrillos,Bienes y Servicios Diversos,Bebidas Alcohólicas y Tabaco,02.2.0,subcategory
+60077,vape waka apex watermelon strawb 30000p,bebidas,cigarrillos,Bienes y Servicios Diversos,Bebidas Alcohólicas y Tabaco,02.2.0,subcategory
+312186,vape waka go dark cherry 10k,bebidas,cigarrillos,Bienes y Servicios Diversos,Bebidas Alcohólicas y Tabaco,02.2.0,subcategory
+312184,vape waka go strawberry kiwi 10k,bebidas,cigarrillos,Bienes y Servicios Diversos,Bebidas Alcohólicas y Tabaco,02.2.0,subcategory
+551094,harry limonero limon 3250 ml,bebidas,gaseosas,"Muebles, Bienes y Servicios Domésticos",Alimentos y Bebidas No Alcohólicas,01.2.2,subcategory
+14488,bebida colossus coconut 355 ml,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+14487,bebida colossus grapefruit 355 ml,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+14489,bebida colossus limon 355 ml,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+31187,bebida colossus maracuya 355 ml,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+31186,bebida colossus sandia 355 ml,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+14486,bebida colossus strawberry 355 ml,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+30646,bebida flow bomba frutal 473 ml,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+31039,bebida flow guarana janeiro 473 ml,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+210033,bebida flow guarana pet 1lt,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+25002,bebida flow nene sunrise lata 355 ml,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+312110,bebida flow sandia 12p 1 l,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+25403,bebida flow sandia fresh 473 ml,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+25401,bebida flow sunrise nene 300 ml,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+312111,bebida flow uva 1 l,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+31037,bebida flow uva jungle 473 ml,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+553843,bebida lista bardero the king blue pet 2,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+312104,bebida moyi mojito limon 300 ml,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+312105,bebida moyi mojito maracuya 355 ml,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+553419,bebida rebel s arandano lta 473ml,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+551285,bebida senss arandano 355 ml,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+551286,bebida senss cereza 355 ml,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+551284,bebida senss limon 355 ml,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+551288,bebida senss maracuya 355 ml,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+173545,esencia apego frutos rojos mix 500 ml,bebidas,licores,"Muebles, Bienes y Servicios Domésticos",Alimentos y Bebidas No Alcohólicas,01.2.2,rule
+173544,esencia apego manzana verde mix 500 ml,bebidas,licores,"Muebles, Bienes y Servicios Domésticos",Alimentos y Bebidas No Alcohólicas,01.2.2,rule
+678776,licor cusenier granadina 750 ml,bebidas,licores,Bebidas Alcohólicas y Tabaco,Alimentos y Bebidas No Alcohólicas,01.2.2,rule
+553789,pack 2 bebida rebel 473 ml,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+553109,pack 3 mix bebida senss 355 ml,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+405515,ron bacardi 1873 solera 750 ml,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+656920,san mateo  bardero bot 2 lt,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+30916,six pack bebida colossus 6 un 335 ml,bebidas,licores,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.1,subcategory
+653059,multivitaminico cocinero 200 gr,bebidas,refrescos en polvo,Salud,Alimentos y Bebidas No Alcohólicas,01.2.2,subcategory
+678919,sidra cereser durazno sin alcohol 660 ml,bebidas,vinos y champagne,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.2,subcategory
+618999,sidra cereser frutos rojos sin alcohol 660 ml,bebidas,vinos y champagne,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.2,subcategory
+19823,sidra cereser manzana sin alcohol 660 ml,bebidas,vinos y champagne,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.2,subcategory
+19827,sidra cereser morango sin alcohol 660 ml,bebidas,vinos y champagne,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.2,subcategory
+618998,sidra cereser uva sin alcohol 660 ml,bebidas,vinos y champagne,Alimentos y Bebidas No Alcohólicas,Bebidas Alcohólicas y Tabaco,02.1.2,subcategory
+835554,aserrin de hueso 1 kg,carnes,carne de res,Recreación y Cultura,Alimentos y Bebidas No Alcohólicas,01.1.2,subcategory
+674765,hamburguesa picantita fridosa 2x83grs uni,congelados,carnes congeladas,Restaurantes y Hoteles,Alimentos y Bebidas No Alcohólicas,01.1.2,subcategory
+462492,alia2 sabor original x sobre,cudados otc,oct salas,Alimentos y Bebidas No Alcohólicas,Salud,06.1.2,subcategory
+453682,gel intim efecto calor tulipan x 30 ml,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+455977,gel intimo azucena x 30ml,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+453681,gel intimo clasico tulipan x 30 ml,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+453687,gel intimo tulipan  l-arginina x 30ml,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+455979,gel lubircante azucena frutilla chocolate x 30ml,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+455978,gel lubricante azucena connection hot x 30ml,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+463149,kiss gel lubricante intimo x 100 ml,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+461286,maxmen preser inspiral kraken caja x 1 und,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+455305,pantera cereza caja 3 unid,cudados otc,oct salas,Alimentos y Bebidas No Alcohólicas,Salud,06.1.2,subcategory
+455304,pantera chocolate caja 3 unid,cudados otc,oct salas,Alimentos y Bebidas No Alcohólicas,Salud,06.1.2,subcategory
+453237,pantera gold premium caja 3 unid,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+229937,preservativo extra lubrica tulipan caja x 3 unid,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+229941,preservativo frutilla tulipan caja x 3 unid,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+454934,preservativo maxmen  connection 1 caja x 3 un,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+453395,preservativo maxmen 3b fresa 1 cja x 3 un,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+454738,preservativo maxmen boom 1 cja x 3 un,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+454739,preservativo maxmen inspiral tornado 1 caja x 3 un,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+455886,preservativo maxmen sensitive 1 caja x 3 un,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+313750,preservativo pantera caja x 3 und,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+229936,preservativo retardante tulipan x caja de 3 un,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+229939,preservativo tulipan ultra fino 1 caja x 3 un,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+454720,preservativo ultra fino tulipan caja x 3 unid,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+455848,prudence corrugado preservativo caja x 3 unid,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+458382,prudence gel intimo neutro x 100 gr,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+456013,prudence preservat texturado extremo caja x 3 unid,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+456014,prudence preservativo retardante caja x 3 unid,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+459604,prudence vete a la versh caja x 5 unid                                                     .,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+695580,tulipan clasico x 6 und con 2 geles clasicos,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+695581,tulipan ctrl retardante x 6 und con benzoca,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+461167,tulipan doble placer mix sens x 3 unid,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+461166,tulipan tattoo placer ext x 3 unid,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+695582,tulipan ultra fino x6und,cudados otc,oct salas,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+45675,algodon bolsa capullo x 200gr,cudados otc,otc,Salud,Bienes y Servicios Diversos,12.1.3,rule
+155144,algodón bolita capullo x 50 gr,cudados otc,otc,Salud,Bienes y Servicios Diversos,12.1.3,rule
+155152,algodón bolsa capullo x 50 gr,cudados otc,otc,Salud,Bienes y Servicios Diversos,12.1.3,rule
+45691,algodón capullo bolsa x 100gr,cudados otc,otc,Salud,Bienes y Servicios Diversos,12.1.3,rule
+45683,algodón rollo capullo x 100 gr,cudados otc,otc,Salud,Bienes y Servicios Diversos,12.1.3,rule
+45667,algodón rollo capullo x 200 gr,cudados otc,otc,Salud,Bienes y Servicios Diversos,12.1.3,rule
+45640,algodón rollo capullo x 400 gr,cudados otc,otc,Salud,Bienes y Servicios Diversos,12.1.3,rule
+451221,capullo disco algodon x 70 und,cudados otc,otc,Salud,Bienes y Servicios Diversos,12.1.3,rule
+227097,pack toallas 3+1 number one x90,cuidado del bebé,cuidado del bebé,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+225079,pack toallas humedas ninet clasica 100 un + taper,cuidado del bebé,cuidado del bebé,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+823105,pomada para coceduras simonds gloss 60 gr,cuidado del bebé,cuidado del bebé,Salud,Bienes y Servicios Diversos,12.1.3,subcategory
+361250,alcohol sanitizador jamsa kids 125 ml,cuidado del bebé,kids,Salud,Bienes y Servicios Diversos,12.1.3,subcategory
+225165,3m ponjita anatomica + esponja facial,cuidado del hogar,accesorios del hogar,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+330931,cepillo condor uñas 1 un,cuidado del hogar,accesorios del hogar,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+660460,cepillo plancha multiuso,cuidado del hogar,accesorios del hogar,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+155750,cepillo profi plancha ecologica,cuidado del hogar,accesorios del hogar,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+224099,combo tipack fanelas + papel higienico,cuidado del hogar,accesorios del hogar,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+116059,esponja condor lava auto 1 un,cuidado del hogar,accesorios del hogar,Transporte,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+249015,esponja de baño con cordon,cuidado del hogar,accesorios del hogar,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+669828,pano de microfibra para auto totes pack,cuidado del hogar,accesorios del hogar,Transporte,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+350601,alcohol desinfectante rocio spray 210 ml,cuidado del hogar,limpieza de baños,Salud,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+615594,pastilla de baño arom frutas silvestre 40 gr,cuidado del hogar,limpieza de baños,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+904083,pastilla de baño arom lavanda 40 gr,cuidado del hogar,limpieza de baños,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+405093,limpiador desgrasante mr.simplex baño,cuidado del hogar,limpieza de cocina,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+669752,pack 2 toalexrollo rosado x1u,cuidado del hogar,limpieza de cocina,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+669751,pack2 toalex rollo purpura x1u,cuidado del hogar,limpieza de cocina,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+669139,t.p. nova gigante dh 70m x1,cuidado del hogar,limpieza de cocina,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+660535,tp nova practica 15mt,cuidado del hogar,limpieza de cocina,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+701016,jabon barra cavallaro coco 10 un 40 gr,cuidado del hogar,limpieza de la ropa,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+785479,jabon barra cavallaro coco 200 gr,cuidado del hogar,limpieza de la ropa,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+821565,jabon barra cavallaro coco 500 gr,cuidado del hogar,limpieza de la ropa,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+390250,jabon barra cavallaro fourpack coco + suavizante,cuidado del hogar,limpieza de la ropa,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+114866,jabon barra guaira delux verde 250 gr,cuidado del hogar,limpieza de la ropa,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+240845,jabon barra natu coco 100 gr,cuidado del hogar,limpieza de la ropa,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+240846,jabon barra natu coco 200 gr,cuidado del hogar,limpieza de la ropa,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+240847,jabon barra natu coco 400 gr,cuidado del hogar,limpieza de la ropa,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+109963,jabon guaira deluxe blanco limon 150grs.,cuidado del hogar,limpieza de la ropa,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+116083,pack dove sh bond intense 4x3x400ml+ac+m,cuidado del hogar,limpieza de la ropa,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+336320,tripack guaira glicerina limon 3 un 250 gr,cuidado del hogar,limpieza de la ropa,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+610348,cera auto tigre brillante 1 l,cuidado del hogar,limpieza de living y ropero,Transporte,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+317926,pastilla de baño arom popurri 40 gr,cuidado del hogar,limpieza de living y ropero,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+317918,pastilla de baño arom vainilla flor 40 gr,cuidado del hogar,limpieza de living y ropero,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+405063,shampoo para alfombra prossquim 1000 ml,cuidado del hogar,limpieza de living y ropero,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+667232,betun cremoso coloso negro 50 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+668179,betun espuma santiago limpiador calzado 300 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+668181,betun liquido santiago blanco 60 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+668183,betun liquido santiago marron 60 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+668186,betun liquido santiago marron 90 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+668182,betun liquido santiago negro 60 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+668184,betun liquido santiago neutro 60 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+220742,betun liquido todo brillo negro 70 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+220743,betun liquido todo brillo neutro 70 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+292022,betun liquido virginia café 60 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+332656,betun pasta nugget marron 36 gr,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+679377,betun pasta nugget marron 65 gr,cuidado del hogar,limpieza de zapatos,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+332595,betun pasta nugget negra 36 gr,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+114237,betun pasta santiago canela 90 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+114238,betun pasta santiago guinda 90 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+114240,betun pasta santiago marron 45 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+668188,betun pasta santiago negro 45 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+668187,betun pasta santiago negro 90 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+114236,betun pasta santiago neutro 45 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+668185,betun pasta santiago neutro 90 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+114239,betun pasta santiago rojo 88 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+114241,betun pasta santiago rojo 90 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+668103,betun pasta virginia cafe 50 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+668102,betun pasta virginia negro 50 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+669322,betun santiago crema cuero brill 100 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+668172,brintec pomo neutro 2/u,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+668742,crema santiago cuero mate 100 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+668741,desodorante santiago spray 80 ml,cuidado del hogar,limpieza de zapatos,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+668743,esponja santiago limpieza de zapato 7 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+222156,espuma santiago para zapatillas 100 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+668170,gamuzin marrón 50 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+668171,gamuzin negro 50 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+668574,gamuzin neutro 50 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+668746,kit santiago limpieza de zapatilla,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+668745,kit santiago limpieza de zapato,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+240548,limpiador de zapatilla todo brillo 150 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+668744,limpiador santiago de gamuza 100 ml,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+668712,trupack betun coloso negro brintec llave,cuidado del hogar,limpieza de zapatos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+227152,bloque mochila crivea 2x50 gr,cuidado del hogar,productos americanos,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+227151,bloque mochila crivea 50 gr,cuidado del hogar,productos americanos,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+68110,cepillo para zapato condor 1 un,cuidado del hogar,productos americanos,Prendas de Vestir y Calzado,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+390521,cepillo salzano para baño,cuidado del hogar,productos americanos,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+240629,repelente escudo aerosol 180 cc,cuidado del hogar,productos americanos,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+249001,repelente escudo duracion 200 gr,cuidado del hogar,productos americanos,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+104808,repelente off aerosol family 170 ml,cuidado del hogar,productos americanos,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+114235,repelente off aloe vera 196 gr,cuidado del hogar,productos americanos,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+240812,repelente off duracion 196 gr,cuidado del hogar,productos americanos,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+240719,repelente off duracion 200 ml,cuidado del hogar,productos americanos,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,subcategory
+452669,cepillo foramen pharma postoperatorio,cuidado personal,cuidado bucal,Salud,Bienes y Servicios Diversos,12.1.3,subcategory
+392221,alchol unagro etilico 70%  990 ml,cuidado personal,cuidado de la piel,Salud,Bienes y Servicios Diversos,12.1.3,subcategory
+564329,alcohol gel jamsa antibacterial,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,Salud,06.1.1,rule
+455864,alcohol gel jamsa neutro 1 l,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,Salud,06.1.1,rule
+455863,alcohol gel jamsa neutro 360 ml,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,Salud,06.1.1,rule
+202618,alcohol gel sanitizador classic lavanda 370 ml,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,Salud,06.1.1,rule
+655089,alcohol gel sanitizador classic neutro 370 ml,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,Salud,06.1.1,rule
+828739,alcohol gel sanitizador liz kiwi sandia 360 ml,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,Salud,06.1.1,rule
+302530,alcohol gel sanitizador liz lavanda 360 ml,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,Salud,06.1.1,rule
+592552,alcohol gel sanitizador liz neutro 360 ml,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,Salud,06.1.1,rule
+667430,alcohol gel sanitizador liz neutro 5 l,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,Salud,06.1.1,rule
+455117,alcohol glicerina envaquin 120 ml,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,Salud,06.1.1,rule
+902027,algodon premier hidrofilo 10 gr,cuidado personal,cuidado de la piel,Salud,Bienes y Servicios Diversos,12.1.3,subcategory
+902029,algodon premier hidrofilo 100 gr,cuidado personal,cuidado de la piel,Salud,Bienes y Servicios Diversos,12.1.3,subcategory
+902066,algodon premier hidrofilo 200 gr,cuidado personal,cuidado de la piel,Salud,Bienes y Servicios Diversos,12.1.3,subcategory
+902068,algodon premier hidrofilo 400 gr,cuidado personal,cuidado de la piel,Salud,Bienes y Servicios Diversos,12.1.3,subcategory
+902028,algodon premier hidrofilo 50 gr,cuidado personal,cuidado de la piel,Salud,Bienes y Servicios Diversos,12.1.3,subcategory
+255224,body splash aromasense clear moon 230 ml,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+660169,crema corporal lechuga no. 2 100 ml,cuidado personal,cuidado de la piel,Unmapped,Bienes y Servicios Diversos,12.1.3,subcategory
+660162,crema facial chirimoya no. 0 50 gr,cuidado personal,cuidado de la piel,Alimentos y Bebidas No Alcohólicas,Bienes y Servicios Diversos,12.1.3,subcategory
+660159,crema facial chirimoya no. 3 50 gr,cuidado personal,cuidado de la piel,Alimentos y Bebidas No Alcohólicas,Bienes y Servicios Diversos,12.1.3,subcategory
+660164,crema facial chirimoya no. 8 50 gr,cuidado personal,cuidado de la piel,Alimentos y Bebidas No Alcohólicas,Bienes y Servicios Diversos,12.1.3,subcategory
+660153,crema facial lechuga no. 0 50 gr,cuidado personal,cuidado de la piel,Alimentos y Bebidas No Alcohólicas,Bienes y Servicios Diversos,12.1.3,subcategory
+660154,crema facial lechuga no. 8 50 gr,cuidado personal,cuidado de la piel,Alimentos y Bebidas No Alcohólicas,Bienes y Servicios Diversos,12.1.3,subcategory
+405081,desodorante roll on dove original 50 ml,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+228387,esponja de baño anatómica baño diario 1 un,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+228386,esponja de baño baño diario 1 un,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+667899,esponja ponjita amarilla 3 un,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+288527,esponja ponjita surtida 1 un,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+887070,esponja scotch brite nexcare aqua verde,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+288144,esponja scotch brite uñas 1 un,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+330510,gel sanitizador carissa frutilla doypack 900 ml,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+330511,gel sanitizador carissa neutro doypack 900 ml,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+111015,jabon barra c2 citrus 85 gr,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+111011,jabon barra c2 clasico 85 gr,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+669924,jabon barra coco oceano azul 90 gr,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+422061,jabon barra kenia familia 3 un 90 gr,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+501844,jabon barra mar blanco 90 gr,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+669925,jabon barra mar coco leche de coco 90 gr,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+660411,jabon liquido fantastico - brisa marina,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+660415,jabon liquido fantastico - brisa marina,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+660408,jabon liquido fantastico - canela 1l,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+660412,jabon liquido fantastico - canela 5l,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+660409,jabon liquido fantastico - coco 1l,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+660413,jabon liquido fantastico - coco 5l,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+660410,jabon liquido fantastico - manzana 1l,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+660414,jabon liquido fantastico - manzana 5l,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+616510,jabon liquido supremo celeste 1 l,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+616512,jabon liquido supremo naranja 1 l,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+616513,jabon liquido supremo rosas 1 l,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+616511,jabon liquido supremo verde 1 l,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+660172,leche jojoba no. 1,cuidado personal,cuidado de la piel,Alimentos y Bebidas No Alcohólicas,Bienes y Servicios Diversos,12.1.3,subcategory
+223998,pack 2 repelente off aerosol ahorra 127 ml,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+105015,pack alcohol en gel bristar,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,Salud,06.1.1,rule
+175029,repelente above spray 200 ml,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+617059,repelente aerosol fexon 130 gr,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+223809,repelente aerosol tyson 200 ml,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+116105,repelente bacterion crema,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+530277,repelente bacterion recamier baby 120 ml,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+450192,repelente crema fexon 100 gr,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+249035,repelente de insectos tyson familiar doypack 200 ml,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+382112,repelente fexon aerosol post picadura 100 ml,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+450191,repelente fexon infantil 100 gr,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+463065,repelente floresta extremo crema 15% 120 gr,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+463066,repelente floresta extremo spray 15% 120 ml,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+463068,repelente floresta familiar 7.5% crema 120 gr,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+462436,repelente floresta familiar spray 7.5% 120 ml,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+462435,repelente floresta kids  deet 7.5% x spray 120 ml,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+223942,repelente jamsa citronela,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+223940,repelente jamsa insecto citronela 125 ml,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+223944,repelente jamsa insecto espuma neutro 125 ml,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+223943,repelente jamsa insecto hombres 125 ml,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+223941,repelente jamsa insecto macadamia 125 ml,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+111698,repelente moskitoff 200 ml,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+111697,repelente moskitoff aerosol 100 ml,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+111702,repelente moskitoff aerosol 165 ml,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+111699,repelente moskitoff locion 100 ml,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+111701,repelente moskitoff locion 200 ml,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+144940,repelente off aerosol 165 gr,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+102042,repelente off family active 60 gr,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+364022,repelente off family tropical fresh 200 gr,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+220114,repelente spray recamier selvatic ultra,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+119014,repelente tyson aerosol familiar 120 gr,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+360840,repelente tyson aerosol familiar bonus 250 cm,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+119015,repelente tyson aerosol sport 120 gr,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+360839,repelente tyson aerosol sport bonus 250 cm,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+335580,repelente tyson familiar crema 200 gr,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+293085,repelente tyson mamá crema 50 gr,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+660449,rosa ven 150g az pack oferta 4x3,cuidado personal,cuidado de la piel,Alimentos y Bebidas No Alcohólicas,Bienes y Servicios Diversos,12.1.3,subcategory
+330509,sanitizador crissa brisa marina dpack 90,cuidado personal,cuidado de la piel,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+120579,vaselina solida pomada nostas 100 gr,cuidado personal,cuidado de la piel,Bienes y Servicios Diversos,Salud,06.1.1,rule
+406070,pañal adulto plenitud act plus p/m 8 un,cuidado personal,cuidado del adulto,Alimentos y Bebidas No Alcohólicas,Bienes y Servicios Diversos,12.1.3,subcategory
+112935,agu oxigenada farmax vol.10 900 ml.,cuidado personal,cuidado del cabello,Salud,Bienes y Servicios Diversos,12.1.3,subcategory
+119007,agua oxigenada farmax 900 ml,cuidado personal,cuidado del cabello,Salud,Bienes y Servicios Diversos,12.1.3,subcategory
+111672,agua oxigenada farmax v30 900 ml,cuidado personal,cuidado del cabello,Salud,Bienes y Servicios Diversos,12.1.3,subcategory
+111675,agua oxigenada farmax v40 900 ml,cuidado personal,cuidado del cabello,Salud,Bienes y Servicios Diversos,12.1.3,subcategory
+112936,agua oxigenada farmax volumen 10 90 ml,cuidado personal,cuidado del cabello,Salud,Bienes y Servicios Diversos,12.1.3,subcategory
+119009,agua oxigenada farmax volumen 20 90 ml,cuidado personal,cuidado del cabello,Salud,Bienes y Servicios Diversos,12.1.3,subcategory
+111674,agua oxigenada farmax volumen 30 90 ml,cuidado personal,cuidado del cabello,Salud,Bienes y Servicios Diversos,12.1.3,subcategory
+111676,agua oxigenada farmax volumen 40 90 ml,cuidado personal,cuidado del cabello,Salud,Bienes y Servicios Diversos,12.1.3,subcategory
+109826,agua oxigenada oxihari 10 volumen 100 ml,cuidado personal,cuidado del cabello,Salud,Bienes y Servicios Diversos,12.1.3,subcategory
+452390,shampoo medicasp anticaspa 130 ml,cuidado personal,cuidado del cabello,Salud,Bienes y Servicios Diversos,12.1.3,subcategory
+660371,crema facial hanbel tomatín multiacción 100 gr,cuidado personal,cuidado familiar,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+225036,pack ment elite vuelta a clases 1 un,cuidado personal,cuidado familiar,Educación,Bienes y Servicios Diversos,12.1.3,subcategory
+229013,pañuelos desechables nex pack 10 un,cuidado personal,cuidado familiar,"Muebles, Bienes y Servicios Domésticos",Bienes y Servicios Diversos,12.1.3,subcategory
+321979,pañuelos desechables vele mentisan pack 10 un,cuidado personal,cuidado familiar,Salud,Bienes y Servicios Diversos,12.1.3,subcategory
+406010,protectores diarios nosotras flexible 30 un,cuidado personal,cuidado familiar,Alimentos y Bebidas No Alcohólicas,Bienes y Servicios Diversos,12.1.3,subcategory
+667304,servilletas nacional clasica 500 un,cuidado personal,cuidado familiar,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+667468,servilletas perla 200 un,cuidado personal,cuidado familiar,Bienes y Servicios Diversos,"Muebles, Bienes y Servicios Domésticos",05.6.1,rule
+466674,toallas higienicas nosotras con alas tela pack 8 un,cuidado personal,cuidado familiar,Recreación y Cultura,Bienes y Servicios Diversos,12.1.3,subcategory
+455975,lubricante  maxmen para preservativo 1 caja x 5 un,farmacia otc,varios,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+459628,masculan gel lubricante silk fco x 75 ml,farmacia otc,varios,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+991080,masculan preservativo anatomico caja x 3 unid,farmacia otc,varios,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+993520,masculan preservativo black xxl caja x 3 unid,farmacia otc,varios,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+991079,masculan preservativo extra sensitivo caja x 3 unid,farmacia otc,varios,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+454978,masculan preservativo largo placer x 10 und,farmacia otc,varios,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+450908,masculan preservativo puro caja x 3 unid,farmacia otc,varios,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+991078,masculan preservativo sensitivo x 3 unid,farmacia otc,varios,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+455885,preservativo inspiral tsunami 48 caja x 3 und,farmacia otc,varios,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+457807,prudence  preservativo clasico caja x 3 unid,farmacia otc,varios,Bienes y Servicios Diversos,Salud,06.1.2,subcategory
+674712,pack alasitas osfim unidad,fiambres,fiambres externos,Recreación y Cultura,Alimentos y Bebidas No Alcohólicas,01.1.2,subcategory
+674736,pack carnavalero churrasquero osfim uni,fiambres,fiambres externos,Bienes y Servicios Diversos,Alimentos y Bebidas No Alcohólicas,01.1.2,subcategory
+782432,pack carnavalero osfim,fiambres,fiambres externos,Recreación y Cultura,Alimentos y Bebidas No Alcohólicas,01.1.2,subcategory
+553086,pack hadoquera alasitas,fiambres,fiambres externos,Recreación y Cultura,Alimentos y Bebidas No Alcohólicas,01.1.2,subcategory
+674738,pack piqueo carnavalero la previa osfim uni,fiambres,fiambres externos,Restaurantes y Hoteles,Alimentos y Bebidas No Alcohólicas,01.1.2,subcategory
+798365,porta jamon marco ulloa con cuchillo un,fiambres,fiambres externos,"Muebles, Bienes y Servicios Domésticos",Alimentos y Bebidas No Alcohólicas,01.1.2,subcategory
+816356,maletin de manicure,juguetería,juguetería niña/bebé,Bienes y Servicios Diversos,Recreación y Cultura,09.3.1,subcategory
+816362,mi coleccion joyas amor,juguetería,juguetería niña/bebé,Bienes y Servicios Diversos,Recreación y Cultura,09.3.1,subcategory
+889375,juego caja de herramienta,juguetería,juguetería niño/bebé,"Muebles, Bienes y Servicios Domésticos",Recreación y Cultura,09.3.1,subcategory
+385478,pan barbie princesa rubia,juguetería importación,jugueteria marcas,Alimentos y Bebidas No Alcohólicas,Recreación y Cultura,09.3.1,subcategory
+406021,leche past ilva natural 1 l,lácteos y derivados,leches,Bienes y Servicios Diversos,Alimentos y Bebidas No Alcohólicas,01.1.4,subcategory
+781679,croissant hipermaxi jamon y queso 1 un,panadería,panadería especialidades hipermaxi,Restaurantes y Hoteles,Alimentos y Bebidas No Alcohólicas,01.1.1,subcategory
+97785,desayuno dia del padre,pastelería y masas típicas,pastelería hipermaxi,Restaurantes y Hoteles,Alimentos y Bebidas No Alcohólicas,01.1.1,subcategory

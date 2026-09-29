@@ -31,6 +31,19 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/daily_tracker_supermarket_1.py
 
+      # Core-4 index (CCIF classification in mappings/ccif/). Failures here never block the core-5 update.
+      - name: Validate core-4 classification tables
+        id: validate_ccif
+        continue-on-error: true
+        run: python scripts/validate_classification.py
+
+      - name: Run core-4 tracker
+        if: steps.validate_ccif.outcome == 'success'
+        continue-on-error: true
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/daily_tracker_core4.py
+
       - name: Run paper analysis
         # Failures here should not block the tracker results from being committed
         continue-on-error: true

@@ -130,3 +130,57 @@ def categorize_new_products(products_list):
                 "confidence": "failed"
             })
         return fallback
+
+
+# ---------------------------------------------------------------------------
+# Constrained suggestions for the rule-based classifier (src/classification.py)
+# ---------------------------------------------------------------------------
+
+import enum
+from pydantic import BaseModel, Field
+
+from src.classification import DIVISIONS
+
+Division = enum.Enum("Division", {f"D{i}": name for i, name in enumerate(DIVISIONS)}, type=str)
+
+
+class Suggestion(BaseModel):
+    id: str
+    ccif_class: str = Field(description="CCIF class code, e.g. '05.6.1'")
+    division: Division
+
+
+def suggest_classifications(products):
+    """
+    products: list of dicts with id, producto, categoria, subcategoria.
+    Returns a list of dicts with id, suggested_ccif_class, suggested_division. The response schema
+    restricts the division to the 12 INE divisions; failures return an empty list.
+    """
+    if not products:
+        return []
+    _upload_pdfs_if_needed()
+    prompt = f"""
+    Classify each supermarket product into its CCIF class (e.g. "05.6.1") and the matching INE division.
+    Follow the INE 2016 methodology basket and the CCIF document provided. Use the store category and
+    subcategory as context, but classify by what the product is.
+
+    Products:
+    {json.dumps(products, ensure_ascii=False, indent=2)}
+    """
+    try:
+        response = _CLIENT.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=[_METHODOLOGY_FILE, _CCIF_FILE, prompt],
+            config=types.GenerateContentConfig(
+                system_instruction="You classify products for the Bolivian CPI (INE) using the CCIF.",
+                response_mime_type="application/json",
+                response_schema=list[Suggestion],
+            ),
+        )
+        parsed = response.parsed or []
+    except Exception as e:
+        print(f"Error during AI classification: {e}")
+        return []
+    wanted = {str(p["id"]) for p in products}
+    return [{"id": s.id, "suggested_ccif_class": s.ccif_class, "suggested_division": s.division.value}
+            for s in parsed if s.id in wanted]
