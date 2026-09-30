@@ -3390,6 +3390,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 1618,baton garoto creme leite 16 gr,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 161928,mortadela jamonada con locoto hipermaxi kg,fiambres,fiambres hipermaxi,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 161929,jamon de pollo hipermaxi reducido en sodio kg,fiambres,fiambres hipermaxi,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
+161951,queque de chocolate lg,pastelería y masas típicas,pastelería hipermaxi,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 162035,prelavado vanish blanco con gatillo 500 ml,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 162036,prelavado vanish blanco doypack 400 ml,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 162041,lavavajilla mr.flash pack naranja 1200 ml,cuidado del hogar,limpieza de cocina,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -3402,6 +3403,9 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 162154,queque de banana,pastelería y masas típicas,pastelería hipermaxi,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 162165,cuñape congelado hipermaxi 8 un,congelados,masas y comidas congeladas,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 162184,rosca de pascuas hipermaxi,panadería,panadería especialidades hipermaxi,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
+162188,queque de banana hipermaxi lg,pastelería y masas típicas,pastelería hipermaxi,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
+162189,queque de zanahoria lg,pastelería y masas típicas,pastelería hipermaxi,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
+162190,queque marmolado hipermaxi lg,pastelería y masas típicas,pastelería hipermaxi,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 1623,harina doñarepa precocida maiz blanco 1 kg,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 1624,tripack fideo matarazzo spaguetti 3 un 400 gr,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 162434,alfajor arcor tatin blanco 33 gr,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -15182,7 +15186,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 551727,pack fideo carozzi 400 gr + salsa tomate,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 551733,salsa soya alta vida champiñon 1 l,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 551734,salsa soya alta vida champiñon 500 ml,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
-551735,salsa soya alta vida ostras 510 ml,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+551735,salsa soya alta vida ostras 510 gr,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 551736,salsa alta vida ostras 280 gr,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 551737,aceite alta vida de sesamo 500 ml,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 551738,tripack galleta club social,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -20282,6 +20286,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 660529,panal mami tala p 6x48 unidades,cuidado del bebé,pañales,12.1.3,Bienes y Servicios Diversos,subcategory
 660530,panal mami talla m 6x44 unidades,cuidado del bebé,pañales,12.1.3,Bienes y Servicios Diversos,subcategory
 660531,panal mami talla xxxg 6x28 unidades,cuidado del bebé,pañales,12.1.3,Bienes y Servicios Diversos,subcategory
+660534,ph noble plus x12,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
 660535,tp nova practica 15mt,cuidado del hogar,limpieza de cocina,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660536,bipack kotex femenina dia y noche,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
 660537,bipack kotex femenina ultrafina + maxi p,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -26592,6 +26597,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 809990,br hermetico plastico sanremo 400ml,bazar importación,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 810053,crema ponds clarante piel seca 100 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 810060,locion ponds dual biohidratacion 200 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+810075,crema ponds rejuvenes 50 gr.,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 810174,br set taper  plastico sanremo 4 un 280mlml,bazar importación,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 810175,br set taper  plastico sanremo 4 un 360ml,bazar importación,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 810178,br pastillero dia y noche plastico sanremo,bazar importación,bijouteria/cuidado personal,06.1.2,Salud,rule
