@@ -8279,6 +8279,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 280178,tripack jabon livy 3x85 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280179,pack desif girandosol + vajillero 1 lt,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 280180,pack girandosol desinf lavanda 2l+vajill,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+280181,shampoo dexe tinte light brown 400 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 280188,basurero papelera  peq flip 12 lt,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 280189,desod  crema speed stick xtreme night 70,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280190,desodor crema ladyspeed stick talco 70gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -8298,6 +8299,22 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 280213,procenex limpia vidrios 500ml,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 280214,papel higienol dh 12 unds,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
 280215,pape hig  noble dh  plus 12 und,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
+280218,lavandina ultra power 5lt,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+280233,pasta dental dexe total 12 120 gr,cuidado personal,cuidado bucal,12.1.3,Bienes y Servicios Diversos,subcategory
+280234,pasta dental dexe 7 efectos 120gr,cuidado personal,cuidado bucal,12.1.3,Bienes y Servicios Diversos,subcategory
+280235,pasta dental dexe anticaries 120gr,cuidado personal,cuidado bucal,12.1.3,Bienes y Servicios Diversos,subcategory
+280236,baby shampoo my care honey 400 ml,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
+280237,baby shampoo my care honey  200ml,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
+280238,baby shampoo my care aloe vera 400 ml,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
+280239,baby shampoo my care aloe vera 200 ml,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
+280240,baby shampoo my care pink 400 ml,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
+280241,baby shampoo mycare pink 200 ml,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
+280242,baby shampoo my care lavander 400 ml,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
+280243,baby shampoo my care lavander 200 ml,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
+280244,mascarilla facial dexe black pote 120gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+280245,mascarilla facial dexe black sachet 20gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+280246,mascarilla facial dexe gold pote 120ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+280247,mascarilla facial dexe gold sachet 20gr*,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280512,crema nivea 30 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 281077,cafe colcafe instantaneo polvo 170 gr,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 281703,galleta arcor hogareña 7 semillas 181 gr,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -17377,6 +17394,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 600362,frejol negro cocinero 460 gr,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 60038,gomita yummy frutilla c crema 150g,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 60039,gomita yummy sandia bsa 500g,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
+60040,pasta urbano linguini zaro gluten 500g,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 60041,pasta urbano spaguetti zero gluten 500g,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 60042,pasta urbano penne zero gluten 500g,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 60043,harina mix urbano zero gluten 1kg,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -17581,6 +17599,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 609317,elfo navideño,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 609318,elfo navideño rojo,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 609319,elfo navideño grinch,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+609502,pan basurero de metal  5 lt,bazar importación,baño general,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 609581,pan molde p/ hielo  21cubos,bazar importación,cocina general,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 609699,pan flotador inflable  disney,bazar importación,temporada verano,—,Excluido (temporada),subcategory
 609702,pan flotador inflable  disney ni¥a,bazar importación,temporada verano,—,Excluido (temporada),subcategory
@@ -20107,7 +20126,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 660229,shampoo sedal toque de seda 190 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 660230,desodorante en aerosol dove intensive care y frambuesa pack 2 un 150 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 660231,mascarilla de tratamiento sedal toque de seda 300 gr,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
-660234,serum oleo capilar sedal toque de seda 60 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+660234,serum oleo capilar sedal toque de seda 60 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 660235,serum capilar sedal toque de seda 100 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 660236,shampoo carissa anticaspa doypack 750 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 660246,shampoo classic for men sin sal 950 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -20250,6 +20269,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 660421,suavizante de ropa fantastico - floral 1,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660422,antigrasa fantastico 860ml,cuidado del hogar,limpieza de cocina,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660423,limpia vidrios fantastico 860ml,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+660424,antigrasa fantastico refill 860ml,cuidado del hogar,limpieza de cocina,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660425,limpia vidrios fantastico - refill 860ml,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660426,antigrasa fantastico 5 lt,cuidado del hogar,limpieza de cocina,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660427,limpia vidrio fantastico 5l,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -20281,6 +20301,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 660461,na pancha det limon 4800gr x1u,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660462,lactovit lactourea bm 1000ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 660524,saca grasa pulpin original 700 ml,cuidado del hogar,limpieza de cocina,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+660525,saca grasa pulpin 5l,cuidado del hogar,limpieza de cocina,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660526,esponja pulpin x4,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660527,facial elite profesional 30x60,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
 660529,panal mami tala p 6x48 unidades,cuidado del bebé,pañales,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -24547,6 +24568,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 69123,cerveza potosina pilsener lta 269ml,bebidas,cervezas,02.1.3,Bebidas Alcohólicas y Tabaco,subcategory
 69124,fideo carozzi mariposa 250 gr,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 69125,gin chairu dry bot 750ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
+69126,marsmallows buffys twister frutal 125g,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 69127,salchicha frisa t viena lta 180g,abarrotes,comidas en conserva,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 691285,leche condensada mococa 395 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 69131,gomita mogul jelly terrorifico 50g,abarrotes,temporada,—,Excluido (temporada),subcategory
@@ -24942,6 +24964,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 760228,paleta especial frutos rojos cayara 100 gr.,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 760235,paleta especial menta chispas choc.cayara 100 gr.,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 760239,yogurt bebible friedland probiotico coco 1 l,lácteos y derivados,yogures,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
+760311,paleta rellena maracuya leche cond.cayara 120 gr.,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 760324,palet rellena crema am.y oreo cayara 120 gr.,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 760335,paleta rellena frutilla leche cond.cayara 120 gr.,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 760569,pasta dental colgate junior 100 gr,cuidado personal,cuidado bucal,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -25222,6 +25245,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 768517,leche natural barista impostor 800 ml,lácteos y derivados,leches,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 768724,nuggets de trucha titikaka 500 gr,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 768729,dulcecitos cunapecitos mayser 150 grs. bolsa,pastelería y masas típicas,masas típicas externas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
+768732,champi¤on ostra congelada slan 500 grs.,congelados,pulpas y frutas congeladas,01.1.6,Alimentos y Bebidas No Alcohólicas,subcategory
 768902,queso sancor corazon de horma fontina 240 gr,lácteos y derivados,quesos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 768957,papa precocida simplot congelada corte fino 2250 gr,congelados,masas y comidas congeladas,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 768969,queso reggianito melincue argentino kg,lácteos y derivados,quesos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
