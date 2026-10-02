@@ -3390,7 +3390,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 1618,baton garoto creme leite 16 gr,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 161928,mortadela jamonada con locoto hipermaxi kg,fiambres,fiambres hipermaxi,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 161929,jamon de pollo hipermaxi reducido en sodio kg,fiambres,fiambres hipermaxi,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
-161951,queque de chocolate lg,pastelería y masas típicas,pastelería hipermaxi,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
+161951,queque de chocolate hipermaxi lg,pastelería y masas típicas,pastelería hipermaxi,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 162035,prelavado vanish blanco con gatillo 500 ml,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 162036,prelavado vanish blanco doypack 400 ml,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 162041,lavavajilla mr.flash pack naranja 1200 ml,cuidado del hogar,limpieza de cocina,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -3404,7 +3404,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 162165,cuñape congelado hipermaxi 8 un,congelados,masas y comidas congeladas,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 162184,rosca de pascuas hipermaxi,panadería,panadería especialidades hipermaxi,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 162188,queque de banana hipermaxi lg,pastelería y masas típicas,pastelería hipermaxi,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
-162189,queque de zanahoria lg,pastelería y masas típicas,pastelería hipermaxi,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
+162189,queque de zanahoria hipermaxi lg,pastelería y masas típicas,pastelería hipermaxi,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 162190,queque marmolado hipermaxi lg,pastelería y masas típicas,pastelería hipermaxi,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 1623,harina doñarepa precocida maiz blanco 1 kg,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 1624,tripack fideo matarazzo spaguetti 3 un 400 gr,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -14522,6 +14522,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 550410,quinua mixta sumaj yapay 400 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 550411,vino santa ana blanco clasico 750 ml,bebidas,vinos y champagne,02.1.2,Bebidas Alcohólicas y Tabaco,subcategory
 550412,vino santa ana tinto clasico 750 ml,bebidas,vinos y champagne,02.1.2,Bebidas Alcohólicas y Tabaco,subcategory
+550413,licor de anis dolz  750ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 550414,barra quinua con chia chocolatada 30 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 550415,six pack quinua pop quinut 20 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 550425,café irupana 100 puro en grano 500 gr,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -23883,6 +23884,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 674913,huevo sofia maple 30 c,lácteos y derivados,huevos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 674917,yogurt natural fathyr 200 grs,lácteos y derivados,yogures,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 674918,pacu eviscerado y sellado al vacio kilogramo,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
+674919,costillas de pacu selladas al vacio kilogramo,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 674920,paiche fileteado y sellado al vacio kilogramo,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 674922,pierna muslo pollo sofia congelado bolsa 2kgr,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 674923,salchichon a granel pio rico kgr,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -23913,8 +23915,8 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 674953,pack 3x2  lyoneza/ q chancho y cervecero al vacio stege,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 674954,"pack cazador, lyoneza, queso de chancho torito 3x2",fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 674955,ceviche (titikaka) audax 250,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
-674956,paleta tradicion canela - maracuya delizia 70ml,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
-674957,paleta tradicion canela - leche delizia 70ml,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
+674956,paleta tradicion canela - maracuya deliz,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
+674957,paleta tradicion canela - leche delizia,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 674958,pilfrut cherry 175ml bolsa,lácteos y derivados,leches,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 674959,biogurt lgg ra frutos amarillos 1kgr,lácteos y derivados,yogures,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 674960,yogurt griego delizia pie de limon,lácteos y derivados,yogures,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
