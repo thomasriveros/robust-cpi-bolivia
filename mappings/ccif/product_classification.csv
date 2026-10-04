@@ -3400,6 +3400,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 162074,mortadela primavera mixta hipermaxi al vacio,fiambres,fiambres hipermaxi,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 1621,harina doñarepa precocida maiz amarillo 1 kg,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 162104,pernil ahumado hipermaxi,fiambres,fiambres hipermaxi,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
+162145,queque de vainilla lg,pastelería y masas típicas,pastelería hipermaxi,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 162154,queque de banana,pastelería y masas típicas,pastelería hipermaxi,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 162165,cuñape congelado hipermaxi 8 un,congelados,masas y comidas congeladas,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 162184,rosca de pascuas hipermaxi,panadería,panadería especialidades hipermaxi,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -6573,6 +6574,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 231771,limpia piso maxibrill ultra bosque 6 lts,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 231772,limpia piso maxibrill ultra bosque 1800,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 231775,limpia piso maxibrill ultra  lavanda1800,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+231777,limpia piso maxibrill ultra  alegra dia,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 231778,limpia piso maxibrill ultra alegra dia 9,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 231779,limpia piso maxibrill leche lavanda 1800,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 231780,limpia bano maxibrill rcga 940 ml,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -8231,6 +8233,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 280108,esponja  algabo bano exfoliante,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280109,desodorante algabo  rollon men 60 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280111,detergente borita hipoalerg 1400 ml,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+280112,detergente liq borita suavidad 3 lt,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 280113,jabon arthe coco rosamosqueta 85g,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280114,jabon arthe coco avena 85 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280115,jabon arthe coco macadamia 85 g,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -8315,6 +8318,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 280245,mascarilla facial dexe black sachet 20gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280246,mascarilla facial dexe gold pote 120ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280247,mascarilla facial dexe gold sachet 20gr*,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+280428,pack papel elite  duo  dj 6x8,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
 280512,crema nivea 30 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 281077,cafe colcafe instantaneo polvo 170 gr,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 281703,galleta arcor hogareña 7 semillas 181 gr,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -10816,6 +10820,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 339137,cepillo sanitario condor ovalado,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 339141,tinte casting tono 300 castaño oscuro,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 339220,maquina de afeitar gillette mach3 1 un,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+339340,detergente liq.borita dpack sintetico 3,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 339440,jabon barra zote blanco 400 gr,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 339717,paño esponja virulana spontex,cuidado del hogar,productos americanos,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 339733,limpiador desinfectante procenex flores jardin 900 ml,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -16871,6 +16876,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 554147,salsa soya kikko bot 500 ml,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554148,salsa soya kikko bot 1 lt,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554155,cereal irupana nutri choc cja 440 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+554156,cereal irupana nutri frutti cja 440 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554157,cereal irupana nutri choc duo cja 440 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554158,garoto garoto baton rechead creme 90g,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 554159,cerveza bendita lemon drop lta 310 ml,bebidas,cervezas,02.1.3,Bebidas Alcohólicas y Tabaco,subcategory
@@ -20243,6 +20249,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 660391,suavizante de ropa fantastico - floral 5,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660392,suavizante de ropa fantastico - bebe 5l,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660393,lavavajilla fantastico - limalimon 1.100,cuidado del hogar,limpieza de cocina,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+660394,lavavajilla fantastico - limon 1.100 ml,cuidado del hogar,limpieza de cocina,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660395,lavavajilla fantastico - lima limon 5l,cuidado del hogar,limpieza de cocina,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660396,lavavajilla fantastico - limon 5l,cuidado del hogar,limpieza de cocina,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660397,lavavajilla fantastico - floral 5l,cuidado del hogar,limpieza de cocina,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
