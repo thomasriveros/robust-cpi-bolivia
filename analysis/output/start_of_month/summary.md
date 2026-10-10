@@ -1,6 +1,6 @@
 # Paper analysis: start-of-month dating
 
-- Tracker data through: 2026-10-09
+- Tracker data through: 2026-10-10
 - Latest official observation placed on: 2026-09-01
 - Official series rebased to July 2024 = 100; synthetic inflation is a 30-day change.
 
