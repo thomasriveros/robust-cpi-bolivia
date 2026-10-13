@@ -5586,9 +5586,9 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 225181,tira  manchas liq urca  1.500 ml,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 225182,repuesto mopa condor pva 1620,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 225183,pasta dental carissa triple acción 90 gr,cuidado personal,cuidado bucal,12.1.3,Bienes y Servicios Diversos,subcategory
-225184,jabon barra de ducha revive floral 340 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+225184,jabon liquido de ducha revive floral 340 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 225185,te lupi mate manzanilla economico 20 sobres,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
-225186,jabon barra de ducha revive durazno 340 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+225186,jabon liquido de ducha revive durazno 340 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 225189,shampoo carissa anticaida ack 450 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 225190,shampoo carissa bebe 450 ml,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
 225192,suavizante ropa maxibrill clasico 5 l,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -5846,8 +5846,8 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 228085,crema de manos revive aloe vera 90 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 228086,crema corporal revive aloe vera 400 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 228088,talco para bebe carissa baby clasico 650 gr,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
-228089,jabon barra en espuma flores blancas revive 250 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
-228090,jabon barra en espuma herbal fresh revive 250 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+228089,jabon liquido en espuma flores blancas revive 250 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+228090,jabon liquido en espuma herbal fresh revive 250 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 228091,bolsa basura magia verde 60x63 cm 35 lts,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 228092,lapiz de ojos vogue en gel resist 1.2 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 228093,acondicionador carla lorena avena700 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -5966,7 +5966,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 228241,pastilla de baño todo brillo fragancia citrica 110 gr,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 228242,protector solar revive pote 120 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 228243,protector solar revive pote 200 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
-228244,jabon barra intimo revive pote 200 ml,cuidado personal,cuidado del adulto,12.1.3,Bienes y Servicios Diversos,subcategory
+228244,jabon liquido intimo revive pote 200 ml,cuidado personal,cuidado del adulto,12.1.3,Bienes y Servicios Diversos,subcategory
 228245,desinfectante aerosol todo brillo lavanda 500 ml,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 228246,desinfectante aerosol todo brillo original 500 ml,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 228247,desinfectante aerosol todo brillo bebe 500 ml,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -11933,6 +11933,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 384208,tinte nutrisse tono 57 caramelo,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 38425,budin kiko frutilla 60 gr,abarrotes,repostería,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 384259,tinte excellence tono 6.3 rubio oscuro dorado,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
+385204,esponja esfrebom fibra parrilla  1 un,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 385281,ambientador automatico air wick lavanda 250 ml,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 385336,franela acento 50x40 cm,cuidado del hogar,productos americanos,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 385352,esponja limppano multiuso 4 un,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -16373,7 +16374,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 553336,leche en polvo de sesamo fit mit pote 500 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 553337,leche en polvo de almendra fit mit pote 500 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 553338,leche en polvo de coco fit mit pote 500 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
-553339,leche avena polvo fit mit pote 500 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+553339,leche en polvo de avena fit mit pote 500 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 553340,leche dorada en polvo fit mit pote 500 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 553341,gin insurgente frutilla 1 l,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 553342,gin insurgente frutos del bosque 1 l,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
@@ -16815,6 +16816,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 554043,mani maniaco salado uvas pasas 1000gr,abarrotes,snack,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554044,cerveza burguesa 47 bot 600 ml,bebidas,cervezas,02.1.3,Bebidas Alcohólicas y Tabaco,subcategory
 554045,singani reconquista clasico 750 ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
+554046,singani reconquista seleccion 750 ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 554047,singani reconquista reserva 750 ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 554048,pack 6 coca cola 300 ml,bebidas,gaseosas,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 554049,caramelo candy spray barbie 25 ml,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -16936,8 +16938,10 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 554198,gomita ambrosoli ambroreino 90g,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 554199,gomita ambrosoli ambrosaurios 90g,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 554200,chocol calabaza pint bosa verde 65g,abarrotes,temporada,—,Excluido (temporada),subcategory
+554201,chocol calabaza pint boca amarill 65g,abarrotes,temporada,—,Excluido (temporada),subcategory
 554203,chocolate breick pint boca rojo 65g,abarrotes,temporada,—,Excluido (temporada),subcategory
 554206,chicle splot chicle zombie 205 gr,abarrotes,temporada,—,Excluido (temporada),subcategory
+554225,ketchup del valle tradicional 410 gr,abarrotes,aderezos,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554333,cerveza paceña lata roja 473 cc,bebidas,cervezas,02.1.3,Bebidas Alcohólicas y Tabaco,subcategory
 554466,detergente liquido ola futuro limpieza completa 5 l,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 554468,suavizante ropa ola suavecito original 5 l,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -26085,7 +26089,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 789585,pan de ajo alimentar 280 gr,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 789587,escabeche de berenjenas guaruja 350 gr,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 789588,bondiola ahumada de cerdo merida 100 gr,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
-789590,leche evaporada bonle cremosa 400 gr,lácteos y derivados,leches,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
+789590,leche evaporada pil cremosa 400 gr,lácteos y derivados,leches,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 789593,lomo de cerdo ahumado personal merida 320 gr,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 789596,frutos del bosque congelado minuto verde 400 gr,congelados,pulpas y frutas congeladas,01.1.6,Alimentos y Bebidas No Alcohólicas,subcategory
 789614,bife de cerdo congelado sofia kg,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -27811,10 +27815,10 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 841000,ropa de mascota invierno n5-7,bazar,mascotas general,09.3.4,Recreación y Cultura,subcategory
 841005,chamarra de mascota n3-4,bazar,mascotas general,09.3.4,Recreación y Cultura,subcategory
 841080,auto espelhamento central sul 500 ml,bazar,automotriz,07.2.1,Transporte,subcategory
-841082,ch 26 8 tomatodo termico 900ml azul borde transparente,bazar importación,menaje metálico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
-841083,ch 26 9 tomatodo termico 900ml verde borde transparente,bazar importación,menaje metálico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
-841084,ch 26 10 tomatodo termico 900ml gris borde transparente,bazar importación,menaje metálico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
-841102,ch 26 11 tomatodo termico 900ml fucsia borde transparente,bazar importación,menaje metálico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+841082,tomatodo termico azul borde transparente 900 ml,bazar importación,menaje metálico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+841083,tomatodo termico verde borde transparente 900 ml,bazar importación,menaje metálico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+841084,tomatodo termico gris borde transparente 900 ml,bazar importación,menaje metálico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+841102,tomatodo termico fucsia borde transparente 900 ml,bazar importación,menaje metálico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 841123,agua viscachani cereza 600 ml,bebidas,aguas,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 841162,ch j26 1 fuente antideslizante 45x31cm  bandeja,bazar importación,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 841164,ch j26 2 fuente cuadrada antideslizante  bandeja,bazar importación,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -28296,6 +28300,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 847360,ch 7 8 mascara esqueleto con un ojo 17x27cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 847361,ch 7 9 mascara esqueleto blanco 24x16 5cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 847362,ch 7 10 mascara calavera con capucha 17x26cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+847364,ch 7 13 cadena con calaveras pequenas 11x8x6 5cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 847365,ch 7 14 antifaz demonio rojo 28x19cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 847369,chocolate repostero para ti chocolate 250 gr,abarrotes,repostería,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 847383,ch 7 19 bolsa murcielago naranja halloween 23x24cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
