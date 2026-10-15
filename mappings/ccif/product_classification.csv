@@ -4595,7 +4595,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 210051,papa frita pon chips clasica 160g,abarrotes,snack,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 210052,masticable dori lua cheia chantilly 500g,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 210053,masticable dori lua cheia frutas 500g,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
-210054,caramelo dori hortela mint bsa 500g,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
+210054,caramelo hortela mint dori bolsa 500 gr,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 210055,san bitter palmenia 1lt,bebidas,licores,01.2.2,Alimentos y Bebidas No Alcohólicas,rule
 210057,cafe altomayo instant gourmet fco 170g,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 210062,energizante rush mundial lta 269ml,bebidas,energizantes,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -7801,7 +7801,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 254983,chocolate toblerone milk 100 gr,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 255023,shampoo tresemme liso keratina 880 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 255026,acondicionador tresemme liso keratina 500 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
-255092,cereal nestle trix 230 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+255092,cereal nestle trix 230 gr,abarrotes,productos importados,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 255106,cereal nestle corn flakes 500 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 255220,detergente polvo foca 5 kg,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 255224,body splash aromasense clear moon 230 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -8334,6 +8334,8 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 280430,shampoo ballerina manzanilla dp 350ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 280432,crema nivea piel normal 100ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280433,toalla higienica carissa dia 10 unds,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
+280454,masc  pestanas body  wtp very black,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+280455,masc  pestana  body  very black wsh,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280512,crema nivea 30 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 281077,cafe colcafe instantaneo polvo 170 gr,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 281703,galleta arcor hogareña 7 semillas 181 gr,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -10036,7 +10038,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 31481,mermelada dfrut guayaba 500 gr,abarrotes,"mermel, mieles",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 31482,mermelada dfrut higo 500 gr,abarrotes,"mermel, mieles",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 31483,avena dcereal con chia 300 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
-31484,avena dcereal instantanea proteina 300 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+31484,avena dcereal instantanea proteina 300 gr,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 31485,avena dcereal frutos deshidratado 300 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 31486,avena dcereal manzana verde canela 300 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 31487,sopa instantanea nissin ufo carne 97 gr,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -10395,6 +10397,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 328251,salsa soya kikkoman 10 oz,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 328319,salsa soya lkk mariscos 410 ml,abarrotes,aderezos,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 328332,saladito salty mix vaso 120 gr,abarrotes,snack,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+328335,champagne chandon demi sec 750 ml,bebidas,vinos y champagne,02.1.2,Bebidas Alcohólicas y Tabaco,subcategory
 328336,champagne chandon rose 750 ml,bebidas,vinos y champagne,02.1.2,Bebidas Alcohólicas y Tabaco,subcategory
 328337,licor 3 plumas café al coñac 750 ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 328338,licor 3 plumas chocolate 750 ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
@@ -16914,7 +16917,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 554162,bebida sparkly ice blueberry lta 300 ml,bebidas,licores,01.2.2,Alimentos y Bebidas No Alcohólicas,rule
 554163,galletas rondita chocol frutill 240g,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 554164,galleta ronditas vainilla chocol 240g,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
-554165,gaseosa fanta ghost face 500ml,bebidas,gaseosas,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
+554165,gaseosa ghost face fanta 500 ml,bebidas,gaseosas,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 554166,jugo la granja mandarina pet 2 lt,bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 554167,mermelada reyna frutilla pote 200g,abarrotes,"mermel, mieles",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 554171,masticable yogurte fresa bsa 500 gr,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -16941,9 +16944,10 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 554198,gomita ambrosoli ambroreino 90g,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 554199,gomita ambrosoli ambrosaurios 90g,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 554200,chocol calabaza pint bosa verde 65g,abarrotes,temporada,—,Excluido (temporada),subcategory
-554201,chocol calabaza pint boca amarill 65g,abarrotes,temporada,—,Excluido (temporada),subcategory
-554203,chocolate breick pint boca rojo 65g,abarrotes,temporada,—,Excluido (temporada),subcategory
+554201,chocolate pint boca amarilla chocol calabaza 65 gr,abarrotes,temporada,—,Excluido (temporada),subcategory
+554203,chocolate breick pint boca rojo 65 gr,abarrotes,temporada,—,Excluido (temporada),subcategory
 554206,chicle splot chicle zombie 205 gr,abarrotes,temporada,—,Excluido (temporada),subcategory
+554224,ketchup del valle picante 410 gr,abarrotes,aderezos,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554225,ketchup del valle tradicional 410 gr,abarrotes,aderezos,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554333,cerveza paceña lata roja 473 cc,bebidas,cervezas,02.1.3,Bebidas Alcohólicas y Tabaco,subcategory
 554466,detergente liquido ola futuro limpieza completa 5 l,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -20372,11 +20376,13 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 660535,tp nova practica 15mt,cuidado del hogar,limpieza de cocina,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660536,bipack kotex femenina dia y noche,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
 660537,bipack kotex femenina ultrafina + maxi p,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
+660539,dove serum corp firme pro retinol 400ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 660548,cafe copacabana exportado tostado 250 gr,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 660557,ac granada +ah dp 18x350ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 660559,ac sin sal palta 18x350ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 660560,sh sin sal palta dp 18x350ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 660561,ac manzanilla dp 18x350ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
+660562,pack ahorro limpieza   surtido,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660711,galleta noel octagonal surtida 260 gr,abarrotes,temporada,—,Excluido (temporada),subcategory
 660852,te frutte laxte 20 sobres,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 661150,insecticida tableta raid mata mosquito doble accion 24 un,cuidado del hogar,productos americanos,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -23823,7 +23829,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 674716,nuggets de trucha a/v mar de limon uni,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 674717,queso parrillero provoleta sanilac varios 250grs,lácteos y derivados,quesos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 674719,requeson jolden 200grs,lácteos y derivados,quesos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
-674720,requeson jolden 350grs,lácteos y derivados,quesos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
+674720,requeson jolden 330grs,lácteos y derivados,quesos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 674721,leche delizia fortificada 800 ml,lácteos y derivados,leches,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 674722,cassatta gold menta nordland 1000ml,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 674723,cassatta gold asai nordland 1000ml,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -24647,7 +24653,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 69127,salchicha frisa t viena lta 180g,abarrotes,comidas en conserva,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 691285,leche condensada mococa 395 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 69131,gomita mogul jelly terrorifico 50g,abarrotes,temporada,—,Excluido (temporada),subcategory
-69134,mogul mini gusanito halloween 80gr,abarrotes,temporada,—,Excluido (temporada),subcategory
+69134,gomita mogul mini gusanito halloween 80 gr,abarrotes,temporada,—,Excluido (temporada),subcategory
 69135,bon o bon arcor coco cja 150g,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 69136,ketchup en linea sin azuc bajo sodio 700,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 69139,pasta d mani dulcor clasica pet 350g,abarrotes,repostería,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -24668,7 +24674,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 69160,cereal simsa tropilus bsa 400g,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 69163,arroz norte premiun tipo1 5kg,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 69164,fernet buhero negro mandelo 700ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
-69165,gomita fini halloween arana 80g,abarrotes,temporada,—,Excluido (temporada),subcategory
+69165,gomita fini halloween araña 80 gr,abarrotes,temporada,—,Excluido (temporada),subcategory
 69167,fideo tratoria cabello de angel cortado 400 gr,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 69168,cafe windsor premium molido dp 225g,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 69169,cafe windsor premium molido dp 450g,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -24686,6 +24692,8 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 69194,bebida mambo mojito lta 355ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 69195,bebida mambo pina colada 355ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 69196,bebida mambo cocktail spritz 355ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
+69201,mojito urbano lta 550ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
+69202,bebida urbano blue lta 550ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 692125,huevos rolon mediano 30 un,lácteos y derivados,huevos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 692128,huevos rolon nutrirolon 12 un,lácteos y derivados,huevos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 692135,huevos rolon nutrirolon 6 un,lácteos y derivados,huevos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -25280,6 +25288,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 764714,leche chocolatada eba 800 ml,lácteos y derivados,leches,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 764726,mini cu¤ape cong.mil sabores x20 und.,congelados,masas y comidas congeladas,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 764729,fingers sab.crema y cebolla sofia 500 gr.,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
+764738,empanadas cong.de queso mil sabores caja x 5 und.,congelados,masas y comidas congeladas,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 764756,pan danes abdel masa madre unid.,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 764783,cuñapecitos mayser dulcecitos 200 gr,pastelería y masas típicas,masas típicas externas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 764812,pan molde multigrano victoria 580 gr.,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -26710,7 +26719,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 809858,ch 34 77 fantasma zombi colgante con luz y sonido a pilas 14,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 809859,ch 34 78 calabaza colgante con luz y sonido  120x27cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 809860,ch 34 79 muneca espeluznante colgante con luz y sonido 110x2,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-809861,ch 34 80 esqueleto fantasma colgante 120x70cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+809861,esqueleto fantasma colgante 120 x 70 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 809864,calabaza fantasma colgante,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 809865,ch 34 84 calabaza fantasma colgante a pilas 85x60cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 809866,adorno halloween pie 28x20 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
@@ -26728,9 +26737,9 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 809880,calabaza con luz,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 809881,adorno halloween calabaza esqueleto 13x7 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 809882,ch 34 101 sombrero de bruja halloween color surtido 37x35cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-809883,ch 34 102 vincha con sombrero de bruja 25x16cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+809883,vincha con sombrero de bruja 25 x 16 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 809884,escoba de bruja colores surtido 80x9 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-809885,ch 34 104 pinza para cabello mano esqueletica 16x8 16cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+809885,pinza para cabello mano esqueletica 16 x 8.16 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 809886,ch 34 105 vincha halloween con velo 19x60cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 809888,vincha calabaza araña 25x26 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 809889,vincha halloween telaraña con ojos,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
@@ -27441,8 +27450,8 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 829867,foco ecohome 10w e27 6500k hv1,bazar,ferretería,05.5.2,"Muebles, Bienes y Servicios Domésticos",subcategory
 829870,foco ecohome ledbulb 12w e27 6500k hv1,bazar,ferretería,05.5.2,"Muebles, Bienes y Servicios Domésticos",subcategory
 829876,queso emmentaler suiza kg,lácteos y derivados,quesos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
-829901,ch 9652 mano p pedir dulces,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-829913,ch 9671 tequilero halloween set x4,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+829901,mano para pedir dulces,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+829913,tequilero halloween ch 9671 set por 4 unidades,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 829959,adorno para aarbol,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 829970,queso sancor por salut light untable 190 gr,lácteos y derivados,quesos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 830004,dulce de leche pil 500 gr,lácteos y derivados,dulces de leche y manjares,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -28306,71 +28315,71 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 847334,gaseosa simba pomelo 2 l,bebidas,gaseosas,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 847357,ch 7 1 fantasma esqueleto con cadena colgante halloween,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 847358,ch 7 2 fantasma esqueleto colgante halloween 80x50cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-847359,ch 7 3 mascara it halloween 20x28cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+847359,mascara it halloween 20 x 28 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 847360,ch 7 8 mascara esqueleto con un ojo 17x27cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 847361,ch 7 9 mascara esqueleto blanco 24x16 5cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-847362,ch 7 10 mascara calavera con capucha 17x26cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-847364,ch 7 13 cadena con calaveras pequenas 11x8x6 5cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-847365,ch 7 14 antifaz demonio rojo 28x19cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+847362,mascara calavera con capucha 17 x 26 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+847364,cadena con calaveras pequeñas 11 x 8 x 6.5 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+847365,antifaz demonio rojo 28 x 19 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 847369,chocolate repostero para ti chocolate 250 gr,abarrotes,repostería,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
-847383,ch 7 19 bolsa murcielago naranja halloween 23x24cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+847383,bolsa murcielago naranja halloween 23 x 24 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 847397,encendedor ronson largo,bazar,churrasquería,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 847399,encendedor tubo negro - ronson,bazar,churrasquería,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 847421,ch 7 20 bolsa telarana negra halloween 23x24cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 847422,ch 7 33 gafas calabaza halloween 13 5x7cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 847446,dispensador de gel 200 ml,bazar,bijouteria/cuidado personal,05.4.0,"Muebles, Bienes y Servicios Domésticos",rule
-847465,ch 7 39 bolsa calabaza naranja 34x40cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+847465,bolsa calabaza naranja 34 x 40 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 847486,trajeo biosegu traje drecuentret,bazar,bioseguridad,06.1.2,Salud,rule
 847488,mascara de proteccion,bazar,bioseguridad,06.1.2,Salud,rule
 847519,posillo p/tinte -10.50,bazar,bijouteria/cuidado personal,12.1.3,Bienes y Servicios Diversos,subcategory
 847521,ponchillo p/peluqueria-24.90,bazar,bijouteria/cuidado personal,12.1.3,Bienes y Servicios Diversos,subcategory
-847526,ch 7 40 bolsa fantasma boo morado 34x40cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-847534,ch 7 43 vincha catrina halloween 23x19cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+847526,bolsa fantasma boo morado 34 x 40 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+847534,vincha catrina halloween 23 x 19 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 847571,ch 7 45 accesorio halloween para cabello 10cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 847604,espinaca agua pura valle verde 270 gr,frutas y verduras,gourmet,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
 847607,lechuga mixta la huerta 190 gr,frutas y verduras,gourmet,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
 847610,hongos ostra frescos la huerta 200 gr,frutas y verduras,gourmet,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
-847614,ch 7 47 parches para ojo set x3 halloween 7x4cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+847614,parches para ojo set por 3 unidades halloween 7 x 4 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 847615,banana 1 kg,frutas y verduras,frutas,01.1.6,Alimentos y Bebidas No Alcohólicas,subcategory
-847627,ch 7 48 arana halloween set x4 fluorecente 10x7cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-847629,ch 7 50 arana halloween set x4 negro 10x7cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-847692,ch 7 51 arana halloween set x2 negro 10x7cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+847627,araña halloween fluorescente set por 4 unidades 10 x 7 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+847629,araña halloween negro set por 4 unidades 10 x 7 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+847692,araña halloween negro set por 2 unidades 10 x 7 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 847784,juego de cuchillos 8 un,bazar,articulos de cocina,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
-847807,ch 7 52 aranas set x48 pzas naranja 4x4 5cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-847842,ch 7 56 ojos  halloween con luz a pilas 2cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+847807,arañas naranja set por 48 unidades 4 x 4.5 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+847842,ojos halloween con luz a pilas 2 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 847848,mini cepillo p/cartera c/fucsia,bazar,bijouteria/cuidado personal,12.1.3,Bienes y Servicios Diversos,subcategory
 847850,mini cepillo p/cartera plateado,bazar,bijouteria/cuidado personal,12.1.3,Bienes y Servicios Diversos,subcategory
-847853,ch 7 57 aranas set x48 pzas 4x4 5cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-847856,ch 7 58 stickers halloween 5x7cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+847853,arañas set por 48 unidades 4 x 4.5 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+847856,stickers halloween 5 x 7 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 847857,pulverizador 300ml  ref. p9793,bazar,bijouteria/cuidado personal,05.4.0,"Muebles, Bienes y Servicios Domésticos",rule
 847860,pulverizador 2 1 l,bazar,bioseguridad,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 847861,pulverizador 1 l,bazar,bijouteria/cuidado personal,05.4.0,"Muebles, Bienes y Servicios Domésticos",rule
 847863,porta jabon liq. 280ml ref. p9476,bazar,bioseguridad,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 847864,porta jabon liquido 280ml ref. p12979,bazar,bioseguridad,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 847865,porta jabon liq. 480ml ref. p12831,bazar,bioseguridad,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
-847872,ch 7 59 calabazas halloween con luz a pilas 2cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-847884,ch 7 70 bandeja calavera negra halloween 23x33cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-847886,ch 7 71 cerebro en bandeja halloween 14x10cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-847888,ch 7 72 bandeja de organo haloween 9x7cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-847893,ch 7 73 m.scara de demonio negro y plateado 16x33cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+847872,calabazas halloween con luz a pilas 2 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+847884,bandeja calavera negra halloween 23 x 33 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+847886,cerebro en bandeja halloween 14 x 10 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+847888,bandeja de organo halloween 9 x 7 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+847893,mascara de demonio negro y plateado 16 x 33 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 847910,estufa briara giratoria 160 brc,bazar,electrodoméstico/línea blanca-hogar,05.3.2,"Muebles, Bienes y Servicios Domésticos",subcategory
-847914,ch 7 74 corazon en bandeja halloween 15x9cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-847919,ch 7 77 varillas fluorecentes luminosas x94 pzas 21 5cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-847931,ch 7 78 mascara calabaza fluorecente halloween 19x6cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-847932,ch 7 79 mascara murcielago fluorescente halloween 15 2cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+847914,corazon en bandeja halloween 15 x 9 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+847919,varillas fluorescentes luminosas set por 94 unidades 21.5 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+847931,mascara calabaza fluorescente halloween 19 x 6 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+847932,mascara murcielago fluorescente halloween 15.2 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 847934,zippero mascota avena procao 500 ml,bazar,articulos de cocina,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 847969,kendy caja kendyfresh  1 baja 350ml x1u 61320,bazar,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 848001,kendy jarra mixer 1.7 lt x1u 61470,bazar,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 848018,kendy caja fresh redonda  3baja 1.4lt x1u,bazar,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 848026,kendy caja fresh redonda 1baja 0.32lt x1u,bazar,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 848034,ch 7 80 tridente luminoso halloween surtido 20 32cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-848045,ch 7 81 varilla calavera luminosa halloween 20x6cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+848045,varilla calavera luminosa halloween 20 x 6 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 848052,ch 7 82 varilla calareva luminosa happy birthday 20x3 5cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 848056,ch 7 83 varilla calavera luminosa feliz cumpleanos 18x5cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-848076,ch 7 84 calabaza gato con mango 11x11cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+848076,calabaza gato con mango 11 x 11 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 848077,ch 7 85 mascara ojos fluorescente halloween 15 2cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 848078,ch 7 86 tridente luminoso halloween surtido 20x7cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-848079,ch 7 87 varilla catrina luminosa halloween 6x19cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+848079,varilla catrina luminosa halloween 6 x 19 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 848081,ch 7 88 mascara fluorescente halloween 15 2cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 848082,ch 7 89 varilla dinosaurio luminoso surtid 6x22cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 848083,ch 7 90 anillo limunoso halloween surtido 4x5cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
@@ -28382,21 +28391,21 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 848237,hw juego lanzador d carros hot wheels,juguetería,juguetería marcas,09.3.1,Recreación y Cultura,subcategory
 848252,ch 7 92 varilla unicornio luminoso surtido 6x22cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 848316,ch 7 93 varilla halloween luminoso 7x19cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-848354,ch 7 95 barra luminosa glou stick surtido 35x2cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-848355,ch 7 96 adorno con luz halloween calavera 12x5cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+848354,barra luminosa glow stick surtido 35 x 2 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+848355,adorno con luz halloween calavera 12 x 5 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 848356,ch 7 97 adorno con luz halloween telarana 8 5x8 5cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 848399,hsbr nerf refill mega fortnite,juguetería,juguetería marcas,09.3.1,Recreación y Cultura,subcategory
 848472,licuadora philips walita,bazar,electrodoméstico/línea blanca-hogar,05.3.2,"Muebles, Bienes y Servicios Domésticos",subcategory
 848531,trianguloo p/ auto auto 2recuentre  d,bazar,automotriz,07.2.1,Transporte,subcategory
-848538,ch 7 98 momia halloween a pilas  91x16x12cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+848538,momia halloween a pilas 91 x 16 x 12 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 848552,ch 7 100 hoz halloween 100x32cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-848567,ch 7 102 motosierra halloween 61x12cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-848603,ch 7 103 espada halloween 63x15cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+848567,motosierra halloween 61 x 12 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+848603,espada halloween 63 x 15 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 848622,ch 7 107 adorno garfio halloween 32x14cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 848661,foco led rayovac 8w 750ml luz amarrilla,bazar,ferretería,05.5.2,"Muebles, Bienes y Servicios Domésticos",subcategory
 848680,estufa halogena heater nskt 160,bazar,electrodoméstico/línea blanca-hogar,05.3.2,"Muebles, Bienes y Servicios Domésticos",subcategory
-848683,ch 7 110 adorno surtido halloween set x 5pzas,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-848685,ch 7 113 vincha calabazas hallowen 27x35cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+848683,adorno surtido halloween set por 5 unidades,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+848685,vincha calabazas halloween 27 x 35 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 8487,cafe iguazu descafeinado pouch 50 gr,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 848708,caramelo ring pop surtido 14 gr,abarrotes,productos americanos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 848712,grasa en spray 10 oz,bazar,automotriz,07.2.1,Transporte,subcategory
@@ -28432,15 +28441,15 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 848779,"pila energizer lithio aaa2 1,5v",bazar,ferretería,05.5.2,"Muebles, Bienes y Servicios Domésticos",subcategory
 848809,trinche churrasquero 2x1,bazar,articulos de cocina,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 848826,bolsa zipper guardar 20 un,bazar,articulos de cocina,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
-848871,ch 7 114 vincha murcielagos negros hallowen 27x34cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-848908,ch 7 116 vincha enfermera 20x20cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-848909,ch 7 121 balde calabaza negra halloween 18x17cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+848871,vincha murcielagos negros halloween 27 x 34 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+848908,vincha enfermera 20 x 20 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+848909,balde calabaza negra halloween 18 x 17 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 848925,jc.vela .5,bazar,temporada halloween,—,Excluido (temporada),subcategory
 848937,jan vinchas calabazas hollewen 14,bazar,temporada halloween,—,Excluido (temporada),subcategory
 848940,jan vinchas cuernos hallowen 14,bazar,temporada halloween,—,Excluido (temporada),subcategory
 848944,galleta suprema crackers 1 kg,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 849046,ch 7 137 candelabro halloween con luz 31x12 5cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-849047,ch 7 140 vaso calavera c luz naranja halloween 4x5 5cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+849047,vaso calavera con luz naranja halloween 4.5 x 5.5 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 849055,jan cojin navidad 15,bazar,living y dormitorio,05.1.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 849109,vincha navidena venado -13,bazar,temporada navidad,—,Excluido (temporada),subcategory
 849111,"vincha navidena noel, arbol, muneco - 10",bazar,temporada navidad,—,Excluido (temporada),subcategory
@@ -28463,18 +28472,18 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 849317,pilas alcalinas panasonic aaa 8,bazar,ferretería,05.5.2,"Muebles, Bienes y Servicios Domésticos",subcategory
 849318,pilas panasonic alcalina aa 4 un,bazar,ferretería,05.5.2,"Muebles, Bienes y Servicios Domésticos",subcategory
 849319,pilas panasonic alcalina aa 2 un,bazar,ferretería,05.5.2,"Muebles, Bienes y Servicios Domésticos",subcategory
-849347,ch 7 141 vaso halloween surtido 9x13cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+849347,vaso halloween surtido 9 x 13 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 849364,ch 7 145 arana peluda a pilas halloween 70x23cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 849390,jabon liquido ballerina crema humectacion 350 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
-849404,ch 7 177 mascara de terror halloween 25x21cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+849404,mascara de terror halloween 25 x 21 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 849414,jabon liquido ballerina hipoalergenico 350 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 849417,ch 7 178 mascara de terror halloween 25x21cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 849456,ch 7 190 calabaza antiestres surtido 6 5x6 5cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-849457,ch 7 191 sangre artificial halloween 30ml,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+849457,sangre artificial halloween 30 ml,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 849458,ch 7 206 adorno craneo halloween 10x9x6 5cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-849477,ch 7 213 vincha flores negras halloween 19x20cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+849477,vincha flores negras halloween 19 x 20 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 849478,ch 7 214 vincha catrina halloween 23x20cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-849488,ch 7 215 vincha ojos halloween 21x21cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+849488,vincha ojos halloween 21 x 21 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 849616,ch 7 22 mano verde halloween para dulces 63x19cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 849846,limpiador desinfectante ola aromatic flores 5 l,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 849850,mermelada campagnola durazno 454 gr,abarrotes,"mermel, mieles",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -28619,7 +28628,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 852488,ch 24 12 pie plastico halloween 21 5cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 852492,ch 24 17 bombilla halloween ondulada set x12 pzas,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 852499,ch 24 27 vincha martillo halloween,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-852502,ch 24 31 adornos halloween a cuerda,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+852502,adornos halloween a cuerda,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 852665,ch 21 101 bowl alto 15x7 5cm,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 852677,ch j14 4 adorno navideno papa noel parado 57cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 852692,ch j14 5 adorno navideno reno parado 32cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
@@ -29076,7 +29085,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 857021,veston aromatizante uva 120ml,bazar,automotriz,07.2.1,Transporte,subcategory
 857023,bombones breick color del amor,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 857024,ch 34 1 mascara calavera halloween 34x20cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-857025,ch 34 4 mascara monja sangrienta 32x19cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+857025,mascara monja sangrienta 32 x 19 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 857026,mascara calavera con cabello naranja,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 857027,ch 34 6 mascara calabaza halloween 34x18,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 857028,ch 34 7 mascara halloween 22x22cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
@@ -29090,12 +29099,12 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 857038,calabaza halloween con luz,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 857039,candelabro calabaza y fantasma con luz,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 857040,galleta oreo coca cola 216 gr,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
-857041,ch 34 19 lampara calabaza y fantasma con luces a pilas,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+857041,lampara calabaza y fantasma con luces a pilas,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 857042,ch 34 20 lampara calabaza y telarana con luces a pilas,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-857043,ch 34 21 candelabro esqueleto con luces a pilas 28x13cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+857043,candelabro esqueleto con luces a pilas 28 x 13 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 857044,adorno halloween araña con ojo,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 857045,adorno halloween mano esqueleto,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-857046,ch 34 24 fantasma halloween a pilas 6x3cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+857046,fantasma halloween a pilas 6 x 3 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 857047,ch 34 25 vincha botella halloween 33x15,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 857048,ch 34 26 vincha llave stilson halloween 33x15cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 857050,vincha halloween cuchillo de cocina,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
@@ -29104,7 +29113,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 857053,vincha halloween llave stilon,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 857054,alcaparras goya 56.7 gr,abarrotes,verduras en conserva,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
 857055,ch 34 31 vincha serrucho halloween,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-857056,ch 34 33 adorno arana para dulces,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+857056,adorno araña para dulces,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 857057,ch 34 34 panero telarana halloween,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 857058,ch 34 36 prisionero en celda a pilas 23x24x28cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 857059,ch 34 37 zombi  enjaulado a pilas,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
@@ -29122,10 +29131,10 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 857076,ch 34 51 muneca espeluznante colgante con sonido y luz 60x80,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 857078,ch 34 52 escoba de tul para bruja halloween 100x16cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 857079,ch 34 53 escoba para bruja 90x4cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-857080,ch 34 54 lampara colgante bruja y murcelagos,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-857081,ch 34 55 lampara colgante calabaza,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-857082,ch 34 56 lampara colgante arana,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-857083,ch 34 57 lampara colgante lapida,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+857080,lampara colgante bruja y murcielagos,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+857081,lampara colgante calabaza,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+857082,lampara colgante araña,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+857083,lampara colgante lapida,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 857084,ch 34 58 adorno surtido halloween set x5 pzas,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 857085,set adorno halloween esqueletos 2 un,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 857086,ch 34 60 dedos de bruja fluorescente set x10pzas,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
@@ -29135,8 +29144,8 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 857091,machete halloween grande 72x8 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 857092,araña halloween 45 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 857093,ch 34 67 adorno telarana halloween 150cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-857095,ch 34 68 esqueleto halloween set x10pzas 15x5cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
-857096,ch 34 69 vincha calabazas con luz a pilas 25x20cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+857095,esqueleto halloween set por 10 unidades 15 x 5 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+857096,vincha calabazas con luz a pilas 25 x 20 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 857097,vincha halloween calabazas,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 857098,ch 34 71 vincha calaberas halloween con luz a pilas,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 857099,ch s1 3 esqueleto fluorescente halloween set x4pzas,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
@@ -29829,7 +29838,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 863888,hueso mascota friendly dog x10und mini,bazar,mascotas general,09.3.4,Recreación y Cultura,subcategory
 863889,hueso mascota friendly ex grande,bazar,mascotas general,09.3.4,Recreación y Cultura,subcategory
 863899,hip toalla de nino en caja 65,textiles y zapatos,toallas,05.2.0,"Muebles, Bienes y Servicios Domésticos",subcategory
-863931,ch 112 vincha ojos halloween 27x18cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+863931,vincha ojos halloween 27 x 18 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 863932,ch 7 28 parche de pirata para ojo 8x8 5cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 863933,ch 217 escoba de bruja halloween 90cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 863956,barritas p/r mascotas dentitoy 250gr,bazar,mascotas general,09.3.4,Recreación y Cultura,subcategory
