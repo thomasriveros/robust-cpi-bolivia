@@ -3993,6 +3993,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 17924,aceite oliva laguna brava extra virgen 500 ml,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 179248,insecticida x-5 mata mosca mosquito 360 cm,cuidado del hogar,insecticidas,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 17925,vino durigutti gran reserva malbec 750 ml,bebidas,vinos y champagne,02.1.2,Bebidas Alcohólicas y Tabaco,subcategory
+179256,cucarachicida x5 280gr,cuidado del hogar,insecticidas,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 17926,vino durigutti malbec etiqueta negra 750 ml,bebidas,vinos y champagne,02.1.2,Bebidas Alcohólicas y Tabaco,subcategory
 179264,franela amarilla 40x60 falonber,cuidado del hogar,productos americanos,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 17927,miel de abeja melimiel jengibre limon 100 gr,abarrotes,"mermel, mieles",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -6460,7 +6461,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 231611,detergente uno paraiso tropical 650 grs,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 231612,detergente polvo uno paraiso tropical 4.7 kg,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 231615,pack elvivecrema500+shhidra370ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
-231616,pack elvive cr 500ml 3 en 1 + sh 370ml g,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
+231616,pack elvive crema para peinar 500 ml 3 en 1 + shampoo 370 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 231617,mousse capilar dexe foam wax keratin 300 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 231618,spray fijador capilar dexe flex keratin 420 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 231619,escurridor alklin 60 cm. con cabo,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -6807,6 +6808,8 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 24001,vape umo grape ice 18000 puffs,bebidas,cigarrillos,02.2.0,Bebidas Alcohólicas y Tabaco,subcategory
 24005,gelatina four loko shot 248 gr,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 24007,cereal kelloggs corn flakes 200 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+24009,cereal choconick chocolate 250 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+24010,cereal  frutinick 7c 250 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 240101,mermelada roxi locoto 260 gr,abarrotes,"mermel, mieles",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 240102,mermelada roxi pimenton 260 gr,abarrotes,"mermel, mieles",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 240104,escabeche roxi berenjena 260 gr,abarrotes,verduras en conserva,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -7713,6 +7716,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 25402,bebida flow chuflay hard zalzer 300 ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 25403,bebida flow sandia fresh 473 ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 25404,hidratante life inti uva 500 ml,bebidas,isotónicos,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
+25405,cereal choconick chocolate dp 700g,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 25406,energizante volt ponche de frutas 473 ml,bebidas,energizantes,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 25407,chupete bon bon bum zombie 336 gr,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 25408,caramelo colombina menta helada 400 gr,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -8256,6 +8260,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 280123,pano multiuso perfex blanco x5,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 280131,cepillo colgate extra clean x1,cuidado personal,cuidado bucal,12.1.3,Bienes y Servicios Diversos,subcategory
 280133,pack hair food pina sh + mascara,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
+280136,pack magic  loreal castano claro 40,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 280140,pack pano panotek+ esponja alklin,cuidado del hogar,limpieza de cocina,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 280141,pack alklin cepillo+2esponjas,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 280145,detergente en polvo lider matic 650 gr,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -8336,8 +8341,23 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 280430,shampoo ballerina manzanilla dp 350ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 280432,crema nivea piel normal 100ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280433,toalla higienica carissa dia 10 unds,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
+280444,pack espuma de afeitar dr. selby 149gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+280445,tio nacho sh. henna 415 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
+280448,suavizante borita  tradicional 3000 ml,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+280450,suavizante borita dp sol 3 lts,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+280451,suavizante borita dp bebe 3000 ml,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+280452,tralala desodorante kids 65 ml,cuidado del bebé,kids,12.1.3,Bienes y Servicios Diversos,subcategory
+280453,tralala  desodorante suave kids 65 ml,cuidado del bebé,kids,12.1.3,Bienes y Servicios Diversos,subcategory
 280454,masc  pestanas body  wtp very black,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280455,masc  pestana  body  very black wsh,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+280456,contorno sculpting stix hazy taupe 012,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+280457,contorno sculpting diffus mocha cont 04,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+280458,rubor cloudtopia twilight berry,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+280459,rubor cloudtopia divine crimson,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+280460,rubor cloudtopia coral illusion,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+280461,rubor cloudtopia enchant mauve,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+280462,rubor cloudtopia solar serenity,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+280463,contorno sculpting stix black blur 016,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280512,crema nivea 30 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 281077,cafe colcafe instantaneo polvo 170 gr,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 281703,galleta arcor hogareña 7 semillas 181 gr,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -16856,6 +16876,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 554075,limon deshid waras en rodajas 50 gr,abarrotes,frutas en conserva,01.1.6,Alimentos y Bebidas No Alcohólicas,subcategory
 554076,frutilla deshid waras chocolate 45 gr,abarrotes,frutas en conserva,01.1.6,Alimentos y Bebidas No Alcohólicas,subcategory
 554077,vodka 1825 quinoa real cja 700 ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
+554078,bebida cin pina pet 3 lt,bebidas,bebidas varias,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 554080,salsa hot chimo barbacoa pic pet 140 ml,abarrotes,aderezos,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554081,pack 6 nectal del sol 300ml,bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 554082,pack 2 pepsi  2.5 lt,bebidas,gaseosas,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -16955,6 +16976,9 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 554206,chicle splot chicle zombie 205 gr,abarrotes,temporada,—,Excluido (temporada),subcategory
 554224,ketchup del valle picante 410 gr,abarrotes,aderezos,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554225,ketchup del valle tradicional 410 gr,abarrotes,aderezos,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+554231,chocolatado irupana choco bros 400 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+554237,atun san lucas grated aceite 165 gr,abarrotes,comidas en conserva,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+554238,atun san lucas grated agua sal 165 gr,abarrotes,comidas en conserva,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554333,cerveza paceña lata roja 473 cc,bebidas,cervezas,02.1.3,Bebidas Alcohólicas y Tabaco,subcategory
 554466,detergente liquido ola futuro limpieza completa 5 l,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 554468,suavizante ropa ola suavecito original 5 l,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -20170,11 +20194,13 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 660167,crema corporal lechuga no. 1 100 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 660169,crema corporal lechuga no. 2 100 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 660172,leche jojoba no. 1,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+660173,toallitas humedas carinositos th x100,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
 660174,crema para peinar niñas 320 gr,cuidado del bebé,kids,12.1.3,Bienes y Servicios Diversos,subcategory
 660176,tratamiento capilar belestral pro estimulante y engrosadora 1000 gr,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 660177,tratamiento capilar belestral pro reparadora 1000 gr,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 660180,limpiador sacagrasa sapolio naranja doypack 500 ml,cuidado del hogar,limpieza de cocina,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660182,tratamiento capilar belestral pro revitalizadora 1000 gr,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
+660183,toallitas humedas carinositos th x50,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
 660186,maquina de afeitar schick piel delicada mujer 2 hojas,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 660189,maquina de afeitar schick piel delicada mujer 4 hojas,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 660192,maquina de afeitar schick piel sensible hombre 2 hojas,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -20345,6 +20371,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 660428,limpia lentes fantastico 100 ml,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660429,antisarro fantastico refill 860ml,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660430,antisarro fantastico 5l,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+660431,antisarro fantastico con pulverizador 86,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660432,crema lechuga corp hidratacion 350 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 660433,desmaquillante ojos y rostro beautik bif,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 660434,serum facial beautik aloe+acido hualuron,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -22020,6 +22047,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 670397,paneton bauducco 400 gr,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 670402,queso colinas del sol madurado viejo de apote kg,lácteos y derivados,quesos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 670404,budin aguila black 230 gr,pastelería y masas típicas,pastelería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
+670405,budin aguila mix 230 gr,pastelería y masas típicas,pastelería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 670407,paneton bauducco chocottone 400 gr,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 670416,tomate valenciana oliva gourmet 190 gr,abarrotes,verduras en conserva,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
 670419,escabeche valenciana locoto 200 gr,abarrotes,verduras en conserva,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -24671,6 +24699,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 69141,jugo aloe vera salute original 300ml,bebidas,bebidas varias,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 69142,jugo aloe vera salute pina 300ml,bebidas,bebidas varias,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 69143,mermelada e linea framb sin azuc dp 350g,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+69145,chocobiscuit bauduco leche 36gr,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 69146,pure d papas yuspe bsa 125g,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 69147,aceituna vanoli c morron dp 80g,abarrotes,verduras en conserva,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
 69148,aceituna vanoli sin carozo dp 80g,abarrotes,verduras en conserva,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -24702,8 +24731,10 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 69194,bebida mambo mojito lta 355ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 69195,bebida mambo pina colada 355ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 69196,bebida mambo cocktail spritz 355ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
+69197,sopa nissin ramen carne picant 85g,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 69201,mojito urbano lta 550ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 69202,bebida urbano blue lta 550ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
+69203,pack salsaretti pizza aceituna choclo,abarrotes,salsas y extracto de tomate,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 692125,huevos rolon mediano 30 un,lácteos y derivados,huevos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 692128,huevos rolon nutrirolon 12 un,lácteos y derivados,huevos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 692135,huevos rolon nutrirolon 6 un,lácteos y derivados,huevos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -26774,6 +26805,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 809931,timbre halloween con luces y sonido 19x11 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 809949,br azucarero plastico sanremo 350ml,bazar importación,cocina general,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 809956,acondic tralal kids hidra 480 ml,cuidado del bebé,kids,12.1.3,Bienes y Servicios Diversos,subcategory
+809976,crema de peinar tralala kids 300 ml,cuidado del bebé,kids,12.1.3,Bienes y Servicios Diversos,subcategory
 809978,br porta detergente plastico sanremo,bazar importación,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 809980,br juego taza medidora plastico sanremo,bazar importación,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 809984,br organizador pia plastico sanremo,bazar importación,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -27645,6 +27677,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 8362,vino kohlberg tinto 700 ml,bebidas,vinos y champagne,02.1.2,Bebidas Alcohólicas y Tabaco,subcategory
 836359,filete de trucha congelado kg,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 836364,filete pejerrey lagos titicaca kg,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
+836375,sombreros halloween,bazar,temporada halloween,—,Excluido (temporada),subcategory
 836460,ci ducha electrica tramontina temp variable,bazar,ferretería,04.3.1,Vivienda y Servicios Básicos,rule
 836631,jamon artesanal stege 1 kg,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 836646,yogurt pil bebible frutilla bote 1 l,lácteos y derivados,yogures,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -28452,10 +28485,14 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 848809,trinche churrasquero 2x1,bazar,articulos de cocina,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 848826,bolsa zipper guardar 20 un,bazar,articulos de cocina,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 848871,vincha murcielagos negros halloween 27 x 34 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+848898,jc.mascara catrina plastico,bazar,temporada halloween,—,Excluido (temporada),subcategory
 848908,vincha enfermera 20 x 20 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 848909,balde calabaza negra halloween 18 x 17 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 848925,jc.vela .5,bazar,temporada halloween,—,Excluido (temporada),subcategory
+848934,sombrero de pirata varon con cabello y parche jc 1 un,bazar,temporada halloween,—,Excluido (temporada),subcategory
+848935,jan adorno luminoso hallowen pared 14,bazar,temporada halloween,—,Excluido (temporada),subcategory
 848937,jan vinchas calabazas hollewen 14,bazar,temporada halloween,—,Excluido (temporada),subcategory
+848938,jan mascaras animales  18,bazar,temporada halloween,—,Excluido (temporada),subcategory
 848940,jan vinchas cuernos hallowen 14,bazar,temporada halloween,—,Excluido (temporada),subcategory
 848944,galleta suprema crackers 1 kg,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 849046,ch 7 137 candelabro halloween con luz 31x12 5cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
@@ -29745,6 +29782,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 861799,jan adorno globo hallowen  14,bazar,temporada halloween,—,Excluido (temporada),subcategory
 861800,jan globo numero 8,bazar,temporada halloween,—,Excluido (temporada),subcategory
 861801,jan vinchas sombrero hallowen 14,bazar,temporada halloween,—,Excluido (temporada),subcategory
+861816,jan lampara hallowen  luz 20,bazar,temporada halloween,—,Excluido (temporada),subcategory
 861836,pat recogedor de heces 35,bazar,mascotas general,09.3.4,Recreación y Cultura,subcategory
 861838,pat cepillo c/expulsor 55,bazar,mascotas general,09.3.4,Recreación y Cultura,subcategory
 861847,pat bandeja arenero plastico 60,bazar,mascotas general,09.3.4,Recreación y Cultura,subcategory
@@ -29949,6 +29987,12 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 866231,bebida ice 51 limon 275 ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 866246,bebida ice 51 maracuya 275 ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 866253,hip set de franela x 3 und 78,textiles y zapatos,ropa bebe 0 - 24,05.2.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+866403,jan adorno calabeza esqueleto 28,bazar,temporada halloween,—,Excluido (temporada),subcategory
+866405,jan adorno anillo hallowen  10,bazar,temporada halloween,—,Excluido (temporada),subcategory
+866406,jan  stiker rostro hallowen 15,bazar,temporada halloween,—,Excluido (temporada),subcategory
+866413,jan adorno de carton hallowen  18,bazar,temporada halloween,—,Excluido (temporada),subcategory
+866416,jan collar de hallowen  13,bazar,temporada halloween,—,Excluido (temporada),subcategory
+866418,jan faldas de haallowen  45,bazar,temporada halloween,—,Excluido (temporada),subcategory
 866480,soporte rojo p/papel absorbente uz,bazar,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 866484,ron bacardi carta blanca 1750 ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 866518,film pvc alpfilm 250x28cm,bazar,articulos de cocina,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -30160,7 +30204,10 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 869217,jan cortina hallowen  14,bazar,temporada halloween,—,Excluido (temporada),subcategory
 869218,adorno halloween,bazar,temporada halloween,—,Excluido (temporada),subcategory
 869222,jan mascara hallowen  25,bazar,temporada halloween,—,Excluido (temporada),subcategory
-869223,jan mascara hallowen scari 20,bazar,temporada halloween,—,Excluido (temporada),subcategory
+869223,mascara halloween scary,bazar,temporada halloween,—,Excluido (temporada),subcategory
+869237,ambientador todo brillo manzana canela 50 ml,bazar,living y dormitorio,05.1.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+869239,ambientador todo brillo lavanda 50 ml,bazar,living y dormitorio,05.1.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+869241,ambientador todo brillo vainilla 50 ml,bazar,living y dormitorio,05.1.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 869304,jan  porta botella navidad  23,bazar,temporada navidad,—,Excluido (temporada),subcategory
 869305,bolsa de vino navidad,bazar,temporada navidad,—,Excluido (temporada),subcategory
 869306,jan bolsa de vino navidad 12,bazar,temporada navidad,—,Excluido (temporada),subcategory
@@ -30282,6 +30329,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 873319,pat bolsa p/r heces mascota mediano 32,bazar,mascotas general,09.3.4,Recreación y Cultura,subcategory
 873390,antifas carnavaleros 12 piezas,bazar,temporada carnaval,—,Excluido (temporada),subcategory
 873391,jan  mascara infantil  carnaval 10,bazar,temporada carnaval,—,Excluido (temporada),subcategory
+873393,jan difraces de nina hallowen 75,bazar,temporada carnaval,—,Excluido (temporada),subcategory
 873394,serpentina,bazar,temporada carnaval,—,Excluido (temporada),subcategory
 873481,jan stiker de pared navidad 9,bazar,temporada navidad,—,Excluido (temporada),subcategory
 873483,juguete de mascota 2,bazar,mascotas general,09.3.4,Recreación y Cultura,subcategory
@@ -30618,10 +30666,11 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 887555,jan globo feliz cumplea¤os,bazar,temporada halloween,—,Excluido (temporada),subcategory
 887562,ca juguete maleta set belleza.125,juguetería,juguetería didáctica/temporada,—,Excluido (temporada),subcategory
 887574,jan vinchas hallowen 25,bazar,temporada halloween,—,Excluido (temporada),subcategory
+887578,jan adorno goma eva hallowen 10,bazar,temporada halloween,—,Excluido (temporada),subcategory
 887580,jan adorno mano hallowen c luz  20,bazar,temporada halloween,—,Excluido (temporada),subcategory
 887584,jan adorno farol hallowen 14,bazar,temporada halloween,—,Excluido (temporada),subcategory
 887587,jan balde hallowen  25,bazar,temporada halloween,—,Excluido (temporada),subcategory
-887588,jan capa bruja  45,bazar,temporada halloween,—,Excluido (temporada),subcategory
+887588,jan capa ninos brujas hallowen 35,bazar,temporada halloween,—,Excluido (temporada),subcategory
 887619,platillo desechable copobras x10und,bazar,cotillón,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 887621,jan vinchas malefica  28,bazar,temporada halloween,—,Excluido (temporada),subcategory
 887630,cargador telefono +pd plano huavi,bazar,telefonía y accesorios,05.5.2,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -30741,6 +30790,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 892083,jan botas de navidad  14,bazar,temporada navidad,—,Excluido (temporada),subcategory
 892084,jan adorno navidad silicona 10,bazar,temporada navidad,—,Excluido (temporada),subcategory
 892086,jan adorno tijera hallowen  14,bazar,temporada halloween,—,Excluido (temporada),subcategory
+892088,jan adorno candel.c/luz hallowen 20,bazar,temporada halloween,—,Excluido (temporada),subcategory
 892092,jan adorno cara papa noel 9,bazar,temporada navidad,—,Excluido (temporada),subcategory
 892093,jan adorno metalico navidad 16,bazar,temporada navidad,—,Excluido (temporada),subcategory
 892094,jan guantes cocina navidad 18,bazar,temporada navidad,—,Excluido (temporada),subcategory
