@@ -5256,9 +5256,9 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 223791,detergente polvo urca maxx 5 kg,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 223792,pañal tena slip dermacare l 20 un,cuidado personal,cuidado del adulto,12.1.3,Bienes y Servicios Diversos,subcategory
 223798,escoba novica jumbo esfrebom escobillon,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
-223800,alcohol nostas 70% x 1 l,cuidado personal,cuidado de la piel,06.1.1,Salud,rule
-223801,alcohol nostas 70% 600 ml,cuidado personal,cuidado de la piel,06.1.1,Salud,rule
-223802,alcohol nostas clorhexidina 2% 1 l,cuidado personal,cuidado de la piel,06.1.1,Salud,rule
+223800,alcohol nostas 70% x 1 l,cudados otc,otc,06.1.1,Salud,subcategory
+223801,alcohol nostas 70% 600 ml,cudados otc,otc,06.1.1,Salud,subcategory
+223802,alcohol nostas clorhexidina 2% 1 l,cudados otc,otc,06.1.1,Salud,subcategory
 223803,alcohol nostas clorhexidina 2 % 600 ml,cuidado personal,cuidado de la piel,06.1.1,Salud,rule
 223804,protector de cama prudential 20 un,cuidado personal,cuidado del adulto,12.1.3,Bienes y Servicios Diversos,subcategory
 223805,pañuelo facial elite aloe vera 4 un,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -6582,6 +6582,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 231769,limpia piso maxibrill ultra energia 900,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 231771,limpia piso maxibrill ultra bosque 6 lts,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 231772,limpia piso maxibrill ultra bosque 1800,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+231774,maxibrill limpia piso ultra serenidad 6,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 231775,limpia piso maxibrill ultra  lavanda1800,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 231777,limpia piso maxibrill ultra  alegra dia,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 231778,limpia piso maxibrill ultra alegra dia 9,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -6674,6 +6675,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 232006,gaseosa conti guarana 350 ml,bebidas,gaseosas,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 232007,gaseosa conti cola 350 ml,bebidas,gaseosas,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 232039,esmalte efecto gel cacao,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+232042,esmalte efecto gel placer,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 232043,esmalte efecto gel avellana,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 232044,gin tonica du royale 275 ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 232046,esmalte efecto gel  mocha,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -7698,6 +7700,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 253774,cigarrillo marlboro rojo 20 un,bebidas,cigarrillos,02.2.0,Bebidas Alcohólicas y Tabaco,subcategory
 25379,mani pinzones con chocolate 100 gr,abarrotes,snack,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 253804,cigarrillo camel amarillo 20 un,bebidas,cigarrillos,02.2.0,Bebidas Alcohólicas y Tabaco,subcategory
+25381,mani dorichips c uva bsa 200g,abarrotes,snack,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 25382,dulce dacolonia chocolate c mani 120g,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 25383,dulce dacolonia chocolate blanco 120g,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 25384,whisky royal label 1 l,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
@@ -8307,6 +8310,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 280193,betum liq cafe  todo brillo 70 ml,cuidado del hogar,limpieza de zapatos,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 280200,set esponja virulin bonny x3 uni.,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 280201,tripack huggies limpieza diaria 3x112 un,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
+280202,pano alklin lavaplato 28x30,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 280203,esponja  esfrebom limpieza extrema x4und,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 280204,esponja acero inox. esfrebom 1x3,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 280205,esponja magica esfrebon 1,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -13892,6 +13896,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 506082,cepillo dental condor plus 3x2 rf8108-0,cuidado personal,cuidado bucal,12.1.3,Bienes y Servicios Diversos,subcategory
 506083,cepillo dental condor dinossaur 3173-0,cuidado del bebé,kids,12.1.3,Bienes y Servicios Diversos,subcategory
 506086,cepillo dental condor galinha 3161-3,cuidado del bebé,kids,12.1.3,Bienes y Servicios Diversos,subcategory
+506087,cangrejo crab meat roland 170 gr,abarrotes,productos americanos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 506088,cepillo dental condor lilica repilica 2 3167,cuidado del bebé,kids,12.1.3,Bienes y Servicios Diversos,subcategory
 506089,cepillo dental condor lilica repilica 3 3170,cuidado del bebé,kids,12.1.3,Bienes y Servicios Diversos,subcategory
 506090,cepillo dental condor lilica repilica junior 3160,cuidado del bebé,kids,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -14038,6 +14043,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 516119,cafe excell 100% puro 250 gr,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 516139,fideo don vittorio codo 400 gr,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 51616,aceite de cecco oliva 500 ml,abarrotes,productos importados,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
+516201,camaron pelado roland lata 200 gr,abarrotes,productos americanos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 516211,jabon barra harmony fruity limon 150 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 516236,sal el salerito yodofluorarada 600 gr,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 516260,salchicha extralarga hipermaxi 1 kg,fiambres,fiambres hipermaxi,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -16877,6 +16883,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 554076,frutilla deshid waras chocolate 45 gr,abarrotes,frutas en conserva,01.1.6,Alimentos y Bebidas No Alcohólicas,subcategory
 554077,vodka 1825 quinoa real cja 700 ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 554078,bebida cin pina pet 3 lt,bebidas,bebidas varias,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
+554079,bebida cin manzana pet 3 lt,bebidas,bebidas varias,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 554080,salsa hot chimo barbacoa pic pet 140 ml,abarrotes,aderezos,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554081,pack 6 nectal del sol 300ml,bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 554082,pack 2 pepsi  2.5 lt,bebidas,gaseosas,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -19157,6 +19164,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 654278,limpiador de baño procenex con gatillo 500 ml,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 654297,pano p/limpieza leve alklin 33x50,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 654299,pano p/limpieza leve azul alklin 33x50,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+654302,franela alklin amarilla 28*38,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 654304,cepillo alklin multiuso con cabo,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 654328,toallas humedas panolini aloe vera 20 un,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
 654330,limpiador de baño ola maximus 5 l,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -20416,6 +20424,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 660560,sh sin sal palta dp 18x350ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 660561,ac manzanilla dp 18x350ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 660562,pack ahorro limpieza   surtido,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+660571,brillina cera crema tierra color sashet,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660711,galleta noel octagonal surtida 260 gr,abarrotes,temporada,—,Excluido (temporada),subcategory
 660852,te frutte laxte 20 sobres,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 661150,insecticida tableta raid mata mosquito doble accion 24 un,cuidado del hogar,productos americanos,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -24046,6 +24055,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 674982,cu¥apizza abizcochados  sabor napolitana,pastelería y masas típicas,masas típicas externas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 674983,cu¥apizza abizcochado sabor fugazzetta 1,pastelería y masas típicas,masas típicas externas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 674986,jamon pizzero sofia kilogramo,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
+674988,paleta monaco moca cob chocolate 115ml,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 675011,chorizo cervecero sofia a granel kgr,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 675012,maple de huevo rolon 30 nidades granel,lácteos y derivados,huevos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 67520,leche de soya norland saborizada 1 l,lácteos y derivados,leches,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -24706,6 +24716,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 69150,masticable fruit tella morango 40g,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 69152,masticable fruit tella cherry 40g,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 69153,chupete big bom pinta boca 384g,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
+69155,chupete big bom surtido 384g,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 69156,mermelada e linea mora sin azuc 320g,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 69157,achachairu br concentrado dp 400g,bebidas,refrescos en polvo,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 69158,cereal simsa chocolus bsa 400g,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
