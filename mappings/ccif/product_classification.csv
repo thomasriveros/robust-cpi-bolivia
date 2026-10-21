@@ -4601,6 +4601,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 210055,san bitter palmenia 1lt,bebidas,licores,01.2.2,Alimentos y Bebidas No Alcohólicas,rule
 210056,cafe altomayo instant gourmet dp 140g,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 210057,cafe altomayo instant gourmet fco 170g,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
+210058,cafe altomayo instant clasico fco 170g,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 210059,cafe altomayo instant armonico fco 170g,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 210061,cafe altomayo instant gourmet fco 45g,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 210062,energizante rush mundial lta 269ml,bebidas,energizantes,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -8364,6 +8365,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 280461,rubor cloudtopia enchant mauve,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280462,rubor cloudtopia solar serenity,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280463,contorno sculpting stix black blur 016,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+280469,pack ninet clasica x 30 unid,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
 280512,crema nivea 30 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 281077,cafe colcafe instantaneo polvo 170 gr,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 281703,galleta arcor hogareña 7 semillas 181 gr,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -8964,7 +8966,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 30473,jugo la granja durazno 2 l,bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 30474,jugo la granja manzana 2 l,bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 304741,cereal vivo 3 cereales 360 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
-30475,jugo la granja naranja 2 l,bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
+30475,jugo de la granja naranja 2 l,bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 30476,jugo la granja manzana 3 l,bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 30477,jugo la granja naranja 3 l,bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 30478,biscoito nestle chocolate 90 gr,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -9503,6 +9505,8 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 310396,chipilos dulce coronado bsa 200g,abarrotes,snack,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 310398,cerveza burguesa 47 bot 330ml,bebidas,cervezas,02.1.3,Bebidas Alcohólicas y Tabaco,subcategory
 310399,cerveza burguesa 47 lta 350ml,bebidas,cervezas,02.1.3,Bebidas Alcohólicas y Tabaco,subcategory
+310400,maiz frito avati s queso bsa 80g,abarrotes,snack,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+310401,maiz frito avati mostaz miel bsa 80g,abarrotes,snack,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 310402,gomita docile jelly beans surtido 80g,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 310403,gomita docile mix divertido bsa 80g,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 310404,gomita docile unicornio bsa 80g,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -16739,7 +16743,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 553799,sal kollita con picante 460 gr,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 553800,sal kollita con ablandador 460 gr,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 553801,pack 6 energizante raptor 350 ml,bebidas,energizantes,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
-553803,jugo la granja pomelo  pet 2 l,bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
+553803,jugo de la granja pomelo 2 l,bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 553804,fideo don maximo caracolito 400 gr,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 553805,fideo don maximo arito 400 gr,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 553806,snot candy nova snack 30 gr,abarrotes,productos americanos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -16908,7 +16912,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 554099,mango en almibar chimore lonjas 860 gr,abarrotes,frutas en conserva,01.1.6,Alimentos y Bebidas No Alcohólicas,subcategory
 554100,mango en almibar chimore trozos 860 gr,abarrotes,frutas en conserva,01.1.6,Alimentos y Bebidas No Alcohólicas,subcategory
 554101,palmito chimore  trozos 400 gr,abarrotes,verduras en conserva,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
-554102,galleta la francesa mini sucrema 220 gr,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
+554102,galletita francesa dulce mini sucrema 22,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 554103,crema coffee mate 15 oz,abarrotes,productos americanos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 554104,salsa picante valentina 150 ml,abarrotes,productos americanos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 554105,alimento negrito max perro adulto 3 kg,abarrotes,mascotas,09.3.4,Recreación y Cultura,subcategory
@@ -16955,7 +16959,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 554163,galletas rondita chocol frutill 240g,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 554164,galleta ronditas vainilla chocol 240g,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 554165,gaseosa ghost face fanta 500 ml,bebidas,gaseosas,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
-554166,jugo la granja mandarina pet 2 lt,bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
+554166,jugo de la granja mandarina 2 l,bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 554167,mermelada reyna frutilla pote 200g,abarrotes,"mermel, mieles",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 554171,masticable yogurte fresa bsa 500 gr,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 554173,masticables lokino bsa 400 gr,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -22013,8 +22017,10 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 670105,leche frutilla lasteosbol 140 ml,lácteos y derivados,leches,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 670111,pollerita fridosa al vacio kg,carnes,carnes al vacio externas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 670116,giba fridosa kg,carnes,carnes al vacio externas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
+67013,galleta marilan rosquina integral 300g,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 670131,sofipocas sofia de pollo 300 gr,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 670133,salchicha viena coctelera stege kg,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
+67014,galleta marilan tortinha maracuya 300g,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 670169,queso provolone san mateo 400 gr,lácteos y derivados,quesos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 670188,papel toalla cocina nacional 2 un 80 toallas,cuidado del hogar,limpieza de cocina,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 670192,linaza agromix molida 300 gr,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -22037,8 +22043,10 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 670245,pan molde san gabriel blanco 350 gr,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 670249,combo parrillero pio rico unidad,fiambres,temporada san juan externos,—,Excluido (temporada),subcategory
 670255,gragea taboada mani chocolate 150 gr,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
+67027,galleta marilan maizena integral 300g,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 670270,chicharron de cerdo sofia 1 kg,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 670276,helado delizia oveja negra dulce de leche 190 ml,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
+67029,caramelo dori gota cola bsa 100g,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 670291,cocoa celinda reposteria 160 gr,abarrotes,repostería,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 67030,sopa instant al toke camaron vaso 65g,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 670303,paleta mass passion crema americana frutos del bosque 120 ml,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -24068,6 +24076,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 674988,paleta monaco moca cob chocolate 115ml,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 675011,chorizo cervecero sofia a granel kgr,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 675012,maple de huevo rolon 30 nidades granel,lácteos y derivados,huevos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
+675016,pack salchichas zampo¤a torito (2 piezas),fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 67520,leche de soya norland saborizada 1 l,lácteos y derivados,leches,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 675245,miel de abeja eva promiel 250 gr,abarrotes,"mermel, mieles",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 6753,isotonico activade frutilla 600 ml,bebidas,isotónicos,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -24726,6 +24735,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 69150,masticable fruit tella morango 40g,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 69152,masticable fruit tella cherry 40g,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 69153,chupete big bom pinta boca 384g,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
+69154,chupete big bom fresa 384g,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 69155,chupete big bom surtido 384g,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 69156,mermelada e linea mora sin azuc 320g,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 69157,achachairu br concentrado dp 400g,bebidas,refrescos en polvo,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -25197,6 +25207,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 761458,yuca pre cocida congelada corte baston p,congelados,masas y comidas congeladas,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 761469,pack yogurello frutilla x12 con estuchera,lácteos y derivados,yogures,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 761475,pack yogurello x12 con estuchera,lácteos y derivados,yogures,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
+761479,leche fresca del campo 800 ml. bolsa,lácteos y derivados,leches,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 761486,huevos aranjuez economico subsidio 18 un,lácteos y derivados,huevos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 761487,cunape abizcochado crujitos 90 grs.,pastelería y masas típicas,masas típicas externas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 761519,pulpa congelada mattafah surtido 500 gr,congelados,pulpas y frutas congeladas,01.1.6,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -28513,7 +28524,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 848925,jc.vela .5,bazar,temporada halloween,—,Excluido (temporada),subcategory
 848934,sombrero de pirata varon con cabello y parche jc 1 un,bazar,temporada halloween,—,Excluido (temporada),subcategory
 848935,jan adorno luminoso hallowen pared 14,bazar,temporada halloween,—,Excluido (temporada),subcategory
-848937,jan vinchas calabazas hollewen 14,bazar,temporada halloween,—,Excluido (temporada),subcategory
+848937,jan vinchas feliz cumplea¤os    4,bazar,temporada halloween,—,Excluido (temporada),subcategory
 848938,jan mascaras animales  18,bazar,temporada halloween,—,Excluido (temporada),subcategory
 848940,jan vinchas cuernos hallowen 14,bazar,temporada halloween,—,Excluido (temporada),subcategory
 848944,galleta suprema crackers 1 kg,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -29804,6 +29815,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 861799,jan adorno globo hallowen  14,bazar,temporada halloween,—,Excluido (temporada),subcategory
 861800,jan globo numero 8,bazar,temporada halloween,—,Excluido (temporada),subcategory
 861801,jan vinchas sombrero hallowen 14,bazar,temporada halloween,—,Excluido (temporada),subcategory
+861814,jan mascara hallowen 21,bazar,temporada halloween,—,Excluido (temporada),subcategory
 861816,jan lampara hallowen  luz 20,bazar,temporada halloween,—,Excluido (temporada),subcategory
 861836,pat recogedor de heces 35,bazar,mascotas general,09.3.4,Recreación y Cultura,subcategory
 861838,pat cepillo c/expulsor 55,bazar,mascotas general,09.3.4,Recreación y Cultura,subcategory
@@ -30012,9 +30024,16 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 866403,jan adorno calabeza esqueleto 28,bazar,temporada halloween,—,Excluido (temporada),subcategory
 866405,jan adorno anillo hallowen  10,bazar,temporada halloween,—,Excluido (temporada),subcategory
 866406,jan  stiker rostro hallowen 15,bazar,temporada halloween,—,Excluido (temporada),subcategory
+866409,jan globos latex rojo,bazar,temporada halloween,—,Excluido (temporada),subcategory
+866410,jan jug huevo sorpresa 12,bazar,temporada halloween,—,Excluido (temporada),subcategory
+866411,jan pirana hallowen  14,bazar,temporada halloween,—,Excluido (temporada),subcategory
 866413,jan adorno de carton hallowen  18,bazar,temporada halloween,—,Excluido (temporada),subcategory
+866414,jan jugu.munecos  hallowen  120,bazar,temporada halloween,—,Excluido (temporada),subcategory
 866416,jan collar de hallowen  13,bazar,temporada halloween,—,Excluido (temporada),subcategory
+866417,jan alas de hallowen  25,bazar,temporada halloween,—,Excluido (temporada),subcategory
 866418,jan faldas de haallowen  45,bazar,temporada halloween,—,Excluido (temporada),subcategory
+866420,jan hielera de hallowen  99,bazar,temporada halloween,—,Excluido (temporada),subcategory
+866421,jan copa de hallowen 14,bazar,temporada halloween,—,Excluido (temporada),subcategory
 866480,soporte rojo p/papel absorbente uz,bazar,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 866484,ron bacardi carta blanca 1750 ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 866518,film pvc alpfilm 250x28cm,bazar,articulos de cocina,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -30690,7 +30709,9 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 887574,jan vinchas hallowen 25,bazar,temporada halloween,—,Excluido (temporada),subcategory
 887578,jan adorno goma eva hallowen 10,bazar,temporada halloween,—,Excluido (temporada),subcategory
 887580,jan adorno mano hallowen c luz  20,bazar,temporada halloween,—,Excluido (temporada),subcategory
+887583,jan adorno arana hallowen 14,bazar,temporada halloween,—,Excluido (temporada),subcategory
 887584,jan adorno farol hallowen 14,bazar,temporada halloween,—,Excluido (temporada),subcategory
+887586,jan balde hallowen .18,bazar,temporada halloween,—,Excluido (temporada),subcategory
 887587,jan balde hallowen  25,bazar,temporada halloween,—,Excluido (temporada),subcategory
 887588,jan capa ninos brujas hallowen 35,bazar,temporada halloween,—,Excluido (temporada),subcategory
 887619,platillo desechable copobras x10und,bazar,cotillón,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
