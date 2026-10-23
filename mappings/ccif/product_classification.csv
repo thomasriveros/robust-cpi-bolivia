@@ -8366,6 +8366,9 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 280462,rubor cloudtopia solar serenity,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280463,contorno sculpting stix black blur 016,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280469,pack ninet clasica x 30 unid,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
+280470,deinfect aroma y deo rocio navidad  360,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+280476,pack nosotras diario norm 100 2x1,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
+280477,protectore diario precis 15 unds,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
 280512,crema nivea 30 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 281077,cafe colcafe instantaneo polvo 170 gr,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 281703,galleta arcor hogareña 7 semillas 181 gr,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -16987,6 +16990,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 554200,chocol calabaza pint bosa verde 65g,abarrotes,temporada,—,Excluido (temporada),subcategory
 554201,chocolate pint boca amarilla chocol calabaza 65 gr,abarrotes,temporada,—,Excluido (temporada),subcategory
 554203,chocolate breick pint boca rojo 65 gr,abarrotes,temporada,—,Excluido (temporada),subcategory
+554204,snack saladix pizza 23 gr.,abarrotes,snack,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554206,chicle splot chicle zombie 205 gr,abarrotes,temporada,—,Excluido (temporada),subcategory
 554224,ketchup del valle picante 410 gr,abarrotes,aderezos,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554225,ketchup del valle tradicional 410 gr,abarrotes,aderezos,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -17423,6 +17427,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 600168,azucar cocinero impalpable 400 gr,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 600172,cereal multigranos con frutas y yogurt 357 gr,abarrotes,productos americanos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 600173,tojori cocinero 250 gr,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+600176,salsa barbacoa jack daniels 19.5oz,abarrotes,productos americanos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 600177,toalla de papel berkley jensen 5.81m2,cuidado del hogar,productos americanos,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 600178,chicha de mani cocinero 250 gr,bebidas,refrescos en polvo,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 600180,pan de panchito pan cris 12 un,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -22276,7 +22281,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 671130,lomo de cerdo vilom deshuesado congelado,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 671131,matambre de cerdo viloma kg,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 671132,bondiola de cerdo congelada viloma kg,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
-671133,chuleta de cerdo sofia congelada kg,carnes,otras carnes,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
+671133,chuleta de cerdo sofia congelada kg,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 671135,queso mozzarella san javier magdalena,lácteos y derivados,quesos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 671145,helado pil baloncito crema americana dulce de leche 75 ml,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 671146,helado pil baloncito tres leches chocolate 75 ml,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -25040,6 +25045,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 729033,guantes scotch brite trabajo pesado pequeño,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 729053,guantes scotch brite trabajo pesado grande,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 729355,jabon glicerina simonds neutro 340 ml,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
+729360,jabon liquido simonds cremoso afrecho 340 ml,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
 729404,talco simonds hipoalergenico 100 gr,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
 729419,polvo de fecula simonds hipoalergenico 100 gr,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
 729424,aceite simonds baby oil 125 ml,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
