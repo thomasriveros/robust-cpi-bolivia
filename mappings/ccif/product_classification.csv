@@ -3207,9 +3207,9 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 154270,queso mozzarella sancor kg,lácteos y derivados,quesos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 154326,queso danbo sancor kg,lácteos y derivados,quesos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 154717,galleta frutigran granix frutos rojos,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
-155144,algodón bolita capullo x 50 gr,cudados otc,otc,12.1.3,Bienes y Servicios Diversos,rule
+155144,algodón bolita capullo x 50 gr,cuidados otc,otc,12.1.3,Bienes y Servicios Diversos,rule
 155150,caramelo estrella cestita frutilla 500 gr,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
-155152,algodón bolsa capullo x 50 gr,cudados otc,otc,12.1.3,Bienes y Servicios Diversos,rule
+155152,algodón bolsa capullo x 50 gr,cuidados otc,otc,12.1.3,Bienes y Servicios Diversos,rule
 155462,ice tea hindu frutos salvaje 300 gr,bebidas,refrescos en polvo,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 15550,aceite becoco coco virgen 720 ml,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 15553,harina becoco de coco 1 kg,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -3904,7 +3904,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 17761,galleta gustossi animalitos naranja 300 gr,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 17762,jugo del valle fresh fruit punch 3 l,bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 17763,cereal nesfit cacao sin azucar 220 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
-177652,bicarbonato de soda x sobre,cudados otc,oct salas,06.1.2,Salud,subcategory
+177652,bicarbonato de soda x sobre,cuidados otc,oct salas,06.1.2,Salud,subcategory
 17767,arroz nutrinat 6 granos ancestral 360 gr,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 1777,galleta hipopo relleno chocolate 110 gr,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 17772,vino classic reservado cabernet 750 ml,bebidas,vinos y champagne,02.1.2,Bebidas Alcohólicas y Tabaco,subcategory
@@ -5259,9 +5259,9 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 223791,detergente polvo urca maxx 5 kg,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 223792,pañal tena slip dermacare l 20 un,cuidado personal,cuidado del adulto,12.1.3,Bienes y Servicios Diversos,subcategory
 223798,escoba novica jumbo esfrebom escobillon,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
-223800,alcohol nostas 70% x 1 l,cudados otc,otc,06.1.1,Salud,subcategory
-223801,alcohol nostas 70% 600 ml,cudados otc,otc,06.1.1,Salud,subcategory
-223802,alcohol nostas clorhexidina 2% 1 l,cudados otc,otc,06.1.1,Salud,subcategory
+223800,alcohol nostas 70% x 1 l,cuidados otc,otc,06.1.1,Salud,subcategory
+223801,alcohol nostas 70% 600 ml,cuidados otc,otc,06.1.1,Salud,subcategory
+223802,alcohol nostas clorhexidina 2% 1 l,cuidados otc,otc,06.1.1,Salud,subcategory
 223803,alcohol nostas clorhexidina 2 % 600 ml,cuidado personal,cuidado de la piel,06.1.1,Salud,rule
 223804,protector de cama prudential 20 un,cuidado personal,cuidado del adulto,12.1.3,Bienes y Servicios Diversos,subcategory
 223805,pañuelo facial elite aloe vera 4 un,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -6258,12 +6258,12 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 229865,gaseosa seven up 2 l cbn,bebidas,gaseosas,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 229874,gaseosa pepsi 2 l cbn,bebidas,gaseosas,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 229877,cigarrillo dby slims 20 un,bebidas,cigarrillos,02.2.0,Bebidas Alcohólicas y Tabaco,subcategory
-229935,preservativo texturado tulipan caja x 3 unid,cudados otc,oct salas,06.1.2,Salud,subcategory
-229936,preservativo retardante tulipan x caja de 3 un,cudados otc,oct salas,06.1.2,Salud,subcategory
-229937,preservativo extra lubrica tulipan caja x 3 unid,cudados otc,oct salas,06.1.2,Salud,subcategory
-229939,preservativo tulipan ultra fino 1 caja x 3 un,cudados otc,oct salas,06.1.2,Salud,subcategory
+229935,preservativo texturado tulipan caja x 3 unid,cuidados otc,oct salas,06.1.2,Salud,subcategory
+229936,preservativo retardante tulipan x caja de 3 un,cuidados otc,oct salas,06.1.2,Salud,subcategory
+229937,preservativo extra lubrica tulipan caja x 3 unid,cuidados otc,oct salas,06.1.2,Salud,subcategory
+229939,preservativo tulipan ultra fino 1 caja x 3 un,cuidados otc,oct salas,06.1.2,Salud,subcategory
 229940,preservativo espermicida tulipan caja x 3 unid,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
-229941,preservativo frutilla tulipan caja x 3 unid,cudados otc,oct salas,06.1.2,Salud,subcategory
+229941,preservativo frutilla tulipan caja x 3 unid,cuidados otc,oct salas,06.1.2,Salud,subcategory
 229954,pasta dental ice fresh 90 gr,cuidado personal,cuidado bucal,12.1.3,Bienes y Servicios Diversos,subcategory
 230090,jamon cocido stege kg,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 230103,jamon ingles stege kg,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -6480,7 +6480,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 231632,oleo capilar farmax nutrición milagrosa 90 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 231633,oleo capilar farmax verano 90 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 231634,pack toallas humedas number one 4x90 un,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
-231635,tulipan big 57mm de ancho,cudados otc,oct salas,06.1.2,Salud,subcategory
+231635,tulipan big 57mm de ancho,cuidados otc,oct salas,06.1.2,Salud,subcategory
 231636,jabon liquido farmax exfoliante pistacho 150 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 231637,serum capilar farmax liso espejado 90 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 231638,jabon liquido farmax exfoliante ciruela 150 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -7084,9 +7084,9 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 240828,limpiador de piso maxibrill lavanda cremoso 5 l,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 240829,limpiador de piso maxibrill arpege 5l,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 24083,fideo gustoso tornillo 400 gr,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
-240835,curita doctor cure sirenita 50 un,cudados otc,otc,06.1.1,Salud,subcategory
-240836,curita doctor cure tiburon 50 un,cudados otc,otc,06.1.1,Salud,subcategory
-240837,curita doctor cure pocoyo 50 un,cudados otc,otc,06.1.1,Salud,subcategory
+240835,curita doctor cure sirenita 50 un,cuidados otc,otc,06.1.1,Salud,subcategory
+240836,curita doctor cure tiburon 50 un,cuidados otc,otc,06.1.1,Salud,subcategory
+240837,curita doctor cure pocoyo 50 un,cuidados otc,otc,06.1.1,Salud,subcategory
 240838,rimel vogue infinito,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 24084,fideo gustoso codito 400 gr,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 240841,sulfato aluminio piscina  mr cloro dp 1k,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -7353,7 +7353,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 25013,whisky grants 12 años 750 ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 25014,chips natureza pera deshidratada 50 gr,abarrotes,frutas en conserva,01.1.6,Alimentos y Bebidas No Alcohólicas,subcategory
 25016,huevo lindt surtido 180 gr,abarrotes,temporada,—,Excluido (temporada),subcategory
-250163,algodón bolsa capullo x 10 gr,cudados otc,otc,12.1.3,Bienes y Servicios Diversos,rule
+250163,algodón bolsa capullo x 10 gr,cuidados otc,otc,12.1.3,Bienes y Servicios Diversos,rule
 25017,huevo cofler block 78 gr,abarrotes,temporada,—,Excluido (temporada),subcategory
 25018,galleta la suprema ligera 240 gr,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 25019,cerveza prost premium lager 310 ml,bebidas,cervezas,02.1.3,Bebidas Alcohólicas y Tabaco,subcategory
@@ -8369,6 +8369,9 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 280470,deinfect aroma y deo rocio navidad  360,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 280476,pack nosotras diario norm 100 2x1,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
 280477,protectore diario precis 15 unds,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
+280490,panal plussec adulto m 8x10 unds,cuidado personal,cuidado del adulto,12.1.3,Bienes y Servicios Diversos,subcategory
+280491,toallas humeda mami 24x48 unid,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
+280492,toalla humeda mi bebe 24x48 unid,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
 280512,crema nivea 30 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 281077,cafe colcafe instantaneo polvo 170 gr,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 281703,galleta arcor hogareña 7 semillas 181 gr,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -9296,7 +9299,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 30790,caldo de costilla res kris 7.8 gr,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 30792,whisky old bridge 24 golden 900 ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 30795,galleta marilan pit stop pavita 91 gr,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
-307955,digestan compuesto x sobre,cudados otc,otc,06.1.1,Salud,subcategory
+307955,digestan compuesto x sobre,cuidados otc,otc,06.1.1,Salud,subcategory
 30796,galleta marilan relleno chocolate 91 gr,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 30798,snack detodito mix 165 gr,abarrotes,snack,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 30799,doritos frito lays mega queso 185 gr,abarrotes,snack,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -12771,8 +12774,8 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 439851,suavizante ropa archer niño 2 l,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 440051,mostaza frenchs classic yellow 226 gr,abarrotes,aderezos,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 440493,jugo ocean spray raspberry 64 oz,bebidas,bebidas usa,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
-440617,digestan simple sal de frutas x sobre,cudados otc,otc,06.1.1,Salud,subcategory
-440805,glucosamin polvo x 350gr,cudados otc,oct salas,06.1.2,Salud,subcategory
+440617,digestan simple sal de frutas x sobre,cuidados otc,otc,06.1.1,Salud,subcategory
+440805,glucosamin polvo x 350gr,cuidados otc,oct salas,06.1.2,Salud,subcategory
 440823,pectoral compuesto vita jbe x 120ml,farmacia éticos,sistema respiratorio,06.1.1,Salud,subcategory
 441241,vitatol compuesto jbe x 200 ml,farmacia éticos,sistema respiratorio,06.1.1,Salud,subcategory
 441350,tinte excellence tono 5.3 castaño claro dorado,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -12867,20 +12870,20 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 451040,leti at4 leche corporal x 250ml,farmacia otc,dermatológicos,12.1.3,Bienes y Servicios Diversos,subcategory
 451042,leti at4 crema facial x 50 ml,farmacia otc,dermatológicos,12.1.3,Bienes y Servicios Diversos,subcategory
 451133,helado aguila barrita,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
-451221,capullo disco algodon x 70 und,cudados otc,otc,12.1.3,Bienes y Servicios Diversos,rule
+451221,capullo disco algodon x 70 und,cuidados otc,otc,12.1.3,Bienes y Servicios Diversos,rule
 451395,cureband venditas x cja 10 *cod.sup*,cuidado personal,cuidado de la piel,06.1.1,Salud,rule
 451510,edulcorante sucranova 300 un,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 451511,edulcorante  sucranova 150 un,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 451609,actifem x blister de 4 unidades paracetamol - ibuprofeno - cafeína,farmacia otc,sistema nervioso central,06.1.1,Salud,subcategory
 451665,jabon barra rosa venus rosado 100 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
-451847,doctor cure curitas redonda x cja 100,cudados otc,otc,06.1.1,Salud,subcategory
+451847,doctor cure curitas redonda x cja 100,cuidados otc,otc,06.1.1,Salud,subcategory
 451886,shampoo para bebé johnsons clásico x 750 ml,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
 451894,shampoo johnsons clasico 400 ml knv,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
 451967,refresco zuko frambuesa 20 gr,bebidas,refrescos en polvo,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 451969,figuvit memory masticable x 1  fco caps,farmacia otc,tracto alimentario y metabolismo,06.1.1,Salud,subcategory
 451996,ciruelax forte x 1 comp,farmacia otc,tracto alimentario y metabolismo,06.1.1,Salud,subcategory
 452049,retardador maxmen spray fco x 10 ml  lidocaina prolongador sexual,cuidado personal,cuidado de la piel,06.1.1,Salud,rule
-452051,tonico inti sin cafeína jarabe x 200 ml,cudados otc,oct salas,06.1.2,Salud,subcategory
+452051,tonico inti sin cafeína jarabe x 200 ml,cuidados otc,oct salas,06.1.2,Salud,subcategory
 452144,cepillo dental foramen xtreme junior medio 1 un,cuidado personal,cuidado bucal,12.1.3,Bienes y Servicios Diversos,subcategory
 452147,silka medic pie atleta x 15 gr,farmacia éticos,dermatológicos,06.1.1,Salud,subcategory
 452287,cicatricure gel 30 gr,cuidado personal,cuidado de la piel,06.1.1,Salud,rule
@@ -12907,8 +12910,8 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 453001,helado arcor fanta 80 gr,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 453060,helado arcor rocklets palito,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 45314,desodorante aerosol axe musk 150 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
-453237,pantera gold premium caja 3 unid,cudados otc,oct salas,06.1.2,Salud,subcategory
-453395,preservativo maxmen 3b fresa 1 cja x 3 un,cudados otc,oct salas,06.1.2,Salud,subcategory
+453237,pantera gold premium caja 3 unid,cuidados otc,oct salas,06.1.2,Salud,subcategory
+453395,preservativo maxmen 3b fresa 1 cja x 3 un,cuidados otc,oct salas,06.1.2,Salud,subcategory
 453433,caramelo garganta miel propoleo x 100 gr,abarrotes,"mermel, mieles",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 453434,caramelo gargatan wira miel 100 gr,abarrotes,"mermel, mieles",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 453435,caramelo garganta eucalipto miel 100 gr,abarrotes,"mermel, mieles",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -12917,9 +12920,9 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 453592,pomada dr.bell para callo 50 ml,cuidado personal,cuidado de la piel,06.1.1,Salud,rule
 453639,preservativo tulipan  neon 1 caja x  un,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 453681,gel intimo clasico tulipan x 30 ml,cudados otc,oct salas,06.1.2,Salud,subcategory
-453682,gel intim efecto calor tulipan x 30 ml,cudados otc,oct salas,06.1.2,Salud,subcategory
+453682,gel intim efecto calor tulipan x 30 ml,cuidados otc,oct salas,06.1.2,Salud,subcategory
 453685,gel intim efecto frio tulipan x 30 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
-453687,gel intimo tulipan  l-arginina x 30ml,cudados otc,oct salas,06.1.2,Salud,subcategory
+453687,gel intimo tulipan  l-arginina x 30ml,cuidados otc,oct salas,06.1.2,Salud,subcategory
 453714,paño limpion eterna absorbente x 1,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 453722,paño limpion eterna multiuso x 1,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 453890,gel humectante banana boat aloe vera 230 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -12932,8 +12935,8 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 454215,banda depiladora veet axilas normal,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 454216,banda depiladora veet piel sensible,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 454317,edulcorante sucranova 270 ml,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
-454393,mentisan unguento pote x 20 g,cudados otc,oct salas,06.1.2,Salud,subcategory
-454394,mentisan unguento pote x 40 g,cudados otc,oct salas,06.1.2,Salud,subcategory
+454393,mentisan unguento pote x 20 g,cuidados otc,oct salas,06.1.2,Salud,subcategory
+454394,mentisan unguento pote x 40 g,cuidados otc,oct salas,06.1.2,Salud,subcategory
 454427,oregano badia 05 oz,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 454460,pimienta dulce badia entera 14 gr,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 454532,pimienta negra molida badia 2 oz,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -12942,25 +12945,25 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 454678,shampoo tio nacho engrosador 415 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 454679,acondicionador tio nacho engrosador 415 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 454705,cicatricure roll ojos 15 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
-454720,preservativo ultra fino tulipan caja x 3 unid,cudados otc,oct salas,06.1.2,Salud,subcategory
-454738,preservativo maxmen boom 1 cja x 3 un,cudados otc,oct salas,06.1.2,Salud,subcategory
-454739,preservativo maxmen inspiral tornado 1 caja x 3 un,cudados otc,oct salas,06.1.2,Salud,subcategory
+454720,preservativo ultra fino tulipan caja x 3 unid,cuidados otc,oct salas,06.1.2,Salud,subcategory
+454738,preservativo maxmen boom 1 cja x 3 un,cuidados otc,oct salas,06.1.2,Salud,subcategory
+454739,preservativo maxmen inspiral tornado 1 caja x 3 un,cuidados otc,oct salas,06.1.2,Salud,subcategory
 454834,apanado maggi 80 gr,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
-454934,preservativo maxmen  connection 1 caja x 3 un,cudados otc,oct salas,06.1.2,Salud,subcategory
+454934,preservativo maxmen  connection 1 caja x 3 un,cuidados otc,oct salas,06.1.2,Salud,subcategory
 454978,masculan preservativo largo placer x 10 und,farmacia otc,varios,06.1.2,Salud,subcategory
 455117,alcohol glicerina envaquin 120 ml,cuidado personal,cuidado de la piel,06.1.1,Salud,rule
 45527,gaseosa inca kola 2.5 l,bebidas,gaseosas,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 455288,mayonesa mayodan suave 500 ml,abarrotes,aderezos,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
-455304,pantera chocolate caja 3 unid,cudados otc,oct salas,06.1.2,Salud,subcategory
-455305,pantera cereza caja 3 unid,cudados otc,oct salas,06.1.2,Salud,subcategory
-455321,ressaka sabor guaraná x sobre,cudados otc,oct salas,06.1.2,Salud,subcategory
+455304,pantera chocolate caja 3 unid,cuidados otc,oct salas,06.1.2,Salud,subcategory
+455305,pantera cereza caja 3 unid,cuidados otc,oct salas,06.1.2,Salud,subcategory
+455321,ressaka sabor guaraná x sobre,cuidados otc,oct salas,06.1.2,Salud,subcategory
 455412,cicatricure antimanchas 50 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 455456,nectar pura vida frutss manzana sin azucar 2 l,bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 455457,nectar pura vida frutss durazno sin azucar 2 l,bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 455458,escoba palma real grande,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 45549,mermelada campo verde frutas tropical 410 gr,abarrotes,"mermel, mieles",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 455567,superal digest x 1 sob,farmacia otc,tracto alimentario y metabolismo,06.1.1,Salud,subcategory
-455635,capullo discos algodon x 35 und,cudados otc,otc,12.1.3,Bienes y Servicios Diversos,rule
+455635,capullo discos algodon x 35 und,cuidados otc,otc,12.1.3,Bienes y Servicios Diversos,rule
 455677,jabon barra portugal caracol 80 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 455678,jabon portugal floresta de lechuga x 100gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 455692,intifem jabon liquido intimo x 250 ml,cuidado personal,cuidado del adulto,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -12971,39 +12974,39 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 455789,enjuague bucal foramen whitening 500 ml,cuidado personal,cuidado bucal,12.1.3,Bienes y Servicios Diversos,subcategory
 455791,cepillo dental foramen unipenacho 1 un,cuidado personal,cuidado bucal,12.1.3,Bienes y Servicios Diversos,subcategory
 455830,servilletas elite practica 100 un,cuidado personal,cuidado familiar,05.6.1,"Muebles, Bienes y Servicios Domésticos",rule
-455848,prudence corrugado preservativo caja x 3 unid,cudados otc,oct salas,06.1.2,Salud,subcategory
+455848,prudence corrugado preservativo caja x 3 unid,cuidados otc,oct salas,06.1.2,Salud,subcategory
 455849,servilletas elite doblada 100 un,cuidado personal,cuidado familiar,05.6.1,"Muebles, Bienes y Servicios Domésticos",rule
 455851,prudence ultra sensible preservativo caja x 3 unid,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 455863,alcohol gel jamsa neutro 360 ml,cuidado personal,cuidado de la piel,06.1.1,Salud,rule
 455864,alcohol gel jamsa neutro 1 l,cuidado personal,cuidado de la piel,06.1.1,Salud,rule
 455880,alcohol isopropilico envaquin x1lt,cuidado personal,cuidado de la piel,06.1.1,Salud,rule
 455885,preservativo inspiral tsunami 48 caja x 3 und,farmacia otc,varios,06.1.2,Salud,subcategory
-455886,preservativo maxmen sensitive 1 caja x 3 un,cudados otc,oct salas,06.1.2,Salud,subcategory
+455886,preservativo maxmen sensitive 1 caja x 3 un,cuidados otc,oct salas,06.1.2,Salud,subcategory
 455890,insecticida mapex aparato electrico,cuidado del hogar,insecticidas,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 455911,insecticida mapex tableta mata mosquito 32 un,cuidado del hogar,insecticidas,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 455962,cafe irupana sin azucar 250 gr,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 455970,cafe irupana tradicional torrado 250 gr,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 455975,lubricante  maxmen para preservativo 1 caja x 5 un,farmacia otc,varios,06.1.2,Salud,subcategory
-455977,gel intimo azucena x 30ml,cudados otc,oct salas,06.1.2,Salud,subcategory
-455978,gel lubricante azucena connection hot x 30ml,cudados otc,oct salas,06.1.2,Salud,subcategory
-455979,gel lubircante azucena frutilla chocolate x 30ml,cudados otc,oct salas,06.1.2,Salud,subcategory
+455977,gel intimo azucena x 30ml,cuidados otc,oct salas,06.1.2,Salud,subcategory
+455978,gel lubricante azucena connection hot x 30ml,cuidados otc,oct salas,06.1.2,Salud,subcategory
+455979,gel lubircante azucena frutilla chocolate x 30ml,cuidados otc,oct salas,06.1.2,Salud,subcategory
 456009,prudence preservativo frutilla caja x 3 unid,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
-456013,prudence preservat texturado extremo caja x 3 unid,cudados otc,oct salas,06.1.2,Salud,subcategory
-456014,prudence preservativo retardante caja x 3 unid,cudados otc,oct salas,06.1.2,Salud,subcategory
+456013,prudence preservat texturado extremo caja x 3 unid,cuidados otc,oct salas,06.1.2,Salud,subcategory
+456014,prudence preservativo retardante caja x 3 unid,cuidados otc,oct salas,06.1.2,Salud,subcategory
 456017,prudence preservativo chocolate caja x 3 unid,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 456018,prudence preservativo mix caja x 3 unid,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 456225,gaseosa dr pepper usa 12 oz,bebidas,bebidas usa,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
-45640,algodón rollo capullo x 400 gr,cudados otc,otc,12.1.3,Bienes y Servicios Diversos,rule
+45640,algodón rollo capullo x 400 gr,cuidados otc,otc,12.1.3,Bienes y Servicios Diversos,rule
 456545,salsa molho predilecta pimienta 150 ml,abarrotes,aderezos,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 456561,cera liquida ola brillante neutro 5 l,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
-45667,algodón rollo capullo x 200 gr,cudados otc,otc,12.1.3,Bienes y Servicios Diversos,rule
+45667,algodón rollo capullo x 200 gr,cuidados otc,otc,12.1.3,Bienes y Servicios Diversos,rule
 456730,franela nico yotau multiuso 40x30 1 un,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
-45675,algodon bolsa capullo x 200gr,cudados otc,otc,12.1.3,Bienes y Servicios Diversos,rule
+45675,algodon bolsa capullo x 200gr,cuidados otc,otc,12.1.3,Bienes y Servicios Diversos,rule
 456799,banda depiladora veet cera fria facial,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 456802,banda depiladora veet piel normal,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
-45683,algodón rollo capullo x 100 gr,cudados otc,otc,12.1.3,Bienes y Servicios Diversos,rule
+45683,algodón rollo capullo x 100 gr,cuidados otc,otc,12.1.3,Bienes y Servicios Diversos,rule
 45688,cafe chiriguano instantaneo 30 un,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
-45691,algodón capullo bolsa x 100gr,cudados otc,otc,12.1.3,Bienes y Servicios Diversos,rule
+45691,algodón capullo bolsa x 100gr,cuidados otc,otc,12.1.3,Bienes y Servicios Diversos,rule
 456926,jabon liquido johnsons glicerina 200 ml knv,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
 457027,salsa tomate etti pizza 300 gr,abarrotes,salsas y extracto de tomate,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 457051,dulce de leche pil 250 gr,lácteos y derivados,dulces de leche y manjares,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -13024,10 +13027,10 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 458063,bloqueador solar solaris gel silicona fps 50 x 50  g,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 458240,shampoo medicasp anticaspa 400 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 458267,enjuague bucal foramen hialuronico 250 ml,cuidado personal,cuidado bucal,12.1.3,Bienes y Servicios Diversos,subcategory
-458314,mentisan unguento aroma limón pote x 40 g,cudados otc,oct salas,06.1.2,Salud,subcategory
+458314,mentisan unguento aroma limón pote x 40 g,cuidados otc,oct salas,06.1.2,Salud,subcategory
 458334,limpiador de vidrio perico 20 cm,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 458362,tapsin caliente noche limon/jengibre x 1 sobre,farmacia otc,sistema respiratorio,06.1.1,Salud,subcategory
-458382,prudence gel intimo neutro x 100 gr,cudados otc,oct salas,06.1.2,Salud,subcategory
+458382,prudence gel intimo neutro x 100 gr,cuidados otc,oct salas,06.1.2,Salud,subcategory
 458511,miel syrup karo dark corn 16 470 ml,abarrotes,productos americanos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 458727,caramelo propoleo miel limon 80 gr,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 458981,suplemento forty shake chocolate 380 gr,abarrotes,dietéticos y saludables,06.1.1,Salud,rule
@@ -13045,7 +13048,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 459144,hydrolit elixir arandanos 625 ml,bebidas,isotónicos,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 459145,hidratante elixir tropical 625 ml,bebidas,isotónicos,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 459149,hydrolit elixir citrus punch 625 ml,bebidas,isotónicos,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
-459177,dextroton polvo frasco x 500gr,cudados otc,oct salas,06.1.2,Salud,subcategory
+459177,dextroton polvo frasco x 500gr,cuidados otc,oct salas,06.1.2,Salud,subcategory
 459194,exfoliante  bielenda neuro glicol x 150 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 459199,agua micelar bielenda rose care  x 500ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 459209,essence esmalte colour grip base coat x unid,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -13088,7 +13091,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 459407,essence esponja makeup cosmeticos x und,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 459420,essence base maq 16h cover last found 09,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 459569,oregano el cocinero picado 140 gr,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
-459604,prudence vete a la versh caja x 5 unid                                                     .,cudados otc,oct salas,06.1.2,Salud,subcategory
+459604,prudence vete a la versh caja x 5 unid                                                     .,cuidados otc,oct salas,06.1.2,Salud,subcategory
 459607,drastik limpia inodoro 500 ml,cuidado del hogar,productos americanos,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 459628,masculan gel lubricante silk fco x 75 ml,farmacia otc,varios,06.1.2,Salud,subcategory
 459630,pañales desechables mami talla g x 40 und,cuidado del bebé,pañales,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -13124,7 +13127,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 460649,ess. mascara ceja wow fixing brow 2,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 460650,ess. mascara ceja wow fixinf brow 3,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 460651,ess. mascara ceja wow fixing brow 4,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
-460688,digestan fiesta x sobre,cudados otc,otc,06.1.1,Salud,subcategory
+460688,digestan fiesta x sobre,cuidados otc,otc,06.1.1,Salud,subcategory
 460695,evoluderm locion corporal almendra x 500 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 460696,evoluderm locion corporal zanahoria x 500 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 460699,helado cabrera milenium clasico 5 un,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -13171,7 +13174,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 46108,refresco cocinero de soya 130 gr,bebidas,refrescos en polvo,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 461083,pulpo dani al aceite de girasol 111 gr,abarrotes,comidas en conserva,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 461091,mejillones dani escabeche 106 gr,abarrotes,comidas en conserva,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
-461096,alia2 efervescente x sobre,cudados otc,otc,06.1.1,Salud,subcategory
+461096,alia2 efervescente x sobre,cuidados otc,otc,06.1.1,Salud,subcategory
 461100,crema corp. acai berry portugal x 100 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 461101,crema corp. coco fresh portugal x 100 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 461102,crema corp.quinua avena portugal x 100 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -13179,8 +13182,8 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 461104,crema corp. coco fresh portugal x 450 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 461106,crema corp.quinua avena portugal x 450 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 461107,crema corp.leche de almend portugal x 450 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
-461166,tulipan tattoo placer ext x 3 unid,cudados otc,oct salas,06.1.2,Salud,subcategory
-461167,tulipan doble placer mix sens x 3 unid,cudados otc,oct salas,06.1.2,Salud,subcategory
+461166,tulipan tattoo placer ext x 3 unid,cuidados otc,oct salas,06.1.2,Salud,subcategory
+461167,tulipan doble placer mix sens x 3 unid,cuidados otc,oct salas,06.1.2,Salud,subcategory
 461207,espuma limpiadora facial fco. x 175 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 461208,agua micelar portugal x 280 ml,cuidado personal,cuidado del adulto,12.1.3,Bienes y Servicios Diversos,subcategory
 461238,vasoo mascota avena procao 500 ml,bazar,menaje vidrio/cristal,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -13190,13 +13193,13 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 461276,balsamo labial lipsmack menta fresh 12.5 g,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 461277,lipsmack balsamo labial mango tropical 12.5gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 461278,balsamo labial lipsmack mango tropical x 11gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
-461286,maxmen preser inspiral kraken caja x 1 und,cudados otc,oct salas,06.1.2,Salud,subcategory
+461286,maxmen preser inspiral kraken caja x 1 und,cuidados otc,oct salas,06.1.2,Salud,subcategory
 461297,lipstick surtido de frutas x 5.3 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 46135,refresco cocinero de linaza 130 gr,bebidas,refrescos en polvo,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 461393,sazonador mccormick mild mix taco 28 gr,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 461519,ess.lte disney mickey fijador spray x50m,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 461530,carbon ecologico 3 kg,bazar,churrasquería,04.5.4,Vivienda y Servicios Básicos,rule
-461568,reanimon s/limon antiacido x sobre,cudados otc,otc,06.1.1,Salud,subcategory
+461568,reanimon s/limon antiacido x sobre,cuidados otc,otc,06.1.1,Salud,subcategory
 461759,batido verde foodness 630 gr,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 461857,sopa instantanea maruchan camaron 64 gr,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 461865,sopa instantanea maruchan pollo picante 64 gr,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -13251,8 +13254,8 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 462436,repelente floresta familiar spray 7.5% 120 ml,cuidado personal,cuidado de la piel,05.6.1,"Muebles, Bienes y Servicios Domésticos",rule
 462441,bloqueador bahia bebe spf 50 x 60g,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 462444,bloqueador bahia super kids spf 70 60 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
-462492,alia2 sabor original x sobre,cudados otc,oct salas,06.1.2,Salud,subcategory
-462493,tonico vita sabor cafeina fco. x 200 ml,cudados otc,oct salas,06.1.2,Salud,subcategory
+462492,alia2 sabor original x sobre,cuidados otc,oct salas,06.1.2,Salud,subcategory
+462493,tonico vita sabor cafeina fco. x 200 ml,cuidados otc,oct salas,06.1.2,Salud,subcategory
 462522,insecticida killer mosca mosquito azul 360 cm,cuidado del hogar,insecticidas,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 462721,bitter amargo centenario 1 l,bebidas,bebidas varias,02.1.1,Bebidas Alcohólicas y Tabaco,rule
 462799,cebolla badia en polvo 2.75 oz,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -13271,10 +13274,10 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 463065,repelente floresta extremo crema 15% 120 gr,cuidado personal,cuidado de la piel,05.6.1,"Muebles, Bienes y Servicios Domésticos",rule
 463066,repelente floresta extremo spray 15% 120 ml,cuidado personal,cuidado de la piel,05.6.1,"Muebles, Bienes y Servicios Domésticos",rule
 463068,repelente floresta familiar 7.5% crema 120 gr,cuidado personal,cuidado de la piel,05.6.1,"Muebles, Bienes y Servicios Domésticos",rule
-463102,vitagrip duo dia noche x 1 sob.,cudados otc,otc,06.1.1,Salud,subcategory
+463102,vitagrip duo dia noche x 1 sob.,cuidados otc,otc,06.1.1,Salud,subcategory
 463129,sinescal crema antiescaldante 20 g,farmacia otc,dermatológicos,06.1.1,Salud,rule
-463148,preservativo kiss cja. x 3und.,cudados otc,oct salas,06.1.2,Salud,subcategory
-463149,kiss gel lubricante intimo x 100 ml,cudados otc,oct salas,06.1.2,Salud,subcategory
+463148,preservativo kiss cja. x 3und.,cuidados otc,oct salas,06.1.2,Salud,subcategory
+463149,kiss gel lubricante intimo x 100 ml,cuidados otc,oct salas,06.1.2,Salud,subcategory
 463156,agua de rosas veganis 120 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 463157,crema facial ulravital veganis 50 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 463158,espuma facial pepino veganis 150 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -13284,7 +13287,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 463163,shampoo veganis hialuronico 400 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 463164,serum double trouble veganis 30 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 463199,suplemento terbofit vainilla 400 gr,abarrotes,dietéticos y saludables,06.1.1,Salud,rule
-463271,digestan sabor berry punch x sobre,cudados otc,oct salas,06.1.2,Salud,subcategory
+463271,digestan sabor berry punch x sobre,cuidados otc,oct salas,06.1.2,Salud,subcategory
 463275,leche nido crecimiento 1+ lta 800g,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 463335,miel de abeja melimel maracuya 85 gr,abarrotes,"mermel, mieles",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 463385,singrip día sabor limón x sobre,farmacia otc,sistema respiratorio,06.1.1,Salud,subcategory
@@ -16951,6 +16954,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 554146,salsa soya kikko bot 160 ml,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554147,salsa soya kikko bot 500 ml,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554148,salsa soya kikko bot 1 lt,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+554154,cereal irupana nutri litas cja 440 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554155,cereal irupana nutri choc cja 440 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554156,cereal irupana nutri frutti cja 440 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554157,cereal irupana nutri choc duo cja 440 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -16996,6 +17000,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 554225,ketchup del valle tradicional 410 gr,abarrotes,aderezos,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554226,vape umo  watermelon ice 12k 5p,bebidas,cigarrillos,02.2.0,Bebidas Alcohólicas y Tabaco,subcategory
 554231,chocolatado irupana choco bros 400 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+554232,chocolatado irupana choco bros 200 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554237,atun san lucas grated aceite 165 gr,abarrotes,comidas en conserva,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554238,atun san lucas grated agua sal 165 gr,abarrotes,comidas en conserva,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554333,cerveza paceña lata roja 473 cc,bebidas,cervezas,02.1.3,Bebidas Alcohólicas y Tabaco,subcategory
@@ -17264,7 +17269,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 581366,shampoo amor para alfombra 980 ml,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 581371,pastilla de baño sapolio tanque wc 45 gr,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 581386,pastilla de baño sapolio watermatic 110 gr,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
-581445,mentisan unguento pote x 60 g,cudados otc,oct salas,06.1.2,Salud,subcategory
+581445,mentisan unguento pote x 60 g,cuidados otc,oct salas,06.1.2,Salud,subcategory
 581631,disfruta efervescente limon x 1 sob bicarbonato carbonato,farmacia otc,tracto alimentario y metabolismo,06.1.1,Salud,subcategory
 581712,enjuague bucal foramen gingivitis x 250 ml,cuidado personal,cuidado bucal,12.1.3,Bienes y Servicios Diversos,subcategory
 581740,repuesto maquina de afeitar shick titanium 4,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -17408,10 +17413,17 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 60003,snack liofiliz alpha bazo d res dp 50g,abarrotes,mascotas,09.3.4,Recreación y Cultura,subcategory
 600040,paño  para vajilla,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 60005,vino marq d caceres verdejo 750ml,bebidas,vinos y champagne,02.1.2,Bebidas Alcohólicas y Tabaco,subcategory
+60006,pepinillo lo nuestro rodajas fco 350g,abarrotes,verduras en conserva,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
+60007,jalapeno lo nuesro rodajas fco 330g,abarrotes,verduras en conserva,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
+60008,cebollas encurtidas lo nuestro fco 350g,abarrotes,verduras en conserva,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
+60009,aceite d oliva lo nuestro picante 100ml,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
+60010,aji l nuestro churrasquero nenita 220ml,abarrotes,aderezos,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 600106,crema para peinar pantene pro v rizos definidos 300 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 600108,crema hidratante pro v liso extremo 300 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
+60011,aji churrasq lo nuestro fogosa 220g,abarrotes,aderezos,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 600118,repuesto maquina de afeitar gillette mach 3 turbo 4 un,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 600119,desodorante barra axe antitraspirante dark temptation 50 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+60012,aji lo nuestro gusanito fco 170ml,abarrotes,verduras en conserva,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
 600123,pan de panchito pan cris extra largos,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 60013,cafe instant iguazu clasico fco 160g,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 600132,cereal frosted flakes 490 g en forma de copos de nieve,abarrotes,productos americanos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -17878,7 +17890,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 616953,pegaton adherente trampa ratones,cuidado del hogar,insecticidas,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 616961,goma secador de piso haragan modelo f,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 616963,pack desinfectante archer 2 un + fuente,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
-616973,doctor cure curitas transparente x cja 100,cudados otc,otc,06.1.1,Salud,subcategory
+616973,doctor cure curitas transparente x cja 100,cuidados otc,otc,06.1.1,Salud,subcategory
 616993,salsa de cecco sugo all napoletana 400 gr,abarrotes,productos importados,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 616998,mopa virutex trapero encabado no.20,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 617030,desodorante roll on rexona men xtracool 50 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -19265,6 +19277,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 654974,maquina de afeitar gillette venus malibu 2 un,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 654988,cepillo dental foramen whitening 1 un,cuidado personal,cuidado bucal,12.1.3,Bienes y Servicios Diversos,subcategory
 655019,toallas higienicas siempre libre especial alas 6 un,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
+655022,pano p/pia estampado p 25x25 alklin,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 655050,salsa hunts roasted garlic onion 26 oz,abarrotes,salsas y extracto de tomate,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 655052,salsa hunts 4 cheese clasica italiana 26 oz,abarrotes,salsas y extracto de tomate,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 655053,salsa hunts cheese garlic 26 oz,abarrotes,salsas y extracto de tomate,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -22051,6 +22064,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 67027,galleta marilan maizena integral 300g,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 670270,chicharron de cerdo sofia 1 kg,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 670276,helado delizia oveja negra dulce de leche 190 ml,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
+67028,gomita deliket beans fruta surtida 70g,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 67029,caramelo dori gota cola bsa 100g,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 670291,cocoa celinda reposteria 160 gr,abarrotes,repostería,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 67030,sopa instant al toke camaron vaso 65g,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -22073,6 +22087,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 670353,helado delizia pelao 50 ml,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 670354,papel aluminio ilko 7.5 mts,bazar,articulos de cocina,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 670355,budin arcor con frutas 215 gr,pastelería y masas típicas,pastelería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
+67038,pack 1galleta frac 1gomita 90g,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 670385,helado arcor slice frutilla trozo fruta 70 gr,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 670387,tartaleta mamina barquito 40 un,pastelería y masas típicas,pastelería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 670395,bandeja de huevos mrm de 6 unidades 2x1,lácteos y derivados,huevos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -22081,6 +22096,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 670404,budin aguila black 230 gr,pastelería y masas típicas,pastelería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 670405,budin aguila mix 230 gr,pastelería y masas típicas,pastelería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 670407,paneton bauducco chocottone 400 gr,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
+67041,pack cafe monaco 200g 2tetra 330 1taza,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 670416,tomate valenciana oliva gourmet 190 gr,abarrotes,verduras en conserva,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
 670419,escabeche valenciana locoto 200 gr,abarrotes,verduras en conserva,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
 670420,pesto de albahaca valenciana gourmet 200 gr,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -22133,6 +22149,8 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 670611,limpiador de piso bristar cedron 900 ml,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 670613,galleta ferrari ghezzi crackers 100 gr,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 670625,pañales pampers baby dry xxg 64 un,cuidado del bebé,pañales,12.1.3,Bienes y Servicios Diversos,subcategory
+67063,vermut yerbasanta andino bco 750ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
+67064,vermut yerbasanta rosso amaz 750ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 670641,cereal princesa avenitas 850 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 670642,cereal princesa abejuelas de miel,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 670643,avena princesa instantanea chocolate 400 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -24824,13 +24842,13 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 695505,catrice delineador cejas matic wp 30 (22,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 695507,catrice esmalte iconails 02 (224185),cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 695522,catrice mascara lash to kill wp volume (,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
-695543,digestan compuesto x sobre,cudados otc,oct salas,06.1.2,Salud,subcategory
+695543,digestan compuesto x sobre,cuidados otc,oct salas,06.1.2,Salud,subcategory
 695563,toallas higienicas de mujer anatómica pack 16 un,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
-695570,tonico vita x 200 ml suplemento vitaminico,cudados otc,oct salas,06.1.2,Salud,subcategory
+695570,tonico vita x 200 ml suplemento vitaminico,cuidados otc,oct salas,06.1.2,Salud,subcategory
 695574,refresco nectar kris mango 120 gr,bebidas,refrescos en polvo,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
-695580,tulipan clasico x 6 und con 2 geles clasicos,cudados otc,oct salas,06.1.2,Salud,subcategory
-695581,tulipan ctrl retardante x 6 und con benzoca,cudados otc,oct salas,06.1.2,Salud,subcategory
-695582,tulipan ultra fino x6und,cudados otc,oct salas,06.1.2,Salud,subcategory
+695580,tulipan clasico x 6 und con 2 geles clasicos,cuidados otc,oct salas,06.1.2,Salud,subcategory
+695581,tulipan ctrl retardante x 6 und con benzoca,cuidados otc,oct salas,06.1.2,Salud,subcategory
+695582,tulipan ultra fino x6und,cuidados otc,oct salas,06.1.2,Salud,subcategory
 695585,antigripal compuesto noche x sobre,farmacia éticos,sistema respiratorio,06.1.1,Salud,subcategory
 695589,refresco nectar kris mandarina 120 gr,bebidas,refrescos en polvo,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 695594,flan kris vainilla 1 kg,abarrotes,repostería,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -27728,7 +27746,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 836860,pilas energizer alcalina aa 6 un,bazar,ferretería,05.5.2,"Muebles, Bienes y Servicios Domésticos",subcategory
 836861,pilas energizer alcalina aaa 6 un,bazar,ferretería,05.5.2,"Muebles, Bienes y Servicios Domésticos",subcategory
 836862,linterna eveready led,bazar,ferretería,05.5.2,"Muebles, Bienes y Servicios Domésticos",subcategory
-836884,glucosamin 12 x sobre,cudados otc,otc,06.1.1,Salud,subcategory
+836884,glucosamin 12 x sobre,cuidados otc,otc,06.1.1,Salud,subcategory
 836948,papel higienico scott doble hoja 6 un,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
 836977,bombilla de poro cheff metalizada,bazar,articulos de cocina,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 836979,er bombillas de poro chata cheff,bazar,articulos de cocina,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -31548,6 +31566,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 960604,frijoles old el paso refried green 453 gr,abarrotes,productos americanos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 960630,sopa instantanea chow mein 4 oz,abarrotes,productos americanos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 960631,sopa instantanea chow mein teriyaki beef flavor 4 oz,abarrotes,productos americanos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
+960640,ocean spray craisins cranberriers 48 oz,abarrotes,productos americanos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 960670,cubeta para hielo rey,bazar,articulos de cocina,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 96075,fideo famosa rosca 27 400 gr,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 960815,calculadora,bazar,librería,09.5.4,Recreación y Cultura,subcategory
@@ -31695,7 +31714,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 988092,fri.raspa talon de bs 14,bazar,bijouteria/cuidado personal,12.1.3,Bienes y Servicios Diversos,subcategory
 988844,fri pelotas de picina  14,bazar,temporada verano,—,Excluido (temporada),subcategory
 989050,plato de mascota mediano plasutil,bazar,mascotas general,09.3.4,Recreación y Cultura,subcategory
-989544,doctor cure curitas color piel x cja/100,cudados otc,otc,06.1.1,Salud,subcategory
+989544,doctor cure curitas color piel x cja/100,cuidados otc,otc,06.1.1,Salud,subcategory
 989728,pilas ultra alkaline gp aax4,bazar,ferretería,05.5.2,"Muebles, Bienes y Servicios Domésticos",subcategory
 989850,papel higienico nacional blanco 2 un,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
 989915,plancha de mano para ropa luma  bella lb 62011,bazar,electrodoméstico/línea blanca-hogar,05.3.2,"Muebles, Bienes y Servicios Domésticos",subcategory
