@@ -4580,6 +4580,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 210018,vape waka solo2 strawb kiwi 3500puf,bebidas,cigarrillos,02.2.0,Bebidas Alcohólicas y Tabaco,subcategory
 210026,mayonesa tradicional cepera pet 200g,abarrotes,aderezos,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 210027,ketchup tradicional cepera pet 210g,abarrotes,aderezos,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+210029,bebida ganesha gin frutos rojos 2lt,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 210030,cerveza corona cero bot 330ml,bebidas,cervezas,02.1.3,Bebidas Alcohólicas y Tabaco,subcategory
 210031,aceituna nucete rell limon fco 330g,abarrotes,verduras en conserva,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
 210032,aceituna nucete verde sin caroz dp 220g,abarrotes,verduras en conserva,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -8262,6 +8263,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 280114,jabon arthe coco avena 85 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280115,jabon arthe coco macadamia 85 g,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280117,body splash farmax sandia 190 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+280118,body splash farmax  maracuya 190 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280119,cepillo condor dynamic 2pack 8121,cuidado personal,cuidado bucal,12.1.3,Bienes y Servicios Diversos,subcategory
 280120,cepillo dental condor hw 8260 2pack,cuidado personal,cuidado bucal,12.1.3,Bienes y Servicios Diversos,subcategory
 280121,cepillo dent condor hw kit +5 anos 8370,cuidado personal,cuidado bucal,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -8372,9 +8374,11 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 280463,contorno sculpting stix black blur 016,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280469,pack ninet clasica x 30 unid,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
 280470,deinfect aroma y deo rocio navidad  360,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+280475,guantes de goma domesticos totes  xl,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 280476,pack nosotras diario norm 100 2x1,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
 280477,protectore diario precis 15 unds,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
 280479,toalla hig precis fina ansorbente 10 und,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
+280480,toalla hig precis nocturna ultra 8unds,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
 280488,panal plusec adulto g 8x10 unds,cuidado personal,cuidado del adulto,12.1.3,Bienes y Servicios Diversos,subcategory
 280489,panal plussec aduto xg 8x10 unds,cuidado personal,cuidado del adulto,12.1.3,Bienes y Servicios Diversos,subcategory
 280490,panal plussec adulto m 8x10 unds,cuidado personal,cuidado del adulto,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -9517,6 +9521,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 310390,licor d cafe buen amigo bot 1lt,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 310394,pack wafer mundial 6x100g 4vasos,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 310396,chipilos dulce coronado bsa 200g,abarrotes,snack,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+310397,cafe illy iperespresso intenso 18 caps,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 310398,cerveza burguesa 47 bot 330ml,bebidas,cervezas,02.1.3,Bebidas Alcohólicas y Tabaco,subcategory
 310399,cerveza burguesa 47 lta 350ml,bebidas,cervezas,02.1.3,Bebidas Alcohólicas y Tabaco,subcategory
 310400,maiz frito avati s queso bsa 80g,abarrotes,snack,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -17015,6 +17020,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 554226,vape umo  watermelon ice 12k 5p,bebidas,cigarrillos,02.2.0,Bebidas Alcohólicas y Tabaco,subcategory
 554231,chocolatado irupana choco bros 400 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554232,chocolatado irupana choco bros 200 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+554234,wafles la francesa vainilla 230 gr,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 554237,atun san lucas grated aceite 165 gr,abarrotes,comidas en conserva,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554238,atun san lucas grated agua sal 165 gr,abarrotes,comidas en conserva,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554333,cerveza paceña lata roja 473 cc,bebidas,cervezas,02.1.3,Bebidas Alcohólicas y Tabaco,subcategory
@@ -20274,8 +20280,8 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 660229,shampoo sedal toque de seda 190 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 660230,desodorante en aerosol dove intensive care y frambuesa pack 2 un 150 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 660231,mascarilla de tratamiento sedal toque de seda 300 gr,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
-660234,serum oleo capilar sedal toque de seda 60 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
-660235,serum capilar sedal toque de seda 100 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
+660234,serum oleo capilar sedal toque de seda 60 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+660235,serum capilar sedal toque de seda 100 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 660236,shampoo carissa anticaspa doypack 750 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 660246,shampoo classic for men sin sal 950 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 660247,shampoo classic argan y macadamia 950 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -20302,6 +20308,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 660268,pk pampconfse xxg 112px1u,cuidado del bebé,pañales,12.1.3,Bienes y Servicios Diversos,subcategory
 660269,pk pampconfse xg 116p x1u,cuidado del bebé,pañales,12.1.3,Bienes y Servicios Diversos,subcategory
 660270,pk pampconfse xxxg 88px1u,cuidado del bebé,pañales,12.1.3,Bienes y Servicios Diversos,subcategory
+660271,crema anti arrugas nivea q10 power daa fps 30 50 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 660272,crema facial nivea cuidado nutritivo 100 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 660276,pack oral-b cepillo color + crema dental bicarbonato 1 un,cuidado personal,cuidado bucal,12.1.3,Bienes y Servicios Diversos,subcategory
 660277,pack oral-b cepillo 7 beneficios carbón + crema dental cuidado bucal 1 un,cuidado personal,cuidado bucal,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -20466,8 +20473,10 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 660536,bipack kotex femenina dia y noche,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
 660537,bipack kotex femenina ultrafina + maxi p,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
 660539,dove serum corp firme pro retinol 400ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+660540,jabon arthe coco argan 85 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 660541,teatrical coreano 100 gr.,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 660548,cafe copacabana exportado tostado 250 gr,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
+660550,shaving foam - olive oil 200 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 660557,ac granada +ah dp 18x350ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 660559,ac sin sal palta 18x350ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 660560,sh sin sal palta dp 18x350ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -20477,6 +20486,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 660569,brillina cera crema roja sashet 480ml x1,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660570,brillina cera crema incolora sashet 480m,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660571,brillina cera crema tierra color sashet,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+660572,ponds cr clarant b3 fps30 100g,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 660711,galleta noel octagonal surtida 260 gr,abarrotes,temporada,—,Excluido (temporada),subcategory
 660852,te frutte laxte 20 sobres,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 661150,insecticida tableta raid mata mosquito doble accion 24 un,cuidado del hogar,productos americanos,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -21812,7 +21822,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 669359,maquina de afeitar gillette prestobarba 3 carbón pack 4 x 36 un,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 669360,cepillos dentales oral-b advanced 7 beneficios pack 3 un,cuidado personal,cuidado bucal,12.1.3,Bienes y Servicios Diversos,subcategory
 669361,maquina de afeitar gillette prestobarba 3 carbón pack 2 x 72 un,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
-669362,serum sedal luminoso uv 6x110 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
+669362,serum sedal luminoso uv 6x110 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 669363,mascarilla sedal tratamiento luminoso uv 6x300 gr,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 669364,panos microfibra totes reutilizable 30 h,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 669365,panos microfibra totes reutilizable 30 h,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -22103,7 +22113,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 670316,palmeritas victoria pasteleria,pastelería y masas típicas,pastelería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 670317,strudel victoria de maracuya,pastelería y masas típicas,pastelería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 670318,cup cakes victoria 6 un,pastelería y masas típicas,pastelería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
-67033,sopa instant al toke pollo vaso 65g,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
+67033,sopa instant al toke pollo vaso 65g,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 670348,hamburguesa prosana de soya queso,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 670353,helado delizia pelao 50 ml,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 670354,papel aluminio ilko 7.5 mts,bazar,articulos de cocina,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -24116,6 +24126,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 674971,palitos con quinua ceab 12uni,pastelería y masas típicas,pastelería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 674972,palitos con sesamo ceab 12uni,pastelería y masas típicas,pastelería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 674973,palitos con chia ceab 12ni,pastelería y masas típicas,pastelería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
+674974,palitos con queso ceab 12uni,pastelería y masas típicas,pastelería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 674975,helado paleta delizia tentacion clasico 100ml,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 674976,pan molde integral santonio masa madre 550gr,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 674978,pan dulce budin tradicional santonio 200grs,pastelería y masas típicas,pastelería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -24125,6 +24136,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 674982,cu¥apizza abizcochados  sabor napolitana,pastelería y masas típicas,masas típicas externas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 674983,cu¥apizza abizcochado sabor fugazzetta 1,pastelería y masas típicas,masas típicas externas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 674986,jamon pizzero sofia kilogramo,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
+674987,paleta monaco vainilla cob chocolate,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 674988,paleta monaco moca cob chocolate 115ml,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 675011,chorizo cervecero sofia a granel kgr,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 675012,maple de huevo rolon 30 nidades granel,lácteos y derivados,huevos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
