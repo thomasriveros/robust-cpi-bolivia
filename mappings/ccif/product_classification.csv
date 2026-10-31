@@ -22101,6 +22101,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 670270,chicharron de cerdo sofia 1 kg,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 670276,helado delizia oveja negra dulce de leche 190 ml,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 67028,gomita deliket beans fruta surtida 70g,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
+670286,yogurello escolar pil frutilla 100ml bol,lácteos y derivados,yogures,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 67029,caramelo gota cola dori bolsa 100 gr,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 670291,cocoa celinda reposteria 160 gr,abarrotes,repostería,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 67030,sopa instantanea al toke camaron vaso 65 gr,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -24147,6 +24148,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 675011,chorizo cervecero sofia a granel kgr,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 675012,maple de huevo rolon 30 nidades granel,lácteos y derivados,huevos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 675016,pack salchichas zampo¤a torito (2 piezas),fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
+675025,chorizo cervecero sofia vacio 5 unidades,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 67520,leche de soya norland saborizada 1 l,lácteos y derivados,leches,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 675245,miel de abeja eva promiel 250 gr,abarrotes,"mermel, mieles",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 6753,isotonico activade frutilla 600 ml,bebidas,isotónicos,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -27418,6 +27420,8 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 819681,canela el cocinero molida 65 gr,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 819682,pan 9051 portarretrato  foto 8x10pulg,bazar importación,living y dormitorio,05.1.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 819690,pan 0989 reloj de pared  27.5cm,bazar importación,living y dormitorio,12.3.1,Bienes y Servicios Diversos,rule
+819729,pan 1316 adorno elefante 16x25 cm,bazar importación,regalos/adornos,09.3.3,Recreación y Cultura,subcategory
+819731,pan 1315 adorno elefante  14x20 cm,bazar importación,regalos/adornos,09.3.3,Recreación y Cultura,subcategory
 819761,pan 0282 triangulo d/seguridad 41.5cm,bazar importación,automotriz,07.2.1,Transporte,subcategory
 819763,pan 7155 soporte p  celular 16x10cm,bazar importación,automotriz,07.2.1,Transporte,subcategory
 819764,pan 5165 cuerda elastica con ganchos 2pzas,bazar importación,camping general,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -27898,6 +27902,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 839596,salsa chimichurri la parmesana tradicional 300 gr,abarrotes,aderezos,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 839601,colonia super para mascotas 120 ml,bazar,mascotas general,09.3.4,Recreación y Cultura,subcategory
 839635,pilas energizer alcalina aaa 8 un,bazar,ferretería,05.5.2,"Muebles, Bienes y Servicios Domésticos",subcategory
+839646,ch 14 13 prensa francesa tapa y asa plateado 600ml,bazar importación,cocina general,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 839737,porta vela de vidrio,bazar,living y dormitorio,05.1.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 839756,juguete set bomberos,juguetería,juguetería niño/bebé,09.3.1,Recreación y Cultura,subcategory
 839770,globo diseños surtidos,bazar,cotillón,09.3.1,Recreación y Cultura,rule
@@ -27951,6 +27956,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 840381,pan 7994 cuerda soga 4 8x15m p tender,bazar importación,living y dormitorio,05.1.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 840402,sazon con azafran goya 100 gr,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 84042,licor cinzano blanco 950 ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
+840421,ch 14 1 cafetera de aluminio 300ml negro y rojo,bazar importación,cocina general,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 840437,miel karo light corn 16 oz,abarrotes,productos americanos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 840615,salsa soya lkk cal superiro 500 ml,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 840620,salsa soya lkk oscura champiñon 500 ml,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -27984,6 +27990,12 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 840988,juego de vajilla 16 piezas,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 841000,ropa de mascota invierno n5-7,bazar,mascotas general,09.3.4,Recreación y Cultura,subcategory
 841005,chamarra de mascota n3-4,bazar,mascotas general,09.3.4,Recreación y Cultura,subcategory
+841011,ch 14 5 prensa francesa 800ml tapa base y asa negro,bazar importación,cocina general,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+841013,ch 14 6 prensa francesa 1000ml tapa base y asa negra,bazar importación,cocina general,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+841051,ch 14 14 prensa francesa 600ml tapa base y asa de acero,bazar importación,cocina general,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+841061,ch 14 21 jarra de vidrio 950ml con infusor de acero y tapa p,bazar importación,cocina general,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+841062,ch 14 22 jarra de vidrio 550ml con infusor de acero y tapa p,bazar importación,cocina general,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+841064,ch 14 24 jarra de vidrio 750ml con infusor de acero base cua,bazar importación,cocina general,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 841080,auto espelhamento central sul 500 ml,bazar,automotriz,07.2.1,Transporte,subcategory
 841082,tomatodo termico azul borde transparente 900 ml,bazar importación,menaje metálico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 841083,tomatodo termico verde borde transparente 900 ml,bazar importación,menaje metálico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -28641,6 +28653,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 849478,ch 7 214 vincha catrina halloween 23x20cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 849488,vincha ojos halloween 21 x 21 cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 849616,ch 7 22 mano verde halloween para dulces 63x19cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
+849635,ch hm 44 plato plano grande 27x27cm borde marron,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 849846,limpiador desinfectante ola aromatic flores 5 l,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 849850,mermelada campagnola durazno 454 gr,abarrotes,"mermel, mieles",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 849897,limpiador desinfectante ola aromatic pino 5 l,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -28700,6 +28713,9 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 851008,ch d2 16 vela aromatica vainilla 7x7 5cm,bazar importación,living y dormitorio,05.1.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 851009,vela aromatica vainilla 10 cm,bazar importación,living y dormitorio,05.1.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 851022,vela aromatica vainilla 15 cm,bazar importación,living y dormitorio,05.1.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+851141,pan 3585 adorno elefante de ceramica 15x5x19cm,bazar importación,regalos/adornos,09.3.3,Recreación y Cultura,subcategory
+851143,pan 4025 adorno manzana blanco 9x9x10cm,bazar importación,regalos/adornos,09.3.3,Recreación y Cultura,subcategory
+851152,pan 3583 adorno elefante de ceramica gris blanco 26x15 16cm,bazar importación,regalos/adornos,09.3.3,Recreación y Cultura,subcategory
 851234,pan de hamburguesa paris mediano 10 un,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 85124,mani rocklets navideño 120 gr,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 851314,juguete camion dinosaurio jaula,juguetería importación,juguetería niño/bebé,09.3.1,Recreación y Cultura,subcategory
@@ -29886,6 +29902,11 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 861656,jan agarrapelo x2  9,bazar,bijouteria/cuidado personal,12.1.3,Bienes y Servicios Diversos,subcategory
 861657,jan vinchas de nina 12,bazar,bijouteria/cuidado personal,12.1.3,Bienes y Servicios Diversos,subcategory
 861663,ca jug muneca surtida bs 115,juguetería,juguetería niña/bebé,09.3.1,Recreación y Cultura,subcategory
+861674,ch 26 23 plato plano diseno de lineas 3d fondo blanco 26cm,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+861676,ch 26 25 plato plano diseno floral fondo blanco 26cm,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+861677,ch 26 26 plato plano diseno geometrico fondo blanco 26cm,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+861678,ch 26 27 plato plano diseno geometrico fondo blanco 26cm,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+861679,ch 26 29 plato plano hojas verdes 26cm,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 861680,jan agarrapelo cblister  14,bazar,bijouteria/cuidado personal,12.1.3,Bienes y Servicios Diversos,subcategory
 861681,jan  agarrapelo  x3 blister 14,bazar,bijouteria/cuidado personal,12.1.3,Bienes y Servicios Diversos,subcategory
 861744,lapices ecolapices faber castell madera negra soft 100 colores,bazar,librería,09.5.4,Recreación y Cultura,subcategory
@@ -30185,6 +30206,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 867546,cepillo detangling beter,bazar,bijouteria/cuidado personal,12.1.3,Bienes y Servicios Diversos,subcategory
 867547,cepillo travel mini  beter,bazar,bijouteria/cuidado personal,12.1.3,Bienes y Servicios Diversos,subcategory
 867548,cepillo plegable c/espejo beter,bazar,bijouteria/cuidado personal,12.1.3,Bienes y Servicios Diversos,subcategory
+867557,bandeja arenera con tapa,bazar,mascotas general,09.3.4,Recreación y Cultura,subcategory
 867558,juguete raton para mascota,bazar,mascotas general,09.3.4,Recreación y Cultura,subcategory
 867570,corta pelo jamaky jpc90056,bazar,electrodoméstico cuidado personal,12.1.2,Bienes y Servicios Diversos,subcategory
 867612,bandeja aluminio c/tapa d12x10 wyda,bazar,cotillón,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -30433,6 +30455,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 872740,bolsa de regalo,bazar,regalos/adornos,09.5.4,Recreación y Cultura,rule
 872882,jan antifas craquelado caranaval 8,bazar,temporada carnaval,—,Excluido (temporada),subcategory
 872889,globos carnavaleros con cargador,bazar,temporada carnaval,—,Excluido (temporada),subcategory
+872908,ch n63 7 lampara de mesa cafe pantalla conica estructura arq,bazar importación,living y dormitorio,05.1.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 872923,tapero 130ml b hermeticos 1recuentreh,bazar,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 873107,foco led luz amarilla 10w rayovac,bazar,ferretería,05.5.2,"Muebles, Bienes y Servicios Domésticos",subcategory
 873183,pincel de barba condor sm 2008,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -30455,6 +30478,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 873534,guantes de trabajo,bazar,ferretería,05.5.2,"Muebles, Bienes y Servicios Domésticos",subcategory
 873540,cinta islante 2,bazar,ferretería,05.5.2,"Muebles, Bienes y Servicios Domésticos",subcategory
 873550,mistura carnavalera,bazar,temporada carnaval,—,Excluido (temporada),subcategory
+873765,cafetera aluminio 6 tazas brinox,bazar importación,cocina general,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 873767,sarten brinox para freir 2.65 l,bazar,articulos de cocina,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 873804,foco luminar 3u 27 luz blanca,bazar,ferretería,05.5.2,"Muebles, Bienes y Servicios Domésticos",subcategory
 873828,duo rectangu 1.4 lts plasutil,bazar,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
