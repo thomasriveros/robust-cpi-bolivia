@@ -8069,6 +8069,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 26203,paq cunape camaro t brasil queso 10x15g,abarrotes,snack,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 26204,snack pico pico pizza 20 gr,abarrotes,snack,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 26205,snack pico pico churrasxo limon 20 gr,abarrotes,snack,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+262056,jugo 100% limon realemon 8 oz,bebidas,bebidas usa,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 26212,café baggio chocolate trufado molido 250 gr,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 26213,café baggio chocolate menta molido 250 gr,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 26214,café baggio chocolate avellana molido 250 gr,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -8264,6 +8265,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 280113,jabon arthe coco rosamosqueta 85g,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280114,jabon arthe coco avena 85 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280115,jabon arthe coco macadamia 85 g,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+280116,body splash farmax lavanda 190 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280117,body splash farmax sandia 190 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280118,body splash farmax  maracuya 190 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280119,cepillo condor dynamic 2pack 8121,cuidado personal,cuidado bucal,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -14944,6 +14946,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 551022,vino tinto crianza 2018 beronia 750 ml,bebidas,vinos y champagne,02.1.2,Bebidas Alcohólicas y Tabaco,subcategory
 551024,vino jerez gonzales solera cream 750 ml,bebidas,vinos y champagne,02.1.2,Bebidas Alcohólicas y Tabaco,subcategory
 551025,brandy solera soberano 700 ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
+551026,vino beronia blanco verdejo rueda 2020 750 ml,bebidas,vinos y champagne,02.1.2,Bebidas Alcohólicas y Tabaco,subcategory
 551027,licor chinchon anis dulce 1 l,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 551028,licor chinchon anis seco 1 l,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 551029,vino viñas de vero luces blanco 750 ml,bebidas,vinos y champagne,02.1.2,Bebidas Alcohólicas y Tabaco,subcategory
@@ -16989,6 +16992,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 554166,jugo de la granja mandarina 2 l,bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 554167,mermelada reyna frutilla pote 200 gr,abarrotes,"mermel, mieles",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 554171,caramelo masticable yoghurt fresa bolsa 500 gr,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
+554172,caramelo relleno miel dori bolsa 500 gr,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 554173,caramelos masticables lokino bolsa 400 gr,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 554174,salsa helios casera 570 gr,abarrotes,productos importados,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 554175,tomate helios frito 570 gr,abarrotes,productos importados,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -17026,6 +17030,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 554234,wafles la francesa vainilla 230 gr,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 554237,atun san lucas grated en aceite 165 gr,abarrotes,comidas en conserva,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554238,atun san lucas grated en agua y sal 165 gr,abarrotes,comidas en conserva,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+554239,mix frutos secos waras 250 gr,abarrotes,frutas en conserva,01.1.6,Alimentos y Bebidas No Alcohólicas,subcategory
 554240,mix waras fruta deshid con chocolate 90,abarrotes,frutas en conserva,01.1.6,Alimentos y Bebidas No Alcohólicas,subcategory
 554244,pack condor choc halloween cja150 gr,abarrotes,temporada,—,Excluido (temporada),subcategory
 554333,cerveza paceña lata roja 473 cc,bebidas,cervezas,02.1.3,Bebidas Alcohólicas y Tabaco,subcategory
@@ -20482,11 +20487,13 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 660541,teatrical coreano 100 gr.,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 660548,cafe copacabana exportado tostado 250 gr,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 660550,shaving foam - olive oil 200 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+660555,hair spray maximum volume - extra strong,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 660557,ac granada +ah dp 18x350ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 660559,ac sin sal palta 18x350ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 660560,sh sin sal palta dp 18x350ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 660561,ac manzanilla dp 18x350ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 660562,pack ahorro limpieza   surtido,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+660565,esponja sb limpieza delicada naranja x10,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660567,brillina cera crema amarilla sashet 480m,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660569,brillina cera crema roja sashet 480ml x1,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660570,brillina cera crema incolora sashet 480m,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -22223,6 +22230,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 670771,mermelada dietetica de frutilla clementina,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 670772,mermelada dietetica de durazno clementina,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 670778,pan para panchitos 16cm 10 unidades bolsa,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
+67078,pack hidratante powerade mora 990 ml + 2 vital,bebidas,bebidas varias,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 670790,pan integral irupana amaranto 500 gr,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 670791,pan integral irupana anis 500 gr,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 670792,pan integral irupana quinua 500 gr,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -24101,6 +24109,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 674930,charque sabor jalape¥o limon res  viloma 50 g,carnes,carnes procesadas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 674931,charque snack fitness res 20 g,carnes,carnes procesadas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 674932,pan rustico ovoplus bolsa 500grs,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
+674934,pierna con cuero de cerdo sofia kgr (refri),fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 674935,cuadril de cerdo sofia kgr (refrigerado),fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 674937,mortadela picante jumbo sofia barra kgr,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 674938,yogurt griego fqm frutilla probio c/stevia 500g,lácteos y derivados,yogures,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -24148,6 +24157,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 675011,chorizo cervecero sofia a granel kgr,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 675012,maple de huevo rolon 30 nidades granel,lácteos y derivados,huevos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 675016,pack salchichas zampo¤a torito (2 piezas),fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
+675022,leche nordland original sin azucar 900ml bolsa,lácteos y derivados,leches,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 675025,chorizo cervecero sofia vacio 5 unidades,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 67520,leche de soya norland saborizada 1 l,lácteos y derivados,leches,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 675245,miel de abeja eva promiel 250 gr,abarrotes,"mermel, mieles",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
