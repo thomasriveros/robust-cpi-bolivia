@@ -23,6 +23,41 @@ python analysis/paper_analysis.py
 
 The CSVs and summary are rewritten every day. The charts are redrawn only when a new month of official data arrives, which keeps the repo from growing by about 1.5 MB a day. `charts_official_month.txt` records the month they were last drawn for. To redraw them on demand, run `python analysis/paper_analysis.py --force-charts`.
 
+## Tracking accuracy
+
+`tracking_accuracy.py` runs after the paper analysis and measures how closely synthetic inflation tracks official inflation. It writes to `output/accuracy/` (core-5) and `output/core4/accuracy/` (core-4).
+
+```bash
+python analysis/tracking_accuracy.py
+```
+
+Each index is compared with two official targets: the **matched basket** (the official series built from the same INE divisions, nationally and for each city) and **overall** national CPI. Three synthetic measures are scored:
+
+| Measure | Definition |
+|---|---|
+| Monthly average, MoM | The daily index is averaged over calendar month M, then compared with the M-1 average. INE's index is a monthly average of prices, so this measure matches its concept. |
+| 30-day change to the 15th | The point-in-time measure used with mid-month dating above. It is available about two weeks earlier. |
+| Monthly average, 12-month | Year-over-year change in the monthly average. |
+
+Outputs:
+
+- **`accuracy_table.csv`**: for each measure, region and target:
+  - bias, MAE, median absolute error, RMSE, and RMSE with the bias removed
+  - correlation
+  - the Theil decomposition of the MSE into bias, variance (scale mismatch) and covariance (noise) shares
+  - directional accuracy: the share of months where synthetic and official inflation move the same way
+  - the share of squared error that comes from the three worst months
+  - RMSE relative to a random walk, i.e. last month's official inflation
+- **`nowcast_evaluation.csv`**: pseudo out-of-sample nowcasts of national MoM inflation over an expanding window, after the first 12 months.
+  - Models: raw synthetic, calibrated synthetic (an OLS of official on synthetic, fitted only on earlier months), the random walk, and the expanding mean.
+  - Each model also gets a Diebold-Mariano test against the random walk, with the Harvey-Leybourne-Newbold correction.
+- **`lag_profile.csv`** and `lag_profile.png`: RMSE and correlation as the synthetic 30-day window is moved from 10 days after the 15th to 30 days before it.
+- **`monthly_inflation.csv`**: the official and synthetic monthly series behind the tables.
+- **`errors_by_month.png`**: synthetic minus official MoM inflation for each month.
+- **`summary.md`**: the headline tables.
+
+As in the paper analysis, charts are only redrawn when a new official month arrives. To redraw them now, pass `--force-charts`.
+
 ## Official series
 
 Every official series is rebased to July 2024 = 100.

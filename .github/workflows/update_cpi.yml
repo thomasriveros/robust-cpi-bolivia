@@ -49,6 +49,10 @@ jobs:
         continue-on-error: true
         run: python analysis/paper_analysis.py
 
+      - name: Run tracking accuracy analysis
+        continue-on-error: true
+        run: python analysis/tracking_accuracy.py
+
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
