@@ -19,10 +19,10 @@
 | 30-day change to the 15th | LaPaz | Matched basket | 25 | -0.46 | 2.16 | 3.62 | 0.42 | 0.02/0.25/0.73 | 62% | 82% (2026-07 2026-05 2025-07) | 0.66 |
 | 30-day change to the 15th | Cochabamba | Matched basket | 25 | -0.31 | 1.63 | 2.35 | 0.63 | 0.02/0.12/0.86 | 71% | 72% (2026-07 2026-06 2025-07) | 0.57 |
 | 30-day change to the 15th | SantaCruz | Matched basket | 25 | -0.18 | 1.10 | 1.42 | 0.78 | 0.02/0.05/0.93 | 54% | 54% (2025-06 2025-12 2025-01) | 0.83 |
-| Monthly average, 12-month | National | Matched basket | 14 | -3.47 | 3.92 | 4.58 | 0.98 | 0.58/0.06/0.37 | 92% | 49% (2026-06 2026-09 2026-05) | 1.36 |
+| Monthly average, 12-month | National | Matched basket | 14 | -3.48 | 3.92 | 4.58 | 0.98 | 0.58/0.06/0.37 | 92% | 49% (2026-06 2026-09 2026-05) | 1.36 |
 | Monthly average, 12-month | National | Overall | 14 | -0.67 | 6.11 | 7.05 | 0.99 | 0.01/0.96/0.03 | 92% | 47% (2026-06 2026-09 2026-08) | 3.78 |
-| Monthly average, 12-month | LaPaz | Matched basket | 14 | -5.25 | 5.51 | 6.93 | 0.95 | 0.57/0.10/0.33 | 85% | 72% (2026-06 2026-05 2026-09) | 1.52 |
-| Monthly average, 12-month | Cochabamba | Matched basket | 14 | -1.20 | 2.61 | 3.16 | 0.98 | 0.14/0.14/0.72 | 92% | 62% (2026-09 2026-06 2026-03) | 0.89 |
+| Monthly average, 12-month | LaPaz | Matched basket | 14 | -5.26 | 5.51 | 6.94 | 0.95 | 0.57/0.10/0.33 | 85% | 72% (2026-06 2026-05 2026-09) | 1.52 |
+| Monthly average, 12-month | Cochabamba | Matched basket | 14 | -1.20 | 2.61 | 3.16 | 0.98 | 0.14/0.14/0.72 | 92% | 63% (2026-09 2026-06 2026-03) | 0.89 |
 | Monthly average, 12-month | SantaCruz | Matched basket | 14 | -0.89 | 3.13 | 3.52 | 0.97 | 0.06/0.01/0.93 | 85% | 56% (2025-11 2026-03 2025-10) | 0.94 |
 
 ## Pseudo out-of-sample nowcasts (national MoM, expanding window, first 12 months for training)

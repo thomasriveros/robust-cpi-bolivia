@@ -1,6 +1,6 @@
 # Paper analysis: Core-4, mid-month dating
 
-- Tracker data through: 2026-11-03
+- Tracker data through: 2026-11-05
 - Latest official observation placed on: 2026-09-15
 - Official series rebased to July 2024 = 100; synthetic inflation is a 30-day change.
 
@@ -8,10 +8,10 @@
 
 | Region | Metric | N | Correlation | MAD |
 |---|---|---|---|---|
-| National | Index | 26 | 0.965 | 4.453 |
-| National Overall | Index | 26 | 0.926 | 4.736 |
-| LaPaz | Index | 26 | 0.921 | 5.776 |
-| Cochabamba | Index | 26 | 0.971 | 3.073 |
+| National | Index | 26 | 0.965 | 4.454 |
+| National Overall | Index | 26 | 0.926 | 4.735 |
+| LaPaz | Index | 26 | 0.921 | 5.778 |
+| Cochabamba | Index | 26 | 0.971 | 3.075 |
 | SantaCruz | Index | 26 | 0.982 | 2.963 |
 | National | Inflation | 25 | 0.669 | 1.398 |
 | National Overall | Inflation | 25 | 0.708 | 1.244 |
@@ -29,9 +29,9 @@
 | Core-4 | 15 | OLS | 25 | 0.683 | 0.192 | 0.0016 | 0.648 |
 | Core-4 | 15 | OLS (HC1 SEs) | 25 | 0.683 | 0.209 | 0.0011 | 0.648 |
 | Core-4 | 15 | Huber RLM | 25 | 0.733 | 0.155 | 0.0000 | 0.691 |
-| Core-4 | 20 | OLS | 24 | 0.680 | 0.210 | 0.0038 | 0.643 |
-| Core-4 | 20 | OLS (HC1 SEs) | 24 | 0.680 | 0.266 | 0.0106 | 0.643 |
-| Core-4 | 20 | Huber RLM | 24 | 0.784 | 0.180 | 0.0000 | 0.682 |
+| Core-4 | 20 | OLS | 24 | 0.680 | 0.210 | 0.0038 | 0.644 |
+| Core-4 | 20 | OLS (HC1 SEs) | 24 | 0.680 | 0.266 | 0.0106 | 0.644 |
+| Core-4 | 20 | Huber RLM | 24 | 0.785 | 0.180 | 0.0000 | 0.682 |
 | Overall | 0 | OLS | 25 | 0.465 | 0.097 | 0.0001 | 0.657 |
 | Overall | 0 | OLS (HC1 SEs) | 25 | 0.465 | 0.086 | 0.0000 | 0.657 |
 | Overall | 0 | Huber RLM | 25 | 0.466 | 0.079 | 0.0000 | 0.717 |
