@@ -1,43 +1,43 @@
 # Paper analysis: Core-4, start-of-month dating
 
-- Tracker data through: 2026-11-09
-- Latest official observation placed on: 2026-09-01
+- Tracker data through: 2026-11-10
+- Latest official observation placed on: 2026-10-01
 - Official series rebased to July 2024 = 100; synthetic inflation is a 30-day change.
 
 ## Correlation and mean absolute difference
 
 | Region | Metric | N | Correlation | MAD |
 |---|---|---|---|---|
-| National | Index | 26 | 0.963 | 4.794 |
-| National Overall | Index | 26 | 0.932 | 4.265 |
-| LaPaz | Index | 26 | 0.926 | 6.185 |
-| Cochabamba | Index | 26 | 0.962 | 3.655 |
-| SantaCruz | Index | 26 | 0.975 | 3.258 |
-| National | Inflation | 25 | 0.609 | 1.665 |
-| National Overall | Inflation | 25 | 0.652 | 1.306 |
-| LaPaz | Inflation | 25 | 0.420 | 2.377 |
-| Cochabamba | Inflation | 25 | 0.522 | 1.967 |
-| SantaCruz | Inflation | 25 | 0.680 | 1.325 |
+| National | Index | 27 | 0.960 | 5.096 |
+| National Overall | Index | 27 | 0.924 | 4.267 |
+| LaPaz | Index | 27 | 0.924 | 6.516 |
+| Cochabamba | Index | 27 | 0.957 | 3.956 |
+| SantaCruz | Index | 27 | 0.973 | 3.426 |
+| National | Inflation | 26 | 0.606 | 1.667 |
+| National Overall | Inflation | 26 | 0.647 | 1.296 |
+| LaPaz | Inflation | 26 | 0.420 | 2.340 |
+| Cochabamba | Inflation | 26 | 0.520 | 1.963 |
+| SantaCruz | Inflation | 26 | 0.674 | 1.334 |
 
 ## Lag regressions (official MoM inflation on lagged synthetic inflation)
 
 | Dependent | Lag | Method | N | Slope | SE | p | Intercept |
 |---|---|---|---|---|---|---|---|
-| Core-4 | 0 | OLS | 25 | 0.695 | 0.189 | 0.0012 | 0.684 |
-| Core-4 | 0 | OLS (HC1 SEs) | 25 | 0.695 | 0.190 | 0.0003 | 0.684 |
-| Core-4 | 0 | Huber RLM | 25 | 0.707 | 0.166 | 0.0000 | 0.768 |
-| Core-4 | 15 | OLS | 24 | 0.517 | 0.232 | 0.0361 | 0.792 |
-| Core-4 | 15 | OLS (HC1 SEs) | 24 | 0.517 | 0.345 | 0.1340 | 0.792 |
-| Core-4 | 15 | Huber RLM | 24 | 0.415 | 0.208 | 0.0453 | 0.889 |
-| Core-4 | 20 | OLS | 24 | 0.431 | 0.231 | 0.0750 | 0.886 |
-| Core-4 | 20 | OLS (HC1 SEs) | 24 | 0.431 | 0.320 | 0.1774 | 0.886 |
-| Core-4 | 20 | Huber RLM | 24 | 0.264 | 0.193 | 0.1715 | 0.994 |
-| Overall | 0 | OLS | 25 | 0.411 | 0.100 | 0.0004 | 0.730 |
-| Overall | 0 | OLS (HC1 SEs) | 25 | 0.411 | 0.107 | 0.0001 | 0.730 |
-| Overall | 0 | Huber RLM | 25 | 0.421 | 0.091 | 0.0000 | 0.796 |
-| Overall | 15 | OLS | 24 | 0.307 | 0.126 | 0.0230 | 0.802 |
-| Overall | 15 | OLS (HC1 SEs) | 24 | 0.307 | 0.191 | 0.1085 | 0.802 |
-| Overall | 15 | Huber RLM | 24 | 0.177 | 0.101 | 0.0789 | 0.895 |
-| Overall | 20 | OLS | 24 | 0.260 | 0.125 | 0.0502 | 0.854 |
-| Overall | 20 | OLS (HC1 SEs) | 24 | 0.260 | 0.178 | 0.1437 | 0.854 |
-| Overall | 20 | Huber RLM | 24 | 0.143 | 0.098 | 0.1466 | 0.927 |
+| Core-4 | 0 | OLS | 26 | 0.696 | 0.186 | 0.0010 | 0.734 |
+| Core-4 | 0 | OLS (HC1 SEs) | 26 | 0.696 | 0.189 | 0.0002 | 0.734 |
+| Core-4 | 0 | Huber RLM | 26 | 0.719 | 0.166 | 0.0000 | 0.825 |
+| Core-4 | 15 | OLS | 25 | 0.509 | 0.229 | 0.0361 | 0.868 |
+| Core-4 | 15 | OLS (HC1 SEs) | 25 | 0.509 | 0.344 | 0.1389 | 0.868 |
+| Core-4 | 15 | Huber RLM | 25 | 0.397 | 0.213 | 0.0621 | 0.999 |
+| Core-4 | 20 | OLS | 25 | 0.428 | 0.227 | 0.0727 | 0.950 |
+| Core-4 | 20 | OLS (HC1 SEs) | 25 | 0.428 | 0.320 | 0.1813 | 0.950 |
+| Core-4 | 20 | Huber RLM | 25 | 0.264 | 0.198 | 0.1828 | 1.091 |
+| Overall | 0 | OLS | 26 | 0.411 | 0.099 | 0.0004 | 0.765 |
+| Overall | 0 | OLS (HC1 SEs) | 26 | 0.411 | 0.107 | 0.0001 | 0.765 |
+| Overall | 0 | Huber RLM | 26 | 0.416 | 0.097 | 0.0000 | 0.838 |
+| Overall | 15 | OLS | 25 | 0.301 | 0.124 | 0.0237 | 0.853 |
+| Overall | 15 | OLS (HC1 SEs) | 25 | 0.301 | 0.191 | 0.1138 | 0.853 |
+| Overall | 15 | Huber RLM | 25 | 0.174 | 0.105 | 0.0984 | 0.963 |
+| Overall | 20 | OLS | 25 | 0.257 | 0.124 | 0.0494 | 0.898 |
+| Overall | 20 | OLS (HC1 SEs) | 25 | 0.257 | 0.178 | 0.1479 | 0.898 |
+| Overall | 20 | Huber RLM | 25 | 0.141 | 0.107 | 0.1898 | 0.989 |

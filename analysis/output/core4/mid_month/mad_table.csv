@@ -1,11 +1,11 @@
 Region,Metric,N,Correlation,Mean_Absolute_Difference
-National,Index,26,0.965221,4.454450
-National Overall,Index,26,0.925919,4.735498
-LaPaz,Index,26,0.921052,5.778432
-Cochabamba,Index,26,0.971039,3.074867
-SantaCruz,Index,26,0.981535,2.963426
-National,Inflation,25,0.668701,1.397761
-National Overall,Inflation,25,0.707775,1.243661
-LaPaz,Inflation,25,0.419720,2.155688
-Cochabamba,Inflation,25,0.633975,1.631059
-SantaCruz,Inflation,25,0.777888,1.101035
+National,Index,27,0.961746,4.760523
+National Overall,Index,27,0.918466,4.711963
+LaPaz,Index,27,0.919376,6.118254
+Cochabamba,Index,27,0.965882,3.387767
+SantaCruz,Index,27,0.979781,3.132976
+National,Inflation,26,0.663720,1.415790
+National Overall,Inflation,26,0.700098,1.242606
+LaPaz,Inflation,26,0.419223,2.130106
+Cochabamba,Inflation,26,0.630159,1.641879
+SantaCruz,Inflation,26,0.765894,1.131066
