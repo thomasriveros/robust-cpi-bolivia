@@ -3513,7 +3513,7 @@
         "date":"2025-07-15",
         "data_source":"2025_07.csv",
         "cpi":136.8050061477,
-        "Alimentos y Bebidas No Alcoh\u00f3licas":133.0992062085,
+        "Alimentos y Bebidas No Alcoh\u00f3licas":133.0992062086,
         "Bebidas Alcoh\u00f3licas y Tabaco":128.2628197423,
         "Bienes y Servicios Diversos":149.6161482815,
         "Muebles, Bienes y Servicios Dom\u00e9sticos":138.3375565953,
@@ -7144,7 +7144,7 @@
         "data_source":"2026_07.csv",
         "cpi":128.1378887058,
         "Alimentos y Bebidas No Alcoh\u00f3licas":129.084731145,
-        "Bebidas Alcoh\u00f3licas y Tabaco":127.8093953547,
+        "Bebidas Alcoh\u00f3licas y Tabaco":127.8093953548,
         "Bienes y Servicios Diversos":136.0204688854,
         "Muebles, Bienes y Servicios Dom\u00e9sticos":127.1717589881,
         "Prendas de Vestir y Calzado":117.6918709904
@@ -7154,7 +7154,7 @@
         "data_source":"2026_07.csv",
         "cpi":128.1433801288,
         "Alimentos y Bebidas No Alcoh\u00f3licas":129.094701345,
-        "Bebidas Alcoh\u00f3licas y Tabaco":127.8093953547,
+        "Bebidas Alcoh\u00f3licas y Tabaco":127.8093953548,
         "Bienes y Servicios Diversos":136.0204688854,
         "Muebles, Bienes y Servicios Dom\u00e9sticos":127.1717589881,
         "Prendas de Vestir y Calzado":117.6918709904
@@ -7164,7 +7164,7 @@
         "data_source":"2026_07.csv",
         "cpi":128.1115631568,
         "Alimentos y Bebidas No Alcoh\u00f3licas":129.0994781702,
-        "Bebidas Alcoh\u00f3licas y Tabaco":127.8093953547,
+        "Bebidas Alcoh\u00f3licas y Tabaco":127.8093953548,
         "Bienes y Servicios Diversos":135.7959206288,
         "Muebles, Bienes y Servicios Dom\u00e9sticos":127.1722377074,
         "Prendas de Vestir y Calzado":117.6918709904
@@ -7174,7 +7174,7 @@
         "data_source":"2026_07.csv",
         "cpi":128.0043010893,
         "Alimentos y Bebidas No Alcoh\u00f3licas":128.9407448022,
-        "Bebidas Alcoh\u00f3licas y Tabaco":127.8093953547,
+        "Bebidas Alcoh\u00f3licas y Tabaco":127.8093953548,
         "Bienes y Servicios Diversos":135.7436425959,
         "Muebles, Bienes y Servicios Dom\u00e9sticos":127.0768822323,
         "Prendas de Vestir y Calzado":117.6918709904
@@ -7184,7 +7184,7 @@
         "data_source":"2026_07.csv",
         "cpi":128.0057781474,
         "Alimentos y Bebidas No Alcoh\u00f3licas":128.9434265414,
-        "Bebidas Alcoh\u00f3licas y Tabaco":127.8093953547,
+        "Bebidas Alcoh\u00f3licas y Tabaco":127.8093953548,
         "Bienes y Servicios Diversos":135.7436425959,
         "Muebles, Bienes y Servicios Dom\u00e9sticos":127.0768822323,
         "Prendas de Vestir y Calzado":117.6918709904
@@ -7194,7 +7194,7 @@
         "data_source":"2026_07.csv",
         "cpi":128.0155022045,
         "Alimentos y Bebidas No Alcoh\u00f3licas":128.9610814905,
-        "Bebidas Alcoh\u00f3licas y Tabaco":127.8093953547,
+        "Bebidas Alcoh\u00f3licas y Tabaco":127.8093953548,
         "Bienes y Servicios Diversos":135.7436425959,
         "Muebles, Bienes y Servicios Dom\u00e9sticos":127.0768822323,
         "Prendas de Vestir y Calzado":117.6918709904
@@ -8341,6 +8341,16 @@
     },
     {
         "date":"2026-11-10",
+        "data_source":"2026_11.csv",
+        "cpi":131.2180311919,
+        "Alimentos y Bebidas No Alcoh\u00f3licas":132.0136106457,
+        "Bebidas Alcoh\u00f3licas y Tabaco":131.4360368559,
+        "Bienes y Servicios Diversos":137.7607675735,
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":127.5998901083,
+        "Prendas de Vestir y Calzado":124.7207313376
+    },
+    {
+        "date":"2026-11-11",
         "data_source":"2026_11.csv",
         "cpi":131.2180311919,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.0136106457,

@@ -1,6 +1,6 @@
 # Paper analysis: Core-4, start-of-month dating
 
-- Tracker data through: 2026-11-10
+- Tracker data through: 2026-11-11
 - Latest official observation placed on: 2026-10-01
 - Official series rebased to July 2024 = 100; synthetic inflation is a 30-day change.
 
