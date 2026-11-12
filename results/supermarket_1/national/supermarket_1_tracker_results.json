@@ -5771,7 +5771,7 @@
         "date":"2026-07-20",
         "data_source":"2026_07.csv",
         "cpi":128.2025969493,
-        "cochabamba_cpi":129.3350887335,
+        "cochabamba_cpi":129.3350887334,
         "la_paz_cpi":127.9645181222,
         "santa_cruz_cpi":127.8964274007
     },
@@ -6019,7 +6019,7 @@
         "date":"2026-08-20",
         "data_source":"2026_08.csv",
         "cpi":129.4945401137,
-        "cochabamba_cpi":129.9745737327,
+        "cochabamba_cpi":129.9745737326,
         "la_paz_cpi":128.9968504243,
         "santa_cruz_cpi":129.738823925
     },
@@ -6347,7 +6347,7 @@
         "date":"2026-09-30",
         "data_source":"2026_09.csv",
         "cpi":130.6469708364,
-        "cochabamba_cpi":131.118971041,
+        "cochabamba_cpi":131.1189710409,
         "la_paz_cpi":129.8006540546,
         "santa_cruz_cpi":131.2236886643
     },
@@ -6686,5 +6686,13 @@
         "cochabamba_cpi":132.5975373024,
         "la_paz_cpi":131.2180311919,
         "santa_cruz_cpi":132.4970875915
+    },
+    {
+        "date":"2026-11-12",
+        "data_source":"2026_11.csv",
+        "cpi":132.0335906252,
+        "cochabamba_cpi":132.5204897599,
+        "la_paz_cpi":131.2244207976,
+        "santa_cruz_cpi":132.5683071963
     }
 ]
