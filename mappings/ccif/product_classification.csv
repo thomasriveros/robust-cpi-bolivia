@@ -3162,6 +3162,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 151576,nuggets pollo fridosa crocante 300 gr,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 151594,tira de costilla de cerdo sofia kg,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 151595,enrollado de cerdo sofia barra kg,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
+151711,galleta francesa navidena jojojo 220 g,abarrotes,temporada,—,Excluido (temporada),subcategory
 151713,galleta francesa dulces 420 gr,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 151715,mortadela lyonesa sofia kg,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 151844,yogurt clarabella con cereales 150 ml,lácteos y derivados,yogures,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -6593,6 +6594,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 231765,suavizante dulces sueños todo brillo plu,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 231766,limpiapiso maxibrill ultra esp joven 900,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 231767,limpia piso maxibrill utra citronela 6 l,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+231768,limpia piso maxibrill energia 1800 ml,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 231769,limpia piso maxibrill ultra energia 900,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 231771,limpia piso maxibrill ultra bosque 6 lts,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 231772,limpia piso maxibrill ultra bosque 1800,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -8438,6 +8440,9 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 283851,maizena duryea 500 gr,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 283990,azucar unagro morena 5 kg,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 283991,azucar unagro morena 1 kg,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
+284020,pala basura condor articulado,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+284021,pack esponja condor 1x12 ref 1555,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+284022,kit cepillo hotwheel trip ref 3234,cuidado personal,cuidado bucal,12.1.3,Bienes y Servicios Diversos,subcategory
 284023,jabon liq carissa manzana canela 360ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 284024,jabon liq  carissa navidad crema 360ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 284027,papel nacional selecto th mega 12 unds,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -8450,6 +8455,8 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 284048,sedal sh toq seda 340ml +ac250,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 284049,sedal sh toq seda 340ml +cr pei 300,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 284051,sedal sh toq seda 190ml +serum100,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
+284052,deo revive women deo crema,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+284053,deo  revive men deo crema nitro,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 284084,masticable skittles original 61.5 gr,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 284092,masticable skittles wild berry 61.5 gr,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 284107,masticable skittles sour 51 gr,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -8775,6 +8782,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 301373,chocolate la huerta 82% 60 gr,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 301374,chocolate la huerta 64 % 60 gr,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 30138,cigarrillo l&m forward mix 20 un,bebidas,cigarrillos,02.2.0,Bebidas Alcohólicas y Tabaco,subcategory
+30140,bon o bon arcor navideño surtido 360 gr,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 301420,gragea para ti mani 200 gr,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 301421,gragea para ti uva pasas 200 gr,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 301422,gragea para ti almendra 200 gr,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -20581,6 +20589,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 660541,teatrical coreano 100 gr.,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 660546,vaselina + vitamina e - cocoa 185 g,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
 660548,cafe copacabana exportado tostado 250 gr,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
+660549,shaving foam - cool 200 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 660550,shaving foam - olive oil 200 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 660555,hair spray maximum volume - extra strong,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 660557,ac granada +ah dp 18x350ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -23529,6 +23538,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 673856,morcilla cielo premium a granel,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 673858,tocino ahumado cielo granel,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 673859,lomito ahumado cielo de cerdo a granel,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
+673860,bondiola ahumada cielo granel,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 673866,salchicha cielo jumbo 8 un,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 673867,salchicha cielo de cerdo viena ahumada 500 gr,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 673868,salchicha cielo tipo viena de cerdo 200 gr,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -24283,6 +24293,8 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 674988,paleta monaco moca cob chocolate 115ml,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 675011,chorizo cervecero sofia a granel kgr,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 675012,maple de huevo rolon 30 nidades granel,lácteos y derivados,huevos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
+675013,"paneton arandano, chocochips y cobertura 550grs caja",panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
+675014,paneton arandano chocochips cob la francesa 550gr lata,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 675016,pack salchichas zampo¤a torito (2 piezas),fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 675021,helado nordland casata premium chocolate/chispas 1000ml,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 675022,leche nordland original sin azucar 900ml bolsa,lácteos y derivados,leches,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -25583,6 +25595,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 764612,queso criollo menonita la excelencia kg,lácteos y derivados,quesos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 764645,pan danes mediterraneo ajo y oregano,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 764714,leche chocolatada eba 800 ml,lácteos y derivados,leches,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
+764723,budin relleno dulce de leche 6x250 gr.arcor,pastelería y masas típicas,pastelería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 764726,mini cu¤ape cong.mil sabores x20 und.,congelados,masas y comidas congeladas,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 764729,fingers sab.crema y cebolla sofia 500 gr.,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 764738,empanadas cong.de queso mil sabores caja x 5 und.,congelados,masas y comidas congeladas,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -25715,6 +25728,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 774949,te frutte verde menta 20 sobres,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 775180,gomita haribo goldbears 150 gr,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 775261,queso la serenisima finlandia light 180 gr,lácteos y derivados,quesos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
+775833,paneton extra fino la francesa 70gr,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 775962,leche pil instantanea 760 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 775977,leche pil instantanea 1800 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 775980,galleta costa salvado integral 250 gr,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
