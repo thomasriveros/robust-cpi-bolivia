@@ -1424,6 +1424,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 111054,te windsor mate boldo 100 sobres,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 111058,te windsor mate cedron 100 sobres,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 111062,gomita trululu casquitos 90 gr,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
+111071,galleta saladix cheddar cja 90g,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 111073,papa super papitas crocante 100 gr,abarrotes,snack,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 111087,ciruela disecadas cocinero pereira 320 gr,abarrotes,frutas en conserva,01.1.6,Alimentos y Bebidas No Alcohólicas,subcategory
 111116,jabon liquido exfoliante hidraderm manzanilla 180 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -3162,6 +3163,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 151576,nuggets pollo fridosa crocante 300 gr,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 151594,tira de costilla de cerdo sofia kg,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 151595,enrollado de cerdo sofia barra kg,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
+151705,paneton la francesa extra fino de 750gr,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 151711,galleta francesa navidena jojojo 220 g,abarrotes,temporada,—,Excluido (temporada),subcategory
 151713,galleta francesa dulces 420 gr,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 151715,mortadela lyonesa sofia kg,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -6392,6 +6394,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 230940,shampoo revive curly 600,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 230941,acon.revive curly 600ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 230942,pack ninet clasica x100 + clasica x 60,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
+230948,aromati textil saphirus cereza  250 ml,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 230950,desodorante aerosol nivea invisible men 150 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 231001,desodorante aerosol rexona invisible 150 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 231002,desodorante aerosol rexona invisible men 150 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -6872,6 +6875,8 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 24050,avena nutrinat con calostro chocolate 250 gr,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 24051,cigarrillo winston legend blue 20 un,bebidas,cigarrillos,02.2.0,Bebidas Alcohólicas y Tabaco,subcategory
 24052,cigarrillo winston original red 20 un,bebidas,cigarrillos,02.2.0,Bebidas Alcohólicas y Tabaco,subcategory
+240521,aromatiz  saphirus textil erba 250ml,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+240522,aromatiz saphirus textil pistacho 250ml,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 240533,shampoo elvive micelar pure 300 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 240535,reparador revive aceite de coco 70 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 240537,rodo para pia alklin 20cm,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -7643,7 +7648,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 25282,lonchera juguito pil,bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 25283,tomillo deshidratado damabrava 25 gr,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 25284,paprika damabrava molido 65 gr,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
-25285,cebolla molida damabrava bolsa 70 gr,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+25285,cebolla molida damabrava 70 gr,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 25286,te brissol eucalipto huira huira set 20 saquitos,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 25287,te brissol jengibre hinojo anis set 20 saquitos,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 252875,chorizo para freir hipermaxi kg,fiambres,fiambres hipermaxi,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -8274,6 +8279,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 279021,tequila jose cuervo especial 750 ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
 27918,fideo matarazzo tirabuzon 500 gr,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 280102,limpiapiso todobrillo plus crm.floral1.8,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+280103,aromatiz textil saphirus hawai 250 ml,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 280104,desodorante algabo  rollon fresh 60 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280105,esponja algabo care  guante,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 280106,esponja algabo de bano,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -8446,6 +8452,8 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 284023,jabon liq carissa manzana canela 360ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 284024,jabon liq  carissa navidad crema 360ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 284027,papel nacional selecto th mega 12 unds,cuidado personal,cuidado familiar,12.1.3,Bienes y Servicios Diversos,subcategory
+284028,jabon mar antibact soft skin 125 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+284029,ambt glde autmtc rpto frt rojo 177 gr,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 284030,pack ahorro blue up azul,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 284031,pack ahorro blue up limon,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 284044,dove deo sti ap energy boost 45g,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -9816,6 +9824,9 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 312239,nacho nax limon 200 gr,abarrotes,snack,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 312241,cigarrillo l&m rojo 20 un,bebidas,cigarrillos,02.2.0,Bebidas Alcohólicas y Tabaco,subcategory
 312242,cigarrillo l&m azul 20 un,bebidas,cigarrillos,02.2.0,Bebidas Alcohólicas y Tabaco,subcategory
+312243,aceite oliva lag brava ext virg intenso,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
+312244,aceite oliva lag brava ext virgen 250 ml,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
+312246,aceite oliva lag brava ext virg pet 1lt,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 312247,salsa tomate cayetana tipo mexicano 400 gr,abarrotes,salsas y extracto de tomate,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 312248,pulpa de mango cayetana lata 280 gr,abarrotes,frutas en conserva,01.1.6,Alimentos y Bebidas No Alcohólicas,subcategory
 312249,mermelada cayetana ciruelo rojo 280 gr,abarrotes,"mermel, mieles",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -12057,6 +12068,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 385379,guantes scotch brite lavanderia talla m,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 385441,acido nitrico vicas 1 l,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 385478,pan barbie princesa rubia,juguetería importación,jugueteria marcas,09.3.1,Recreación y Cultura,subcategory
+385571,jabon veritas esencias 120 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 385580,jabon veritas lavanda 120 gr,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 385891,queso mozzarella san javier 500 gr,lácteos y derivados,quesos,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 386073,toallas humeda pompiglos premium 60 un,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -14141,7 +14153,11 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 516720,bon o bon leche 112 gr,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 5168,quinua real hipermaxi kg,granos y hortalizas,fraccionados hipermaxi,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 516807,paño esponja esfrebom bettanin 1 un,cuidado del hogar,accesorios del hogar,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+51704,te windsor c canela limon 100sob,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
+51708,te windsor c canela sin sob 50saq,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
+51709,te windsor c canela y clavo olor 50saq,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 5171,frijol cumandita hipermaxi kg,granos y hortalizas,fraccionados hipermaxi,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
+51710,te windsor clasico sin canela 100saq,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 517113,mayonesa artesano dp 225ml,abarrotes,aderezos,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 517114,mayonesa artesano dp 980ml,abarrotes,aderezos,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 517115,ketchup artesano dp 985g,abarrotes,aderezos,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -14152,6 +14168,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 517124,ketchup artesano dp 2860g,abarrotes,aderezos,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 517125,salsa artesano barbacoa pet 400g,abarrotes,aderezos,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 517128,cafe artesano instant fco 200g,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
+517137,pack arcor navideno d dulces und,abarrotes,temporada,—,Excluido (temporada),subcategory
 5172,cp frijol alubia hipermaxi 1 kg,granos y hortalizas,fraccionados hipermaxi,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 5173,durazno criollo 1 kg,frutas y verduras,temporada,—,Excluido (temporada),subcategory
 51730,fideo de cecco tagliatelle all uovo 104 250 gr,abarrotes,productos importados,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -14277,6 +14294,10 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 5268,lechuga la fuente batavia roja 1 kg,frutas y verduras,gourmet,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
 5269,lechuga la fuenta hoja roble morado kg,frutas y verduras,gourmet,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
 5270,lechuga la fuente hoja roble verde 1 kg,frutas y verduras,gourmet,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
+52700,te windsor c canela 100sob,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
+52702,mani pinzones original bsa 100g,abarrotes,snack,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+52703,mani pinzones s queso bsa 100g,abarrotes,snack,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+52704,mani pinzones picante bsa 100g,abarrotes,snack,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 52706,aceite coco copra extra virgen 500 ml,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 5271,lechuga la fuente manteca 1 kg,frutas y verduras,gourmet,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
 5272,lechuga la fuente romana verde 1 kg,frutas y verduras,gourmet,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -16729,7 +16750,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 553674,mani entero nutrifoods bolsa 450 gr,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 553675,trigo pelado nutrifoods bolsa 450 gr,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 553676,chaque de trigo nutrifoods bolsa 450 gr,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
-553677,quinua en grano nutrifoods 450 gr,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+553677,quinua nutrifoods real blanca 450 gr,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 553678,galleta wafer marilan ginger bread 80 gr,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 553679,galleta wafer marilan candy cane 80 gr,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 553680,pack 2 jugo de la granja naranja durazno 2 l,bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -17107,6 +17128,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 554239,mix frutos secos waras 250 gr,abarrotes,frutas en conserva,01.1.6,Alimentos y Bebidas No Alcohólicas,subcategory
 554240,mix waras fruta deshid con chocolate 90,abarrotes,frutas en conserva,01.1.6,Alimentos y Bebidas No Alcohólicas,subcategory
 554244,pack condor choc halloween cja150 gr,abarrotes,temporada,—,Excluido (temporada),subcategory
+554245,traquea de res chemsitos 100 gr,abarrotes,mascotas,09.3.4,Recreación y Cultura,subcategory
 554254,avena irupana instantanea cja 300 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554258,avena instant kris dp 450g,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554259,harina d trigo kriolla 000 1kg,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -17121,6 +17143,9 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 554285,wafer rolls cappucino lta 100 gr,abarrotes,productos americanos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 554286,galletas carilo lata ovalada 340 gr,abarrotes,productos americanos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 554287,mermelada d frut higo 0 azucar fco 355 g,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+554291,jugo cin flor de jamaica pet 2 lt,bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
+554298,jugo cin cebada tostada pet 2 lt,bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
+554300,jugo cin semillas linaza pet 2 lt,bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 554305,fideo kriolla corto 400 gr,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 554333,cerveza paceña lata roja 473 cc,bebidas,cervezas,02.1.3,Bebidas Alcohólicas y Tabaco,subcategory
 554466,detergente liquido ola futuro limpieza completa 5 l,cuidado del hogar,limpieza de la ropa,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -22352,6 +22377,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 670772,mermelada dietetica de durazno clementina,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 670778,pan para panchitos 16cm 10 unidades bolsa,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 67078,pack hidratante powerade mora 990 ml + 2 vital,bebidas,bebidas varias,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
+67079,mani pinzones s pizza 100g,abarrotes,snack,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 670790,pan integral irupana amaranto 500 gr,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 670791,pan integral irupana anis 500 gr,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 670792,pan integral irupana quinua 500 gr,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -25577,6 +25603,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 764356,helado de pulpa de copoazu biofood 1 l,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 764423,pan danes salvado de trigo unid.,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 764512,budin victoria chocolate 250 gr,pastelería y masas típicas,pastelería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
+764514,tortilla de trigo integral riquisima x12 und.,congelados,masas y comidas congeladas,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 764521,mantequilla de mani mais fit 100 grs.,lácteos y derivados,mantequillas y margarinas,01.1.5,Alimentos y Bebidas No Alcohólicas,subcategory
 764523,pizza precoc.cong.jamon y muzzarella bahrem und.,congelados,masas y comidas congeladas,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 764524,budin victoria vainilla  250 gr,pastelería y masas típicas,pastelería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -26422,6 +26449,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 789590,leche evaporada pil cremosa 400 gr,lácteos y derivados,leches,01.1.4,Alimentos y Bebidas No Alcohólicas,subcategory
 789593,lomo de cerdo ahumado personal merida 320 gr,fiambres,fiambres externos,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 789596,frutos del bosque congelado minuto verde 400 gr,congelados,pulpas y frutas congeladas,01.1.6,Alimentos y Bebidas No Alcohólicas,subcategory
+789607,esp.pan con ajo y queso hipermaxi x4 und.,panadería,panadería especialidades hipermaxi,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 789614,bife de cerdo congelado sofia kg,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 789618,suspiros davieds merengue 150 gr,pastelería y masas típicas,pastelería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 789620,bife angosto fridosa premium al vacio kg,carnes,carnes al vacio externas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -27017,13 +27045,23 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 809729,tr salero set x2 rita 67cc,bazar importación,cocina general,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 809730,tr aceitero tapa verde natural 750cc,bazar importación,cocina general,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 809732,tomatodo renga de vidrio 500 cc,bazar importación,menaje vidrio/cristal,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
-809748,ch 8416 adorno navideno papa noel muneco de nieve 13x22cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-809750,ch 5414 adorno navideno papa noel reno muneco de nieve,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-809751,ch 2104 muneco navideno elfo piernas largas 60cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-809752,ch 2116 muneco elfo 23cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-809756,ch 7582 muneco navideno s piernas papa noel muneco nieve 30,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-809759,ch 7560 muneco navideno jengibre sentado 28 35cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-809767,ch 2208 muneco navideno retractil reno 45x75cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+809748,adorno navideño papá noel y muñeco de nieve 13x22 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+809750,"adorno navideño papá noel, reno y muñeco de nieve",bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+809751,muñeco navideño elfo piernas largas 60 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+809752,muñeco elfo 23 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+809756,muñeco navideño sin piernas papá noel y muñeco de nieve 30 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+809759,muñeco navideño jengibre sentado 28x35 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+809760,adorno navideño muñeco jengibre para puerta 14x27 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+809767,muñeco navideño retractil reno 45x75 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+809787,adorno navideño papá noel y muñeco de nieve 16x7x12 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+809788,"adorno navideño arbol con casa, papá noel y muñeco de nieve",bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+809790,adorno vela navideña con papá noel y muñeco de nieve,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+809791,adorno chimenea navideña con papá noel y muñeco de nieve,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+809794,adorno bota navideña con papá noel y muñeco de nieve 9 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+809799,adorno navideño papá noel y muñeco de nieve,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+809800,adorno navideño papá noel y muñeco de nieve en moto,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+809803,adorno navideño 18x6x17 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+809804,adorno navideño muñeco de nieve y papá noel 11x11x16 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 809814,sarten antiadherente azul 28 cm,bazar importación,cocina general,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 809815,sarten antiadherente gris 28 cm,bazar importación,cocina general,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 809816,sarten antiadherente gris oscuro 28 cm,bazar importación,cocina general,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -27112,16 +27150,16 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 810251,br juego hermet plast sanremo 280ml 10un,bazar importación,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 810255,br hermetico ps sanremo 1 5l,bazar importación,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 810258,br botella gole gut plastico sanremo 500ml,bazar importación,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
-810284,ch 207b muneco de nieve 48cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-810285,ch 207a muneco navideno papa noel 48cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-810290,ch 7612 muneco navideno reno sentado 45cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-810291,ch 7614 muneco navideno reno retractil 70cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-810292,ch 7606 muneco navideno reno 70cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-810294,ch 7608 muneco navideno reno en cuatro patas 60cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-810296,ch 2473 muneco navideno duende piernas largas 70cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-810297,ch 2474 muneco navideno duende sentado 48cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-810299,ch 2558 bota navidena reno papa noel muneco de nieve 65cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-810335,ch 174 adorno navideno reno 18cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+810284,muñeco de nieve 48 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+810285,muñeco navideño papá noel 48 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+810290,muñeco navideño reno sentado 45 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+810291,muñeco navideño reno retractil 70 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+810292,muñeco navideño reno 70 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+810294,muñeco navideño reno en cuatro patas 60 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+810296,muñeco navideño duende piernas largas 70 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+810297,muñeco navideño duende sentado 48 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+810299,bota navideña reno papá noel y muñeco de nieve 65 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+810335,adorno navideño reno 18 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 810338,ch 29 4 tabla de cortar set x4 pzas 38x30cm,bazar importación,churrasquería,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 810339,ch 29 5 tabla de cortar set x6 pzas 28x19cm,bazar importación,churrasquería,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 810340,ch 29 6 tabla de cortar set x3 pzas 19x29 25x34 29x38cm,bazar importación,churrasquería,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -27967,6 +28005,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 835781,ch n20 12 bolas navidenas set x24 5cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 835796,lpz hueso rojo,carnes,carne de res,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 835801,pique macho 1 kg,carnes,carne de res,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
+835847,tr 1242 envase p  cereales c tapa y cuchara,bazar importación,menaje vidrio/cristal,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 835896,costilla especial kg,carnes,carne de res,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 835905,carne picada kg,carnes,carne de res,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 835922,tr 1402 natural aceitero 500cc,bazar importación,cocina general,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -28101,7 +28140,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 839646,ch 14 13 prensa francesa tapa y asa plateado 600ml,bazar importación,cocina general,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 839737,porta vela de vidrio,bazar,living y dormitorio,05.1.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 839756,juguete set bomberos,juguetería,juguetería niño/bebé,09.3.1,Recreación y Cultura,subcategory
-839761,ch l1 14 taza  navidena colores surtidos capacidad 420ml,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+839761,taza navideña de colores surtidos 420 ml,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 839770,globo diseños surtidos,bazar,cotillón,09.3.1,Recreación y Cultura,rule
 839796,ch 29 1 taza lisa color entero 500ml,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 839797,ch 29 2 taza fondo blanco 500ml,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -28134,7 +28173,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 840150,ch j22 6 papa noel sentado 40x24 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 840151,ch j22 5 muneco de nieve sentado 40x29cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 840153,ch j22 17 gnomo piernas sueltas 40x17cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-840165,ch j22 18 gnomo c gorro largo 30x10cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+840165,adorno gnomo con gorro largo 30x10 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 840167,ch j22 16 gnomo navideno sentado 27x16cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 840172,gnomo navideño parado 43x20 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 84018,licor martini bianco 750 ml,bebidas,licores,02.1.1,Bebidas Alcohólicas y Tabaco,subcategory
@@ -28455,7 +28494,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 846270,ch y47 12 adorno navideno para puerta feliz navidad 30cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 846271,ch y47 13 adorno navideno para puerta feliz navidad muneco,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 846272,ch y47 14 adorno navideno para puerta feliz navidad 30cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-846273,ch y47 15 adorno navideno papa noel sentado 24x47 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+846273,adorno navideño papá noel sentado 24x47 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 846274,ch y47 16 adorno navideno muneco de nieve sentado 24x47cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 846275,ch y47 17 adorno navideno reno sentado 24x47cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 846276,ch y47 18 canasta navidena papa noel muneco de nieve reno 20,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
@@ -28557,7 +28596,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 846577,ch y3 7 adorno navideno corona welcome reno 40x30cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 846578,ch y3 8 adorno navideno corona papa noel muneco de nieve,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 846580,ch y3 9 adorno bota navidena merry christmas  47x29cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-846583,ch y3 13 adorno navideno para puerta cara papa noel 38x19cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+846583,adorno navideño para puerta cara papá noel 38x19 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 846586,adorno navideño moño color rojo con verde 28x32cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 846587,adorno navideño moño color rojo con verde 23x32cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 846588,adorno navideño moño color rojo 23x32cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
@@ -28769,6 +28808,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 848237,hw juego lanzador d carros hot wheels,juguetería,juguetería marcas,09.3.1,Recreación y Cultura,subcategory
 848252,ch 7 92 varilla unicornio luminoso surtido 6x22cm,bazar importación,otros,09.3.1,Recreación y Cultura,review_queue
 848316,ch 7 93 varilla halloween luminoso 7x19cm,bazar importación,otros,09.3.1,Recreación y Cultura,review_queue
+848353,vincha verde navideña 14 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 848354,barra luminosa glow stick surtido 35 x 2 cm,bazar importación,otros,09.3.1,Recreación y Cultura,review_queue
 848355,adorno con luz halloween calavera 12 x 5 cm,bazar importación,otros,09.3.1,Recreación y Cultura,review_queue
 848356,ch 7 97 adorno con luz halloween telarana 8 5x8 5cm,bazar importación,otros,09.3.1,Recreación y Cultura,review_queue
@@ -28858,6 +28898,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 849347,vaso halloween surtido 9 x 13 cm,bazar importación,otros,09.3.1,Recreación y Cultura,review_queue
 849364,ch 7 145 arana peluda a pilas halloween 70x23cm,bazar importación,temporada halloween,—,Excluido (temporada),subcategory
 849390,jabon liquido ballerina crema humectacion 350 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
+849397,juguete hueso navideño para mascota 16x9 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 849404,mascara de terror halloween 25 x 21 cm,bazar importación,otros,09.3.1,Recreación y Cultura,review_queue
 849414,jabon liquido ballerina hipoalergenico 350 ml,cuidado personal,cuidado de la piel,12.1.3,Bienes y Servicios Diversos,subcategory
 849417,ch 7 178 mascara de terror halloween 25x21cm,bazar importación,otros,09.3.1,Recreación y Cultura,review_queue
@@ -29044,7 +29085,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 852770,ch j15 1b adorno navideno muneco de nieve con gorro y bufand,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 852771,ch j15 1c adorno navideno reno con gorro y bufanda,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 852772,ch j15 1a adorno navideno papa noel parado 48cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-852773,ch j15 2a adorno navideno papa noel con canasta 20x35cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+852773,adorno navideño papá noel con canasta 20x35 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 852774,ch j15 2b adorno navideno muneco de nieve con canasta,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 852775,ch j15 2c adorno navideno reno con canasta 20x35cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 852776,adorno navideño reno sentado 24 x 47 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
@@ -29729,12 +29770,12 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 857501,ch s1 3 muneco reno con chalina roja saco plomo 48cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 857502,ch s1 4 muneco de nieve c chalina a rayas rojo y blanco 40cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 857503,ch s1 5 muneco papa noel blanco con rojo 40cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-857504,ch s1 6 muneco reno con chalina roja saco plomo 40cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+857504,muñeco reno con chalina roja y saco plomo 40 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 857505,ch s1 11 adorno papa noel bienvenido 56x28cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 857506,ch s1 21 adorno bota navidena muneco de nieve 35x22cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-857507,ch s1 22 adorno bota navidena papa noel 35x22cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-857508,ch s1 23 adorno bota navidena reno 35x22cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-857510,ch s1 24 adorno bota navidena muneco de nieve 35x22cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+857507,adorno bota navideña papá noel 35x22 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+857508,adorno bota navideña reno 35x22 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+857510,adorno bota navideña muñeco de nieve 35x22 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 857511,ch s1 25 adorno bota navidena papa noel c rojo con copos 35x,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 857512,ch s1 26 adorno bota navidena reno ojo c copos 35x22cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 857513,ch s1 30 adorno bota navidena muneco de nieve 38x25cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
@@ -29809,7 +29850,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 857629,romero 1 kg,frutas y verduras,verduras,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
 857660,lechuga hidroponica cima,frutas y verduras,gourmet,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
 857661,ch s5 1 bota navidena papa noel muneco de bieve y reno 27cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-857662,ch s5 2 bota navidena reo papa noel muneco de bnieve 56x20x2,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+857662,bota navideña reno papá noel y muñeco de nieve 56x20x2 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 857664,ch s5 3 adorno navideno papa noel muneco de nieve y reno,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 857665,ch s5 4 adorno feliz navidad papa noel reno muneco de nieve,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 857666,ch s5 5 adorno feliz navidad muneco de nieve y papa noel,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
@@ -29818,11 +29859,11 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 857670,ch s5 10 muneco de nieve papa noel reno c zapatos,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 857671,corona navideña con moño gnomo,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 857672,corona navideña con moño gnomo a rayas,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-857673,ch s5 13 adorno navideno con mono rojo y papa noel 42x5x36,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+857673,adorno navideño con moño rojo y papá noel 42x5x36 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 857674,ch s5 14 adorno navideno con mono rojo y muneco de nieve,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 857682,ch s5 24 muneco de nieve papa noel reno c zapatos negros,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 857684,ch s5 25 papa noel chompa roja 70x9x24,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-857685,ch s5 26 reno muneco de nieve papa noel zapatos negros 50x8x,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+857685,"reno, muñeco de nieve y papá noel con zapatos negros",bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 857686,ch s5 27 muneco de nieve renos papa noel pantalon a cuadros,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 857694,ch s5 28 muneco de nieve reno papa noel sentados c chaqueta,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 857696,ch s5 30 muneco de nieve pantalon verde papa noel pantalon,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
@@ -29830,7 +29871,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 857717,ch s5 33 adorno para puerta cara papa noel muneco de niieve,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 857718,ch s5 34 muneco reno con chompa blanca 24cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 857782,ch s5 36 gnomo pantalon rojo 66x20x30 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-857783,ch s5 37 gnomo pantalon rojo con gorro rojo y puntos blancos,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+857783,gnomo pantalón rojo con gorro rojo y puntos blancos,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 857815,tallo de apio kg,frutas y verduras,verduras,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
 857830,kale granja ventilla 1 un,frutas y verduras,gourmet,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
 857882,ch s5 39 gnomo pantalon rojo 35x12x20cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
@@ -29842,6 +29883,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 857961,manzana rosada 1 kg,frutas y verduras,frutas,01.1.6,Alimentos y Bebidas No Alcohólicas,subcategory
 857976,palta un,frutas y verduras,verduras,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
 857979,cp mani salado 1 kg,granos y hortalizas,a granel e insuflados,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
+857980,porta tarjetas navideño papá noel y muñeco de nieve,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 857987,ch s5 54 dulcero navideno rojo papa noel muneco de nieve,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 857989,ch s5 56 adorno navideno escalera roja con papa noel y munec,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 857991,ch s5 57 dulcero papa noel rojo muneco de nieve verde,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
@@ -29851,7 +29893,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 857997,ch s8 3 mueeco jengibre con pantalon verde 38cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 857998,ch s8 4 adorno navideno familia munecos jengibre,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 857999,ch s8 5 adorno navideno familia munecos jengibre 28cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-858001,ch s9 1 muneco jengibre c chaleco muneca c vesticdo pierna l,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+858001,muñeco jengibre con chaleco y muñeca con vestido pierna larga,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 858003,ch s9 2 gnomo blanco y plateado con zapatos plateados,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 858005,ch s9 4 gnomo color blanco con brazos a rayas gris 52cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 858006,ch s9 5 gnomo con gorro diseno de copos de nieve dorado 36cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
@@ -30131,9 +30173,9 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 861679,ch 26 29 plato plano hojas verdes 26cm,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 861680,jan agarrapelo cblister  14,bazar,bijouteria/cuidado personal,12.1.3,Bienes y Servicios Diversos,subcategory
 861681,jan  agarrapelo  x3 blister 14,bazar,bijouteria/cuidado personal,12.1.3,Bienes y Servicios Diversos,subcategory
-861717,ch l1 1 tazon navideno con asas 500ml fondo blanco surtido,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-861737,ch l1 2 taza 480ml asa y diseno rojo fondo blanco surtido,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
-861740,ch l1 3 taza navidena 550ml surtido,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+861717,tazón navideño con asas fondo blanco surtido 500 ml,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+861737,taza con asa y diseño rojo fondo blanco surtido 480 ml,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+861740,taza navideña surtida 550 ml,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 861744,lapices ecolapices faber castell madera negra soft 100 colores,bazar,librería,09.5.4,Recreación y Cultura,subcategory
 861799,jan adorno globo hallowen  14,bazar,otros,09.3.1,Recreación y Cultura,review_queue
 861800,jan globo numero 8,bazar,temporada halloween,—,Excluido (temporada),subcategory
@@ -30158,8 +30200,8 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 861923,jan lampara navidad  20,bazar,temporada navidad,—,Excluido (temporada),subcategory
 861935,esponjero de plastico,bazar,librería,09.5.4,Recreación y Cultura,subcategory
 861954,caramelo gumball dispensador hot 40 gr,abarrotes,productos americanos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
-861957,ch l1 13 taza navidena asa arbol 450ml surtido,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-861977,ch l1 25 taza reno 480ml color surtido,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+861957,taza navideña con asa de arbol surtida 450 ml,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+861977,taza reno color surtido 480 ml,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 861993,tapete higuienico procao 80x60,bazar,mascotas general,09.3.4,Recreación y Cultura,subcategory
 862026,mostaza french sweet honey 12 oz,abarrotes,aderezos,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 862221,papel aluminio mello 7.5mt x45cmm,bazar,articulos de cocina,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -30187,6 +30229,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 862880,extensiones carnaval,bazar,temporada carnaval,—,Excluido (temporada),subcategory
 862881,mechas carnavaleras surtidas,bazar,temporada carnaval,—,Excluido (temporada),subcategory
 862883,antifas gamusado,bazar,temporada carnaval,—,Excluido (temporada),subcategory
+862923,adorno navideño casa jengibre recargable usb 10x10x1 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 862937,vino trapiche roble malbec 750 ml,bebidas,vinos y champagne,02.1.2,Bebidas Alcohólicas y Tabaco,subcategory
 862946,regleta huavi 5 r-37 power socket,bazar,ferretería,05.5.2,"Muebles, Bienes y Servicios Domésticos",subcategory
 862957,vino don nicanor cabernet sauvignon 750 ml,bebidas,vinos y champagne,02.1.2,Bebidas Alcohólicas y Tabaco,subcategory
@@ -30216,11 +30259,13 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 863430,te frutte tranquilito 20 sobres,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 863445,te frutte duermete 20 sobres,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 863450,te frutte no stress 20 sobres,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
+863464,adorno cascanueces con luces recargable usb 14x10x4 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 863474,caja plastico diseno ninos,bazar,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 863492,pilas alcalinas eveready aaax6,bazar,ferretería,05.5.2,"Muebles, Bienes y Servicios Domésticos",subcategory
 863502,fri toma todo plastico 80,bazar,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 863541,paninera taurus crispy co electro,bazar,electrodoméstico/línea blanca-hogar,05.3.2,"Muebles, Bienes y Servicios Domésticos",subcategory
 863542,hervidor practika napoles black 2.5lt,bazar,electrodoméstico/línea blanca-hogar,05.3.2,"Muebles, Bienes y Servicios Domésticos",subcategory
+863545,adorno cascanueces con luces recargables usb 14x10 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 863585,yol peluches jugador 80,juguetería,juguetería didáctica/temporada,—,Excluido (temporada),subcategory
 863613,cortador de cabello mallory smart power,bazar,electrodoméstico cuidado personal,12.1.2,Bienes y Servicios Diversos,subcategory
 863638,chicle fini huevos de dinosaurio 80 gr,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -30646,23 +30691,37 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 871448,globos con plumas surtidas,bazar,cotillón,09.3.1,Recreación y Cultura,rule
 871449,lampara de papel grande,bazar,living y dormitorio,05.1.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 871454,ch l5 28 duendecilla navidena piernas largas 52cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-871462,ch l5 29 duendecilla navidena piernas largas firmes 54cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-871466,ch l5 34 muneco de nieve sentado beige dorado 30cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-871467,ch l5 36 bota navidena muneco de nieve 35x22cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
-871472,ch l5 37 bota navidena reno 35x22cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+871462,duendecilla navideña piernas largas firmes 54 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+871466,muñeco de nieve sentado beige dorado 30 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+871467,bota navideña muñeco de nieve 35x22 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+871472,bota navideña reno 35x22 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+871482,bota navideña reno con bufanda verde 42x20 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+871652,esfera navideña blanco con dorado 8 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+871653,adorno navideño colgante en forma de sol blanco 10 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+871657,adorno navideño colgante carruaje 12 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+871673,adorno navideño reno colgante dorado con blanco 13 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 871676,lapices color animales x24 carton,bazar,librería,09.5.4,Recreación y Cultura,subcategory
+871729,letrero navideño colgante merry christmas 14 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+871750,adorno navideño blanco estrella con muñeco de nieve,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 87177,azucar blanca aguai 1.1 kg,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 87180,azucar blanca aguai 5.5 kg,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 871832,cuchillo universal para cocina n7,bazar,articulos de cocina,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+871838,adorno navideño papá noel colgante 26x33 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+871841,adorno navideño papá noel y muñeco de nieve 25x11 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 871847,cuchillo universal para cocina n8,bazar,articulos de cocina,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+871854,adorno navideño joy con papá noel en escalera,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+871874,adorno navideño bastón dulce rojo y blanco 30 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 871878,juguete set aeropuerto,juguetería,juguetería niño/bebé,09.3.1,Recreación y Cultura,subcategory
 871880,pelota plastica hipermaxi,juguetería importación,juguetería niño/bebé,09.3.1,Recreación y Cultura,subcategory
 871885,juego bloques didacticos,juguetería,juguetería didáctica/temporada,—,Excluido (temporada),subcategory
 871948,fri carteras de nina bs 18,bazar,bolsos/carteras/maletas,12.3.2,Bienes y Servicios Diversos,subcategory
+871958,adorno navideño papá noel rojo con cascabeles colgante 18 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+871959,ch l3 67 colgante navideno 25cm muneco de nieve blanco con c,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 871982,regla twist flex maped 30 cm,bazar,librería,09.5.4,Recreación y Cultura,subcategory
 871983,globo inflable numeros,bazar,cotillón,09.3.1,Recreación y Cultura,rule
 871992,shampoo mascota vera srecuentre 1 v,bazar,mascotas general,09.3.4,Recreación y Cultura,subcategory
 871993,shampoo auto su super 2recuentre  p/s,bazar,automotriz,07.2.1,Transporte,subcategory
+872021,adorno navideño colgante con moño y campana roja 13 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 872026,papel aluminio alpfilm 45x7.5cm,bazar,articulos de cocina,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 872172,tostadora philips,bazar,electrodoméstico/línea blanca-hogar,05.3.2,"Muebles, Bienes y Servicios Domésticos",subcategory
 872209,copa vino brunello 1x12 20713100,bazar,menaje vidrio/cristal,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -30683,6 +30742,9 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 872495,espuma carnavalera alegria niño 500 ml,bazar,temporada carnaval,—,Excluido (temporada),subcategory
 872497,espuma carnavalera alegria niña 500 ml,bazar,temporada carnaval,—,Excluido (temporada),subcategory
 872529,toallas humedas huggies limpieza efectiva 48 un,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
+872534,papel regalo navideño con diseños surtidos 70x100 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+872564,calendario navideño de adviento 6x10x3 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+872624,letrero navideño welcome con oso 9.5x20x2.8 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 872650,ca juego de dardo 85,juguetería,juguetería didáctica/temporada,—,Excluido (temporada),subcategory
 872655,ambientador dual refresh breeze meadow,bazar,automotriz,07.2.1,Transporte,subcategory
 872662,lustramueble archer gatillo 860 ml,cuidado del hogar,limpieza de living y ropero,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -30795,6 +30857,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 876606,jan flor de navidad  15,bazar,temporada navidad,—,Excluido (temporada),subcategory
 876607,jan adorno papa noel cara 14,bazar,temporada navidad,—,Excluido (temporada),subcategory
 876625,jan cinta navidad 12,bazar,temporada navidad,—,Excluido (temporada),subcategory
+876652,adorno navideño caramelo rojo y blanco 8x2 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 876654,caracol didactico arti goma eva,bazar,librería,09.5.4,Recreación y Cultura,subcategory
 876670,eels porta retrato de bs 33,bazar,living y dormitorio,05.1.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 876702,cuaderno lider espiral carta 100 hojas,bazar,librería,09.5.4,Recreación y Cultura,subcategory
