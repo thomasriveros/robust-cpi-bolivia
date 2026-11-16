@@ -1,17 +1,17 @@
 Measure,Target,Model,N,First_Month,Last_Month,Bias,MAE,RMSE,RMSE_Ratio_vs_Random_Walk,DM_p_vs_Random_Walk
-"Monthly average, MoM",Matched basket,Raw synthetic,8,2025-09,2026-04,-0.357625,0.527794,0.627885,0.630320,0.203726
-"Monthly average, MoM",Matched basket,Calibrated synthetic,8,2025-09,2026-04,0.433429,0.581400,0.733352,0.736196,0.005080
-"Monthly average, MoM",Matched basket,Random walk,8,2025-09,2026-04,0.131809,0.910224,0.996137,1.000000,
-"Monthly average, MoM",Matched basket,Expanding mean,8,2025-09,2026-04,2.249228,2.249228,2.356243,2.365382,0.002662
-"Monthly average, MoM",Overall,Raw synthetic,8,2025-09,2026-04,-0.893435,0.893435,0.977015,1.162182,0.673007
-"Monthly average, MoM",Overall,Calibrated synthetic,8,2025-09,2026-04,0.147305,0.420363,0.490624,0.583609,0.256792
-"Monthly average, MoM",Overall,Random walk,8,2025-09,2026-04,0.108965,0.663497,0.840672,1.000000,
-"Monthly average, MoM",Overall,Expanding mean,8,2025-09,2026-04,1.237205,1.237205,1.352652,1.609012,0.014673
-30-day change to the 15th,Matched basket,Raw synthetic,8,2025-09,2026-04,-0.378879,0.524238,0.646653,0.649161,0.236132
-30-day change to the 15th,Matched basket,Calibrated synthetic,8,2025-09,2026-04,0.450603,0.618905,0.750594,0.753505,0.008353
-30-day change to the 15th,Matched basket,Random walk,8,2025-09,2026-04,0.131809,0.910224,0.996137,1.000000,
-30-day change to the 15th,Matched basket,Expanding mean,8,2025-09,2026-04,2.249228,2.249228,2.356243,2.365382,0.002662
-30-day change to the 15th,Overall,Raw synthetic,8,2025-09,2026-04,-0.914688,0.914688,1.015290,1.207711,0.595465
-30-day change to the 15th,Overall,Calibrated synthetic,8,2025-09,2026-04,0.154446,0.427345,0.503338,0.598733,0.270953
-30-day change to the 15th,Overall,Random walk,8,2025-09,2026-04,0.108965,0.663497,0.840672,1.000000,
-30-day change to the 15th,Overall,Expanding mean,8,2025-09,2026-04,1.237205,1.237205,1.352652,1.609012,0.014673
+"Monthly average, MoM",Matched basket,Raw synthetic,14,2025-09,2026-10,-0.646342,1.435376,2.214166,0.734224,0.356276
+"Monthly average, MoM",Matched basket,Calibrated synthetic,14,2025-09,2026-10,0.085028,1.375874,2.156684,0.715163,0.248595
+"Monthly average, MoM",Matched basket,Random walk,14,2025-09,2026-10,-0.096077,1.976342,3.015655,1.000000,
+"Monthly average, MoM",Matched basket,Expanding mean,14,2025-09,2026-10,1.455097,2.119553,2.614420,0.866949,0.542943
+"Monthly average, MoM",Overall,Raw synthetic,14,2025-09,2026-10,-0.913674,1.287991,1.669939,0.877548,0.686422
+"Monthly average, MoM",Overall,Calibrated synthetic,14,2025-09,2026-10,0.003462,0.867946,1.306812,0.686726,0.174972
+"Monthly average, MoM",Overall,Random walk,14,2025-09,2026-10,-0.075895,1.258854,1.902960,1.000000,
+"Monthly average, MoM",Overall,Expanding mean,14,2025-09,2026-10,0.823696,1.217576,1.558162,0.818810,0.365675
+30-day change to the 15th,Matched basket,Raw synthetic,14,2025-09,2026-10,-0.636860,1.413044,2.200816,0.729797,0.350354
+30-day change to the 15th,Matched basket,Calibrated synthetic,14,2025-09,2026-10,0.119657,1.362887,2.150710,0.713182,0.245175
+30-day change to the 15th,Matched basket,Random walk,14,2025-09,2026-10,-0.096077,1.976342,3.015655,1.000000,
+30-day change to the 15th,Matched basket,Expanding mean,14,2025-09,2026-10,1.455097,2.119553,2.614420,0.866949,0.542943
+30-day change to the 15th,Overall,Raw synthetic,14,2025-09,2026-10,-0.904193,1.273112,1.665116,0.875014,0.682769
+30-day change to the 15th,Overall,Calibrated synthetic,14,2025-09,2026-10,0.021774,0.856927,1.302707,0.684569,0.170624
+30-day change to the 15th,Overall,Random walk,14,2025-09,2026-10,-0.075895,1.258854,1.902960,1.000000,
+30-day change to the 15th,Overall,Expanding mean,14,2025-09,2026-10,0.823696,1.217576,1.558162,0.818810,0.365675

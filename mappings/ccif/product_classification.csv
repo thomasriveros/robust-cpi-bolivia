@@ -17134,6 +17134,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 554244,pack condor choc halloween cja150 gr,abarrotes,temporada,—,Excluido (temporada),subcategory
 554245,traquea de res chemsitos 100 gr,abarrotes,mascotas,09.3.4,Recreación y Cultura,subcategory
 554249,sopa de res chemsitos bsa 100 gr,abarrotes,mascotas,09.3.4,Recreación y Cultura,subcategory
+554251,edulcorante honny stevia sobres 100 unid,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554254,avena irupana instantanea cja 300 gr,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554258,avena instant kris dp 450g,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554259,harina d trigo kriolla 000 1kg,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -17148,6 +17149,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 554285,wafer rolls cappucino lta 100 gr,abarrotes,productos americanos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 554286,galletas carilo lata ovalada 340 gr,abarrotes,productos americanos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 554287,mermelada d frut higo 0 azucar fco 355 g,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+554288,mermel d frut frutilla 0 azucar 350g,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 554289,jugo cin pina pet 2 lt,bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 554290,jugo cin pulpa de manzana pet 2 lt,bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 554291,jugo cin flor de jamaica pet 2 lt,bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -22315,6 +22317,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 670516,galleta gustossi surtido especial 400 gr,abarrotes,galletas,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 67052,rinon d cerdo podium deshid dp 100g,abarrotes,mascotas,09.3.4,Recreación y Cultura,subcategory
 670522,hamburguesa sofia grill de res tubo 12 un,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
+67053,corazon d cerdo podium deshid dp 100g,abarrotes,mascotas,09.3.4,Recreación y Cultura,subcategory
 670537,bagels chips multigrano pan amapola 200 gr,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 670538,bagels chips cebolla pan amapola 200 gr,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 670539,bagels chips ajo pan amapola 200 gr,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
