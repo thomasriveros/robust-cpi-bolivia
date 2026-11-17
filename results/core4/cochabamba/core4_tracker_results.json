@@ -6986,586 +6986,595 @@
     {
         "date":"2026-09-13",
         "data_source":"2026_09.csv",
-        "cpi":131.8588116538,
+        "cpi":131.8588049207,
         "Alimentos y Bebidas No Alcoh\u00f3licas":130.8424255926,
         "Bebidas Alcoh\u00f3licas y Tabaco":128.5106088492,
         "Bienes y Servicios Diversos":138.4813470978,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6432989371
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6432529016
     },
     {
         "date":"2026-09-14",
         "data_source":"2026_09.csv",
-        "cpi":131.8606448761,
+        "cpi":131.860638143,
         "Alimentos y Bebidas No Alcoh\u00f3licas":130.8452418176,
         "Bebidas Alcoh\u00f3licas y Tabaco":128.5106088492,
         "Bienes y Servicios Diversos":138.4813470978,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6432989371
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6432529016
     },
     {
         "date":"2026-09-15",
         "data_source":"2026_09.csv",
-        "cpi":131.8612605906,
+        "cpi":131.8612538574,
         "Alimentos y Bebidas No Alcoh\u00f3licas":130.846187688,
         "Bebidas Alcoh\u00f3licas y Tabaco":128.5106088492,
         "Bienes y Servicios Diversos":138.4813470978,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6432989371
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6432529016
     },
     {
         "date":"2026-09-16",
         "data_source":"2026_09.csv",
-        "cpi":131.8725848205,
+        "cpi":131.8725779122,
         "Alimentos y Bebidas No Alcoh\u00f3licas":130.862968773,
         "Bebidas Alcoh\u00f3licas y Tabaco":128.5106088492,
         "Bienes y Servicios Diversos":138.4813470978,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6460377652
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6459905322
     },
     {
         "date":"2026-09-17",
         "data_source":"2026_09.csv",
-        "cpi":131.8668994569,
+        "cpi":131.8668923777,
         "Alimentos y Bebidas No Alcoh\u00f3licas":130.8597484466,
         "Bebidas Alcoh\u00f3licas y Tabaco":128.5106088492,
         "Bienes y Servicios Diversos":138.4594330733,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6487108499
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6486624481
     },
     {
         "date":"2026-09-18",
         "data_source":"2026_09.csv",
-        "cpi":131.8914230602,
+        "cpi":131.891415981,
         "Alimentos y Bebidas No Alcoh\u00f3licas":130.8639450114,
         "Bebidas Alcoh\u00f3licas y Tabaco":128.5174857018,
         "Bienes y Servicios Diversos":138.578616585,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6487108499
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6486624481
     },
     {
         "date":"2026-09-19",
         "data_source":"2026_09.csv",
-        "cpi":131.9186128329,
+        "cpi":131.9186051055,
         "Alimentos y Bebidas No Alcoh\u00f3licas":130.8960323002,
         "Bebidas Alcoh\u00f3licas y Tabaco":128.6650388265,
         "Bienes y Servicios Diversos":138.5879219267,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6588909058
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.658838072
     },
     {
         "date":"2026-09-20",
         "data_source":"2026_09.csv",
-        "cpi":131.9613291451,
+        "cpi":131.9613205784,
         "Alimentos y Bebidas No Alcoh\u00f3licas":130.9616872662,
         "Bebidas Alcoh\u00f3licas y Tabaco":128.6650388265,
         "Bienes y Servicios Diversos":138.5771517471,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.672116
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6720574279
     },
     {
         "date":"2026-09-21",
         "data_source":"2026_09.csv",
-        "cpi":131.9613291451,
+        "cpi":131.9613205784,
         "Alimentos y Bebidas No Alcoh\u00f3licas":130.9616872662,
         "Bebidas Alcoh\u00f3licas y Tabaco":128.6650388265,
         "Bienes y Servicios Diversos":138.5771517471,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.672116
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6720574279
     },
     {
         "date":"2026-09-22",
         "data_source":"2026_09.csv",
-        "cpi":131.9613291451,
+        "cpi":131.9613205784,
         "Alimentos y Bebidas No Alcoh\u00f3licas":130.9616872662,
         "Bebidas Alcoh\u00f3licas y Tabaco":128.6650388265,
         "Bienes y Servicios Diversos":138.5771517471,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.672116
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6720574279
     },
     {
         "date":"2026-09-23",
         "data_source":"2026_09.csv",
-        "cpi":132.0713393833,
+        "cpi":132.0713305697,
         "Alimentos y Bebidas No Alcoh\u00f3licas":131.1228849432,
         "Bebidas Alcoh\u00f3licas y Tabaco":128.6650388265,
         "Bienes y Servicios Diversos":138.6019977551,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6759859181
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.675925658
     },
     {
         "date":"2026-09-24",
         "data_source":"2026_09.csv",
-        "cpi":132.1208636573,
+        "cpi":132.1208548437,
         "Alimentos y Bebidas No Alcoh\u00f3licas":131.2171305637,
         "Bebidas Alcoh\u00f3licas y Tabaco":128.7018835485,
         "Bienes y Servicios Diversos":138.5325956655,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6759859181
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.675925658
     },
     {
         "date":"2026-09-25",
         "data_source":"2026_09.csv",
-        "cpi":132.134331855,
+        "cpi":132.1343230414,
         "Alimentos y Bebidas No Alcoh\u00f3licas":131.2282737088,
         "Bebidas Alcoh\u00f3licas y Tabaco":128.7018835485,
         "Bienes y Servicios Diversos":138.5668128143,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6759859181
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.675925658
     },
     {
         "date":"2026-09-26",
         "data_source":"2026_09.csv",
-        "cpi":132.1209727542,
+        "cpi":132.1209639406,
         "Alimentos y Bebidas No Alcoh\u00f3licas":131.2109524967,
         "Bebidas Alcoh\u00f3licas y Tabaco":128.6573121126,
         "Bienes y Servicios Diversos":138.5605342768,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6759859181
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.675925658
     },
     {
         "date":"2026-09-27",
         "data_source":"2026_09.csv",
-        "cpi":132.1060471952,
+        "cpi":132.106038109,
         "Alimentos y Bebidas No Alcoh\u00f3licas":131.1908121565,
         "Bebidas Alcoh\u00f3licas y Tabaco":128.6573121126,
         "Bienes y Servicios Diversos":138.5470421153,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6803293291
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6802672052
     },
     {
         "date":"2026-09-28",
         "data_source":"2026_09.csv",
-        "cpi":132.090395083,
+        "cpi":132.0903859968,
         "Alimentos y Bebidas No Alcoh\u00f3licas":131.1667671341,
         "Bebidas Alcoh\u00f3licas y Tabaco":128.6573121126,
         "Bienes y Servicios Diversos":138.5470421153,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6803293291
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6802672052
     },
     {
         "date":"2026-09-29",
         "data_source":"2026_09.csv",
-        "cpi":132.0885919417,
+        "cpi":132.0885836302,
         "Alimentos y Bebidas No Alcoh\u00f3licas":131.1667671341,
         "Bebidas Alcoh\u00f3licas y Tabaco":128.6573121126,
         "Bienes y Servicios Diversos":138.5470421153,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6680009435
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6679441164
     },
     {
         "date":"2026-09-30",
         "data_source":"2026_09.csv",
-        "cpi":132.1125505474,
+        "cpi":132.1125422359,
         "Alimentos y Bebidas No Alcoh\u00f3licas":131.2177474305,
         "Bebidas Alcoh\u00f3licas y Tabaco":128.7750493936,
         "Bienes y Servicios Diversos":138.4825154417,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6680009435
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6679441164
     },
     {
         "date":"2026-10-01",
         "data_source":"2026_10.csv",
-        "cpi":132.8406613239,
+        "cpi":132.8406078711,
         "Alimentos y Bebidas No Alcoh\u00f3licas":131.9331196852,
         "Bebidas Alcoh\u00f3licas y Tabaco":129.8340937889,
         "Bienes y Servicios Diversos":139.2310853363,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.3795025875
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.3791371212
     },
     {
         "date":"2026-10-02",
         "data_source":"2026_10.csv",
-        "cpi":132.9873845404,
+        "cpi":132.9873097577,
         "Alimentos y Bebidas No Alcoh\u00f3licas":131.945980006,
         "Bebidas Alcoh\u00f3licas y Tabaco":129.8972928272,
         "Bienes y Servicios Diversos":139.7135177798,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.7172170158
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.7167057139
     },
     {
         "date":"2026-10-03",
         "data_source":"2026_10.csv",
-        "cpi":133.0141117647,
+        "cpi":133.01403329,
         "Alimentos y Bebidas No Alcoh\u00f3licas":131.9546566369,
         "Bebidas Alcoh\u00f3licas y Tabaco":129.8972928272,
         "Bienes y Servicios Diversos":139.7825751459,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.775585103
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.7750485578
     },
     {
         "date":"2026-10-04",
         "data_source":"2026_10.csv",
-        "cpi":133.2809866665,
+        "cpi":133.2809026049,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.1584380985,
         "Bebidas Alcoh\u00f3licas y Tabaco":129.9865212663,
         "Bienes y Servicios Diversos":140.4409910659,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.8627729476
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.8621982038
     },
     {
         "date":"2026-10-05",
         "data_source":"2026_10.csv",
-        "cpi":133.2809866665,
+        "cpi":133.2809026049,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.1584380985,
         "Bebidas Alcoh\u00f3licas y Tabaco":129.9865212663,
         "Bienes y Servicios Diversos":140.4409910659,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.8627729476
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.8621982038
     },
     {
         "date":"2026-10-06",
         "data_source":"2026_10.csv",
-        "cpi":133.2872884046,
+        "cpi":133.2872035938,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.1437050186,
         "Bebidas Alcoh\u00f3licas y Tabaco":130.140460371,
         "Bienes y Servicios Diversos":140.501231256,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.874345406
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.8737655396
     },
     {
         "date":"2026-10-07",
         "data_source":"2026_10.csv",
-        "cpi":133.2872884046,
+        "cpi":133.2872035938,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.1437050186,
         "Bebidas Alcoh\u00f3licas y Tabaco":130.140460371,
         "Bienes y Servicios Diversos":140.501231256,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.874345406
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.8737655396
     },
     {
         "date":"2026-10-08",
         "data_source":"2026_10.csv",
-        "cpi":133.2520475823,
+        "cpi":133.2519627714,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.2041054165,
         "Bebidas Alcoh\u00f3licas y Tabaco":130.3962573997,
         "Bienes y Servicios Diversos":140.0609005093,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.874345406
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.8737655396
     },
     {
         "date":"2026-10-09",
         "data_source":"2026_10.csv",
-        "cpi":132.8360063741,
+        "cpi":132.8359703717,
         "Alimentos y Bebidas No Alcoh\u00f3licas":131.884028747,
         "Bebidas Alcoh\u00f3licas y Tabaco":130.1798544679,
         "Bienes y Servicios Diversos":139.558855356,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.1091015143
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.1088553601
     },
     {
         "date":"2026-10-10",
         "data_source":"2026_10.csv",
-        "cpi":132.8309081888,
+        "cpi":132.8308832086,
         "Alimentos y Bebidas No Alcoh\u00f3licas":131.9399561954,
         "Bebidas Alcoh\u00f3licas y Tabaco":130.1958574991,
         "Bienes y Servicios Diversos":139.4676553256,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.9362642194
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.9360934256
     },
     {
         "date":"2026-10-11",
         "data_source":"2026_10.csv",
-        "cpi":133.0376166915,
+        "cpi":133.0375750863,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.1838561401,
         "Bebidas Alcoh\u00f3licas y Tabaco":130.1958574991,
         "Bienes y Servicios Diversos":139.5224816797,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.1959683277
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.1956838661
     },
     {
         "date":"2026-10-12",
         "data_source":"2026_10.csv",
-        "cpi":133.0749021226,
+        "cpi":133.0748666701,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.2616895519,
         "Bebidas Alcoh\u00f3licas y Tabaco":130.2242522488,
         "Bienes y Servicios Diversos":139.5224816797,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.1003755431
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.1001331479
     },
     {
         "date":"2026-10-13",
         "data_source":"2026_10.csv",
-        "cpi":133.1383072916,
+        "cpi":133.1382701594,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.4118842395,
         "Bebidas Alcoh\u00f3licas y Tabaco":130.7344830522,
         "Bienes y Servicios Diversos":139.252728179,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.1265466696
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.1262927907
     },
     {
         "date":"2026-10-14",
         "data_source":"2026_10.csv",
-        "cpi":133.1453995819,
+        "cpi":133.1453615988,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.4195070106,
         "Bebidas Alcoh\u00f3licas y Tabaco":130.7452906733,
         "Bienes y Servicios Diversos":139.252474898,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.1398617833
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.1396020863
     },
     {
         "date":"2026-10-15",
         "data_source":"2026_10.csv",
-        "cpi":133.0815037633,
+        "cpi":133.0814886877,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.4131767884,
         "Bebidas Alcoh\u00f3licas y Tabaco":130.8509340354,
         "Bienes y Servicios Diversos":139.2020809391,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7784563329
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7783532584
     },
     {
         "date":"2026-10-16",
         "data_source":"2026_10.csv",
-        "cpi":133.0815037633,
+        "cpi":133.0814886877,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.4131767884,
         "Bebidas Alcoh\u00f3licas y Tabaco":130.8509340354,
         "Bienes y Servicios Diversos":139.2020809391,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7784563329
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7783532584
     },
     {
         "date":"2026-10-17",
         "data_source":"2026_10.csv",
-        "cpi":133.1013706851,
+        "cpi":133.1013564239,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.4525888434,
         "Bebidas Alcoh\u00f3licas y Tabaco":130.8509340354,
         "Bienes y Servicios Diversos":139.180519234,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7656551167
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7655576107
     },
     {
         "date":"2026-10-18",
         "data_source":"2026_10.csv",
-        "cpi":133.1165602231,
+        "cpi":133.116545962,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.474129193,
         "Bebidas Alcoh\u00f3licas y Tabaco":130.9220182971,
         "Bienes y Servicios Diversos":139.1786640135,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7656551167
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7655576107
     },
     {
         "date":"2026-10-19",
         "data_source":"2026_10.csv",
-        "cpi":133.1165951033,
+        "cpi":133.1165814261,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.4762076418,
         "Bebidas Alcoh\u00f3licas y Tabaco":130.998615847,
         "Bienes y Servicios Diversos":139.1699019216,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7564372048
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7563436909
     },
     {
         "date":"2026-10-20",
         "data_source":"2026_10.csv",
-        "cpi":133.11288211,
+        "cpi":133.1128672118,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.4659472155,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.0821306163,
         "Bienes y Servicios Diversos":139.1610901503,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7755710666
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7754692046
     },
     {
         "date":"2026-10-21",
         "data_source":"2026_10.csv",
-        "cpi":133.1803343859,
+        "cpi":133.1803194876,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.5671097256,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.0821306163,
         "Bienes y Servicios Diversos":139.1699025456,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7755710666
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7754692046
     },
     {
         "date":"2026-10-22",
         "data_source":"2026_10.csv",
-        "cpi":133.2334630214,
+        "cpi":133.2334481231,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.6484173739,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.0916447241,
         "Bienes y Servicios Diversos":139.1699025456,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7755710666
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7754692046
     },
     {
         "date":"2026-10-23",
         "data_source":"2026_10.csv",
-        "cpi":133.248843451,
+        "cpi":133.2488285527,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.6673691554,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.0916447241,
         "Bienes y Servicios Diversos":139.186661387,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7755710666
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7754692046
     },
     {
         "date":"2026-10-24",
         "data_source":"2026_10.csv",
-        "cpi":133.2628795344,
+        "cpi":133.2628750918,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.7259934278,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.0916447241,
         "Bienes y Servicios Diversos":139.1865960617,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.610702708
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.6106723331
     },
     {
         "date":"2026-10-25",
         "data_source":"2026_10.csv",
-        "cpi":133.4464282687,
+        "cpi":133.4464160184,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.9737680566,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.0916447241,
         "Bienes y Servicios Diversos":139.2094400549,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7345295638
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7344458064
     },
     {
         "date":"2026-10-26",
         "data_source":"2026_10.csv",
-        "cpi":133.4464282687,
+        "cpi":133.4464160184,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.9737680566,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.0916447241,
         "Bienes y Servicios Diversos":139.2094400549,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7345295638
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7344458064
     },
     {
         "date":"2026-10-27",
         "data_source":"2026_10.csv",
-        "cpi":133.4464282687,
+        "cpi":133.4464160184,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.9737680566,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.0916447241,
         "Bienes y Servicios Diversos":139.2094400549,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7345295638
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7344458064
     },
     {
         "date":"2026-10-28",
         "data_source":"2026_10.csv",
-        "cpi":133.1704536712,
+        "cpi":133.1704409917,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.5459271958,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.1159823642,
         "Bienes y Servicios Diversos":139.2150581947,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7413183128
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7412316209
     },
     {
         "date":"2026-10-29",
         "data_source":"2026_10.csv",
-        "cpi":133.2053682794,
+        "cpi":133.2053555999,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.5868098503,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.1159823642,
         "Bienes y Servicios Diversos":139.2607688749,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7413183128
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7412316209
     },
     {
         "date":"2026-10-30",
         "data_source":"2026_10.csv",
-        "cpi":133.3079206017,
+        "cpi":133.3079010815,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.7200830494,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.1159823642,
         "Bienes y Servicios Diversos":139.2607688749,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.8493326663
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.8491992035
     },
     {
         "date":"2026-10-31",
         "data_source":"2026_10.csv",
-        "cpi":133.3242739981,
+        "cpi":133.3242596157,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.7722609302,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.1159823642,
         "Bienes y Servicios Diversos":139.2290100914,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7683550425
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7682567077
     },
     {
         "date":"2026-11-01",
         "data_source":"2026_11.csv",
-        "cpi":133.4224689854,
+        "cpi":133.4224535552,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.845809468,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.1159823642,
         "Bienes y Servicios Diversos":139.4927130808,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7849314606
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":128.7848259615
     },
     {
         "date":"2026-11-02",
         "data_source":"2026_11.csv",
-        "cpi":133.7084138281,
+        "cpi":133.7083504523,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.9114982587,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.4643983247,
         "Bienes y Servicios Diversos":140.1881022824,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.5336804594
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.5332471488
     },
     {
         "date":"2026-11-03",
         "data_source":"2026_11.csv",
-        "cpi":133.7084138281,
+        "cpi":133.7083504523,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.9114982587,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.4643983247,
         "Bienes y Servicios Diversos":140.1881022824,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.5336804594
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.5332471488
     },
     {
         "date":"2026-11-04",
         "data_source":"2026_11.csv",
-        "cpi":133.6772984164,
+        "cpi":133.6771975873,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.9193260801,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.5190491079,
         "Bienes y Servicios Diversos":139.5185892574,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":130.109575548
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":130.1088861626
     },
     {
         "date":"2026-11-05",
         "data_source":"2026_11.csv",
-        "cpi":133.7018709289,
+        "cpi":133.7017707815,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.956985426,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.6660136834,
         "Bienes y Servicios Diversos":139.5101986374,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":130.0991212389
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":130.0984365141
     },
     {
         "date":"2026-11-06",
         "data_source":"2026_11.csv",
-        "cpi":133.7043487689,
+        "cpi":133.7042507929,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.9672888944,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.6660136834,
         "Bienes y Servicios Diversos":139.5136530175,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":130.0659158746
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":130.0652459958
     },
     {
         "date":"2026-11-07",
         "data_source":"2026_11.csv",
-        "cpi":133.7308918808,
+        "cpi":133.7307939048,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.992587819,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.6660136834,
         "Bienes y Servicios Diversos":139.5691243103,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":130.0659158746
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":130.0652459958
     },
     {
         "date":"2026-11-08",
         "data_source":"2026_11.csv",
-        "cpi":133.7308918808,
+        "cpi":133.7307939048,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.992587819,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.6660136834,
         "Bienes y Servicios Diversos":139.5691243103,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":130.0659158746
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":130.0652459958
     },
     {
         "date":"2026-11-09",
         "data_source":"2026_11.csv",
-        "cpi":133.7308918808,
+        "cpi":133.7307939048,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.992587819,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.6660136834,
         "Bienes y Servicios Diversos":139.5691243103,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":130.0659158746
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":130.0652459958
     },
     {
         "date":"2026-11-10",
         "data_source":"2026_11.csv",
-        "cpi":133.4022248304,
+        "cpi":133.4021326548,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.7526018954,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.3488105402,
         "Bienes y Servicios Diversos":138.7283182393,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.9768623235
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.9762321031
     },
     {
         "date":"2026-11-11",
         "data_source":"2026_11.csv",
-        "cpi":133.4022248304,
+        "cpi":133.4021326548,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.7526018954,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.3488105402,
         "Bienes y Servicios Diversos":138.7283182393,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.9768623235
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.9762321031
     },
     {
         "date":"2026-11-12",
         "data_source":"2026_11.csv",
-        "cpi":133.2824240704,
+        "cpi":133.2823681608,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.7374712721,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.5136485405,
         "Bienes y Servicios Diversos":138.5583073444,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.4123626343
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.4119803708
     },
     {
         "date":"2026-11-13",
         "data_source":"2026_11.csv",
-        "cpi":133.3599164184,
+        "cpi":133.3598594829,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.8860134044,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.5146687127,
         "Bienes y Servicios Diversos":138.4396083096,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.4283308528
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.4279415748
     },
     {
         "date":"2026-11-14",
         "data_source":"2026_11.csv",
-        "cpi":133.379086024,
+        "cpi":133.379027894,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.9139708703,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.4530153963,
         "Bienes y Servicios Diversos":138.4378242227,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.446106552
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.4457091069
     },
     {
         "date":"2026-11-15",
         "data_source":"2026_11.csv",
-        "cpi":133.3836480346,
+        "cpi":133.3835914095,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.9246403097,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.4901728719,
         "Bienes y Servicios Diversos":138.4384060109,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.4237112678
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.4233241121
     },
     {
         "date":"2026-11-16",
         "data_source":"2026_11.csv",
-        "cpi":133.3788590016,
+        "cpi":133.3788023765,
         "Alimentos y Bebidas No Alcoh\u00f3licas":132.9172736798,
         "Bebidas Alcoh\u00f3licas y Tabaco":131.4901728719,
         "Bienes y Servicios Diversos":138.4384405675,
-        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.4237112678
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.4233241121
+    },
+    {
+        "date":"2026-11-17",
+        "data_source":"2026_11.csv",
+        "cpi":133.6702537591,
+        "Alimentos y Bebidas No Alcoh\u00f3licas":132.9790864287,
+        "Bebidas Alcoh\u00f3licas y Tabaco":131.5417215149,
+        "Bienes y Servicios Diversos":139.7001127653,
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":129.5667440288
     }
 ]
