@@ -1,6 +1,6 @@
 # Paper analysis: Core-4, start-of-month dating
 
-- Tracker data through: 2026-11-17
+- Tracker data through: 2026-11-18
 - Latest official observation placed on: 2026-10-01
 - Official series rebased to July 2024 = 100; synthetic inflation is a 30-day change.
 
@@ -26,7 +26,7 @@
 | Core-4 | 0 | OLS | 26 | 0.696 | 0.186 | 0.0010 | 0.734 |
 | Core-4 | 0 | OLS (HC1 SEs) | 26 | 0.696 | 0.189 | 0.0002 | 0.734 |
 | Core-4 | 0 | Huber RLM | 26 | 0.719 | 0.166 | 0.0000 | 0.825 |
-| Core-4 | 15 | OLS | 25 | 0.509 | 0.229 | 0.0361 | 0.868 |
+| Core-4 | 15 | OLS | 25 | 0.509 | 0.229 | 0.0360 | 0.868 |
 | Core-4 | 15 | OLS (HC1 SEs) | 25 | 0.509 | 0.344 | 0.1389 | 0.868 |
 | Core-4 | 15 | Huber RLM | 25 | 0.397 | 0.213 | 0.0621 | 0.999 |
 | Core-4 | 20 | OLS | 25 | 0.428 | 0.227 | 0.0727 | 0.950 |
