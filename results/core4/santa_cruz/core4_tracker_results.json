@@ -7585,5 +7585,14 @@
         "Bebidas Alcoh\u00f3licas y Tabaco":128.7537094039,
         "Bienes y Servicios Diversos":136.9631351003,
         "Muebles, Bienes y Servicios Dom\u00e9sticos":125.4991845887
+    },
+    {
+        "date":"2026-11-19",
+        "data_source":"2026_11.csv",
+        "cpi":132.8846902089,
+        "Alimentos y Bebidas No Alcoh\u00f3licas":133.5446055462,
+        "Bebidas Alcoh\u00f3licas y Tabaco":128.7622974565,
+        "Bienes y Servicios Diversos":136.9475075286,
+        "Muebles, Bienes y Servicios Dom\u00e9sticos":125.4991845887
     }
 ]
