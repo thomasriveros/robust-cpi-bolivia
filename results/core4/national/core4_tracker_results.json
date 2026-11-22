@@ -2667,7 +2667,7 @@
         "date":"2025-06-27",
         "data_source":"2025_06.csv",
         "cpi":133.8132386855,
-        "cochabamba_cpi":134.3289023527,
+        "cochabamba_cpi":134.3289023528,
         "la_paz_cpi":133.6300509197,
         "santa_cruz_cpi":133.7443299892
     },
@@ -2874,7 +2874,7 @@
     {
         "date":"2025-07-23",
         "data_source":"2025_07.csv",
-        "cpi":137.3033765684,
+        "cpi":137.3033765685,
         "cochabamba_cpi":137.897822322,
         "la_paz_cpi":137.1831726865,
         "santa_cruz_cpi":137.138176792
@@ -4492,7 +4492,7 @@
         "data_source":"2026_02.csv",
         "cpi":134.4842243125,
         "cochabamba_cpi":135.7110912884,
-        "la_paz_cpi":135.0367833776,
+        "la_paz_cpi":135.0367833777,
         "santa_cruz_cpi":133.3884580158
     },
     {
@@ -4821,7 +4821,7 @@
         "cpi":132.4812148754,
         "cochabamba_cpi":133.7852627125,
         "la_paz_cpi":133.1150598882,
-        "santa_cruz_cpi":131.2726533723
+        "santa_cruz_cpi":131.2726533724
     },
     {
         "date":"2026-03-24",
@@ -5420,7 +5420,7 @@
         "data_source":"2026_06.csv",
         "cpi":130.6624036008,
         "cochabamba_cpi":131.8942929654,
-        "la_paz_cpi":131.3412349328,
+        "la_paz_cpi":131.3412349329,
         "santa_cruz_cpi":129.4452402613
     },
     {
@@ -6418,345 +6418,361 @@
     {
         "date":"2026-10-09",
         "data_source":"2026_10.csv",
-        "cpi":132.0317156655,
-        "cochabamba_cpi":132.8359703717,
-        "la_paz_cpi":131.77557381,
-        "santa_cruz_cpi":131.8963678877
+        "cpi":132.0318791665,
+        "cochabamba_cpi":132.8362112915,
+        "la_paz_cpi":131.7758770838,
+        "santa_cruz_cpi":131.8963633433
     },
     {
         "date":"2026-10-10",
         "data_source":"2026_10.csv",
-        "cpi":131.9803200412,
-        "cochabamba_cpi":132.8308832086,
-        "la_paz_cpi":131.7122514274,
-        "santa_cruz_cpi":131.8345188327
+        "cpi":131.9805374305,
+        "cochabamba_cpi":132.831178534,
+        "la_paz_cpi":131.7126229444,
+        "santa_cruz_cpi":131.8345544013
     },
     {
         "date":"2026-10-11",
         "data_source":"2026_10.csv",
-        "cpi":132.1328163325,
-        "cochabamba_cpi":133.0375750863,
-        "la_paz_cpi":131.9274869156,
-        "santa_cruz_cpi":131.9024745241
+        "cpi":132.1329889471,
+        "cochabamba_cpi":133.0377883481,
+        "la_paz_cpi":131.9277888299,
+        "santa_cruz_cpi":131.902506196
     },
     {
         "date":"2026-10-12",
         "data_source":"2026_10.csv",
-        "cpi":132.154522595,
-        "cochabamba_cpi":133.0748666701,
-        "la_paz_cpi":131.9738163116,
-        "santa_cruz_cpi":131.8936648252
+        "cpi":132.1547205737,
+        "cochabamba_cpi":133.0751103034,
+        "la_paz_cpi":131.974151266,
+        "santa_cruz_cpi":131.8937122782
     },
     {
         "date":"2026-10-13",
         "data_source":"2026_10.csv",
-        "cpi":132.2609468949,
-        "cochabamba_cpi":133.1382701594,
-        "la_paz_cpi":132.0766260872,
-        "santa_cruz_cpi":132.0236537802
+        "cpi":132.2611359587,
+        "cochabamba_cpi":133.1385055018,
+        "la_paz_cpi":132.0769395664,
+        "santa_cruz_cpi":132.0237038674
     },
     {
         "date":"2026-10-14",
         "data_source":"2026_10.csv",
-        "cpi":132.2716583986,
-        "cochabamba_cpi":133.1453615988,
-        "la_paz_cpi":132.0791508045,
-        "santa_cruz_cpi":132.0437795711
+        "cpi":132.2718488591,
+        "cochabamba_cpi":133.1455927408,
+        "la_paz_cpi":132.0794628413,
+        "santa_cruz_cpi":132.0438363539
     },
     {
         "date":"2026-10-15",
         "data_source":"2026_10.csv",
-        "cpi":132.235687441,
-        "cochabamba_cpi":133.0814886877,
-        "la_paz_cpi":131.9982837782,
-        "santa_cruz_cpi":132.0632078469
+        "cpi":132.2359523275,
+        "cochabamba_cpi":133.0818328961,
+        "la_paz_cpi":131.9987068603,
+        "santa_cruz_cpi":132.0632864281
     },
     {
         "date":"2026-10-16",
         "data_source":"2026_10.csv",
-        "cpi":132.2397502856,
-        "cochabamba_cpi":133.0814886877,
-        "la_paz_cpi":131.9982837782,
-        "santa_cruz_cpi":132.0730045719
+        "cpi":132.2400163542,
+        "cochabamba_cpi":133.0818328961,
+        "la_paz_cpi":131.9987068603,
+        "santa_cruz_cpi":132.0730860033
     },
     {
         "date":"2026-10-17",
         "data_source":"2026_10.csv",
-        "cpi":132.2417945187,
-        "cochabamba_cpi":133.1013564239,
-        "la_paz_cpi":131.9835901456,
-        "santa_cruz_cpi":132.0824774617
+        "cpi":132.2420630254,
+        "cochabamba_cpi":133.1017046523,
+        "la_paz_cpi":131.9840174657,
+        "santa_cruz_cpi":132.0825588931
     },
     {
         "date":"2026-10-18",
         "data_source":"2026_10.csv",
-        "cpi":132.2556764514,
-        "cochabamba_cpi":133.116545962,
-        "la_paz_cpi":131.9983288071,
-        "santa_cruz_cpi":132.0949390412
+        "cpi":132.2559456843,
+        "cochabamba_cpi":133.1168941904,
+        "la_paz_cpi":131.9987593391,
+        "santa_cruz_cpi":132.0950191959
     },
     {
         "date":"2026-10-19",
         "data_source":"2026_10.csv",
-        "cpi":132.2250679268,
-        "cochabamba_cpi":133.1165814261,
-        "la_paz_cpi":132.0075537167,
-        "santa_cruz_cpi":132.0124193505
+        "cpi":132.2253640997,
+        "cochabamba_cpi":133.1169325364,
+        "la_paz_cpi":132.0079842486,
+        "santa_cruz_cpi":132.0125631152
     },
     {
         "date":"2026-10-20",
         "data_source":"2026_10.csv",
-        "cpi":132.2165270531,
-        "cochabamba_cpi":133.1128672118,
-        "la_paz_cpi":131.9778553672,
-        "santa_cruz_cpi":132.0215633073
+        "cpi":132.2168219087,
+        "cochabamba_cpi":133.1132122952,
+        "la_paz_cpi":131.9782855251,
+        "santa_cruz_cpi":132.021707072
     },
     {
         "date":"2026-10-21",
         "data_source":"2026_10.csv",
-        "cpi":132.2301906723,
-        "cochabamba_cpi":133.1803194876,
-        "la_paz_cpi":131.9982320136,
-        "santa_cruz_cpi":132.0036959565
+        "cpi":132.2304989921,
+        "cochabamba_cpi":133.1806645711,
+        "la_paz_cpi":131.9986621715,
+        "santa_cruz_cpi":132.0038721874
     },
     {
         "date":"2026-10-22",
         "data_source":"2026_10.csv",
-        "cpi":132.3050903182,
-        "cochabamba_cpi":133.2334481231,
-        "la_paz_cpi":132.1415571993,
-        "santa_cruz_cpi":132.0242876905
+        "cpi":132.3054011077,
+        "cochabamba_cpi":133.2337932066,
+        "la_paz_cpi":132.1419873572,
+        "santa_cruz_cpi":132.0244698766
     },
     {
         "date":"2026-10-23",
         "data_source":"2026_10.csv",
-        "cpi":132.3189111211,
-        "cochabamba_cpi":133.2488285527,
-        "la_paz_cpi":132.1469376243,
-        "santa_cruz_cpi":132.045334954
+        "cpi":132.3192059748,
+        "cochabamba_cpi":133.2491736362,
+        "la_paz_cpi":132.1473677822,
+        "santa_cruz_cpi":132.0454787142
     },
     {
         "date":"2026-10-24",
         "data_source":"2026_10.csv",
-        "cpi":132.3454603697,
-        "cochabamba_cpi":133.2628750918,
-        "la_paz_cpi":132.19904372,
-        "santa_cruz_cpi":132.0536483912
+        "cpi":132.3457704001,
+        "cochabamba_cpi":133.2632717823,
+        "la_paz_cpi":132.1994870473,
+        "santa_cruz_cpi":132.0537921513
     },
     {
         "date":"2026-10-25",
         "data_source":"2026_10.csv",
-        "cpi":132.3988389287,
-        "cochabamba_cpi":133.4464160184,
-        "la_paz_cpi":132.2681326049,
-        "santa_cruz_cpi":132.0312294616
+        "cpi":132.3991414712,
+        "cochabamba_cpi":133.4467741735,
+        "la_paz_cpi":132.2685759323,
+        "santa_cruz_cpi":132.0313732217
     },
     {
         "date":"2026-10-26",
         "data_source":"2026_10.csv",
-        "cpi":132.3988389287,
-        "cochabamba_cpi":133.4464160184,
-        "la_paz_cpi":132.2681326049,
-        "santa_cruz_cpi":132.0312294616
+        "cpi":132.3991414712,
+        "cochabamba_cpi":133.4467741735,
+        "la_paz_cpi":132.2685759323,
+        "santa_cruz_cpi":132.0313732217
     },
     {
         "date":"2026-10-27",
         "data_source":"2026_10.csv",
-        "cpi":132.3988389287,
-        "cochabamba_cpi":133.4464160184,
-        "la_paz_cpi":132.2681326049,
-        "santa_cruz_cpi":132.0312294616
+        "cpi":132.377119226,
+        "cochabamba_cpi":133.4234578549,
+        "la_paz_cpi":132.2443599133,
+        "santa_cruz_cpi":132.0120254957
     },
     {
         "date":"2026-10-28",
         "data_source":"2026_10.csv",
-        "cpi":132.371369362,
-        "cochabamba_cpi":133.1704409917,
-        "la_paz_cpi":132.3172082415,
-        "santa_cruz_cpi":132.0480316701
+        "cpi":132.3496466078,
+        "cochabamba_cpi":133.1474794834,
+        "la_paz_cpi":132.2934319232,
+        "santa_cruz_cpi":132.0288253323
     },
     {
         "date":"2026-10-29",
         "data_source":"2026_10.csv",
-        "cpi":132.4039468011,
-        "cochabamba_cpi":133.2053555999,
-        "la_paz_cpi":132.3498470524,
-        "santa_cruz_cpi":132.0794561897
+        "cpi":132.3822245652,
+        "cochabamba_cpi":133.1823940916,
+        "la_paz_cpi":132.32607737,
+        "santa_cruz_cpi":132.0602448455
     },
     {
         "date":"2026-10-30",
         "data_source":"2026_10.csv",
-        "cpi":132.4769724505,
-        "cochabamba_cpi":133.3079010815,
-        "la_paz_cpi":132.4277852445,
-        "santa_cruz_cpi":132.1340192415
+        "cpi":132.4552129414,
+        "cochabamba_cpi":133.2848862965,
+        "la_paz_cpi":132.4039467059,
+        "santa_cruz_cpi":132.1148078974
     },
     {
         "date":"2026-10-31",
         "data_source":"2026_10.csv",
-        "cpi":132.5224844153,
-        "cochabamba_cpi":133.3242596157,
-        "la_paz_cpi":132.4528082896,
-        "santa_cruz_cpi":132.2125068408
+        "cpi":132.5007470585,
+        "cochabamba_cpi":133.3012848186,
+        "la_paz_cpi":132.4290025376,
+        "santa_cruz_cpi":132.193299267
     },
     {
         "date":"2026-11-01",
         "data_source":"2026_11.csv",
-        "cpi":132.6866729369,
-        "cochabamba_cpi":133.4224535552,
-        "la_paz_cpi":132.6010714949,
-        "santa_cruz_cpi":132.4226302513
+        "cpi":132.6648605424,
+        "cochabamba_cpi":133.3994705917,
+        "la_paz_cpi":132.577265919,
+        "santa_cruz_cpi":132.4032453994
     },
     {
         "date":"2026-11-02",
         "data_source":"2026_11.csv",
-        "cpi":132.8764759035,
-        "cochabamba_cpi":133.7083504523,
-        "la_paz_cpi":132.7767841699,
-        "santa_cruz_cpi":132.5806929017
+        "cpi":132.8543788173,
+        "cochabamba_cpi":133.6849955637,
+        "la_paz_cpi":132.7525821081,
+        "santa_cruz_cpi":132.5611696251
     },
     {
         "date":"2026-11-03",
         "data_source":"2026_11.csv",
-        "cpi":132.8802555926,
-        "cochabamba_cpi":133.7083504523,
-        "la_paz_cpi":132.7864515282,
-        "santa_cruz_cpi":132.5806929017
+        "cpi":132.8581585064,
+        "cochabamba_cpi":133.6849955637,
+        "la_paz_cpi":132.7622494664,
+        "santa_cruz_cpi":132.5611696251
     },
     {
         "date":"2026-11-04",
         "data_source":"2026_11.csv",
-        "cpi":132.8793701133,
-        "cochabamba_cpi":133.6771975873,
-        "la_paz_cpi":132.7455806778,
-        "santa_cruz_cpi":132.6316853735
+        "cpi":132.8572592774,
+        "cochabamba_cpi":133.6535537726,
+        "la_paz_cpi":132.7213791972,
+        "santa_cruz_cpi":132.6122637685
     },
     {
         "date":"2026-11-05",
         "data_source":"2026_11.csv",
-        "cpi":132.9067754941,
-        "cochabamba_cpi":133.7017707815,
-        "la_paz_cpi":132.7500422679,
-        "santa_cruz_cpi":132.6820481313
+        "cpi":132.8845884725,
+        "cochabamba_cpi":133.6781322204,
+        "la_paz_cpi":132.7256186507,
+        "santa_cruz_cpi":132.6626497788
     },
     {
         "date":"2026-11-06",
         "data_source":"2026_11.csv",
-        "cpi":132.8884824346,
-        "cochabamba_cpi":133.7042507929,
-        "la_paz_cpi":132.7131059892,
-        "santa_cruz_cpi":132.6715980151
+        "cpi":132.8663061218,
+        "cochabamba_cpi":133.6806289497,
+        "la_paz_cpi":132.6887017656,
+        "santa_cruz_cpi":132.6521993684
     },
     {
         "date":"2026-11-07",
         "data_source":"2026_11.csv",
-        "cpi":132.9250803303,
-        "cochabamba_cpi":133.7307939048,
-        "la_paz_cpi":132.7740913902,
-        "santa_cruz_cpi":132.6899155473
+        "cpi":132.9028960818,
+        "cochabamba_cpi":133.7071720616,
+        "la_paz_cpi":132.7496864788,
+        "santa_cruz_cpi":132.6704984135
     },
     {
         "date":"2026-11-08",
         "data_source":"2026_11.csv",
-        "cpi":132.9247735917,
-        "cochabamba_cpi":133.7307939048,
-        "la_paz_cpi":132.7740913902,
-        "santa_cruz_cpi":132.6891759095
+        "cpi":132.902590242,
+        "cochabamba_cpi":133.7071720616,
+        "la_paz_cpi":132.7496864788,
+        "santa_cruz_cpi":132.6697609428
     },
     {
         "date":"2026-11-09",
         "data_source":"2026_11.csv",
-        "cpi":132.9247735917,
-        "cochabamba_cpi":133.7307939048,
-        "la_paz_cpi":132.7740913902,
-        "santa_cruz_cpi":132.6891759095
+        "cpi":132.902590242,
+        "cochabamba_cpi":133.7071720616,
+        "la_paz_cpi":132.7496864788,
+        "santa_cruz_cpi":132.6697609428
     },
     {
         "date":"2026-11-10",
         "data_source":"2026_11.csv",
-        "cpi":132.7292726014,
-        "cochabamba_cpi":133.4021326548,
-        "la_paz_cpi":132.4339220838,
-        "santa_cruz_cpi":132.6924528692
+        "cpi":132.7070306742,
+        "cochabamba_cpi":133.3785555335,
+        "la_paz_cpi":132.4095463937,
+        "santa_cruz_cpi":132.6728481524
     },
     {
         "date":"2026-11-11",
         "data_source":"2026_11.csv",
-        "cpi":132.7292726014,
-        "cochabamba_cpi":133.4021326548,
-        "la_paz_cpi":132.4339220838,
-        "santa_cruz_cpi":132.6924528692
+        "cpi":132.7070306742,
+        "cochabamba_cpi":133.3785555335,
+        "la_paz_cpi":132.4095463937,
+        "santa_cruz_cpi":132.6728481524
     },
     {
         "date":"2026-11-12",
         "data_source":"2026_11.csv",
-        "cpi":132.7314737782,
-        "cochabamba_cpi":133.2823681608,
-        "la_paz_cpi":132.4034184028,
-        "santa_cruz_cpi":132.7826327245
+        "cpi":132.7094739253,
+        "cochabamba_cpi":133.2590720325,
+        "la_paz_cpi":132.3793105948,
+        "santa_cruz_cpi":132.7632275166
     },
     {
         "date":"2026-11-13",
         "data_source":"2026_11.csv",
-        "cpi":132.7516177729,
-        "cochabamba_cpi":133.3598594829,
-        "la_paz_cpi":132.351754474,
-        "santa_cruz_cpi":132.8436044034
+        "cpi":132.7296178931,
+        "cochabamba_cpi":133.3365554057,
+        "la_paz_cpi":132.3276466659,
+        "santa_cruz_cpi":132.824202855
     },
     {
         "date":"2026-11-14",
         "data_source":"2026_11.csv",
-        "cpi":132.7421754767,
-        "cochabamba_cpi":133.379027894,
-        "la_paz_cpi":132.3575252383,
-        "santa_cruz_cpi":132.8064146052
+        "cpi":132.7201525776,
+        "cochabamba_cpi":133.3557147077,
+        "la_paz_cpi":132.3333942683,
+        "santa_cruz_cpi":132.7869836543
     },
     {
         "date":"2026-11-15",
         "data_source":"2026_11.csv",
-        "cpi":132.7304238253,
-        "cochabamba_cpi":133.3835914095,
-        "la_paz_cpi":132.3493417777,
-        "santa_cruz_cpi":132.7836546873
+        "cpi":132.7084090227,
+        "cochabamba_cpi":133.3602896995,
+        "la_paz_cpi":132.3252202127,
+        "santa_cruz_cpi":132.7642290156
     },
     {
         "date":"2026-11-16",
         "data_source":"2026_11.csv",
-        "cpi":132.7277862538,
-        "cochabamba_cpi":133.3788023765,
-        "la_paz_cpi":132.3449757384,
-        "santa_cruz_cpi":132.7836546873
+        "cpi":132.7057714511,
+        "cochabamba_cpi":133.3555006664,
+        "la_paz_cpi":132.3208541734,
+        "santa_cruz_cpi":132.7642290156
     },
     {
         "date":"2026-11-17",
         "data_source":"2026_11.csv",
-        "cpi":132.9330902162,
-        "cochabamba_cpi":133.6702537591,
-        "la_paz_cpi":132.6436343834,
-        "santa_cruz_cpi":132.8605843731
+        "cpi":132.9110090821,
+        "cochabamba_cpi":133.6468778604,
+        "la_paz_cpi":132.6194487181,
+        "santa_cruz_cpi":132.8410939481
     },
     {
         "date":"2026-11-18",
         "data_source":"2026_11.csv",
-        "cpi":133.0033216666,
-        "cochabamba_cpi":133.7253364667,
-        "la_paz_cpi":132.789057064,
-        "santa_cruz_cpi":132.8670267128
+        "cpi":132.9812345658,
+        "cochabamba_cpi":133.7019458023,
+        "la_paz_cpi":132.7648669731,
+        "santa_cruz_cpi":132.8475329909
     },
     {
         "date":"2026-11-19",
         "data_source":"2026_11.csv",
-        "cpi":132.999939031,
-        "cochabamba_cpi":133.6847878231,
-        "la_paz_cpi":132.7818215651,
-        "santa_cruz_cpi":132.8846902089
+        "cpi":132.9778655774,
+        "cochabamba_cpi":133.6614067654,
+        "la_paz_cpi":132.7576616051,
+        "santa_cruz_cpi":132.865196487
     },
     {
         "date":"2026-11-20",
         "data_source":"2026_11.csv",
-        "cpi":133.0082309193,
-        "cochabamba_cpi":133.695733899,
-        "la_paz_cpi":132.7861941555,
-        "santa_cruz_cpi":132.8954334382
+        "cpi":132.9861534632,
+        "cochabamba_cpi":133.672336211,
+        "la_paz_cpi":132.7620341955,
+        "santa_cruz_cpi":132.8759378572
+    },
+    {
+        "date":"2026-11-21",
+        "data_source":"2026_11.csv",
+        "cpi":132.9038473551,
+        "cochabamba_cpi":133.5482356307,
+        "la_paz_cpi":132.6432026319,
+        "santa_cruz_cpi":132.8476487673
+    },
+    {
+        "date":"2026-11-22",
+        "data_source":"2026_11.csv",
+        "cpi":132.9075569294,
+        "cochabamba_cpi":133.5598418548,
+        "la_paz_cpi":132.6482866931,
+        "santa_cruz_cpi":132.8463626274
     }
 ]
