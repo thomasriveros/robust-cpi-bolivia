@@ -14251,6 +14251,9 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 517153,manteq mani skurzth chocolate 260g,abarrotes,repostería,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 517154,manteq mani skurzth s canela 260g,abarrotes,repostería,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 517155,pack 3x2 energiz siruis pet 350ml,bebidas,energizantes,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
+517171,chocol taboada c licor navid dp 200g,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
+517172,chocol surtido taboada navid dp 200g,abarrotes,temporada,—,Excluido (temporada),subcategory
+517173,chocol taboada feliz navidad tab 100g,abarrotes,temporada,—,Excluido (temporada),subcategory
 5172,cp frijol alubia hipermaxi 1 kg,granos y hortalizas,fraccionados hipermaxi,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 5173,durazno criollo 1 kg,frutas y verduras,temporada,—,Excluido (temporada),subcategory
 51730,fideo de cecco tagliatelle all uovo 104 250 gr,abarrotes,productos importados,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -17885,6 +17888,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 604004,shampoo liz manzanilla 900 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 604009,acondicionador liz manzanilla 900 ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 604011,pan molde pancris blanco,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
+604036,ch taza de porcelana,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 604056,taza tendencia,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 604057,ch taza tentencia,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 604058,ch taza tentencia,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -18357,7 +18361,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 619156,mermelada nutrijam durazno 340 gr,abarrotes,"mermel, mieles",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 619157,mermelada nutrijam mora quinua 340 gr,abarrotes,"mermel, mieles",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 619185,pan de panchito la francesa 12 un,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
-619245,edulcorante  splenda 50 gr,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
+619245,edulcorante splenda 50 gr,abarrotes,dietéticos y saludables,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 619250,gomita wandy gusanito sour 100 gr,abarrotes,golosinas - varias,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 619265,choclo campo verde maiz dulce 340 gr,abarrotes,verduras en conserva,01.1.7,Alimentos y Bebidas No Alcohólicas,subcategory
 619267,mermelada campo verde piña 410 gr,abarrotes,"mermel, mieles",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -19828,7 +19832,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 656674,pan dietetico ceab redondo 10 un,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 656675,paneton ceab clasico 700 gr,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 656678,paneton ceab chocolate 700 gr,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
-656683,panettone zelada bolsa 650 gr,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
+656683,panettone zelada bolsa 700 gr,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 656688,panettone zelada bombom caja  550gr.,panadería,panadería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 656690,rosca de frutas zelada 600gr.,pastelería y masas típicas,pastelería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
 656691,rosca de canela zelada 600gr,pastelería y masas típicas,pastelería externa,01.1.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -19974,6 +19978,9 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 657273,cheesito fiesta 245 gr,abarrotes,snack,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 657275,barra cereal ajonjoli pasas 12 un,abarrotes,nutrición infantil,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 657276,jugo ice fruit citrus punch 3 l,bebidas,"jugos, néctar",01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
+657282,chocol taboada papanoel 100g,abarrotes,temporada,—,Excluido (temporada),subcategory
+657283,chocol taboada arbol navidad 100g,abarrotes,temporada,—,Excluido (temporada),subcategory
+657284,chocolate taboada azul feliz navidad 200,abarrotes,temporada,—,Excluido (temporada),subcategory
 657285,bombones breick estrella navidena 72 gr,abarrotes,temporada,—,Excluido (temporada),subcategory
 657306,pimienta negra badia molida 16 oz,abarrotes,productos americanos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 657309,aceite virgen kirkland de coco organico 84 oz,abarrotes,productos americanos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -20742,6 +20749,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 660644,sedal sh zero caspa 2en1 190ml,cuidado personal,cuidado del cabello,12.1.3,Bienes y Servicios Diversos,subcategory
 660645,pl panal bs premium hipoal pakt xxxg 68,cuidado del bebé,pañales,12.1.3,Bienes y Servicios Diversos,subcategory
 660646,panal bs spctotalhipoal paket xxxg 54,cuidado del bebé,pañales,12.1.3,Bienes y Servicios Diversos,subcategory
+660648,limpia pisos banda pulpin 900 ml,cuidado del hogar,limpieza de baños,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 660711,galleta noel octagonal surtida 260 gr,abarrotes,temporada,—,Excluido (temporada),subcategory
 660852,te frutte laxte 20 sobres,abarrotes,café y sucedáneos,01.2.1,Alimentos y Bebidas No Alcohólicas,subcategory
 661150,insecticida tableta raid mata mosquito doble accion 24 un,cuidado del hogar,productos americanos,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -22526,6 +22534,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 67085,chocol neugebauer 1891 c avellanas 90g,abarrotes,chocolates y caramelos,01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 67086,sopa instant al toke carne bowl 94g,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
 67087,sopa instant al toke pollo bowl 94g,abarrotes,básicos,01.1,Alimentos y Bebidas No Alcohólicas,subcategory
+67088,gaseosa cielo pomelo antioxid lta 473ml,bebidas,gaseosas,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
 670886,chuleta de bondiola de cerdo sofia kg,congelados,carnes congeladas,01.1.2,Alimentos y Bebidas No Alcohólicas,subcategory
 670889,helado delizia cono ricoco 100 ml,congelados,"helados, cassattas y picoleses",01.1.8,Alimentos y Bebidas No Alcohólicas,subcategory
 67089,gaseosa cielo limon antioxid lta 473ml,bebidas,gaseosas,01.2.2,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -28285,8 +28294,10 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 839635,pilas energizer alcalina aaa 8 un,bazar,ferretería,05.5.2,"Muebles, Bienes y Servicios Domésticos",subcategory
 839646,ch 14 13 prensa francesa tapa y asa plateado 600ml,bazar importación,cocina general,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 839737,porta vela de vidrio,bazar,living y dormitorio,05.1.1,"Muebles, Bienes y Servicios Domésticos",subcategory
+839744,ch 19 2 bowl color entero surtido capacidad 500ml,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 839746,ch l1 7 taza arbol navideno color surtido 500ml,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 839756,juguete set bomberos,juguetería,juguetería niño/bebé,09.3.1,Recreación y Cultura,subcategory
+839758,juguete set de cocina,juguetería,juguetería niña/bebé,09.3.1,Recreación y Cultura,subcategory
 839761,taza navideña de colores surtidos 420 ml,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 839770,globo diseños surtidos,bazar,cotillón,09.3.1,Recreación y Cultura,rule
 839796,ch 29 1 taza lisa color entero 500ml,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -28388,6 +28399,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 841067,ch 29 4a taza fondo blanco 450ml color surtido,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 841073,ch 19 4 bowl lineas horizontales 450ml color surtido,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 841080,auto espelhamento central sul 500 ml,bazar,automotriz,07.2.1,Transporte,subcategory
+841081,ch 19 5 bowl liso 550ml color surtido,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 841082,tomatodo termico azul borde transparente 900 ml,bazar importación,menaje metálico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 841083,tomatodo termico verde borde transparente 900 ml,bazar importación,menaje metálico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 841084,tomatodo termico gris borde transparente 900 ml,bazar importación,menaje metálico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -28869,6 +28881,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 847101,comino el cocinero completo 75 gr,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 847151,bowl con diseño de gotas y borde cafe 11.5x6.5 cm,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 847152,bowl con diseño floral bode cafe 11.5x6.5 cm,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+847153,ch 49 3 bowl gotas borde cafe 11 5x6 5cm,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 847154,bowl con diseño flores cafe y azul 11.5x6.5 cm,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 847155,bowl con diseño flores azules borde cafe 11.5x6.5 cm,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 847157,bowl con diseño flores cafe y azul 11.5x6.5 cm,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -30430,6 +30443,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 863829,cepillo cabello beter natural fiber,bazar,bijouteria/cuidado personal,12.1.3,Bienes y Servicios Diversos,subcategory
 863847,ch 106 bate sangriento halloween 46x6cm,bazar importación,otros,09.3.1,Recreación y Cultura,review_queue
 863854,hip toalla en caja de regalo 50,textiles y zapatos,toallas,05.2.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+863863,peiner batidor beter natural fiber,bazar,bijouteria/cuidado personal,12.1.3,Bienes y Servicios Diversos,subcategory
 863864,cepillo cabello beter esqueleto c/bolita,bazar,bijouteria/cuidado personal,12.1.3,Bienes y Servicios Diversos,subcategory
 863865,brocha maquillaje beter sintetico,bazar,bijouteria/cuidado personal,12.1.3,Bienes y Servicios Diversos,subcategory
 863866,cepillo masaje facial beter natural,bazar,bijouteria/cuidado personal,12.1.3,Bienes y Servicios Diversos,subcategory
@@ -30452,8 +30466,17 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 863989,bandeja copobras cr001 x10und,bazar,cotillón,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 864030,hip set de toallas 99,textiles y zapatos,toallas,05.2.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 864081,hip toalla con capucha nino 78,textiles y zapatos,toallas,05.2.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+864144,ch 256 plato plano gris 26x26cm,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+864145,ch 257 plato panero gris 20 3x20 3cm,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+864147,ch 258 bowl gris 18 5cm,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 864153,ch 263 taza azul marino 414ml,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+864179,ch 287 plato plano blanco 27x27cm,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+864180,ch 288 plato panero blanco 21x21cm,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+864181,ch 289 bowl blanco 16x16cm,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 864195,ch 12 17 termo 1600ml con pico color negro,bazar importación,cocina general,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+864206,ch 26 4 bowl 1200ml con lineas horizontales,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+864207,ch 26 18 taza blanca con borde marron 480ml,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+864214,ch 19 7 plato plano gris borde elevado 27 5cm,bazar importación,menaje porcelana/cerámica,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 864258,taper click basa 430ml cuadrado,bazar,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 864261,taper click basa 1.3lt rectangular,bazar,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 864323,jan muneco navidad grande 21,bazar,temporada navidad,—,Excluido (temporada),subcategory
@@ -30850,6 +30873,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 871486,ch l5 30 reno navideno retractil pantalon con tirantes 60cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 871511,ch l5 33 muneco reno navideno sentado 31cm con gorro alargad,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 871512,ch l5 35 muneco papa noel 31cm sentado con gooro alargado,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+871513,ch l3 1 campana dorada con adorno de arbol navideno 15x21cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 871631,ch l3 16 adorno navideno mono 17x26cm rojo verde c copos,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 871633,ch l3 18 adorno navideno mono 17x26cm blanco con diseno,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 871651,ch l3 24 estrella navidena con mono 17cm blanco dorado,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
@@ -30901,6 +30925,8 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 872461,kit faber castell 29 piezas,bazar,librería,09.5.4,Recreación y Cultura,subcategory
 872495,espuma carnavalera alegria niño 500 ml,bazar,temporada carnaval,—,Excluido (temporada),subcategory
 872497,espuma carnavalera alegria niña 500 ml,bazar,temporada carnaval,—,Excluido (temporada),subcategory
+872517,ch l1 6 taza papa noel 480ml colores surtidos,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
+872525,ch 1 16 taza navidena alargada 420ml color surtido,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 872529,toallas humedas huggies limpieza efectiva 48 un,cuidado del bebé,cuidado del bebé,12.1.3,Bienes y Servicios Diversos,subcategory
 872534,papel regalo navideño con diseños surtidos 70x100 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
 872564,calendario navideño de adviento 6x10x3 cm,bazar importación,temporada navidad,—,Excluido (temporada),subcategory
@@ -31058,6 +31084,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 878069,vasos termicos reciclables 120 ml,bazar,cotillón,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 878070,vasoo mascota avena procao 500 ml,bazar,cotillón,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 878241,juego de domino,juguetería,juguetería didáctica/temporada,—,Excluido (temporada),subcategory
+878242,ca juego de carta .14,juguetería,juguetería didáctica/temporada,—,Excluido (temporada),subcategory
 878245,juego de ajedrez,juguetería,juguetería didáctica/temporada,—,Excluido (temporada),subcategory
 878278,jan taza dia madre .39,bazar,regalos/adornos,05.1.1,"Muebles, Bienes y Servicios Domésticos",rule
 878299,pelador de papa blanco,bazar,articulos de cocina,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -31986,6 +32013,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 946161,pan 3634 botella p vino 11pulg,bazar importación,menaje vidrio/cristal,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 947068,juguete auto a control remoto,juguetería,juguetería niño/bebé,09.3.1,Recreación y Cultura,subcategory
 947072,bingo,juguetería,juguetería didáctica/temporada,—,Excluido (temporada),subcategory
+947081,"ca.jug cocina, kitchen  bs 98",juguetería,juguetería niña/bebé,09.3.1,Recreación y Cultura,subcategory
 947095,ca.jug juego de mesa caja 135,juguetería,juguetería didáctica/temporada,—,Excluido (temporada),subcategory
 947236,san plato de mascotas sr643/70,bazar importación,mascotas general,09.3.4,Recreación y Cultura,subcategory
 947238,plato de mascota san remo,bazar importación,mascotas general,09.3.4,Recreación y Cultura,subcategory
@@ -32035,6 +32063,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 947655,mir mascaras de heroes .14,bazar,temporada carnaval,—,Excluido (temporada),subcategory
 947656,mir pitos x 6  bs  9,bazar,temporada carnaval,—,Excluido (temporada),subcategory
 947906,olla tramontina alta 16 cm,bazar,articulos de cocina,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
+948002,juguete muñeca accesorios,juguetería,juguetería niña/bebé,09.3.1,Recreación y Cultura,subcategory
 948326,taper good y good cuadrado con divisores 1.10 ml,bazar,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 948327,taper basa cuadrado 2.3 l,bazar,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 948328,taper good y good fiambres,bazar,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
@@ -32052,7 +32081,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 948948,fosforo parana gigante 50 un,bazar,churrasquería,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 950466,vasoo 7oz x10 plastico 7recuentrep,bazar,cotillón,05.6.1,"Muebles, Bienes y Servicios Domésticos",subcategory
 950475,inflador de globos manual,bazar,cotillón,09.3.1,Recreación y Cultura,rule
-950520,auto hot wheels 3 un,juguetería,juguetería niño/bebé,09.3.1,Recreación y Cultura,subcategory
+950520,auto hot wheels 3 un,juguetería,juguetería marcas,09.3.1,Recreación y Cultura,subcategory
 95060,comino el cocinero molido 100 gr,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 95079,pimienta el cocinero molida 100 gr,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
 95087,colorante el cocinero rojo 100 gr,abarrotes,condimentos y legumbres,01.1.9,Alimentos y Bebidas No Alcohólicas,subcategory
@@ -32083,7 +32112,7 @@ id,producto,categoria,subcategoria,ccif_class,ine_division,source
 957048,br set taper 5pcs  plastico sanremo 580ml,bazar importación,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 957049,br set taper 5pcs plastico sanremo 530ml,bazar importación,menaje plástico,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
 957074,alcancia hipermaxi chanchito,bazar,regalos/adornos,09.3.3,Recreación y Cultura,subcategory
-957284,agenda perpetua 2025 elegante,bazar,librería,09.5.4,Recreación y Cultura,subcategory
+957284,agenda 2026,bazar,librería,09.5.4,Recreación y Cultura,subcategory
 957679,cepillo de cabello condor blisa,bazar,bijouteria/cuidado personal,12.1.3,Bienes y Servicios Diversos,subcategory
 957680,set de peines de viaje x 3 condor sma5,bazar,bijouteria/cuidado personal,12.1.3,Bienes y Servicios Diversos,subcategory
 957690,espatula tramontina 194,bazar,articulos de cocina,05.4.0,"Muebles, Bienes y Servicios Domésticos",subcategory
