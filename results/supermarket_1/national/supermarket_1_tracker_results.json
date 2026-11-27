@@ -6806,5 +6806,13 @@
         "cochabamba_cpi":132.7267707299,
         "la_paz_cpi":131.4057218168,
         "santa_cruz_cpi":132.5593769999
+    },
+    {
+        "date":"2026-11-27",
+        "data_source":"2026_11.csv",
+        "cpi":132.0741968377,
+        "cochabamba_cpi":132.6592847209,
+        "la_paz_cpi":131.3540785026,
+        "santa_cruz_cpi":132.478954123
     }
 ]
